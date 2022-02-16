@@ -6,7 +6,7 @@ While some of this dataset may seem duplicative of CVE data, CISA ICS-CERT Advis
 This is a community effort: please contact ICSAdvisoryproject@gmail.com if you are interested in contributing to improve, expand, maintain, and protect this data source. 
 
 ## Disclaimer ##
-- This repository will focus solely on providing ICS-CERT Advisory data formated in a way that can quickly help organizations look for a vulnerabilities identified specific to Vendors/Products used in OT/ICS environments.
+- This repository will focus solely on providing ICS-CERT Advisory data formated in a way that can quickly help organizations look for vulnerabilities identified specific to Vendors/Products used in OT/ICS environments.
 
 - For CISA's official ICS-CERT Advisories on vulnerabilities, please follow [this link](https://www.cisa.gov/uscert/ics/advisories).
 
