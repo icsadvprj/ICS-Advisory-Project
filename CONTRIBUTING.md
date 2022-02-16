@@ -7,7 +7,7 @@ Before contributing, we encourage you to read this CONTRIBUTING policy, our [LIC
 # Contributing Guidance #
 When contributing to the ICS Advisory project we recommend starting with viewing the ICS-CERT_2022_Master.csv file to verify it last update date and comments. This CSV file will contain the complete list of ICS-CERT Advisories released since 2010. Any updates or edits made for specific ICS-CERT Advisory record data fields needs to be reflected in year of the ICS-CERT_ADV.cvs file containing that ICS-CERT Advisory record. For example, if you make changes to the "Products Affected" data field for "ICSMA-21-355-01" that should be reflected in that same ICS-CERT Advisory record in ICS-CERT_ADV_2021.csv to maintain continuity.
 
-After checking the ICS-CERT_2022_Master.csv for recent update dates, it would be best to verify the list of Last revised ICS-CERT Advisories (https://docs.google.com/spreadsheets/d/1l8M1PdITIfUlL8r4weQ0PdPpOejccjp-r5kSuenceKs/edit?usp=sharing). The original CISA ICS-CERT Advisory can also be verified at CISA ICS-CERT Advisories(https://www.cisa.gov/uscert/ics/advisories?items_per_page=All). CISA ICS-CERT will revised ICS-CERT Advisories and will indicate this by providing the "Last Revised:" information within the ICS-CERT Advisory as shown: "Original release date: February 10, 2022 | Last revised: February 15, 2022". From here you will have to investigate which section of the report has changed and update the respective data field for the specific ICS-CERT Advisory record in the ICS-CERT_2022_Master.csv.
+After checking the ICS-CERT_2022_Master.csv for recent update dates, it would be best to verify the list of Last revised [ICS-CERT Advisories] (https://docs.google.com/spreadsheets/d/1l8M1PdITIfUlL8r4weQ0PdPpOejccjp-r5kSuenceKs/edit?usp=sharing). The original CISA ICS-CERT Advisory can also be verified at [CISA ICS-CERT Advisories](https://www.cisa.gov/uscert/ics/advisories?items_per_page=All). CISA ICS-CERT will revised ICS-CERT Advisories and will indicate this by providing the "Last Revised:" information within the ICS-CERT Advisory as shown: "Original release date: February 10, 2022 | Last revised: February 15, 2022". From here you will have to investigate which section of the report has changed and update the respective data field for the specific ICS-CERT Advisory record in the ICS-CERT_2022_Master.csv.
 
 Below is the list of default data fields and instruction on how to enter data in each field:
 
@@ -35,7 +35,7 @@ CVE_Number [Enter the Common Vulnerabilities and Exposures (CVE Numbers provided
 
 Cumulative_CVSS [Enter the Cumulative CVSS score that is provided at the top of the ICS-CERT Advisory, directly below "EXECUTIVE SUMMARY" and above "ATTENTION": "7.5"]
 
-CVSS_Severity [Calculate the CVSS Severity using the NVD Vulnerability Metrics(https://nvd.nist.gov/vuln-metrics/cvss#)]
+CVSS_Severity  - Calculate the CVSS Severity using the [NVD Vulnerability Metrics](https://nvd.nist.gov/vuln-metrics/cvss#)
 
 CWE_Number [Enter the Common Weakness Enumeration (CWE) IDs identified in the ICS-CERT Advisory: "CWE-120". Do not to enter duplicate CWE ID numbers]
 
