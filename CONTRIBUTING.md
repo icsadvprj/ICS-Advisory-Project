@@ -9,7 +9,7 @@ When contributing to the ICS Advisory project we recommend starting with viewing
 
 After checking the ICS-CERT_2022_Master.csv for recent update dates, it would be best to verify the list of Last revised [ICS-CERT Advisories](https://docs.google.com/spreadsheets/d/1l8M1PdITIfUlL8r4weQ0PdPpOejccjp-r5kSuenceKs/edit?usp=sharing). The original CISA ICS-CERT Advisory can also be verified at [CISA ICS-CERT Advisories](https://www.cisa.gov/uscert/ics/advisories?items_per_page=All). CISA ICS-CERT will revised ICS-CERT Advisories and will indicate this by providing the "Last Revised:" information within the ICS-CERT Advisory as shown: "Original release date: February 10, 2022 | Last revised: February 15, 2022". From here you will have to investigate which section of the report has changed and update the respective data field for the specific ICS-CERT Advisory record in the ICS-CERT_2022_Master.csv.
 
-Below is the list of default data fields and instruction on how to enter data in each field:
+Below is the list of default data fields and instructions on how to enter/update data in each field of the ICS-CERT_ADV csv files:
 
 icsad_ID [Enter the next avaliable ID number]
 
