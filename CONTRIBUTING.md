@@ -45,6 +45,7 @@ Product_Distribution [Enter the list of countries or geographical areas identifi
 
 Company_Headquarters [Enter the Vendor Headquarters country location identified in the COMPANY HEADQUARTERS LOCATION: "Germany"]
 
+## Background ##
 While this process is very manual at this time, I hope to further automate this process with the help of contributors in the ICS Advisory Project. Since 2018, the data has been scraped using Microsoft Excel formulas and VBA scripts to parse the data into its current form as see in the ICS-CERT_ADV.csv files.
 
 Another goal for this project would be to break out the Critical Infrastructures invidually for each vendor and product to enable clear trends of their use across multiple industries. The current way that ICS-CERT Advisory list Critical Infrastructure information per vendor and product is comma separated as one line.
