@@ -11,4 +11,4 @@ This is a community effort: please contact ICSAdvisoryproject@gmail.com if you a
 - For CISA's official ICS-CERT Advisories on vulnerabilities, please follow [this link](https://www.cisa.gov/uscert/ics/advisories).
 
 ## Legal Disclaimer ##
-Open source projects are available and contributed to under licenses that include terms that, for the protection of contributors, the ICS Advisory projects datasets are offered “as-is”, without warranty, and is not liability for damages resulting from using data from this project.
+This Open source projects is available and contributed to under licenses that include terms that, for the protection of contributors, the ICS Advisory projects datasets are offered “as-is”, without warranty, and is not liability for damages resulting from using data from this project.
