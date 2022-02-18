@@ -3,7 +3,7 @@ The ICS Advisory Project is an open-source project to provide clean and usable D
 
 While some of this dataset may seem duplicative of CVE data, CISA ICS-CERT Advisories have been providing additional insight that is not provided in a CVE such as Vendor Headquarter locations, Product distributions, and Critical Infrastructure sectors for each vendor product that is valuable to Security and Industry researchers. This data begins to allow us a way to view vulnerabilities across infrastructures, but as you will see, the data still requires work. Part of this effort will be clean-up the Critical infrastructure data to allow filter down to specfic industry sectors such as Energy, Water and Wastewater Treatment, Transportation, and more.
 
-This is a community effort: please contact ICSAdvisoryproject@gmail.com if you have questions about contributing or want to support the improvement, expansion, maintenance, and protection of this data source. Here is the link to [contribution guidance](CONTRIBUTE.md) for updating and maintaining the ICS-CERT Advisory data set.
+This is a community effort: please contact ICSAdvisoryproject@gmail.com if you have questions about contributing or want to support the improvement, expansion, maintenance, and protection of this data source. Here is the link to [contribution guidance](CONTRIBUTING.md) for updating and maintaining the ICS-CERT Advisory data set.
 
 To view the ICS Advisory Project: ICS-CERT Advisory Dashboard click [Here](https://datastudio.google.com/reporting/f0d99ae7-c75b-4fdd-9951-8ecada5aee5e).
 
