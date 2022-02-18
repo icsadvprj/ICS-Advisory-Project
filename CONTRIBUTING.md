@@ -12,7 +12,7 @@ After checking the ICS-CERT_2022_Master.csv for recent update dates, it would be
 The ICS-CERT Advisory Contribution template and instructions on how to enter/update data in each field can be access at [ICS-CERT_ADV_Contrib_Template](https://docs.google.com/spreadsheets/d/1Kbl8tSuEKLYPJJRJS_XN9_5JL1hhzOdcxblT3io7ULM/edit?usp=sharing)
 
 ## Background ##
-While this process is very manual at this time, I hope to further automate this process with the help of contributors in the ICS Advisory Project. Since 2018, the data has been scraped using Microsoft Excel formulas and VBA scripts to parse the data into its current form as see in the ICS-CERT_ADV.csv files.
+While this process is very manual at this time, I hope to further automate it with the help of contributors in the ICS Advisory Project. Since 2018, the data has been scraped using Microsoft Excel formulas and VBA scripts to parse the data into its current form as see in the ICS-CERT_ADV.csv files.
 
 Another goal for this project would be to break out the Critical Infrastructures invidually for each vendor and product to enable clear trends of their use across multiple industries. The current way that ICS-CERT Advisory list Critical Infrastructure information per vendor and product is comma separated as one line.
 
