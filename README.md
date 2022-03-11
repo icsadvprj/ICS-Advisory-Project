@@ -9,8 +9,8 @@ This project is a community effort: don't hesitate to contact ICSAdvisoryproject
 To view the ICS Advisory Project: ICS-CERT Advisory Dashboard, click [Here](https://datastudio.google.com/reporting/f0d99ae7-c75b-4fdd-9951-8ecada5aee5e).
 
 ## Join our Discord channels and associated supporting ICS/OT Communties:
-ICS Advisory Project: https://discord.gg/UAF5FDGK
-OT | ICS | SCADA: https://discord.gg/jkmWjbXr
+- ICS Advisory Project: https://discord.gg/UAF5FDGK
+- OT | ICS | SCADA: https://discord.gg/jkmWjbXr
 
 ## Disclaimer ##
 - This repository will focus solely on providing ICS-CERT Advisory data formatted in a way that can quickly help organizations look for vulnerabilities identified specific to Vendors/Products used in OT/ICS environments.
