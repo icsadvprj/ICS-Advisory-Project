@@ -196,7 +196,44 @@ CWE-434
 CWE-80
 CWE-89",Multiple Critical Sectors,Worldwide,Germany
 1957,2/10/2022,No Updates,2021,ICSA-21-350-16,Siemens Healthineers syngo fastView,Siemens Healthineers (Subsidiary of Siemens),syngo fastView,"The following versions of syngo fastView, a software for digital imaging and communications, are affected: Syngo fastView: All versions.",CVE-2021-40367; CVE-2021-42028; CVE-2021-45465,7.8,High,CWE-123; CWE-787,Healthcare and Public Health,Worldwide,Germany
-1956,2/10/2022,3/10/2022,2021,ICSA-21-315-03,Siemens SIMATIC WinCC (Update B),Siemens,SIMATIC WinCC,Siemens reports these vulnerabilities affects the following SIMATIC SCADA HMI system products: SIMATIC PCS 7 v8.2 and earlier: All versions SIMATIC PCS 7 v9.0: All versions SIMATIC PCS 7 v9.1: All versions prior to v9.1 SP1 SIMATIC WinCC v7.4 and earlier: All versions SIMATIC WinCC v7.5: All versions prior to v7.5 SP2 Update 5 SIMATIC WinCC v15 and earlier: All versions SIMATIC WinCC v16: All versions prior to v16 Update 5 SIMATIC WinCC v17: All versions prior to v17 Update 2.,CVE-2021-40358; CVE-2021-40359; CVE-2021-40364,9.9,Critical,CWE-22; CWE-532,Critical Manufacturing,Worldwide,Germany
+1956,2/10/2022,4/14/2022,2021,ICSA-21-315-03,Siemens SIMATIC WinCC (Update C),Siemens,SIMATIC WinCC,"Siemens reports these vulnerabilities affects the following SIMATIC SCADA HMI system products:
+ Update C
+ OpenPCSPCS 7 v8.2: All versions OpenPCS PCS 7 v9.0: All versions prior to v9.0 Upd4
+ OpenPCS PCS 7 v9.1: All versions SIMATIC BATCH v8.2: All versions
+ SIMATIC BATCH v9.0: All versions SIMATIC BATCH v9.1: All versions 
+ SIMATIC NET PC Software v14: All versions
+ SIMATIC NET PC Software v15: All versions
+ SIMATIC NET PC Software v16: All versions
+ SIMATIC NET PC Software v17: All versions prior to v17 SP1
+ SIMATIC PCS 7 v8.2: All versions
+ SIMATIC PCS 7 v9.0: All versions
+ SIMATIC PCS 7 V9.1: All versions prior to v9.1 SP1 
+ SIMATIC Route Control v8.2: All versions
+ SIMATIC Route Control v9.0: All versions
+ SIMATIC Route Control v9.1: All versions
+ SIMATIC WinCC v7.4 and earlier: All versions prior to v7.4 SP1 Update 19
+ End Update C
+ SIMATIC WinCC v7.5: All versions prior to v7.5 SP2 Update 5
+ SIMATIC WinCC v15 and earlier.","CVE-2021-40358
+CVE-2021-40359
+CVE-2021-40364",9.9,Critical,"CWE-22
+CWE-532",Critical Manufacturing,Worldwide,Germany
+1955,2/10/2022,No Updates,2021,ICSA-21-257-13,Siemens LOGO! CMR and SIMATIC RTU 3000,Siemens,"LOGO! CMR, SIMATIC RTU 3000",The following versions of LOGO! controllers and SIMATIC monitors are affected: LOGO! CMR2020 (6GK7142-7BX00-0AX0): All versions prior to v2.2 LOGO! CMR2040 (6GK7142-7EX00-0AX0): All versions prior to v2.2 SIMATIC RTU 3000 family: All versions SIMATIC RTU3010C (6NH3112-0BA00-0XX0): All versions prior to v4.0.9 SIMATIC RTU3030C (6NH3112-3BA00-0XX0): All versions prior to v4.0.9 SIMATIC RTU3031C (6NH3112-3BB00-0XX0): All versions prior to v4.0.9 SIMATIC RTU3041C (6NH3112-4BB00-0XX0): All versions prior to v4.0.9.,CVE-2021-37186,5.4,Medium,CWE-330,Energy,Worldwide,Germany
+1954,2/10/2022,No Updates,2021,ICSA-21-222-05,Siemens Industrial Products Intel CPUs,Siemens,"SIMATIC, SINUMERIK","The following Siemens products are affected: SIMATIC Drive Controller Family: All versions SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants): All versions SIMATIC Field PG M5: All versions SIMATIC Field PG M6: All versions SIMATIC IPC127E: All versions SIMATIC IPC427E: All versions SIMATIC IPC477E: All versions SIMATIC IPC477E Pro: All versions SIMATIC IPC527GE: All versions SIMATIC IPC547G: All versions SIMATIC IPC627E: All versions SIMATIC IPC647E: All versions SIMATIC IPC677E: All versions SIMATIC IPC847E: All BIOS versions prior to v25.02.10 SIMATIC ITP1000: All versions SIMATIC S7-1500 CPU 1518-4 PN/DP MFP (MLFB: 6ES7518-4AX00-1AC0, 6AG1518-4AX00-4AC0, incl. SIPLUS variant): All versions SIMATIC S7-1500 CPU 1518F-4 PN-DP MFP (MLFB: 6ES7518-4FX00-1AC0): All versions SINUMERIK 828D HW PPU.4: All versions SINUMERIK MC MCU 1720: All versions SINUMERIK ONE / SINUMERIK 840D sl Handheld Terminal HT 10: All versions; SINUMERIK ONE NCU 1740: All versions prior to v05.00.00.00.","CVE-2020-12357
+CVE-2020-12358
+CVE-2020-12360
+CVE-2020-24486
+CVE-2020-24506
+CVE-2020-24507
+CVE-2020-24511
+CVE-2020-24512
+CVE-2020-24513
+CVE-2020-8670
+CVE-2020-8703
+CVE-2020-8704",7.5,High,CWE-311,Multiple Critical Sectors,Worldwide,Germany
+1953,2/10/2022,No Updates,2021,ICSA-21-068-06,Siemens TCP/IP Stack Vulnerabilities–AMNESIA:33 in SENTRON PAC / 3VA Devices (Update B),Siemens,"SENTRON 3VA COM100/800, SENTRON 3VA DSP800, SENTRON PAC2200, SENTRON PAC3200T, SENTRON PAC3200, SENTRON PAC3220, SENTRON PAC4200",The following products are affected: SENTRON 3VA COM100/800: all versions prior to v4.4.1 SENTRON 3VA DSP800: all versions prior to v4.0 SENTRON PAC2200 (with CLP Approval): all versions; SENTRON PAC2200 (with MID Approval): all versions prior to v3.2.2 SENTRON PAC2200 (without MID Approval): all versions prior to v3.2.2 SENTRON PAC3200: all versions prior to v2.4.7 SENTRON PAC3200T: all versions prior to v3.2.2; SENTRON PAC3220: all versions prior to v3.2.0 SENTRON PAC4200: all versions prior to v2.3.0.,"CVE-2020-13987
+CVE-2020-17437",6.5,Medium,"CWE-125
+CWE-787",Energy,Worldwide,Germany
 1955,2/10/2022,No Updates,2021,ICSA-21-257-13,Siemens LOGO! CMR and SIMATIC RTU 3000,Siemens,"LOGO! CMR, SIMATIC RTU 3000",The following versions of LOGO! controllers and SIMATIC monitors are affected: LOGO! CMR2020 (6GK7142-7BX00-0AX0): All versions prior to v2.2 LOGO! CMR2040 (6GK7142-7EX00-0AX0): All versions prior to v2.2 SIMATIC RTU 3000 family: All versions SIMATIC RTU3010C (6NH3112-0BA00-0XX0): All versions prior to v4.0.9 SIMATIC RTU3030C (6NH3112-3BA00-0XX0): All versions prior to v4.0.9 SIMATIC RTU3031C (6NH3112-3BB00-0XX0): All versions prior to v4.0.9 SIMATIC RTU3041C (6NH3112-4BB00-0XX0): All versions prior to v4.0.9.,CVE-2021-37186,5.4,Medium,CWE-330,Energy,Worldwide,Germany
 1954,2/10/2022,No Updates,2021,ICSA-21-222-05,Siemens Industrial Products Intel CPUs,Siemens,"SIMATIC, SINUMERIK","The following Siemens products are affected: SIMATIC Drive Controller Family: All versions SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants): All versions SIMATIC Field PG M5: All versions SIMATIC Field PG M6: All versions SIMATIC IPC127E: All versions SIMATIC IPC427E: All versions SIMATIC IPC477E: All versions SIMATIC IPC477E Pro: All versions SIMATIC IPC527GE: All versions SIMATIC IPC547G: All versions SIMATIC IPC627E: All versions SIMATIC IPC647E: All versions SIMATIC IPC677E: All versions SIMATIC IPC847E: All BIOS versions prior to v25.02.10 SIMATIC ITP1000: All versions SIMATIC S7-1500 CPU 1518-4 PN/DP MFP (MLFB: 6ES7518-4AX00-1AC0, 6AG1518-4AX00-4AC0, incl. SIPLUS variant): All versions SIMATIC S7-1500 CPU 1518F-4 PN-DP MFP (MLFB: 6ES7518-4FX00-1AC0): All versions SINUMERIK 828D HW PPU.4: All versions SINUMERIK MC MCU 1720: All versions SINUMERIK ONE / SINUMERIK 840D sl Handheld Terminal HT 10: All versions; SINUMERIK ONE NCU 1740: All versions prior to v05.00.00.00.",CVE-2020-12357; CVE-2020-12358; CVE-2020-12360; CVE-2020-24486; CVE-2020-24506; CVE-2020-24507; CVE-2020-24511; CVE-2020-24512; CVE-2020-24513; CVE-2020-8670; CVE-2020-8703; CVE-2020-8704,7.5,High,CWE-311,Multiple Critical Sectors,Worldwide,Germany
 1953,2/10/2022,No Updates,2021,ICSA-21-068-06,Siemens TCP/IP Stack Vulnerabilities–AMNESIA:33 in SENTRON PAC / 3VA Devices (Update B),Siemens,"SENTRON 3VA COM100/800, SENTRON 3VA DSP800, SENTRON PAC2200, SENTRON PAC3200T, SENTRON PAC3200, SENTRON PAC3220, SENTRON PAC4200",The following products are affected: SENTRON 3VA COM100/800: all versions prior to v4.4.1 SENTRON 3VA DSP800: all versions prior to v4.0 SENTRON PAC2200 (with CLP Approval): all versions; SENTRON PAC2200 (with MID Approval): all versions prior to v3.2.2 SENTRON PAC2200 (without MID Approval): all versions prior to v3.2.2 SENTRON PAC3200: all versions prior to v2.4.7 SENTRON PAC3200T: all versions prior to v3.2.2; SENTRON PAC3220: all versions prior to v3.2.0 SENTRON PAC4200: all versions prior to v2.3.0.,CVE-2020-13987; CVE-2020-17437,6.5,Medium,CWE-125; CWE-787,Energy,Worldwide,Germany
