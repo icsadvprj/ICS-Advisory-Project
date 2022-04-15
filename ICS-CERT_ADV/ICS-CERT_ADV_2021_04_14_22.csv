@@ -76,7 +76,29 @@ CWE-125",Critical Manufacturing,Worldwide,Germany
 1886,12/16/2021,No Updates,2021,ICSA-21-217-01,"HCC Embedded InterNiche TCP/IP stack, NicheLite (Update A)",HCC Embedded,"InterNiche stack (NicheStack), NicheLite",The following embedded component TCP/IP stacks are affected: InterNiche stack: All versions prior to v4.3 NicheLite: All versions prior to v4.3.,CVE-2021-27565; CVE-2021-31226; CVE-2021-31227; CVE-2021-31228; CVE-2021-31400; CVE-2021-31401; CVE-2021-36762; CVE-2020-25767; CVE-2020-25926; CVE-2020-25927; CVE-2020-25928; CVE-2020-35683; CVE-2020-35684; CVE-2020-35685,9.8,Critical,CWE-466; CWE-130; CWE-330; CWE-20; CWE-248; CWE-839; CWE-340; CWE-703; CWE-170,Multiple Critical Sectors,Worldwide,Hungary
 1885,12/16/2021,No Updates,2021,ICSA-21-131-03,Siemens Linux-based Products (Update F),Siemens,Linux Based Products,"The following Siemens Linux based products are affected: RUGGEDCOM RM1224: All versions between v5.0 and v6.4 SCALANCE M-800: All versions between v5.0 and v6.4 SCALANCE S615: All versions between v5.0 and v6.4 SCALANCE SC-600: All versions prior to v2.1.3 SCALANCE W1750D: v8.3.0.1, v8.6.0, and v8.7.0 SIMATIC Cloud Connect 7: All versions SIMATIC MV500 Family: All versions SIMATIC NET CP 1243-1 (incl. SIPLUS variants): Versions 3.1.39 and later SIMATIC NET CP 1243-7 LTE EU: Versions 3.1.39 and later SIMATIC NET CP 1243-7 LTE US: Versions 3.1.39 and later SIMATIC NET CP 1243-7: Versions 3.1.39 and later SIMATIC NET CP 1243-8 IRC: Versions 3.1.39 and later SIMATIC NET CP 1542SP-1 IRC (incl. SIPLUS variants): Versions 2.0 and later SIMATIC NET CP 1542SP-1: Versions 2.0 and later SIMATIC NET CP 1543-1 (incl. SIPLUS variants): Versions 2.2 and later SIMATIC NET CP 1543SP-1 (incl SIPLUS variants): Versions 2.0 and later SIMATIC NET CP 1545-1: All versions SINEMA Remote Connect Server: All versions prior to v3.0 SP1 TIM 1531 IRC (incl. SIPLUS NET variants): All versions.",CVE-2020-25705,7.4,High,CWE-330,Multiple Critical Sectors,Worldwide,Germany
 1884,12/16/2021,No Updates,2021,ICSA-20-324-05,Mitsubishi Electric MELSEC iQ-R Series (Update B),Mitsubishi Electric,MELSEC iQ-R Series,Mitsubishi Electric reports the vulnerability affects the following MELSEC iQ-R series CPU module products: R00/01/02CPU firmware Versions 19 and earlier R04/08/16/32/120(EN)CPU firmware Versions 51 and earlier R08/16/32/120SFCPU firmware Versions 22 and earlier; R08/16/32/120PCPU firmware Versions 25 and earlier R08/16/32/120PSFCPU firmware Versions 06 and earlier; RJ71EN71 firmware Versions 47 and earlier RJ71GF11-T2 firmware Versions 47 and earlier RJ72GF15-T2 firmware Versions 07 and earlier RJ71GP21-SX firmware Versions 47 and earlier RJ71GP21S-SX firmware Versions 47 and earlier RJ71C24(-R2/R4) all versions RJ71GN11-T2 all versions.,CVE-2020-5668,7.5,High,CWE-400,Critical Manufacturing,Worldwide,Japan
-1883,12/16/2021,No Updates,2021,ICSA-20-105-06,"Siemens SIMOTICS, Desigo, APOGEE, and TALON (Update A)",Siemens,"SIMOTICS, Desigo, APOGEE, and TALON",Siemens reports the vulnerability affects the following products and versions: APOGEE MEC/MBC/PXC (P2): All versions prior to 2.8.2 APOGEE PXC Series (BACnet): All versions; 3.0 and newer APOGEE PCX Series (P2): All versions; 2.8.2 and newer; Desigo PXC (Power PC): All versions; 2.3x to v6.00.327 Desigo PXM20 (Power PC): All versions; 2.3x to v6.00.327; Desigo PXC (Power PC): All versions; 2.3x and newer Desigo PXM20 (Power PC): All versions; 2.3x and newer SIMOTICS CONNECT 400: All versions prior to 0.3.0.330 TALON TC Series (BACnet): All versions; 3.0 and newer.,CVE-2019-1393; CVE-2019-13939,7.1,High,CWE-84,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
+1883,12/16/2021,4/14/2022,2021,ICSA-20-105-06,"Siemens SIMOTICS, Desigo, APOGEE, and TALON (Update C)",Siemens,"SIMOTICS, Desigo, APOGEE, and TALON","Siemens reports the vulnerability affects the following products and versions:
+ APOGEE MEC/MBC/PXC (P2): All versions prior to 2.8.2
+ APOGEE PXC Series (BACnet): All versions, 3.0 and newer
+ APOGEE PCX Series (P2): All versions, 2.8.2 and newer
+ Desigo PXC00-E.D: All versions, 2.3x to v6.00.327
+ Desigo PXC00-U: All versions, 2.3x to v6.00.327
+ Desigo PXC001-E.D: All versions, 2.3x to v6.00.327
+ Desigo PXC12-E.D: All versions, 2.3x to v6.00.327
+ Desigo PXC22-E.D: All versions, 2.3x to v6.00.327
+ Desigo PXC22.1-E.D: All versions, 2.3x to v6.00.327
+ Desigo PXC36.1-E.D: All versions, 2.3x to v6.00.327
+ Desigo PXC50-E.D: All versions, 2.3x to v6.00.327
+ Desigo PXC64-U: All versions, 2.3x to v6.00.327
+ Desigo PXC100-E.D: All versions, 2.3x to v6.00.327
+ Desigo PXC128-U: All versions, 2.3x to v6.00.327
+ Desigo PXC200-E.D: All versions, 2.3x to v6.00.327
+ Desigo PXM20-E: All versions, 2.3x to v6.00.327
+ SIMOTICS CONNECT 400: All versions prior to 0.3.0.330
+ Update C
+ TALON TC Series (BACnet): All versions prior to 3.5.3
+ APOGEE PXC Series (BACnet): All versions prior to 3.5.3
+ End Update C.","CVE-2019-1393
+CVE-2019-13939",7.1,High,CWE-84,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
 1882,12/16/2021,No Updates,2021,ICSA-20-014-05,Siemens TIA Portal (Update B),Siemens,TIA Portal,The following versions of TIA Portal; the Totally Integrated Automation Portal are affected: TIA Portal v14: All versions prior to v14 SP1 Update 10; TIA Portal v15: All versions prior to v15.1 Upd 4 TIA Portal v16: All versions prior to v16 Upd 1.,CVE-2019-1093; CVE-2019-10934,7.8,High,CWE-22,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
 1881,12/14/2021,No Updates,2021,ICSA-21-348-01,Advantech R-SeeNet,Advantech,R-SeeNet,"The following versions of R-SeeNet, a monitoring application, are affected: R-SeeNet: Versions 2.4.16 and prior.",CVE-2021-21910; CVE-2021-21911; CVE-2021-21912; CVE-2021-21915; CVE-2021-21916; CVE-2021-21917; CVE-2021-21918; CVE-2021-21919; CVE-2021-21920; CVE-2021-21921; CVE-2021-21922; CVE-2021-21923; CVE-2021-21924; CVE-2021-21925; CVE-2021-21926; CVE-2021-21927; CVE-2021-21928; CVE-2021-21929; CVE-2021-21930; CVE-2021-21931; CVE-2021-21932; CVE-2021-21933; CVE-2021-21934; CVE-2021-21935; CVE-2021-21936; CVE-2021-21937,8.8,High,CWE-89; CWE-269,Critical Manufacturing; Energy; Water and Wastewater Systems,East Asia Europe Middle East South America United States,Taiwan
 1880,12/14/2021,No Updates,2021,ICSMA-21-152-01,Hillrom Medical Device Management (Update A),Hillrom,Medical Device Management,"The following Hillrom products, are affected: Welch Allyn Service Tool: versions prior to v1.10 Welch Allyn Connex Device Integration Suite  Network Connectivity Engine (NCE): versions prior to v5.3 Welch Allyn Software Development Kit (SDK): versions prior to v3.2 Welch Allyn Connex Central Station (CS): versions prior to v1.8.6 Welch Allyn Service Monitor: versions prior to v1.7.0.0 Welch Allyn Connex Vital Signs Monitor (CVSM): versions prior to v2.43.02 Welch Allyn Connex Integrated Wall System (CIWS): versions prior to v2.43.02 Welch Allyn Connex Spot Monitor (CSM): versions prior to v1.52 Welch Allyn Spot Vital Signs 4400 Device (Spot 4400) / Welch Allyn Spot 4400 Vital Signs Extended Care Device: versions prior to v1.11.00.",CVE-2021-27408; CVE-2021-27410,5.9,Medium,CWE-125; CWE-787,Healthcare and Public Health,Worldwide,United States
@@ -125,7 +147,40 @@ CWE-125",Critical Manufacturing,Worldwide,Germany
 1832,11/11/2021,No Updates,2021,ICSA-21-103-04,Siemens Nucleus Products DNS Module (Update A),Siemens,Siemens Nucleus Products DNS Module,The following Nucleus products are affected: Nucleus NET: All versions prior to v5.2 Nucleus RTOS: Versions including affected DNS modules Nucleus Source Code: Versions including affected DNS modules VSTAR: Versions including affected DNS modules.,CVE-2020-15795; CVE-2020-27009,8.1,High,CWE-787; CWE-823,Multiple Critical Sectors,Worldwide,Germany
 1831,11/11/2021,No Updates,2021,ICSA-21-103-05,Siemens Nucleus Products IPv6 Stack (Update A),Siemens,Siemens Nucleus Products IPv6 Stack,The following Nucleus products are affected: Nucleus 4: All versions prior to v4.1.0 Nucleus NET: All versions Nucleus ReadyStart: All versions Nucleus Source Code: Versions including the affected IPv6 stack VSTAR: Versions including the affected IPv6 stack.,CVE-2021-25663; CVE-2021-25664,7.5,High,CWE-835,Multiple Critical Sectors,Worldwide,Germany
 1830,11/11/2021,No Updates,2021,ICSA-21-042-01,Multiple Embedded TCP/IP Stacks (Update B),Multiple Vendors,Multiple Embedded TCP/IP Stacks,The following have been reported to be affected:  Nut/Net; Version 5.1 and prior  CycloneTCP; Version 1.9.6 and prior  NDKTCPIP; Version 2.25 and prior  FNET; Version 4.6.3  uIP-Contiki-OS (end-of-life [EOL]); Version 3.0 and prior  uC/TCP-IP (EOL); Version 3.6.0 and prior  uIP-Contiki-NG; Version 4.5 and prior  uIP (EOL); Version 1.0 and prior  picoTCP-NG; Version 1.7.0 and prior  picoTCP (EOL); Version 1.7.0 and prior  MPLAB Net; Version 3.6.1 and prior  Nucleus NET; All versions prior to Version 5.2  Nucleus ReadyStart for ARM; MIPS; and PPC; All versions prior to Version 2012.12.,CVE-2020-27213; CVE-2020-27630; CVE-2020-27631; CVE-2020-27632; CVE-2020-27633; CVE-2020-27634; CVE-2020-27635; CVE-2020-27636; CVE-2020-28388,7.5,High,CWE-330,Multiple Critical Sectors,Worldwide,Multiple
-1829,11/11/2021,11/12/2021,2021,ICSA-20-161-04,"Siemens SIMATIC, SINAMICS, SINEC, SINEMA, SINUMERIK (Update I)",Siemens,"SIMATIC, SINAMICS, SINEC, SINEMA, SINUMERIK",The following Siemens products are affected: SIMATIC Automation Tool: All versions SIMATIC NET PC software: All versions after v16 and prior to v16 Upd3 SIMATIC PCS neo: All versions prior to v3.0 SP1 SIMATIC ProSave: All versions SIMATIC S7-1500 Software Controller: All versions prior to v21.8 SINAMICS STARTER: All versions prior to v5.4 HF2 SIMATIC STEP 7: All versions prior to v5.6 SP2 HF3 SIMATIC STEP 7 (TIA Portal) v13: All versions prior to SP2 Update 4 SIMATIC STEP 7 (TIA Portal) v14: All versions prior to v14 SP1 Update 10 SIMATIC WinCC Runtime Professional v14: All versions prior to v14 SP1 Update 10 SIMATIC STEP 7 (TIA Portal) v15: All versions prior to v15.1 Update 5 SIMATIC STEP 7 (TIA Portal) v16: All versions prior to v16 Update 2 SIMATIC WinCC OA v3.16: All versions prior to P018 SIMATIC WinCC OA v3.17: All versions prior to P003 SIMATIC WinCC Runtime Advanced: All versions prior to v16 Update 2 SIMATIC WinCC Runtime Professional v13: All versions prior to v13 SP2 Update 4 SIMATIC WinCC Runtime Professional v14: All versions SIMATIC WinCC Runtime Professional v15: All versions prior to v15.1 Update 5 SIMATIC WinCC Runtime Professional v16: All versions prior to v16 Update 2 SIMATIC WinCC v7.4: All versions prior to v7.4 SP1 Update 14 SIMATIC WinCC v7.5: All versions prior to v7.5 SP1 Update 3 SINAMICS Startdrive: All versions SINEC NMS: All versions SINEMA Server: All versions SINUMERIK ONE virtual: All versions prior to v6.14 SINUMERIK Operate: All versions prior to v6.14. SIMATIC Automation Tool: All versions prior to v4 SP2 SINEC NMS: All versions prior to v1.0 SP2.,CVE-2020-7580,6.7,Medium,CWE-428,Chemical; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
+1829,11/11/2021,4/14/2022,2021,ICSA-20-161-04,"Siemens SIMATIC, SINAMICS, SINEC, SINEMA, SINUMERIK (Update J)",Siemens,"SIMATIC, SINAMICS, SINEC, SINEMA, SINUMERIK","The following Siemens products are affected:
+ SIMATIC Automation Tool: All versions
+ SIMATIC NET PC software: All versions after v16 and prior to v16 Upd3
+ SIMATIC PCS neo: All versions prior to v3.0 SP1
+ SIMATIC ProSave: All versions
+ SIMATIC S7-1500 Software Controller: All versions prior to v21.8
+ SINAMICS STARTER: All versions prior to v5.4 HF2
+ SIMATIC STEP 7: All versions prior to v5.6 SP2 HF3
+ SIMATIC STEP 7 (TIA Portal) v13: All versions prior to SP2 Update 4
+ SIMATIC STEP 7 (TIA Portal) v14: All versions prior to v14 SP1 Update 10
+ SIMATIC WinCC Runtime Professional v14: All versions prior to v14 SP1 Update 10
+ SIMATIC STEP 7 (TIA Portal) v15: All versions prior to v15.1 Update 5
+ SIMATIC STEP 7 (TIA Portal) v16: All versions prior to v16 Update 2
+ SIMATIC WinCC OA v3.16: All versions prior to P018
+ SIMATIC WinCC OA v3.17: All versions prior to P003
+ SIMATIC WinCC Runtime Advanced: All versions prior to v16 Update 2
+ SIMATIC WinCC Runtime Professional v13: All versions prior to v13 SP2 Update 4
+ SIMATIC WinCC Runtime Professional v14: All versions
+ SIMATIC WinCC Runtime Professional v15: All versions prior to v15.1 Update 5
+ SIMATIC WinCC Runtime Professional v16: All versions prior to v16 Update 2
+ SIMATIC WinCC v7.4: All versions prior to v7.4 SP1 Update 14
+ SIMATIC WinCC v7.5: All versions prior to v7.5 SP1 Update 3
+ SINAMICS Startdrive: All versions
+ SINEMA Server: All versions prior to v14 SP3
+ SIMATIC ProSave: All versions prior to v17
+ Update J
+ SIMATIC NET PC software v14: All versions prior to v14 Update 14
+ SIMATIC NET PC software v15: All versions
+ SIMATIC NET PC software v16: All versions prior to v16 Upd3 
+ End Update J.
+ SINUMERIK ONE virtual: All versions prior to v6.14
+ SINUMERIK Operate: All versions prior to v6.14
+ SIMATIC Automation Tool: All versions prior to v4 SP2
+ SINEC NMS: All versions prior to v1.0 SP2",CVE-2020-7580,6.7,Medium,CWE-428,Chemical; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
 1828,11/9/2021,11/24/2021,2021,ICSMA-21-313-01,Philips MRI 1.5T and 3T,Philips,MRI 1.5T and 3T,Philips reports the vulnerabilities affect the following MRI products: MRI 1.5T: Version 5.x.x MRI 3T: Version 5.x.x.,CVE-2021-26248; CVE-2021-26262; CVE-2021-42744,6.2,Medium,CWE-200; CWE-284; CWE-708,Healthcare and Public Health,Worldwide,Netherlands
 1827,11/9/2021,No Updates,2021,ICSA-21-313-01,Schneider Electric NMC cards and Embedded Devices,Schneider Electric,NMC cards and Embedded Devices,"The following products are affected, see Schneider Electrics Security Notification SEVD-2021-313-03 for more details on the affected products: Uninterruptible Power Supply (UPS) Products 1-Phase Uninterruptible Power Supply (UPS) using NMC2, including Smart-UPS, Symmetra, and Galaxy 3500 with Network Management Card 2 (NMC2): NMC2 AOS v6.9.8 and prior 3-Phase Uninterruptible Power Supply (UPS) using NMC2, including Symmetra PX 250/500 (SYPX) Network Management Card 2 (NMC2): NMC2 AOS v6.9.6 and prior 3-Phase Uninterruptible Power Supply (UPS) using NMC2 including Symmetra PX 48/96/100/160 kW UPS (PX2), Symmetra PX 20/40 kW UPS (SY3P), Gutor (SXW, GVX), and Galaxy (GVMTS, GVMSA, GVXTS, GVXSA, G7K, GFC, G9KCHU): NMC2 AOS v6.9.6 and prior 1-Phase Uninterruptible Power Supply (UPS) using NMC3 including Smart-UPS, Symmetra, and Galaxy 3500 with Network Management Card 3 (NMC3): NMC3 AOS v1.4.2.1 and prior APC Power Distribution Products APC Rack Power Distribution Units (PDU) using NMC2: NMC2 AOS v6.9.6 and prior APC Rack Power Distribution Units (PDU) using NMC3: NMC3 AOS v1.4.0 and prior APC 3-Phase Power Distribution Products using NMC2: NMC2 AOS v6.9.6 and prior Network Management Card 2 (NMC2) for InfraStruxure 150 kVA PDU with 84 Poles (X84P): NMC2 AOS v6.9.6 and prior Network Management Card 2 for InfraStruxure 40/60kVA PDU (XPDU): NMC2 AOS v6.9.6 and prior Network Management Card 2 for Modular 150/175kVA PDU (XRDP): NMC2 AOS v6.9.6 and prior Network Management Card 2 for 400 and 500 kVA (PMM): NMC2 AOS v6.9.6 and prior Network Management Card 2 for Modular PDU (XRDP2G): NMC2 AOS v6.9.6 and prior Rack Automatic Transfer Switches (ATS): NMC2 AOS v6.9.6 and prior Environmental Monitoring Environmental Monitoring Unit with embedded NMC2 (NB250) NetBotz NBRK0250: NMC2 AOS v6.9.6 and prior Cooling Products Network Management Card 2 (NMC2) Cooling Products: NMC2 AOS v6.9.6 and prior Battery Management Products Network Management Card 2 (NMC2) AP9922 Battery Management System (BM4): NMC2 AOS v6.9.6 and prior.",CVE-2021-22810; CVE-2021-22811; CVE-2021-22812; CVE-2021-22813; CVE-2021-22814; CVE-2021-22815,6.8,Medium,CWE-200; CWE-79,Energy,Worldwide,France
 1826,11/9/2021,No Updates,2021,ICSA-21-313-02,Schneider Electric GUIcon,Schneider Electric,GUIcon,The following versions of GUIcon software are affected GUIcon: Versions 2.0 (Build 683.003) and prior.,CVE-2021-22807; CVE-2021-22808; CVE-2021-22809,7.8,High,CWE-125; CWE-787; CWE-416,Critical Manufacturing,Worldwide,France
@@ -161,7 +216,109 @@ CWE-125",Critical Manufacturing,Worldwide,Germany
 1796,10/14/2021,No Updates,2021,ICSA-21-259-01,Siemens RUGGEDCOM ROX (Update A),Siemens,RUGGEDCOM ROX,The following versions of RUGGEDCOM ROX are affected: RUGGEDCOM ROX MX5000: All versions prior to v2.14.1 RUGGEDCOM ROX RX1400: All versions prior to v2.14.1 RUGGEDCOM ROX RX1500: All versions prior to v2.14.1 RUGGEDCOM ROX RX1501: All versions prior to v2.14.1 RUGGEDCOM ROX RX1510: All versions prior to v2.14.1 RUGGEDCOM ROX RX1511: All versions prior to v2.14.1 RUGGEDCOM ROX RX1512: All versions prior to v2.14.1 RUGGEDCOM ROX RX1524: All versions prior to v2.14.1 RUGGEDCOM ROX RX1536: All versions prior to v2.14.1 RUGGEDCOM ROX RX5000: All versions prior to v2.14.1.,CVE-2021-37173; CVE-2021-37174; CVE-2021-37175,8.8,High,CWE-250; CWE-280; CWE-269,Multiple Critical Sectors,Worldwide,Germany
 1795,10/14/2021,No Updates,2021,ICSA-21-257-10,Siemens SIPROTEC 5 relays (Update A),Siemens,SIPROTEC 5 relays,The following versions of SIPROTEC 5 relays are affected: SIPROTEC 5 relays with CPU variants CP050: All versions prior to 8.80 SIPROTEC 5 relays with CPU variants CP100: All versions prior to 8.80 SIPROTEC 5 relays with CPU variants CP300: All versions prior to 8.80.,CVE-2021-33719; CVE-2021-33720,9.8,Critical,CWE-120,Energy,Worldwide,Germany
 1794,10/14/2021,No Updates,2021,ICSA-21-257-16,Siemens SIPROTEC 5 (Update A),Siemens,SIPROTEC 5,The following Siemens products are affected: SIPROTEC 5 relays with CPU variants CP050: All versions prior to v8.80 SIPROTEC 5 relays with CPU variants CP100: All versions prior to v8.80; SIPROTEC 5 relays with CPU variants CP200: All versions; SIPROTEC 5 relays with CPU variants CP300: All versions prior to v8.80.,CVE-2021-37206,7.5,High,CWE-20,Multiple Critical Sectors,Worldwide,Germany
-1793,10/14/2021,No Updates,2021,ICSA-21-194-03,Siemens PROFINET Devices (Update C),Siemens,PROFINET Devices,"The following Siemens products are affected: SIMATIC PROFINET Driver: All versions prior to v2.3; SIMATIC NET CM 1542-1: All versions prior to v3.0 SCALANCE X204-2 (incl. SIPLUS NET variant): All versions prior to v5.2.5 SCALANCE X204-2FM: All versions prior to v5.2.5 SCALANCE X204-2LD (incl. SIPLUS NET variant): All versions prior to v5.2.5 SCALANCE X20204-2LD TS: All versions prior to v5.2.5 SCALANCE X204 -2TS: All versions prior to v5.2.5 SCALANCE X206-1: All versions prior to v5.2.5 SCALANCE X206-1LD (incl. SIPLUS NET variant): All versions prior to v5.2.5 SCALANCE X208 (incl. SIPLUS NET variant): All versions prior to v5.2.5 SCALANCE X208PRO: All versions prior to v5.2.5 SCALANCE X212-2: All versions prior to v5.2.5 SCALANCE X12-2LD: All versions prior to v5.2.5 SCALANCE X216: All versions prior to v5.2.5 SCALANCE X224: All versions prior to v5.2.5 Development/Evaluation Kits for PROFINET IO: DK Standard Ethernet Controller: All versions Development/Evaluation Kits for PROFINET IO: EK-ERTEC 200: All versions Development/Evaluation Kits for PROFINET IO: EK-ERTEC 200P: All versions RUGGEDCOM RM1224: All versions prior to v6.4 SCALANCE M-800: All versions prior to v6.4 SCALANCE S615: All versions prior to v6.4 SCALANCE W700 IEEE 802.11n: All versions SCALANCE W700 IEEE 802.11ac: All versions SCALANCE X200-4 P IRT: All versions prior to v5.5.0 SCALANCE X201-3P IRT: All versions prior to v5.5.0 SCALANCE X201-3P IRT PRO: All versions prior to v5.5.0 SCALANCE X202-2 IRT: All versions prior to v5.5.0 SCALANCE X202-2P IRT (incl. SIPLUS NET variant): All versions prior to v5.5.0 SCALANCE X202-2P IRT PRO: All versions prior to v5.5.0 SCALANCE X204 IRT: All versions prior to v5.5.0 SCALANCE X204 IRT PRO: All versions prior to v5.5.0 SCALANCE X204-2 (incl. SIPLUS NET variant): All versions SCALANCE X204-2FM: All versions SCALANCE X204-2LD (incl. SIPLUS NET variant): All versions SCALANCE X20204-2LD TS: All versions SCALANCE X204 -2TS: All versions SCALANCE X206-1: All versions SCALANCE X206-1LD (incl. SIPLUS NET variant): All versions SCALANCE X208 (incl. SIPLUS NET variant): All versions SCALANCE X208PRO: All versions SCALANCE X212-2: All versions SCALANCE X12-2LD: All versions SCALANCE X216: All versions SCALANCE X224: All versions SCALANCE X302-7EEC: All versions SCALANCE 304-2FE: All versions SCALANCE X306-1LDFE: All versions SCALANCE X307-2EEC: All versions SCALANCE X307-3: All versions SCALANCE X307-3LD: All versions SCALANCE X308-2 (incl. SIPLUS NET variant) All versions SCALANCE X308-2LD: All versions SCALANCE X308-2LH: All versions SCALANCE X308-2LH+: All versions SCALANCE X308-2M: All versions SCALANCE X308-2M POE: All versions SCALANCE X308-2M TS: All versions SCALANCE X310: All versions SCALANCE X310FE: All versions SCALANCE X320-1FE: All versions SCALANCE X320-3LDFE: All versions SCALANCE XB-200: All versions SCALANCE XC-200: All versions SCALANCE XF201-3P IRT: All versions prior to v5.5.0 SCALANCE XF202-2P IRT: All versions prior to v5.5.0 SCALANCE XF204: All versions SCALANCE XF204 IRT: All versions prior to v5.5.0 SCALANCE XF204-2 (incl. SIPLUS NET variant): All versions SCALANCE XF204-2BA IRT: All versions prior to v5.5.0 SCALANCE XF206-1: All versions SCALANCE XF208: All versions SCALANCE XF-200BA: All versions SCALANCE XM400: All versions prior to v6.3.1 SCALANCE XP-200: All versions SCALANCE XR324-4M EEC: All versions SCALANCE XR324-4M POE: All versions SCALANCE XR324-4M POE TS: All versions SCALANCE XR324-12M: All versions SCALANCE XR324-12M TS: All versions SCALANCE XR500: All versions prior to v6.3.1 SCALANCE XR-300WG: All versions SIMATIC CFU PA: All versions SIMATIC IE/PB-LINK V3: All versions SIMATIC MV500 family: All versions prior to v3.0 SIMATIC NET CM 1542-1: All versions SIMATIC NET CP1616/CP1604: All Versions 2.7 and prior SIMATIC NET CP1626: All versions SIMATIC NET DK-16xx PN IO: All Versions 2.7 and prior SIMATIC Power Line Booster PLB, Base Module (MLFB: 6ES7972-5AA10-0AB0): All versions SIMATIC S7-1200 CPU family (incl. SIPLUS variants): All versions prior to v4.5 SIMOCODE proV Ethernet/IP: All versions prior to v1.1.3 SIMOCODE proV PROFINET: All versions prior to v2.1.3 SOFTNET-IE PNIO: All versions.",CVE-2020-28400,7.5,High,CWE-770,Multiple Critical Sectors,Worldwide,Germany
+1793,10/14/2021,4/14/2022,2021,ICSA-21-194-03,Siemens PROFINET Devices (Update D),Siemens,PROFINET Devices,"The following Siemens products are affected:SIMATIC PROFINET Driver:
+ SIMATIC PROFINET Driver: All versions prior to v2.3
+ SIMATIC NET CM 1542-1: All versions prior to v3.0
+ SCALANCE X204-2 (incl. SIPLUS NET variant): All versions prior to v5.2.5
+ SCALANCE X204-2FM: All versions prior to v5.2.5
+ SCALANCE X204-2LD (incl. SIPLUS NET variant): All versions prior to v5.2.5
+ SCALANCE X20204-2LD TS: All versions prior to v5.2.5
+ SCALANCE X204 -2TS: All versions prior to v5.2.5
+ SCALANCE X206-1: All versions prior to v5.2.5
+ SCALANCE X206-1LD (incl. SIPLUS NET variant): All versions prior to v5.2.5
+ SCALANCE X208 (incl. SIPLUS NET variant): All versions prior to v5.2.5
+ SCALANCE X208PRO: All versions prior to v5.2.5
+ SCALANCE X212-2: All versions prior to v5.2.5
+ SCALANCE X12-2LD: All versions prior to v5.2.5
+ SCALANCE X216: All versions prior to v5.2.5
+ SCALANCE X224: All versions prior to v5.2.5
+ Development/Evaluation Kits for PROFINET IO: DK Standard Ethernet Controller: All versions
+ Development/Evaluation Kits for PROFINET IO: EK-ERTEC 200: All versions
+ Development/Evaluation Kits for PROFINET IO: EK-ERTEC 200P: All versions
+ RUGGEDCOM RM1224: All versions prior to v6.4
+ SCALANCE M-800: All versions prior to v6.4
+ SCALANCE S615: All versions prior to v6.4
+ SCALANCE W700 IEEE 802.11n: All versions
+ SCALANCE W700 IEEE 802.11ac: All versions
+ SCALANCE X200-4 P IRT: All versions prior to v5.5.0
+ SCALANCE X201-3P IRT: All versions prior to v5.5.0
+ SCALANCE X201-3P IRT PRO: All versions prior to v5.5.0
+ SCALANCE X202-2 IRT: All versions prior to v5.5.0
+ SCALANCE X202-2P IRT (incl. SIPLUS NET variant): All versions prior to v5.5.0
+ SCALANCE X202-2P IRT PRO: All versions prior to v5.5.0
+ SCALANCE X204 IRT: All versions prior to v5.5.0
+ SCALANCE X204 IRT PRO: All versions prior to v5.5.0
+ SCALANCE X204-2 (incl. SIPLUS NET variant): All versions
+ SCALANCE X204-2FM: All versions
+ SCALANCE X204-2LD (incl. SIPLUS NET variant): All versions
+ SCALANCE X20204-2LD TS: All versions
+ SCALANCE X204 -2TS: All versions
+ SCALANCE X206-1: All versions
+ SCALANCE X206-1LD (incl. SIPLUS NET variant): All versions
+ SCALANCE X208 (incl. SIPLUS NET variant): All versions
+ SCALANCE X208PRO: All versions
+ SCALANCE X212-2: All versions
+ SCALANCE X12-2LD: All versions
+ SCALANCE X216: All versions
+ SCALANCE X224: All versions
+ SCALANCE X302-7EEC: All versions
+ SCALANCE 304-2FE: All versions
+ Update D
+ SCALANCE W1748-1 M12: All versions prior to v3.0.0
+ SCALANCE W1788-1 M12: All versions prior to v3.0.0
+ SCALANCE W1788-2 EEC M12: All versions prior to v3.0.0
+ SCALANCE W1788-2 M12: All versions prior to v3.0.0
+ SCALANCE W1788-2IA M12: All versions prior to v3.0.0
+ SCALANCE X302-7EEC: All versions prior to v4.1.4
+ SCALANCE X306-1LDFE: All versions prior to v4.1.4
+ SCALANCE X307-2EEC: All versions prior to v4.1.4
+ SCALANCE X307-3: All versions prior to v4.1.4
+ SCALANCE X307-3LD: All versions prior to v4.1.4
+ SCALANCE X308-2 (incl. SIPLUS NET variant) All versions prior to v4.1.4
+ SCALANCE X308-2LD: All versions prior to v4.1.4
+ SCALANCE X308-2LH: All versions prior to v4.1.4
+ SCALANCE X308-2LH+: All versions prior to v4.1.4
+ SCALANCE X308-2M: All versions prior to v4.1.4
+ SCALANCE X308-2M POE: All versions prior to v4.1.4
+ SCALANCE X308-2M TS: All versions prior to v4.1.4
+ SCALANCE X310: All versions prior to v4.1.4
+ SCALANCE X310FE: All versions prior to v4.1.4
+ SCALANCE X320-1FE: All versions prior to v4.1.4
+ SCALANCE X320-3LDFE: All versions prior to v4.1.4
+ SCALANCE X408-2: All versions prior to v4.1.4
+ End Update D
+ SCALANCE XB-200: All versions
+ SCALANCE XC-200: All versions
+ SCALANCE XF201-3P IRT: All versions prior to v5.5.0
+ SCALANCE XF202-2P IRT: All versions prior to v5.5.0
+ SCALANCE XF204: All versions
+ SCALANCE XF204 IRT: All versions prior to v5.5.0
+ SCALANCE XF204-2 (incl. SIPLUS NET variant): All versions
+ SCALANCE XF204-2BA IRT: All versions prior to v5.5.0
+ SCALANCE XF206-1: All versions
+ SCALANCE XF208: All versions
+ SCALANCE XF-200BA: All versions
+ SCALANCE XM400: All versions prior to v6.3.1
+ SCALANCE XP-200: All versions
+ SCALANCE XR324-4M EEC: All versions
+ SCALANCE XR324-4M POE: All versions
+ SCALANCE XR324-4M POE TS: All versions
+ SCALANCE XR324-12M: All versions
+ SCALANCE XR324-12M TS: All versions
+ SCALANCE XR500: All versions prior to v6.3.1
+ SCALANCE XR-300WG: All versions
+ SIMATIC CFU PA: All versions
+ SIMATIC IE/PB-LINK V3: All versions
+ SIMATIC MV500 family: All versions prior to v3.0
+ SIMATIC NET CM 1542-1: All versions
+ SIMATIC NET CP1616/CP1604: All Versions 2.7 and prior
+ SIMATIC NET CP1626: All versions
+ SIMATIC NET DK-16xx PN IO: All Versions 2.7 and prior
+ SIMATIC Power Line Booster PLB, Base Module (MLFB: 6ES7972-5AA10-0AB0): All versions
+ SIMATIC S7-1200 CPU family (incl. SIPLUS variants): All versions prior to v4.5
+ SIMOCODE proV Ethernet/IP: All versions prior to v1.1.3
+ SIMOCODE proV PROFINET: All versions prior to v2.1.3
+ SOFTNET-IE PNIO: All versions",CVE-2020-28400,7.5,High,CWE-770,Multiple Critical Sectors,Worldwide,Germany
 1792,10/14/2021,No Updates,2021,ICSA-21-131-12,Siemens SIMATIC SmartVNC HMI WinCC Products (Update B),Siemens,SIMATIC SmartVNC HMI WinCC Products,"The following Siemens SIMATIC HMIs/WinCC products are affected: SIMATIC HMI Comfort Outdoor Panels 7 and 15 (incl. SIPLUS variants): All versions prior to v16 Update 4 SIMATIC HMI Comfort Panels 4-22 (incl. SIPLUS variants): All versions prior to v16 Update 4 SIMATIC HMI KTP Mobile Panels KTP400F, KTP700, KTP700F, KTP900, KTP900F: All versions prior to v16 Update 4 SIMATIC WinCC Runtime Advanced: All versions prior to v16 Update 4.",CVE-2021-25660; CVE-2021-25661; CVE-2021-25662; CVE-2021-27383; CVE-2021-27384; CVE-2021-27385; CVE-2021-27386,9.8,Critical,CWE-788; CWE-755; CWE-119; CWE-400,Multiple Critical Sectors,Worldwide,Germany
 1791,10/14/2021,No Updates,2021,ICSA-21-131-14,Siemens SCALANCE W1750D (Update B),Siemens,SCALANCE W1750D,"The following versions of SCALANCE W1750D, a software management platform, are affected: SCALANCE W1750D: All versions prior to 8.7.0 SCALANCE W1750D: Version 8.7.0 (Only affected by CVE-2020-24635, CVE-2020-24636, CVE-2021-25145, CVE-2021-25146, CVE-2021-25155, CVE-2021-25156, CVE-2021-25157, CVE-2021-25158, CVE-2021-25159, CVE-2021-25160, CVE-2021-25161, and CVE-2021-25162).",CVE-2021-25143; CVE-2021-25144; CVE-2021-25145; CVE-2021-25146; CVE-2021-25148; CVE-2021-25149; CVE-2021-25150; CVE-2021-25155; CVE-2021-25156; CVE-2021-25157; CVE-2021-25158; CVE-2021-25159; CVE-2021-25160; CVE-2021-25161; CVE-2021-25162; CVE-2020-24635; CVE-2020-24636; CVE-2019-5317; CVE-2019-5319,9.8,Critical,CWE-20; CWE-77; CWE-79; CWE-120; CWE-287; CWE-362,Chemical; Energy; Food and Agriculture; Healthcare and Public Health; Transportation; Water and Wastewater,Worldwide,Germany
 1790,10/14/2021,No Updates,2021,ICSA-20-042-04,Siemens PROFINET-IO Stack (Update F),Siemens,PROFINET-IO Stack,Products that include the Siemens PROFINET-IO (PNIO) stack in versions prior to v06.00 are affected. Additionally; Siemens recommends other vendors of PROFINET devices check their products for vulnerable versions of the Siemens PNIO stack as part of the Siemens Development/Evaluation Kits. Development/Evaluation Kits for PROFINET IO: DK Standard Ethernet Controller: all versions EK-ERTEC 200: all versions prior to 4.5 EK-ERTEC 200P: all versions prior to 4.6 PROFINET Driver for Controller: all version prior to 2.1 RUGGEDCOM RM1224: all versions prior to 4.3 SCALANCE M-800 / S615: all versions prior to 4.3 SCALANCE W700 IEEE 802.11n: all versions prior to 6.0.1 SCALANCE X-200 switch family (incl. SIPLUS NET variants): all versions SCALANCE X-200IRT switch family (incl. SIPLUS NET variants): all versions prior to 5.3 SCALANCE X-300 switch family (incl. X408 and SIPLUS NET variants): all versions SCALANCE XB-200; XC-200; XP-200; XF-200BA and XR-300WG: all versions prior to 3.0 SCALANCE XM-400 switch family: all versions prior to 6.0 SCALANCE XR-500 switch family: all versions prior to 6.0 SIMATIC CP 1616 and CP 1604: all versions prior to 2.8 SIMATIC CP 343-1 (incl. SIPLUS NET variants): all versions SIMATIC CP 343-1 Advanced (incl. SIPLUS NET variants): all versions SIMATIC CP 343-1 ERPC: all versions SIMATIC CP 343-1 LEAN (incl. SIPLUS NET variants): all versions SIMATIC CP 443-1 (incl. SIPLUS NET variants): all versions SIMATIC CP 443-1 Advanced (incl. SIPLUS NET variants): all versions SIMATIC CP 443-1 OPC UA: all versions SIMATIC ET200AL IM 157-1 PN: all versions SIMATIC ET200M IM153-4 PN IO HF (incl. SIPLUS variants): all versions SIMATIC ET200M IM153-4 PN IO ST (incl. SIPLUS variants): all versions SIMATIC ET200MP IM155-5 PN HF (incl. SIPLUS variants): all versions prior to 4.2.0 SIMATIC ET200MP IM155-5 PN ST (incl. SIPLUS variants): all versions prior to 4.1.0 SIMATIC ET200S (incl. SIPLUS variants): all versions SIMATIC ET200SP IM155-6 PN Basic (incl. SIPLUS variants): all versions SIMATIC ET200SP IM155-6 PN HF (incl. SIPLUS variants): all versions prior to 3.3.1 SIMATIC ET200SP IM155-6 PN ST (incl. SIPLUS variants): all versions prior to 4.1.0; SIMATIC ET200ecoPN (except 6ES7141-6BG00-0BB0; 6ES7141-6BH00-0BB0; 6ES7142-6BG00-0BB0; 6ES7142-6BR00-0BB0; 6S7143-6BH00-0BB0; 6ES7146-6FF00-0AB0; 6ES7148-6JD00-0AB0 and 6ES7148-6JG00-0BB0): All versions; SIMATIC ET200ecoPN (except 6ES7148-6JD00-0AB0 and 6ES7146-6FF00-0AB0): all versions SIMATIC ET200pro; IM 154-3 PN HF: all versions SIMATIC ET200pro; IM 154-4 PN HF: all versions SIMATIC IPC Support; Package for VxWorks: all versions SIMATIC MV400 family: all versions SIMATIC PN/PN Coupler 6ES7158-3AD01-0XA0 (incl. SIPLUS NET variant): all versions SIMATIC RF180C: all versions SIMATIC RF182C: all versions SIMATIC RF600 family: all versions prior to 3 SIMOTION C: All versions prior v4.5 SIMOTION D (incl. SIPLUS variants): All versions prior to v4.5 SIMOTION P: All versions prior to v4.5 SINAMICS DCP: all versions prior to 1.3 SOFTNET-IE PNIO: all versions.,CVE-2019-13946,7.5,High,CWE-400,Critical Manufacturing,Worldwide,Germany
@@ -220,7 +377,122 @@ CWE-125",Critical Manufacturing,Worldwide,Germany
 1737,9/14/2021,No Updates,2021,ICSA-21-040-05,Siemens TIA Administrator (Update A),Siemens,Siemens TIA Administrator,The following Siemens products are affected: PCS neo (Administration Console): v3.0 TIA Portal: v15; v15.1; and v16.,CVE-2020-25238,7.8,High,CWE-284,Critical Manufacturing,Worldwide,Germany
 1736,9/14/2021,No Updates,2021,ICSA-21-012-02,Siemens SCALANCE X Switches (Update B),Siemens,Siemens SCALANCE X Switches,The following Siemens products are affected: SCALANCE X-200 switch family (incl. SIPLUS NET variants): All versions; SCALANCE X-200IRT switch family (incl. SIPLUS NET variants): All versions prior to v5.5.0; SCALANCE X-300 switch family (incl. X408 and SIPLUS NET variants): All versions prior to v4.1.0.,CVE-2020-28391; CVE-2020-28395,9.1,Critical,CWE-321,Multiple Critical Sectors,Worldwide,Germany
 1735,9/14/2021,No Updates,2021,ICSA-21-012-05,Siemens SCALANCE X Products (Update B),Siemens,Siemens SCALANCE X Products,Siemens reports that these vulnerabilities affect the following SCALANCE X products: SCALANCE X-200 switch family (incl. SIPLUS NET variants): All versions; SCALANCE X-200IRT switch family (incl. SIPLUS NET variants): All versions prior to v5.5.0 SCALANCE X-300 switch family (incl. X408 and SIPLUS NET variants): All versions prior to v4.1.0; only affected by CVE-2020-15800.,CVE-2020-15799; CVE-2020-15800; CVE-2020-25226,9.8,Critical,CWE-122; CWE-306,Critical Manufacturing,Worldwide,Germany
-1734,9/14/2021,No Updates,2021,ICSA-20-105-07,Siemens SCALANCE & SIMATIC (Update E),Siemens,SCALANCE & SIMATIC,The following versions of SCALANCE are affected: SCALANCE X-200 switch family (incl. SIPLUS NET variants): all versions; SCALANCE X-200IRT switch family (incl. SIPLUS NET variants): versions prior to v5.5.0; SCALANCE X-300 switch family (incl. X408 and SIPLUS NET variants): all versions The following versions of SIMATIC are affected: SIMATIC CP 443-1 (incl. SIPLUS NET variants): all versions SIMATIC CP 443-1 Advanced (incl. SIPLUS NET variants): all versions SIMATIC RF180C: all versions SIMATIC RF182C: all versions.,CVE-2019-1930; CVE-2019-19301,7.5,High,CWE-400,Critical Manufacturing,Worldwide,Germany
+1734,9/14/2021,4/14/2022,2021,ICSA-20-105-07,Siemens SCALANCE & SIMATIC (Update G),Siemens,"SCALANCE, SIMATIC","Update G
+ Siemens reports this vulnerability affects the following products:
+ SCALANCE X200-4P IRT (6GK5200-4AH00-2BA3): All versions prior to v5.5.0
+ SCALANCE X201-3P IRT (6GK5201-3BH00-2BA3): All versions prior to v5.5.0
+ SCALANCE X201-3P IRT PRO (6GK5201-3BH00-2BD2): All versions prior to v5.5.0
+ SCALANCE X202-2IRT (6GK5202-2BB00-2BA3): All versions prior to v5.5.0
+ SCALANCE X202-2P IRT (6GK5202-2BH00-2BA3): All versions prior to v5.5.0
+ SCALANCE X202-2P IRT PRO (6GK5202-2JR00-2BA6): All versions prior to v5.5.0
+ SCALANCE X204-2 (6GK5204-2BB10-2AA3): All versions prior to v5.2.5
+ SCALANCE X204-2FM (6GK5204-2BB11-2AA3): All versions prior to v5.2.5
+ SCALANCE X204-2LD (6GK5204-2BC10-2AA3): All versions prior to v5.2.5
+ SCALANCE X204-2LD TS (6GK5204-2BC10-2CA2): All versions prior to v5.2.5
+ SCALANCE X204-2TS (6GK5204-2BB10-2CA2): All versions prior to v5.2.5
+ SCALANCE X204IRT (6GK5204-0BA00-2BA3): All versions prior to v5.5.0
+ SCALANCE X204IRT PRO (6GK5204-0JA00-2BA6): All versions prior to v5.5.0
+ SCALANCE X206-1 (6GK5206-1BB10-2AA3): All versions prior to v5.2.5
+ SCALANCE X206-1LD (6GK5206-1BC10-2AA3): All versions prior to v5.2.5
+ SCALANCE X208 (6GK5208-0BA10-2AA3): All versions prior to v5.2.5
+ SCALANCE X208PRO (6GK5208-0HA10-2AA6): All versions prior to v5.2.5
+ SCALANCE X212-2 (6GK5212-2BB00-2AA3): All versions prior to v5.2.5
+ SCALANCE X212-2LD (6GK5212-2BC00-2AA3): All versions prior to v5.2.5
+ SCALANCE X216 (6GK5216-0BA00-2AA3): All versions prior to v5.2.5
+ SCALANCE X224 (6GK5224-0BA00-2AA3): All versions prior to v5.2.5
+ SCALANCE X302-7 EEC (2x 24V) (6GK5302-7GD00-2EA3): All versions prior to v4.1.4
+ SCALANCE X302-7 EEC (2x 24V, coated) (6GK5302-7GD00-2GA3): All versions prior to v4.1.4
+ SCALANCE X302-7 EEC (2x 230V) (6GK5302-7GD00-4EA3): All versions prior to v4.1.4
+ SCALANCE X302-7 EEC (2x 230V, coated) (6GK5302-7GD00-4GA3): All versions prior to v4.1.4
+ SCALANCE X302-7 EEC (24V) (6GK5302-7GD00-1EA3): All versions prior to v4.1.4
+ SCALANCE X302-7 EEC (24V, coated) (6GK5302-7GD00-1GA3): All versions prior to v4.1.4
+ SCALANCE X302-7 EEC (230V) (6GK5302-7GD00-3EA3): All versions prior to v4.1.4
+ SCALANCE X302-7 EEC (230V, coated) (6GK5302-7GD00-3GA3): All versions prior to v4.1.4
+ SCALANCE X304-2FE (6GK5304-2BD00-2AA3): All versions prior to v4.1.4
+ SCALANCE X306-1LD FE (6GK5306-1BF00-2AA3): All versions prior to v4.1.4
+ SCALANCE X307-2 EEC (2x 24V) (6GK5307-2FD00-2EA3): All versions prior to v4.1.4
+ SCALANCE X307-2 EEC (2x 24V, coated) (6GK5307-2FD00-2GA3): All versions prior to v4.1.4
+ SCALANCE X307-2 EEC (2x 230V) (6GK5307-2FD00-4EA3): All versions prior to v4.1.4
+ SCALANCE X307-2 EEC (2x 230V, coated) (6GK5307-2FD00-4GA3): All versions prior to v4.1.4
+ SCALANCE X307-2 EEC (24V) (6GK5307-2FD00-1EA3): All versions prior to v4.1.4
+ SCALANCE X307-2 EEC (24V, coated) (6GK5307-2FD00-1GA3): All versions prior to v4.1.4
+ SCALANCE X307-2 EEC (230V) (6GK5307-2FD00-3EA3): All versions prior to v4.1.4
+ SCALANCE X307-2 EEC (230V, coated) (6GK5307-2FD00-3GA3): All versions prior to v4.1.4
+ SCALANCE X307-3 (6GK5307-3BL00-2AA3): All versions prior to v4.1.4
+ SCALANCE X307-3 (6GK5307-3BL10-2AA3): All versions prior to v4.1.4
+ SCALANCE X307-3LD (6GK5307-3BM00-2AA3): All versions prior to v4.1.4
+ SCALANCE X307-3LD (6GK5307-3BM10-2AA3): All versions prior to v4.1.4
+ SCALANCE X308-2 (6GK5308-2FL00-2AA3): All versions prior to v4.1.4
+ SCALANCE X308-2 (6GK5308-2FL10-2AA3): All versions prior to v4.1.4
+ SCALANCE X308-2LD (6GK5308-2FM00-2AA3): All versions prior to v4.1.4
+ SCALANCE X308-2LD (6GK5308-2FM10-2AA3): All versions prior to v4.1.4
+ SCALANCE X308-2LH (6GK5308-2FN00-2AA3): All versions prior to v4.1.4
+ SCALANCE X308-2LH (6GK5308-2FN10-2AA3): All versions prior to v4.1.4
+ SCALANCE X308-2LH+ (6GK5308-2FP00-2AA3): All versions prior to v4.1.4
+ SCALANCE X308-2LH+ (6GK5308-2FP10-2AA3): All versions prior to v4.1.4
+ SCALANCE X308-2M (6GK5308-2GG00-2AA2): All versions prior to v4.1.4
+ SCALANCE X308-2M (6GK5308-2GG10-2AA2): All versions prior to v4.1.4
+ SCALANCE X308-2M PoE (6GK5308-2QG00-2AA2): All versions prior to v4.1.4
+ SCALANCE X308-2M PoE (6GK5308-2QG10-2AA2): All versions prior to v4.1.4
+ SCALANCE X308-2M TS (6GK5308-2GG00-2CA2): All versions prior to v4.1.4
+ SCALANCE X308-2M TS (6GK5308-2GG10-2CA2): All versions prior to v4.1.4
+ SCALANCE X310 (6GK5310-0FA00-2AA3): All versions prior to v4.1.4
+ SCALANCE X310 (6GK5310-0FA10-2AA3): All versions prior to v4.1.4
+ SCALANCE X310FE (6GK5310-0BA00-2AA3): All versions prior to v4.1.4
+ SCALANCE X310FE (6GK5310-0BA10-2AA3): All versions prior to v4.1.4
+ SCALANCE X320-1 FE (6GK5320-1BD00-2AA3): All versions prior to v4.1.4
+ SCALANCE X320-1-2LD FE (6GK5320-3BF00-2AA3): All versions prior to v4.1.4
+ SCALANCE X408-2 (6GK5408-2FD00-2AA2): All versions prior to v4.1.4
+ SCALANCE XF201-3P IRT (6GK5201-3JR00-2BA6): All versions prior to v5.5.0
+ SCALANCE XF202-2P IRT (6GK5202-2BH00-2BD2): All versions prior to v5.5.0
+ SCALANCE XF204 (6GK5204-0BA00-2AF2): All versions prior to v5.2.5
+ SCALANCE XF204-2 (6GK5204-2BC00-2AF2): All versions prior to v5.2.5
+ SCALANCE XF204-2BA IRT (6GK5204-2AA00-2BD2): All versions prior to v5.5.0
+ SCALANCE XF204IRT (6GK5204-0BA00-2BF2): All versions prior to v5.5.0
+ SCALANCE XF206-1 (6GK5206-1BC00-2AF2): All versions prior to v5.2.5
+ SCALANCE XF208 (6GK5208-0BA00-2AF2): All versions prior to v5.2.5
+ SCALANCE XR324-4M EEC (2x 24V, ports on front) (6GK5324-4GG00-2ER2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (2x 24V, ports on front) (6GK5324-4GG10-2ER2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (2x 24V, ports on rear) (6GK5324-4GG00-2JR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (2x 24V, ports on rear) (6GK5324-4GG10-2JR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (2x 100-240VAC/60-250VDC, ports on front) (6GK5324-4GG00-4ER2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (2x 100-240VAC/60-250VDC, ports on front) (6GK5324-4GG10-4ER2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (2x 100-240VAC/60-250VDC, ports on rear) (6GK5324-4GG00-4JR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (2x 100-240VAC/60-250VDC, ports on rear) (6GK5324-4GG10-4JR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (24V, ports on front) (6GK5324-4GG00-1ER2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (24V, ports on front) (6GK5324-4GG10-1ER2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (24V, ports on rear) (6GK5324-4GG00-1JR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (24V, ports on rear) (6GK5324-4GG10-1JR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (100-240VAC/60-250VDC, ports on front) (6GK5324-4GG00-3ER2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (100-240VAC/60-250VDC, ports on front) (6GK5324-4GG10-3ER2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (100-240VAC/60-250VDC, ports on rear) (6GK5324-4GG00-3JR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (100-240VAC/60-250VDC, ports on rear) (6GK5324-4GG10-3JR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M PoE (24V, ports on front) (6GK5324-4QG00-1AR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M PoE (24V, ports on rear) (6GK5324-4QG00-1HR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M PoE (230V, ports on front) (6GK5324-4QG00-3AR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M PoE (230V, ports on rear) (6GK5324-4QG00-3HR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M PoE TS (24V, ports on front) (6GK5324-4QG00-1CR2): All versions prior to v4.1.4
+ SCALANCE XR324-12M (24V, ports on front) (6GK5324-0GG00-1AR2): All versions prior to v4.1.4
+ SCALANCE XR324-12M (24V, ports on front) (6GK5324-0GG10-1AR2): All versions prior to v4.1.4
+ SCALANCE XR324-12M (24V, ports on rear) (6GK5324-0GG00-1HR2): All versions prior to v4.1.4
+ SCALANCE XR324-12M (24V, ports on rear) (6GK5324-0GG10-1HR2): All versions prior to v4.1.4
+ SCALANCE XR324-12M (230V, ports on front) (6GK5324-0GG00-3AR2): All versions prior to v4.1.4
+ SCALANCE XR324-12M (230V, ports on front) (6GK5324-0GG10-3AR2): All versions prior to v4.1.4
+ SCALANCE XR324-12M (230V, ports on rear) (6GK5324-0GG00-3HR2): All versions prior to v4.1.4
+ SCALANCE XR324-12M (230V, ports on rear) (6GK5324-0GG10-3HR2): All versions prior to v4.1.4
+ SCALANCE XR324-12M TS (24V) (6GK5324-0GG00-1CR2): All versions prior to v4.1.4
+ SCALANCE XR324-12M TS (24V) (6GK5324-0GG10-1CR2): All versions prior to v4.1.4
+ SIMATIC CP 442-1 RNA (6GK7442-1RX00-0XE0): All versions
+ SIMATIC CP 443-1 (6GK7443-1EX30-0XE0): All versions
+ SIMATIC CP 443-1 Advanced (6GK7443-1GX30-0XE0): All versions
+ SIMATIC CP 443-1 RNA (6GK7443-1RX00-0XE0): All versions
+ SIMATIC RF180C (6GT2002-0JD00): All versions
+ SIMATIC RF182C (6GT2002-0JD10): All versions
+ SIPLUS NET CP 443-1 (6AG1443-1EX30-4XE0): All versions
+ SIPLUS NET CP 443-1 Advanced (6AG1443-1GX30-4XE0): All versions
+ SIPLUS NET SCALANCE X308-2 (6AG1308-2FL10-4AA3): All versions prior to v4.1.4
+ End Update G.","CVE-2019-1930
+CVE-2019-19301",7.5,High,CWE-400,Critical Manufacturing,Worldwide,Germany
 1733,9/14/2021,No Updates,2021,ICSA-19-253-03,Siemens Industrial Products (Update O),Siemens,Industrial Products,"CloudConnect 712: All versions prior to 1.1.5 ROX II: All versions prior to 2.13.3 (Only vulnerable to CVE-2019-11479) RUGGEDCOM APE 1404 Linux: All versions prior to Debian 9 Linux Image 2019-12-13 (only affected by CVE-2019-11479) RUGGEDCOM RM1224: All versions prior to 6.2 RUGGEDCOM RX 1400 VPE Debian Linux: All versions prior to Debian 9 Linux Image 2019-12-13 (only affected by CVE-2019-11479) RUGGEDCOM RX 1400 VPE Linux CloudConnect: All versions prior to Debian 9 Linux Image 2019-12-13 13 (only affected by CVE-2019-11479) SCALANCE M800 / S615: All versions prior to 6.2 SCALANCE M875: All versions SCALANCE SC-600: All versions prior to 2.0.1 SCALANCE W1700: All versions prior to 2.0 SCALANCE W-700 (IEEE 802.11n): All versions prior to 6.4 SCALANCE WLC711: All versions SCALANCE WLC712: All versions SCALANCE W1750D: All versions prior to 8.6.0 SCALANCE S602: All versions prior to 4.1 (only affected by CVE-2019-8460) SCALANCE S612: All versions prior to 4.1 (only affected by CVE-2019-8460) SCALANCE S623: All versions prior to 4.1 (only affected by CVE-2019-8460) SCALANCE S627-2M: All versions prior to 4.1 (only affected by CVE-2019-8460) SIMATIC ITC1500: All versions prior to 3.1.1.0 SIMATIC ITC1500 PRO: All versions prior to 3.1.1.0 SIMATIC ITC1900: All versions prior to 3.1.1.0 SIMATIC ITC1900 PRO: All versions prior to 3.1.1.0 SIMATIC ITC2200: All versions prior to 3.1.1.0 SIMATIC ITC2200 PRO: All versions prior to 3.1.1.0 SIMATIC CM 1542-1: All versions SIMATIC MV500: All versions prior to 2.1 SIMATIC NET CP 1242-7: All versions prior to 3.2 SIMATIC NET CP 1243-1 (incl. SIPLUS NET variants): All versions prior to 3.2 SIMATIC NET CP 1243-7 LTE EU: All versions prior to 3.2 SIMATIC NET CP 1243-7 LTE US: All versions prior to 3.2 SIMATIC NET CP 1243-8 IRC: All versions prior to 3.2 SIMATIC NET CP 1542SP-1: All versions prior to 2.1 SIMATIC NET CP 1542SP-1 IRC (incl. SIPLUS NET variants): All versions prior to 2.1 SIMATIC NET CP 1543-1 (incl. SIPLUS NET variants): All versions prior to 2.2 SIMATIC NET CP 1543SP-1 (incl. SIPLUS NET variants): All versions prior to 2.1 SIMATIC NET CP 1623: All versions: All versions (only affected by CVE-2019-8460) SIMATIC NET CP 1628: All versions: All versions (only affected by CVE-2019-8460) SIMATIC NET CP 343-1 Advanced (incl. SIPLUS NET variants): All versions (only affected by CVE-2019-8460) SIMATIC NET CP 442-1 RNA: All versions (only affected by CVE-2019-8460) SIMATIC NET CP 443-1 (incl. SIPLUS NET variants): All versions (only affected by CVE-2019-8460) SIMATIC NET CP 443-1 Advanced (incl. SIPLUS NET variants): All versions (only affected by CVE-2019-8460) SIMATIC NET CP 443-1 OPC UA: All versions (only affected by CVE-2019-8460) SIMATIC NET CP 443-1 RNA: All versions (only affected by CVE-2019-8460) SIMATIC RF185C: All versions prior to 1.3 SIMATIC RF186C: All versions prior to 1.3 SIMATIC RF186CI: All versions prior to 1.3 SIMATIC RF188C: All versions prior to 1.3 SIMATIC RF188CI: All versions prior to 1.3 SIMATIC RF600R: All versions SIMATIC S7-1500 CPU 1518-4 PN/DP MFP (MLFB: 6ES7518-4AX00-1AC0, 6AG1518-4AX00-4AC0, incl. SIPLUS variant): All versions prior to 2.8.4 SIMATIC S7-1500 CPU 1518F-4 PN/DP MFP (MLFB: 6ES7518-4FX00-1AC0): All versions prior to 2.8.4 SIMATIC Teleserver Adapter IE Advanced: All versions SIMATIC Teleserver Adapter IE Basic: All versions SINEMA Remote Connect Server: All versions prior to 2.1 SINUMERIK 808D: All versions prior to 4.92 SINUMERIK 828D: All versions prior to 4.8 SP5 SINUMERIK 840D sl: All versions prior to 4.8 SP5. TIM 3V-IE (incl. SIPLUS NET variants): All versions (only affected by CVE-2019-8460) TIM 3V-IE Advanced (incl. SIPLUS NET variants): All versions (only affected by CVE-2019-8460) TIM 3V-IE DNP3 (incl. SIPLUS NET variants): All versions (only affected by CVE-2019-8460) TIM 4R-IE (incl. SIPLUS NET variants): All versions (only affected by CVE-2019-8460) TIM 4R-IE DNP3 (incl. SIPLUS NET variants): All versions (only affected by CVE-2019-8460). TIM 1531 IRC (incl. SIPLUS NET variants): All versions prior to 2.1.",CVE-2019-8460 CVE-2019-11477 CVE-2019-11478 CVE-2019-11479,7.5,High,CWE-1049; CWE-190; CWE-400,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
 1732,9/14/2021,No Updates,2021,ICSA-19-225-03,Siemens SCALANCE X Switches (Update C),Siemens,SCALANCE X Switches,SCALANCE X-200 switch family (incl. SIPLUS NET variants): All versions SCALANCE X-200IRT switch family (incl. SIPLUS NET variants): All versions prior to 5.5.0. SCALANCE X-200RNA: All versions.,CVE-2019-10942,8.6,High,CWE-410,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
 1731,9/9/2021,No Updates,2021,ICSA-21-252-01,AVEVA PCS Portal,AVEVA,PCS Portal,"The following versions of the AVEVA Software Platform Common Services (PCS) Portal are affected: PCS Versions 4.5.2, 4.5.1, 4.5.0, and 4.4.6 The following products ship a vulnerable version of the PCS Portal application and are affected: AVEVA System Platform 2020 R2 P01, 2020 R2, and 2020 AVEVA Work Tasks 2020 Update 1 AVEVA Work Tasks 2020 AVEVA Mobile Operator 2020 AVEVA Manufacturing Execution System 2020 AVEVA Batch Management 2020 AVEVA Enterprise Data Management 2021.",CVE-2021-38410,7.3,High,CWE-427,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater Systems,Worldwide,United Kingdom
@@ -249,7 +521,47 @@ CWE-125",Critical Manufacturing,Worldwide,Germany
 1708,8/10/2021,No Updates,2021,ICSA-21-222-01,Siemens JT2Go and Teamcenter Visualization products,Siemens,JT2Go and Teamcenter Visualization products,The following Siemens products are affected: JT2Go: All versions prior to v13.2.0.1 Teamcenter Visualization: All versions prior to v13.2.0.1.,CVE-2021-32936; CVE-2021-32938; CVE-2021-32940; CVE-2021-32944; CVE-2021-32948; CVE-2021-32950; CVE-2021-33717,7.8,High,CWE-476; CWE-125; CWE-787; CWE-416,Multiple Critical Sectors,Worldwide,Germany
 1707,8/10/2021,No Updates,2021,ICSA-21-222-02,Siemens Automation License Manager,Siemens,Automation License Manager,The following versions of Automation License Manager are affected: Automation License Manager 5: All versions Automation License Manager 6: All versions prior to v6.0 SP9 Update 2.,CVE-2021-25659,5.9,High,CWE-400,Multiple Critical Sectors,Worldwide,Germany
 1706,8/10/2021,No Updates,2021,ICSA-21-222-04,Siemens SINEC NMS,Siemens,SINEC NMS,The following versions of SINEC NMS are affected: SINEC NMS: All versions prior to v1.0 SP2.,CVE-2021-33721,7.2,High,CWE-78,Chemical; Energy; Food and Agriculture; Water and Wastewater Systems,Worldwide,Germany
-1705,8/10/2021,No Updates,2021,ICSA-21-222-05,Siemens Industrial Products Intel CPUs,Siemens,Industrial Products Intel CPUs,"The following Siemens products are affected: SIMATIC Drive Controller Family: All versions SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants): All versions SIMATIC Field PG M5: All versions SIMATIC Field PG M6: All versions SIMATIC IPC127E: All versions SIMATIC IPC427E: All versions SIMATIC IPC477E: All versions SIMATIC IPC477E Pro: All versions SIMATIC IPC527GE: All versions SIMATIC IPC547G: All versions SIMATIC IPC627E: All versions SIMATIC IPC647E: All versions SIMATIC IPC677E: All versions SIMATIC IPC847E: All BIOS versions prior to v25.02.10 SIMATIC ITP1000: All versions SIMATIC S7-1500 CPU 1518-4 PN/DP MFP (MLFB: 6ES7518-4AX00-1AC0, 6AG1518-4AX00-4AC0, incl. SIPLUS variant): All versions SIMATIC S7-1500 CPU 1518F-4 PN-DP MFP (MLFB: 6ES7518-4FX00-1AC0): All versions SINUMERIK 828D HW PPU.4: All versions SINUMERIK MC MCU 1720: All versions SINUMERIK ONE / SINUMERIK 840D sl Handheld Terminal HT 10: All versions SINUMERIK ONE PPU 1740: All versions.",CVE-2020-12357; CVE-2020-12358; CVE-2020-12360; CVE-2020-24486; CVE-2020-24506; CVE-2020-24507; CVE-2020-24511; CVE-2020-24512; CVE-2020-24513; CVE-2020-8670; CVE-2020-8703; CVE-2020-8704,7.5,High,CWE-311,Multiple Critical Sectors,Worldwide,Germany
+1705,8/10/2021,4/14/2022,2021,ICSA-21-222-05,Siemens Industrial Products Intel CPUs (Update C),Siemens,"SIMATIC, SINUMERIK","The following Siemens products are affected:
+ SIMATIC Drive Controller Family: All versions
+ SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants): All versions
+ SIMATIC Field PG M5: All versions
+ SIMATIC Field PG M6: All versions
+ SIMATIC IPC127E: All versions
+ SIMATIC IPC427E: All versions
+ SIMATIC IPC477E: All versions
+ SIMATIC IPC477E Pro: All versions
+ SIMATIC IPC527GE: All versions
+ SIMATIC IPC547G: All versions
+ SIMATIC IPC627E: All versions
+ SIMATIC IPC647E: All versions
+ SIMATIC IPC677E: All versions
+ SIMATIC IPC847E: All BIOS versions prior to v25.02.10
+ SIMATIC ITP1000: All versions
+ SIMATIC S7-1500 CPU 1518-4 PN/DP MFP (MLFB: 6ES7518-4AX00-1AC0, 6AG1518-4AX00-4AC0, incl. SIPLUS variant): All versions
+ SIMATIC S7-1500 CPU 1518F-4 PN-DP MFP (MLFB: 6ES7518-4FX00-1AC0): All versions
+ SINUMERIK 828D HW PPU.4: All versions
+ SINUMERIK MC MCU 1720: All versions
+ SINUMERIK ONE / SINUMERIK 840D sl Handheld Terminal HT 10: All versions
+ SINUMERIK ONE PPU 1740: All versions
+ SINUMERIK ONE NCU 1740: All versions prior to v05.00.00.00
+ SIMATIC IPC127E: All versions prior to v21.01.07
+ SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants): All versions prior to v0209_0105
+ Update C
+ SIMATIC IPC427E: All versions prior to v21.01.16
+ SIMATIC IPC477E: All versions prior to v21.01.16
+ SIMATIC IPC477E Pro: All versions prior to v21.01.16
+ End Update C.","CVE-2020-12357
+CVE-2020-12358
+CVE-2020-12360
+CVE-2020-24486
+CVE-2020-24506
+CVE-2020-24507
+CVE-2020-24511
+CVE-2020-24512
+CVE-2020-24513
+CVE-2020-8670
+CVE-2020-8703
+CVE-2020-8704",7.5,High,CWE-311,Multiple Critical Sectors,Worldwide,Germany
 1704,8/10/2021,No Updates,2021,ICSA-21-222-06,Siemens Energy AGT and SGT Solutions,Siemens,Energy AGT and SGT Solutions,The following Siemens products are affected: SGT-100: All versions SGT-200: All versions SGT-300: All versions SGT-400: All versions SGT-A20: All versions SGT-A35: All versions SGT-A64: All versions.,CVE-2016-20009,9.8,High,CWE-787,Multiple Critical Sectors,Worldwide,Germany
 1703,8/10/2021,No Updates,2021,ICSA-21-222-07,Siemens SIMATIC NET CP,Siemens,SIMATIC NET CP,The following Siemens products are affected: SIMATIC NET CP 1543-1 (Incl. SIPLUS NET variants): All versions prior to v3.0 SIMATIC NET CP 1545-1: All versions.,CVE-2020-9272; CVE-2020-9273,8.8,High,CWE-125; CWE-416,Multiple Critical Sectors,Worldwide,Germany
 1702,8/10/2021,8/19/2021,2021,ICSA-21-222-08,Siemens Solid Edge,Siemens,Solid Edge,The following versions of Solid Edge are affected: Solid Edge SE2021: All versions prior to SE2021MP7.,CVE-2021-37178; CVE-2021-37179; CVE-2021-37180,7.8,High,CWE-824; CWE-611; CWE-416,Critical Manufacturing,Worldwide,Germany
@@ -283,7 +595,118 @@ CWE-125",Critical Manufacturing,Worldwide,Germany
 1674,7/13/2021,No Updates,2021,ICSA-21-194-09,Siemens JT Utilities,Siemens,JT Utilities,The following versions of Siemens JT Utilities are affected: All versions prior to v13.0.2.0.,CVE-2021-33713; CVE-2021-33714; CVE-2021-33715,5.5,High,CWE-688; CWE-476,Critical Manufacturing,Worldwide,Germany
 1673,7/13/2021,No Updates,2021,ICSA-21-194-10,Siemens RUGGEDCOM ROS,Siemens,RUGGEDCOM ROS,The following Siemens products are affected: RUGGEDCOM ROS i800: All versions prior to 4.3.7 RUGGEDCOM ROS i801: All versions prior to 4.3.7 RUGGEDCOM ROS i802: All versions prior to 4.3.7 RUGGEDCOM ROS i803: All versions prior to 4.3.7 RUGGEDCOM ROS M969: All versions prior to 4.3.7 RUGGEDCOM ROS M2100: All versions prior to 4.3.7 RUGGEDCOM ROS M2200: All versions prior to 4.3.7 RUGGEDCOM ROS RMC: All versions prior to 4.3.7 RUGGEDCOM ROS RMC20: All versions prior to 4.3.7 RUGGEDCOM ROS RMC30: All versions prior to 4.3.7 RUGGEDCOM ROS RMC40: All versions prior to 4.3.7 RUGGEDCOM ROS RMC41: All versions prior to 4.3.7 RUGGEDCOM ROS RMC8388 V4.X: All versions prior to 4.3.7 RUGGEDCOM ROS RMC8388 V5.X: All versions prior to 5.5.4 RUGGEDCOM ROS RP110: All versions prior to 4.3.7 RUGGEDCOM ROS RS400: All versions prior to 4.3.7 RUGGEDCOM ROS RS401: All versions prior to 4.3.7 RUGGEDCOM ROS RS416: All versions prior to 4.3.7 RUGGEDCOM ROS RS416V2 V4.X: All versions prior to 4.3.7 RUGGEDCOM ROS RS416V2 V5.X: All versions prior to 5.5.4 RUGGEDCOM ROS RS900 (32M) V4.X: All versions prior to 4.3.7 RUGGEDCOM ROS RS900 (32M) V5.X: All versions prior to 5.5.4 RUGGEDCOM ROS RS900G: All versions prior to 4.3.7 RUGGEDCOM ROS RS900G (32M) V4.X: All versions prior to 4.3.7 RUGGEDCOM ROS RS900G (32M) V5.X: All versions prior to 5.5.4 RUGGEDCOM ROS RS900GP: All versions prior to 4.3.7 RUGGEDCOM ROS RS900L: All versions prior to 4.3.7 RUGGEDCOM ROS PS900W: All versions prior to 4.3.7 RUGGEDCOM ROS RS910: All versions prior to 4.3.7 RUGGEDCOM ROS RS910L: All versions prior to 4.3.7 RUGGEDCOM ROS RS910W: All versions prior to 4.3.7 RUGGEDCOM ROS RS920L: All versions prior to 4.3.7 RUGGEDCOM ROS RS920W: All versions prior to 4.3.7 RUGGEDCOM ROS RS930L: All versions prior to 4.3.7 RUGGEDCOM ROS RS930W: All versions prior to 4.3.7 RUGGEDCOM ROS RS940G: All versions prior to 4.3.7 RUGGEDCOM ROS RS969: All versions prior to 4.3.7 RUGGEDCOM ROS RS8000: All versions prior to 4.3.7 RUGGEDCOM ROS RS8000A: All versions prior to 4.3.7 RUGGEDCOM ROS RS8000H: All versions prior to 4.3.7 RUGGEDCOM ROS RS8000T: All versions prior to 4.3.7 RUGGEDCOM ROS RSG900 V4.X: All versions prior to 4.3.7 RUGGEDCOM ROS RSG900 V5.X: All versions prior to 5.5.4 RUGGEDCOM ROS RSG900C: All versions prior to 5.5.4 RUGGEDCOM ROS RSG900G V4.X: All versions prior to 4.3.7 RUGGEDCOM ROS RSG800G V5.X: All versions prior to 5.5.4 RUGGEDCOM ROS RSG900R: All versions prior to 5.5.4 RUGGEDCOM ROS RSG920P V4.X: All versions prior to 4.3.7 RUGGEDCOM ROS RSG920P V5.X: All versions prior to 5.5.4 RUGGEDCOM ROS RSG2100 (32M) V4.X: All versions prior to 4.3.7 RUGGEDCOM ROS RSG2100 (32M) V5.X: All versions prior to 5.5.4 RUGGEDCOM ROS RSG2100 V4.X: All versions prior to 4.3.7 RUGGEDCOM ROS RSG2100P: All versions prior to 4.3.7 RUGGEDCOM ROS RSG2100P (32M) V4.X: All versions prior to 4.3.7 RUGGEDCOM ROS RSG2100P (32M) V5.X: All versions prior to 5.5.4 RUGGEDCOM ROS RSG2200: All versions prior to 4.3.7 RUGGEDCOM ROS RSG2288 V4.X: All versions prior to 4.3.7 RUGGEDCOM ROS RSG2288 V5.X: All versions prior to 5.5.4 RUGGEDCOM ROS RSG2300 V4.X: All versions prior to 4.3.7 RUGGEDCOM ROS RSG2300 V5.X: All versions prior to 5.5.4 RUGGEDCOM ROS RSG2300P V4.X: All versions prior to 4.3.7 RUGGEDCOM ROS RSG2300P V5.X: All versions prior to 5.5.4 RUGGEDCOM ROS RSG2488 V4.X: All versions prior to 4.3.7 RUGGEDCOM ROS RSG2488 V5.X: All versions prior to 5.5.4 RUGGEDCOM ROS RSL910: All versions prior to 5.5.4 RUGGEDCOM ROS RST916C: All versions prior to 5.5.4 RUGGEDCOM ROS RST916P: All versions prior to 5.5.4 RUGGEDCOM ROS RST2228: All versions prior to 5.5.4.,CVE-2021-31895,8.1,High,CWE-120,Multiple Critical Sectors,Worldwide,Germany
 1672,7/13/2021,No Updates,2021,ICSA-21-194-11,Siemens Teamcenter Active Workspace,Siemens,Teamcenter Active Workspace,"The following versions of Smart Security Manager, a software management platform, are affected: Teamcenter Active Workspace v4: All versions prior to v4.3.9 Teamcenter Active Workspace v5.0: All versions prior to v5.0.7 Teamcenter Active Workspace v5.1: All versions prior to v5.1.4.",CVE-2021-33709; CVE-2021-33710; CVE-2021-33711,6.1,High,CWE-200; CWE-79; CWE-209,Multiple Critical Sectors,Worldwide,Germany
-1671,7/13/2021,No Updates,2021,ICSA-21-194-12,Siemens VxWorks-based Industrial Products,Siemens,VxWorks-based Industrial Products,Siemens reports this vulnerability affects the following Wind River VxWorks-based industrial products: RUGGEDCOM WIN Subscriber Station: All versions SCALANCE X200-4 P IRT: All versions SCALANCE X201-3P IRT: All versions SCALANCE X201-3P IRT PRO: All versions SCALANCE X202-2 IRT: All versions SCALANCE X202-2P IRT: All versions SCALANCE X202-2P IRT PRO: All versions SCALANCE X204 IRT: All versions SCALANCE X204 IRT PRO: All versions SCALANCE X204-2 (incl. SIPLUS NET variant): All versions SCALANCE X204-2FM: All versions SCALANCE X204-2LD (incl. SIPLUS NET variant): All versions SCALANCE X204-2LD TS: All versions SCALANCE X204-2TS: All versions SCALANCE X206-1: All versions SCALANCE X206-1LD: All versions SCALANCE X208: All versions SCALANCE X208 PRO: All versions SCALANCE X212-2: All versions SCALANCE X212-2LD: All versions SCALANCE X216: All versions SCALANCE X224: All versions SCALANCE X300/X408 family (incl. SIPLUS NET variants): All versions SCALANCE XF201-3P IRT: All versions SCALANCE XF202-2P IRT: All versions SCALANCE XF204: All versions SCALANCE XF204 IRT: All versions SCALANCE XF204-2: All versions SCALANCE XF204-2BA IRT: All versions SCALANCE XF206-1: All versions SCALANCE XF208: All versions SIMATIC RF 181 EIP: All versions SIMATIC RF 182C: All versions.,CVE-2021-29998,9.8,High,CWE-122,Multiple Critical Sectors,Worldwide,Germany
+1671,7/13/2021,4/14/2022,2021,ICSA-21-194-12,Siemens VxWorks-based Industrial Products (Update A),Siemens,Wind River VxWorks-based Industrial Products,"Siemens reports this vulnerability affects the following Wind River VxWorks-based industrial products:
+ Update A
+ RUGGEDCOM WIN5100 series subscriber unit: All versions
+ RUGGEDCOM WIN5200 series subscriber unit: All versions
+ SCALANCE X200-4P IRT (6GK5200-4AH00-2BA3): All versions
+ SCALANCE X201-3P IRT (6GK5201-3BH00-2BA3): All versions
+ SCALANCE X201-3P IRT PRO (6GK5201-3BH00-2BD2): All versions
+ SCALANCE X202-2IRT (6GK5202-2BB00-2BA3): All versions
+ SCALANCE X202-2P IRT (6GK5202-2BH00-2BA3): All versions
+ SCALANCE X202-2P IRT PRO (6GK5202-2JR00-2BA6): All versions
+ SCALANCE X204-2 (6GK5204-2BB10-2AA3): All versions
+ SCALANCE X204-2FM (6GK5204-2BB11-2AA3): All versions
+ SCALANCE X204-2LD (6GK5204-2BC10-2AA3): All versions
+ SCALANCE X204-2LD TS (6GK5204-2BC10-2CA2): All versions
+ SCALANCE X204-2TS (6GK5204-2BB10-2CA2): All versions
+ SCALANCE X204IRT (6GK5204-0BA00-2BA3): All versions
+ SCALANCE X204IRT PRO (6GK5204-0JA00-2BA6): All versions
+ SCALANCE X206-1 (6GK5206-1BB10-2AA3): All versions
+ SCALANCE X206-1LD (6GK5206-1BC10-2AA3): All versions
+ SCALANCE X208 (6GK5208-0BA10-2AA3): All versions
+ SCALANCE X208PRO (6GK5208-0HA10-2AA6): All versions
+ SCALANCE X212-2 (6GK5212-2BB00-2AA3): All versions
+ SCALANCE X212-2LD (6GK5212-2BC00-2AA3): All versions
+ SCALANCE X216 (6GK5216-0BA00-2AA3): All versions
+ SCALANCE X224 (6GK5224-0BA00-2AA3): All versions
+ SCALANCE X302-7 EEC (2x 24V) (6GK5302-7GD00-2EA3): All versions prior to v4.1.4
+ SCALANCE X302-7 EEC (2x 24V, coated) (6GK5302-7GD00-2GA3): All versions prior to v4.1.4
+ SCALANCE X302-7 EEC (2x 230V) (6GK5302-7GD00-4EA3): All versions prior to v4.1.4
+ SCALANCE X302-7 EEC (2x 230V, coated) (6GK5302-7GD00-4GA3): All versions prior to v4.1.4
+ SCALANCE X302-7 EEC (24V) (6GK5302-7GD00-1EA3): All versions prior to v4.1.4
+ SCALANCE X302-7 EEC (24V, coated) (6GK5302-7GD00-1GA3): All versions prior to v4.1.4
+ SCALANCE X302-7 EEC (230V) (6GK5302- 7GD00-3EA3): All versions prior to v4.1.4
+ SCALANCE X302-7 EEC (230V, coated) (6GK5302-7GD00-3GA3): All versions prior to v4.1.4
+ SCALANCE X304-2FE (6GK5304-2BD00-2AA3): All versions prior to v4.1.4
+ SCALANCE X306-1LD FE (6GK5306-1BF00-2AA3): All versions prior to v4.1.4
+ SCALANCE X307-2 EEC (2x 24V) (6GK5307-2FD00-2EA3): All versions prior to v4.1.4
+ SCALANCE X307-2 EEC (2x 24V, coated) (6GK5307-2FD00-2GA3): All versions prior to v4.1.4
+ SCALANCE X307-2 EEC (2x 230V) (6GK5307-2FD00-4EA3): All versions prior to v4.1.4
+ SCALANCE X307-2 EEC (2x 230V, coated) (6GK5307-2FD00-4GA3): All versions prior to v4.1.4
+ SCALANCE X307-2 EEC (24V) (6GK5307-2FD00-1EA3): All versions prior to v4.1.4
+ SCALANCE X307-2 EEC (24V, coated) (6GK5307-2FD00-1GA3): All versions prior to v4.1.4
+ SCALANCE X307-2 EEC (230V) (6GK5307-2FD00-3EA3): All versions prior to v4.1.4 
+ SCALANCE X307-2 EEC (230V, coated) (6GK5307-2FD00-3GA3): All versions prior to v4.1.4
+ SCALANCE X307-3 (6GK5307-3BL00-2AA3): All versions prior to v4.1.4
+ SCALANCE X307-3 (6GK5307-3BL10-2AA3): All versions prior to v4.1.4
+ SCALANCE X307-3LD (6GK5307-3BM00-2AA3): All versions prior to v4.1.4
+ SCALANCE X307-3LD (6GK5307-3BM10-2AA3): All versions prior to v4.1.4
+ SCALANCE X308-2 (6GK5308-2FL00-2AA3): All versions prior to v4.1.4
+ SCALANCE X308-2 (6GK5308-2FL10-2AA3): All versions prior to v4.1.4
+ SCALANCE X308-2LD (6GK5308-2FM00-2AA3): All versions prior to v4.1.4
+ SCALANCE X308-2LD (6GK5308-2FM10-2AA3): All versions prior to v4.1.4
+ SCALANCE X308-2LH (6GK5308-2FN00-2AA3): All versions prior to v4.1.4
+ SCALANCE X308-2LH (6GK5308-2FN10-2AA3): All versions prior to v4.1.4
+ SCALANCE X308-2LH+ (6GK5308-2FP00-2AA3): All versions prior to v4.1.4
+ SCALANCE X308-2LH+ (6GK5308-2FP10-2AA3): All versions prior to v4.1.4
+ SCALANCE X308-2M (6GK5308-2GG00-2AA2): All versions prior to v4.1.4
+ SCALANCE X308-2M (6GK5308-2GG10-2AA2): All versions prior to v4.1.4
+ SCALANCE X308-2M PoE (6GK5308-2QG00-2AA2): All versions prior to v4.1.4
+ SCALANCE X308-2M PoE (6GK5308-2QG10-2AA2): All versions prior to v4.1.4
+ SCALANCE X308-2M TS (6GK5308-2GG00-2CA2): All versions prior to v4.1.4
+ SCALANCE X308-2M TS (6GK5308-2GG10-2CA2): All versions prior to v4.1.4
+ SCALANCE X310 (6GK5310-0FA00-2AA3): All versions prior to v4.1.4
+ SCALANCE X310 (6GK5310-0FA10-2AA3): All versions prior to v4.1.4
+ SCALANCE X310FE (6GK5310-0BA00-2AA3): All versions prior to v4.1.4
+ SCALANCE X310FE (6GK5310-0BA10-2AA3): All versions prior to v4.1.4
+ SCALANCE X320-1 FE (6GK5320-1BD00-2AA3): All versions prior to v4.1.4
+ SCALANCE X320-1-2LD FE (6GK5320-3BF00-2AA3): All versions prior to v4.1.4
+ SCALANCE X408-2 (6GK5408-2FD00-2AA2): All versions prior to v4.1.4
+ SCALANCE XF201-3P IRT (6GK5201-3JR00-2BA6): All versions
+ SCALANCE XF202-2P IRT (6GK5202-2BH00-2BD2): All versions
+ SCALANCE XF204 (6GK5204-0BA00-2AF2): All versions
+ SCALANCE XF204-2 (6GK5204-2BC00-2AF2): All versions
+ SCALANCE XF204-2BA IRT (6GK5204-2AA00-2BD2): All versions
+ SCALANCE XF204IRT (6GK5204-0BA00-2BF2): All versions
+ SCALANCE XF206-1 (6GK5206-1BC00-2AF2): All versions
+ SCALANCE XF208 (6GK5208-0BA00-2AF2): All versions
+ SCALANCE XR324-4M EEC (2x 24V, ports on front) (6GK5324-4GG00-2ER2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (2x 24V, ports on front) (6GK5324-4GG10-2ER2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (2x 24V, ports on rear) (6GK5324-4GG00-2JR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (2x 24V, ports on rear) (6GK5324-4GG10-2JR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (2x 100-240VAC/60-250VDC, ports on front) (6GK5324-4GG00-4ER2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (2x 100-240VAC/60-250VDC, ports on front) (6GK5324-4GG10-4ER2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (2x 100-240VAC/60-250VDC, ports on rear) (6GK5324-4GG00-4JR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (2x 100-240VAC/60-250VDC, ports on rear) (6GK5324-4GG10-4JR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (24V, ports on front) (6GK5324-4GG00-1ER2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (24V, ports on front) (6GK5324-4GG10-1ER2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (24V, ports on rear) (6GK5324-4GG00-1JR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (24V, ports on rear) (6GK5324-4GG10-1JR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (100-240VAC/60-250VDC, ports on front) (6GK5324-4GG00-3ER2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (100-240VAC/60-250VDC, ports on front) (6GK5324-4GG10-3ER2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (100-240VAC/60-250VDC, ports on rear) (6GK5324-4GG00-3JR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M EEC (100-240VAC/60-250VDC, ports on rear) (6GK5324-4GG10-3JR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M PoE (24V, ports on front) (6GK5324-4QG00-1AR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M PoE (24V, ports on rear) (6GK5324-4QG00-1HR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M PoE (230V, ports on front) (6GK5324-4QG00-3AR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M PoE (230V, ports on rear) (6GK5324-4QG00-3HR2): All versions prior to v4.1.4
+ SCALANCE XR324-4M PoE TS (24V, ports on front) (6GK5324-4QG00-1CR2): All versions prior to v4.1.4
+ SCALANCE XR324-12M (24V, ports on front) (6GK5324-0GG00-1AR2): All versions prior to v4.1.4
+ SCALANCE XR324-12M (24V, ports on front) (6GK5324-0GG10-1AR2): All versions prior to v4.1.4
+ SCALANCE XR324-12M (24V, ports on rear) (6GK5324-0GG00-1HR2): All versions prior to v4.1.4
+ SCALANCE XR324-12M (24V, ports on rear) (6GK5324-0GG10-1HR2): All versions prior to v4.1.4
+ SCALANCE XR324-12M (230V, ports on front) (6GK5324-0GG00-3AR2): All versions prior to v4.1.4
+ SCALANCE XR324-12M (230V, ports on front) (6GK5324-0GG10-3AR2): All versions prior to v4.1.4
+ SCALANCE XR324-12M (230V, ports on rear) (6GK5324-0GG00-3HR2): All versions prior to v4.1.4
+ SCALANCE XR324-12M (230V, ports on rear) (6GK5324-0GG10-3HR2): All versions prior to v4.1.4
+ SCALANCE XR324-12M TS (24V) (6GK5324-0GG00-1CR2): All versions prior to v4.1.4
+ SCALANCE XR324-12M TS (24V) (6GK5324-0GG10-1CR2): All versions prior to v4.1.4
+ SIMATIC RF180C (6GT2002-0JD00): All versions
+ SIMATIC RF182C (6GT2002-0JD10): All versions
+ SIMATIC RFID 181EIP (6GT2002-0JD20): All versions
+ SIPLUS NET SCALANCE X308-2 (6AG1308-2FL10-4AA3): All versions prior to v4.1.4
+ End Update A",CVE-2021-29998,9.8,High,CWE-122,Multiple Critical Sectors,Worldwide,Germany
 1670,7/13/2021,No Updates,2021,ICSA-21-194-14,Siemens RWG Universal Controllers,Siemens,RWG Universal Controllers,Siemens reports this vulnerability affects the following RWG controllers: RWG1.M8: All versions prior to v1.16.16 RWG1.M12: All versions prior to v1.16.16 RWG1.M12D: All versions prior to v1.16.16.,CVE-2021-25671,6.5,High,CWE-770,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater Systems,Worldwide,Germany
 1669,7/13/2021,No Updates,2021,ICSA-21-194-15,Siemens JT2Go and Teamcenter Visualization,Siemens,JT2Go and Teamcenter Visualization,The following Siemens products are affected: JT2Go: All versions prior to v13.2 Teamcenter Visualization: All versions prior to v13.2.,CVE-2021-34291; CVE-2021-34292; CVE-2021-34293; CVE-2021-34294; CVE-2021-34295; CVE-2021-34296; CVE-2021-34297; CVE-2021-34298; CVE-2021-34299; CVE-2021-34300; CVE-2021-34301; CVE-2021-34302; CVE-2021-34303; CVE-2021-34304; CVE-2021-34305; CVE-2021-34306; CVE-2021-34307; CVE-2021-34308; CVE-2021-34309; CVE-2021-34310; CVE-2021-34311; CVE-2021-34312; CVE-2021-34313; CVE-2021-34314; CVE-2021-34315; CVE-2021-34316; CVE-2021-34317; CVE-2021-34318; CVE-2021-34319; CVE-2021-34320; CVE-2021-34321; CVE-2021-34322; CVE-2021-34323; CVE-2021-34324; CVE-2021-34325; CVE-2021-34326; CVE-2021-34327; CVE-2021-34328; CVE-2021-34329; CVE-2021-34330; CVE-2021-34331; CVE-2021-34332; CVE-2021-34333,7.8,High,CWE-126; CWE-415; CWE-122; CWE-119; CWE-835; CWE-125; CWE-787; CWE-416,Multiple Critical Sectors,Worldwide,Germany
 1668,7/13/2021,No Updates,2021,ICSA-21-194-16,Siemens Mendix,Siemens,Mendix,The following Mendix Applications are affected: Mendix Applications using Mendix 7: All versions prior to v7.23.22 Mendix Applications using Mendix 8: All versions prior to v8.18.7 Mendix Applications using Mendix 9: All versions prior to v9.3.0.,CVE-2021-33718,5.3,High,CWE-863,Critical Manufacturing,Worldwide,Germany
@@ -329,7 +752,34 @@ CWE-125",Critical Manufacturing,Worldwide,Germany
 1628,6/8/2021,6/29/2021,2021,ICSA-21-159-10,Siemens SIMATIC TIM libcurl,Siemens,SIMATIC TIM libcurl,"The following devices are affected by the third-party component libcurl: SIMATIC TIM 1531 IRC (incl. SIPLUS NET variants), All versions prior to v2.2. The libcurl library Versions 7.62.0 to and including 7.70.0 are vulnerable to an information disclosure vulnerability that can lead to a partial password being leaked over the network and to DNS servers. The libcurl library Versions 7.41.0 to 7.73.0 are vulnerable to an improper check for certificate revocation due to insufficient verification of the OCSP response. This vulnerability could allow an attacker to pass a revoked certificate as valid.",CVE-2020-8169; CVE-2020-8286,7.5,High,CWE-200; CWE-295,Multiple Critical Sectors,Worldwide,Germany
 1627,6/8/2021,No Updates,2021,ICSA-21-159-11,Siemens SIMATIC NET CP 443-1 OPC UA,Siemens,SIMATIC NET CP 443-1 OPC UA,The following versions of SIMATIC NET CP 443-1 OPC UA are affected: SIMATIC NET CP 443-1 OPC UA: All versions.,CVE-2016-9042; CVE-2017-6458; CVE-2015-8138; CVE-2016-7431; CVE-2016-7433; CVE-2015-7853; CVE-2016-4953; CVE-2016-4954; CVE-2016-4955; CVE-2016-1548; CVE-2016-4956; CVE-2015-7705; CVE-2015-8138; CVE-2016-1547; CVE-2016-1548; CVE-2016-1550; CVE-2016-2518,9.8,Critical,CWE-19; CWE-20; CWE-119; CWE-120; CWE-125; CWE-200; CWE-287; CWE-362; CWE-682,Multiple Critical Sectors,Worldwide,Germany
 1626,6/8/2021,No Updates,2021,ICSA-21-159-12,Siemens Simcenter Femap,Siemens,Simcenter Femap,"The following versions of Simcenter Femap are affected: Simcenter Femap 2020.2, all versions prior to v2020.2.MP3 Simcenter Femap 2021.1, all versions prior to v2021.1.MP3.",CVE-2021-27387; CVE-2021-27399,7.8,High,CWE-787,Critical Manufacturing,Worldwide,Germany
-1625,6/8/2021,No Updates,2021,ICSA-21-159-13,Siemens SIMATIC RFID,Siemens,SIMATIC RFID,"The following versions of SIMATIC RF are affected: SIMATIC RF166C, all versions between v1.1 and v1.3.2 SIMATIC RF185C, all versions between v1.1 and v1.3.2 SIMATIC RF186C, all versions between v1.1 and v1.3.2 SIMATIC RF186CI, all versions between v1.1 and v1.3.2 SIMATIC RF188C, all versions between v1.1 and v1.3.2 SIMATIC RF188CI, all versions between v1.1 and v1.3.2 SIMATIC RF360R, all versions SIMATIC RF615R, all versions prior v3.0 SIMATIC RF680R all versions prior to v3.0 SIMATIC RF685R, all versions prior to v3.0.",CVE-2021-31340,7.5,High,CWE-400,Multiple Critical Sectors,Worldwide,Germany
+1625,6/8/2021,4/14/2022,2021,ICSA-21-159-13,Siemens SIMATIC RFID (Update A),Siemens,SIMATIC RF Products,"Update A
+ The following versions of SIMATIC RF and SIMATIC Reader RF are affected:
+ SIMATIC Reader RF610R CMIIT (6GT2811-6BC10-2AA0): All versions between v3.0 and v4.0
+ SIMATIC Reader RF610R ETSI (6GT2811-6BC10-0AA0): All versions between v3.0 and v4.0
+ SIMATIC Reader RF610R FCC (6GT2811-6BC10-1AA0): All versions between V3.0 and V4.0
+ SIMATIC Reader RF615R CMIIT (6GT2811-6CC10-2AA0): All versions between v3.0 and v4.0
+ SIMATIC Reader RF615R ETSI (6GT2811-6CC10-0AA0): All versions between v3.0 and v4.0
+ SIMATIC Reader RF615R FCC (6GT2811-6CC10-1AA0): All versions between v3.0 and v4.0
+ SIMATIC Reader RF650R ARIB (6GT2811-6AB20-4AA0): All versions between v3.0 and v4.0 
+ SIMATIC Reader RF650R CMIIT (6GT2811-6AB20-2AA0): All versions between v3.0 and v4.0
+ SIMATIC Reader RF650R ETSI (6GT2811-6AB20-0AA0): All versions between v3.0 and v4.0
+ SIMATIC Reader RF650R FCC (6GT2811-6AB20-1AA0): All versions between v3.0 and v4.0
+ SIMATIC Reader RF680R ARIB (6GT2811-6AA10-4AA0): All versions between v3.0 and v4.0
+ SIMATIC Reader RF680R CMIIT (6GT2811-6AA10-2AA0): All versions between v3.0 and v4.0
+ SIMATIC Reader RF680R ETSI (6GT2811-6AA10-0AA0): All versions between v3.0 and v4.0
+ SIMATIC Reader RF680R FCC (6GT2811-6AA10-1AA0): All versions between v3.0 and v4.0
+ SIMATIC Reader RF685R ARIB (6GT2811-6CA10-4AA0): All versions between v3.0 and v4.0
+ SIMATIC Reader RF685R CMIIT (6GT2811-6CA10-2AA0): All versions between v3.0 and v4.0
+ SIMATIC Reader RF685R ETSI (6GT2811-6CA10-0AA0): All versions between v3.0 and v4.0
+ SIMATIC Reader RF685R FCC (6GT2811-6CA10-1AA0): All versions between v3.0 and v4.0
+ End Update A
+ SIMATIC RF166C, all versions between v1.1 and v1.3.2
+ SIMATIC RF185C, all versions between v1.1 and v1.3.2
+ SIMATIC RF186C, all versions between v1.1 and v1.3.2
+ SIMATIC RF186CI, all versions between v1.1 and v1.3.2
+ SIMATIC RF188C, all versions between v1.1 and v1.3.2
+ SIMATIC RF188CI, all versions between v1.1 and v1.3.2
+ SIMATIC RF360R, all versions",CVE-2021-31340,7.5,High,CWE-400,Multiple Critical Sectors,Worldwide,Germany
 1624,6/8/2021,No Updates,2021,ICSA-21-159-14,Siemens JT2Go and Teamcenter Visualization,Siemens,JT2Go and Teamcenter Visualization,Siemens reports the vulnerability affects the following products: JT2Go: All versions prior to 13.1.0.3 Teamcenter Visualization: All versions prior to 13.1.0.3.,CVE-2021-27390,7.8,High,CWE-787,Critical Manufacturing,Worldwide,Germany
 1623,6/8/2021,No Updates,2021,ICSA-21-103-06,Siemens Solid Edge File Parsing (Update A),Siemens,Siemens Solid Edge File Parsing,The following versions of Siemens Solid Edge - portfolio of software tools are affected: Solid Edge SE2020: All versions before SE2020MP13 Solid Edge SE2020: SE2020MP13 Solid Edge SE2021: All versions before SE2021MP4.,CVE-2021-25678; CVE-2021-27380; CVE-2021-27382; CVE-2020-26997; CVE-2020-28385,7.8,High,CWE-787; CWE-121; CWE-822,Critical Manufacturing,Worldwide,Germany
 1622,6/8/2021,No Updates,2021,ICSA-20-252-06,Siemens SIMATIC HMI Products (Update A),Siemens,SIMATIC HMI Products,"The following versions of Siemens SIMATIC HMI Products are affected: SIMATIC HMI Basic Panels, 2nd Generation (incl. SIPLUS variants): All versions prior to v16 are affected by CVE-2020-15786; SIMATIC HMI Comfort Panels (incl. SIPLUS variants): All versions up to and including v16 are affected by CVE-2020-15786; SIMATIC HMI Mobile Panels: All versions up to and including v16 are affected by CVE-2020-15786; SIMATIC HMI United Comfort Panels: All versions up to and including v16.",CVE-2020-15786; CVE-2020-15787,6.5,Medium,CWE-305; CWE-307,Energy,Worldwide,Germany
@@ -399,7 +849,14 @@ CWE-125",Critical Manufacturing,Worldwide,Germany
 1558,4/13/2021,No Updates,2021,ICSA-21-068-03,Siemens SCALANCE and RUGGEDCOM Devices (Update A),Siemens,Siemens SCALANCE and RUGGEDCOM Devices,The following Siemens products are affected: RUGGEDCOM RM1224: All versions from v4.3 and prior to v4.6 SCALANCE M-800: All versions from v4.3 and prior to v4.6 SCALANCE S615: All versions from v4.3 and prior to v4.6 SCALANCE XR-300WG: All versions prior to v4.1 SCALANCE XB-200: All versions prior to v4.1 SCALANCE XC-200: All versions prior to v4.1 SCALANCE XF-200BA: All versions prior to v4.1 SCALANCE XP-200: All versions prior to v4.1; SCALANCE SC-600 Family: All versions from v2.0 and prior to v2.1.3 SCALANCE XM400: All versions prior to v6.2 SCALANCE XR500: All versions prior to v6.2.,CVE-2021-25667,8.8,High,CWE-121,Multiple Critical Sectors,Worldwide,Germany
 1557,4/13/2021,No Updates,2021,ICSA-20-343-05,Siemens Embedded TCP/IP Stack VulnerabilitiesAMNESIA:33 (Update C),Siemens,Embedded TCP/IP Stack,The following products are affected: SENTRON 3VA COM100/800: all versions prior to v4.2 SENTRON 3VA DSP800: all versions prior to v2.0 SENTRON PAC2200 (without MID Approval): all versions prior to v3.0.5 SENTRON PAC3200: all versions prior to v2.4.5 SENTRON PAC3200T: all versions prior to v3.0.5 SENTRON PAC4200: all versions prior to v2.0.1 SIRIUS 3RW5 communication module Modbus TCP: all versions prior to v1.1.1.,CVE-2020-13988,6.5,Medium,CWE-190,Energy,Worldwide,Germany
 1556,4/13/2021,No Updates,2021,ICSA-20-161-05,"Siemens SIMATIC, SINAMICS (Update C)",Siemens,"SIMATIC, SINAMICS",The following Siemens products are affected: SIMATIC PCS 7: All versions including v8.2 and prior SIMATIC PCS 7 v9.0: All versions prior to 9.0 SP3; SIMATIC PDM: All versions prior to 9.2; SIMATIC STEP 7 v5.X: All versions prior to 5.6 SP2 HF3 SINAMICS STARTER (containing STEP 7 OEM version): All versions prior to 5.4 HF2.,CVE-2020-7585; CVE-2020-7586,7.8,High,CWE-122; CWE-427,Chemical; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
-1555,4/13/2021,No Updates,2021,ICSA-20-042-02,Siemens Industrial Products SNMP Vulnerabilities (Update D),Siemens,Industrial Products SNMP,The following Siemens products are affected: IE/PB LINK PN IO (including SIPLUS NET variants): All versions prior to v4.0.1 SCALANCE S602: All versions prior to v4.1 SCALANCE S612: All versions prior to v4.1 SCALANCE S623: All versions prior to v4.1 SCALANCE S627-2M: All versions prior to v4.1; SIMATIC CP 1623: All versions prior to Version 14.00.15.00_51.25.00.01 SIMATIC CP 1626: All versions prior to v1.1.1 SIMATIC CP 1628: All versions prior to Version 14.00.15.00_51.25.00.01 SIMATIC CP 343-1 Advanced (including SIPLUS NET variants): All versions SIMATIC CP 443-1 (including SIPLUS NET variants): All versions SIMATIC CP 443-1 Advanced (including SIPLUS NET variants): All versions SIMATIC CP 443-1 OPC UA: All versions TIM 1531 IRC (including SIPLUS NET variants): All versions.,CVE-2018-18065: CVE-2015-5621,7.5,High,CWE-19; CWE-476,Chemical; Energy; Food and Agriculture; Healthcare and Public Health; Transportation; Water and Wastewater,Worldwide,Germany
+1555,4/13/2021,4/14/2022,2021,ICSA-20-042-02,Siemens Industrial Products SNMP (Update F),Siemens,"Various SCALANCE, SIMATIC, SIPLUS products",The following Siemens products are affected: IE/PB LINK PN IO (including SIPLUS NET variants): All versions prior to v4.0.1 SCALANCE S602: All versions prior to v4.1 SCALANCE S612: All versions prior to v4.1 SCALANCE S623: All versions prior to v4.1 SCALANCE S627-2M: All versions prior to v4.1; SIMATIC CP 1623: All versions prior to Version 14.00.15.00_51.25.00.01 SIMATIC CP 1626: All versions prior to v1.1.1 SIMATIC CP 1628: All versions prior to Version 14.00.15.00_51.25.00.01 SIMATIC CP 343-1 Advanced (including SIPLUS NET variants): All versions SIMATIC CP 443-1 (including SIPLUS NET variants): All versions SIMATIC CP 443-1 Advanced (including SIPLUS NET variants): All versions SIMATIC CP 443-1 OPC UA: All versions TIM 1531 IRC (including SIPLUS NET variants): All versions.,"CVE-2018-18065
+CVE-2015-5621",7.5,High,"CWE-19
+CWE-476",Chemical; Energy; Food and Agriculture; Healthcare and Public Health; Transportation; Water and Wastewater,Worldwide,Germany
+1554,4/13/2021,No Updates,2021,ICSA-20-042-07,Siemens SCALANCE X Switches (Update B),Siemens,SCALANCE X Switches,The following versions of SCALANCE X Switches; used to connect industrial components are affected: SCALANCE X-200 switch family (including SIPLUS NET variants): All versions prior to Version 5.2.4 SCALANCE X-200IRT switch family (including SIPLUS NET variants): All versions prior to v5.5.0 SCALANCE X-300 switch family (including X408 and SIPLUS NET variants): All versions prior to Version 4.1.3; SCALANCE S602: All versions prior to 4.1 SCALANCE S612: All versions prior to 4.1 SCALANCE S623: All versions prior to 4.1 SCALANCE S627-2M: All versions prior to 4.1.,CVE-2019-13924,4.2,Medium,CWE-693,Critical Manufacturing,Worldwide,Germany
+1553,4/13/2021,No Updates,2021,ICSA-20-042-10,Siemens SCALANCE S-600 (Update B),Siemens,SCALANCE S-600,The following versions of SCALANCE S-600 are affected: SCALANCE S602; all versions v3.0 or higher and prior to v4.1 SCALANCE S612; all versions v3.0 or higher and prior to v4.1 SCALANCE S623; all versions v3.0 or higher and prior to v4.1 SCALANCE S627-2M; all versions v3.0 or higher and prior to v4.1.,"CVE-2019-13925
+CVE-2019-13926
+CVE-2019-6585",7.5,High,"CWE-80
+CWE-400",Information Technology,Worldwide,Germany
 1554,4/13/2021,No Updates,2021,ICSA-20-042-07,Siemens SCALANCE X Switches (Update B),Siemens,SCALANCE X Switches,The following versions of SCALANCE X Switches; used to connect industrial components are affected: SCALANCE X-200 switch family (including SIPLUS NET variants): All versions prior to Version 5.2.4 SCALANCE X-200IRT switch family (including SIPLUS NET variants): All versions prior to v5.5.0 SCALANCE X-300 switch family (including X408 and SIPLUS NET variants): All versions prior to Version 4.1.3; SCALANCE S602: All versions prior to 4.1 SCALANCE S612: All versions prior to 4.1 SCALANCE S623: All versions prior to 4.1 SCALANCE S627-2M: All versions prior to 4.1.,CVE-2019-13924,4.2,Medium,CWE-693,Critical Manufacturing,Worldwide,Germany
 1553,4/13/2021,No Updates,2021,ICSA-20-042-10,Siemens SCALANCE S-600 (Update B),Siemens,SCALANCE S-600,The following versions of SCALANCE S-600 are affected: SCALANCE S602; all versions v3.0 or higher and prior to v4.1 SCALANCE S612; all versions v3.0 or higher and prior to v4.1 SCALANCE S623; all versions v3.0 or higher and prior to v4.1 SCALANCE S627-2M; all versions v3.0 or higher and prior to v4.1.,CVE-2019-13925; CVE-2019-13926; CVE-2019-6585,7.5,High,CWE-80; CWE-400,Information Technology,Worldwide,Germany
 1552,4/13/2021,4/14/2021,2021,ICSA-19-344-02,"Siemens and PKE SiNVR, SiVMS Video Server (Update A)",Siemens and PKE,SiNVR 3,SiNVR 3 Central Control Server (CCS): all versions Moved to SSA-761844 and ICSA-21-103-10 SiNVR/SiVMS Video Server: All versions prior to v5.0.0 SiNVR/SiVMS Video Server: v5.0.0 and later is affected by CVE-2019-18340.,CVE-2019-18340 CVE-2019-13947 CVE-2019-18337 CVE-2019-18338 CVE-2019-18339 CVE-2019-18341 CVE-2019-18342,9.8,Critical,CWE-306; CWE-261,Commercial Facilities,Worldwide,Germany
@@ -472,7 +929,33 @@ CWE-125",Critical Manufacturing,Worldwide,Germany
 1485,1/12/2021,No Updates,2021,ICSMA-21-012-01,SOOIL Dana Diabecare RS Products,SOOIL Development Co. Ltd.,SOOIL Dana Diabecare RS Products,The following versions of Dana Diabecare Insulin Pumps and mobile applications are affected: Dana Diabecare RS: All versions prior to 3.0 AnyDana-i: All versions prior to 3.0 AnyDana-A: All versions prior to 3.0.,CVE-2020-27256; CVE-2020-27258; CVE-2020-27264; CVE-2020-27266; CVE-2020-27268; CVE-2020-27269; CVE-2020-27270; CVE-2020-27272; CVE-2020-27276,7.6,High,CWE-798; CWE-522; CWE-330; CWE-603; CWE-602 CWE-294; CWE-523; CWE-322; CWE-290,Healthcare and Public Health,Europe Asia,South Korea
 1484,1/12/2021,No Updates,2021,ICSA-21-012-04,Siemens Solid Edge,Siemens,Siemens Solid Edge,The following versions of Solid Edge - portfolio of software tools are affected: Solid Edge: All versions prior to SE2021MP2.,CVE-2020-26989; CVE-2020-28381; CVE-2020-28382; CVE-2020-28383; CVE-2020-28384; CVE-2020-28386,7.8,High,CWE-787; CWE-121,Critical Manufacturing,Worldwide,Germany
 1483,1/12/2021,No Updates,2021,ICSA-20-196-07,Siemens Opcenter Execution Core (Update B),Siemens,Opcenter Execution Core,The following products are affected: Camstar Enterprise Platform: All versions. Only affected by CVE-2020-7576; CVE-2020-7577; CVE-2020-7578 Opcenter Execution Core: All versions prior to v8.2. Affected by CVE-2020-7576; CVE-2020-7577; CVE-2020-7578 Opcenter Execution Core: Version 8.2. Affected by CVE-2020-7576; CVE-2020-28390 Opcenter Execution Core: Versions 8.3. Affected by CVE-2020-28390.,CVE-2020-28390; CVE-2020-7576; CVE-2020-7577; CVE-2020-7578,8.5,High,CWE-284; CWE-79; CWE-89; CWE-522,Critical Manufacturing,Worldwide,Germany
-1482,1/12/2021,No Updates,2021,ICSA-20-042-06,"Siemens SIMATIC PCS 7, SIMATIC WinCC, and SIMATIC NET PC (Update F)",Siemens,"SIMATIC PCS 7, SIMATIC WinCC, and SIMATIC NET PC",The following versions of SIMATIC software are affected: OpenPCS 7 v8.1: all versions OpenPCS 7 v8.2: all versions OpenPCS 7 v9.0: all versions prior to v9.0 Upd3 SIMATIC BATCH v8.1: all versions SIMATIC BATCH v8.2: all versions SIMATIC BATCH v9.0: all versions prior to v9.0 SP1 Upd5 SIMATIC NET PC Software: all versions prior to v16 update 1 SIMATIC PCS 7 v8.1: all versions SIMATIC PCS 7 v8.2: all versions SIMATIC PCS 7 v9.0: all versions prior to v9.0 SP3 SIMATIC Route Control v8.1: all versions SIMATIC Route Control v8.2: all versions SIMATIC Route Control v9.0: all versions prior to v9.0 Upd4 SIMATIC WinCC (TIA Portal) v13: all versions prior to v13 SP2 SIMATIC WinCC (TIA Portal) v14: all versions SIMATIC WinCC (TIA Portal) v15.1: all versions prior to v15.1 Update 5 SIMATIC WinCC (TIA Portal) v16: all versions prior to v16 Update 1 SIMATIC WinCC v7.3: all versions SIMATIC WinCC v7.4: all versions prior to v7.4 SP1 Update 14 SIMATIC WinCC v7.5: all versions prior to v7.5.1 Upd1.,CVE-2019-1928; CVE-2019-19282,7.5,High,CWE-131,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
+1482,1/12/2021,4/14/2022,2021,ICSA-20-042-06,"Siemens SIMATIC PCS 7, SIMATIC WinCC, and SIMATIC NET PC (Update G)",Siemens,"SIMATIC PCS 7, SIMATIC WinCC, SIMATIC NET PC","The following versions of SIMATIC software are affected:
+ OpenPCS 7 v8.1: all versions
+ OpenPCS 7 v8.2: all versions
+ OpenPCS 7 v9.0: all versions prior to v9.0 Upd3
+ SIMATIC BATCH v8.1: all versions
+ SIMATIC BATCH v8.2: all versions
+ SIMATIC BATCH v9.0: all versions prior to v9.0 SP1 Upd5
+ Update G
+ SIMATIC NET PC Software v14: All versions prior to v14 SP1 Update 14
+ SIMATIC NET PC Software v15: All versions
+ SIMATIC NET PC Software v16: All versions prior to v16 Update 1
+ End Update G.
+ SIMATIC NET PC Software: all versions prior to v16 update 1
+ SIMATIC PCS 7 v8.1: all versions
+ SIMATIC PCS 7 v8.2: all versions
+ SIMATIC PCS 7 v9.0: all versions prior to v9.0 SP3
+ SIMATIC Route Control v8.1: all versions
+ SIMATIC Route Control v8.2: all versions
+ SIMATIC Route Control v9.0: all versions prior to v9.0 Upd4
+ SIMATIC WinCC (TIA Portal) v13: all versions prior to v13 SP2
+ SIMATIC WinCC (TIA Portal) v14: all versions
+ SIMATIC WinCC (TIA Portal) v15.1: all versions prior to v15.1 Update 5
+ SIMATIC WinCC (TIA Portal) v16: all versions prior to v16 Update 1
+ SIMATIC WinCC v7.3: all versions
+ SIMATIC WinCC v7.4: all versions prior to v7.4 SP1 Update 14
+ SIMATIC WinCC v7.5: all versions prior to v7.5.1 Upd1.","CVE-2019-1928
+CVE-2019-19282",7.5,High,CWE-131,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
 1481,1/7/2021,No Updates,2021,ICSMA-21-007-01,Innokas Yhtymä Oy Vital Signs Monitor,Innokas Yhtymä Oy,Innokas Yhtymä Oy Vital Signs Monitor,The following versions of Innokas Yhtymä Oy Vital Signs Monitors are affected: VC150 prior to Version 1.7.15.,CVE-2020-27260; CVE-2020-27262,5.3,Medium,CWE-79; CWE-74,Healthcare and Public Health,Worldwide,Finland
 1480,1/7/2021,No Updates,2021,ICSA-21-007-01,Hitachi ABB Power Grids FOX615 Multiservice-Multiplexer,Hitachi and ABB,Hitachi ABB Power Grids FOX615 Multiservice-Multiplexer,Hitachi ABB Power Grids reports a vulnerability exists in the libssh library included in the following products: FOX61x R1 using CESM1/CESM2: All versions prior to cesne_r1h07_12.esw FOX61x R2 using CESM1/CESM2: All versions prior to cesne_r2d14_03.esw.,CVE-2018-10933,9.1,Critical,CWE-287,Energy,Worldwide,Switzerland
 1479,1/7/2021,No Updates,2021,ICSA-21-007-02,Omron CX-One,Omron,Omron CX-One,The following versions of CX-One; an Automation Software Suite are affected: CX-One Versions 4.60 and prior; including the following applications: CX-Protocol Versions 2.02 and prior CX-Server Versions 5.0.28 and prior CX-Position Versions 2.52 and prior.,CVE-2020-27257; CVE-2020-27259; CVE-2020-27261,7.8,High,CWE-843; CWE-121; CWE-822,Critical Manufacturing,Worldwide,Japan
