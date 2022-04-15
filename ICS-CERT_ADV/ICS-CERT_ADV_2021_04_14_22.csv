@@ -27,7 +27,51 @@ icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Adviso
 1891,12/16/2021,No Updates,2021,ICSA-21-350-18,Siemens Teamcenter Active Workspace,Siemens,Teamcenter Active Workspace,"The following versions of Teamcenter Active Workspace, a collaboration tool, are affected: Teamcenter Active Workspace v4.3: All versions prior to v4.3.11 Teamcenter Active Workspace v5.0: All versions prior to v5.0.10 Teamcenter Active Workspace v5.1: All versions prior to v5.1.6 Teamcenter Active Workspace v5.2: All versions prior to v5.2.3.",CVE-2021-41547,6.8,Medium,CWE-22,Multiple Critical Sectors,Worldwide,Germany
 1890,12/16/2021,No Updates,2021,ICSA-21-350-19,Siemens SiPass Integrated,Siemens,SiPass Integrated,"The following versions of Siemens SiPass integrated, an access control system, are affected: SiPass Integrated v2.64: All versions SiPass Integrated v2.80: All versions SiPass Integrated v2.85: All versions.",CVE-2021-44522; CVE-2021-44523; CVE-2021-44524,7.5,High,CWE-668,Multiple Critical Sectors,Worldwide,Germany
 1889,12/16/2021,No Updates,2021,ICSA-21-350-20,Siemens JTTK and JT Utilities,Siemens,JTTK and JT Utilities,"The following versions of JT Open Toolkit (JTTK), an application programming interface, and JT Utilities, a series of command line utilities, are affected: JT Utilities: All versions prior to v12.8.1.1 JTTK: All versions prior to v10.8.1.1.",CVE-2021-44449; CVE-2021-44450,7.8,High,CWE-125; CWE-787,Critical Manufacturing,Worldwide,Germany
-1888,12/16/2021,No Updates,2021,ICSA-21-315-07,Siemens Nucleus RTOS-based APOGEE and TALON Products,Siemens,Nucleus RTOS-based APOGEE and TALON Products,"The following Nucleus RTOS based APOGEE and TALON Products, direct digital control (DDC) devices, are affected: APOGEE MBC (PPC) (BACnet): All versions APOGEE MBC (PPC) (P2 Ethernet): All versions APOGEE MEC (PPC) (BACnet): All versions APOGEE MEC (PPC) (P2 Ethernet): All versions APOGEE PXC Compact (BACnet): All versions APOGEE PXC Compact (P2 Ethernet): All versions APOGEE PXC Modular (BACnet): All versions APOGEE PXC Modular (P2 Ethernet): All versions; Desigo PXC00-E.D: Versions 2.3 and later Desigo PXC00-U: Versions 2.3 and later Desigo PXC001-E.D: Versions 2.3 and later Desigo PXC12-E.D: Versions 2.3 and later Desigo PXC22-E.D: Versions 2.3 and later Desigo PXC22.1-E.D: Versions 2.3 and later Desigo PXC36.1-E.D: Versions 2.3 and later Desigo PXC50-E.D: Versions 2.3 and later Desigo PXC64-U: Versions 2.3 and later Desigo PXC100-E.D: Versions 2.3 and later Desigo PXC128-U: Versions 2.3 and later Desigo PXC200-E.D: Versions 2.3 and later Desigo PXM20-E: Versions 2.3 and later; TALON TC Compact (BACnet): All versions TALON TC Modular (BACnet): All versions.",CVE-2021-31344; CVE-2021-31345; CVE-2021-31346; CVE-2021-31881; CVE-2021-31882; CVE-2021-31883; CVE-2021-31884; CVE-2021-31885; CVE-2021-31886; CVE-2021-31887; CVE-2021-31888; CVE-2021-31889; CVE-2021-31890,9.8,Critical,CWE-843; CWE-805; CWE-240; CWE-170; CWE-119; CWE-1284; CWE-191; CWE-125,Critical Manufacturing,Worldwide,Germany
+1888,12/16/2021,4/14/2022,2021,ICSA-21-315-07,Siemens Nucleus RTOS-based APOGEE and TALON Products (Update B),Siemens,Nucleus RTOS based APOGEE and TALON Products,"The following Nucleus RTOS based APOGEE and TALON Products, direct digital control (DDC) devices, are affected:
+ APOGEE MBC (PPC) (BACnet): All versions
+ APOGEE MBC (PPC) (P2 Ethernet): All versions
+ APOGEE MEC (PPC) (BACnet): All versions
+ APOGEE MEC (PPC) (P2 Ethernet): All versions
+ APOGEE PXC Compact (BACnet): All versions
+ APOGEE PXC Compact (P2 Ethernet): All versions
+ APOGEE PXC Modular (BACnet): All versions
+ APOGEE PXC Modular (P2 Ethernet): All versions
+ Desigo PXC00-E.D: Versions 2.3 and later
+ Desigo PXC00-U: Versions 2.3 and later
+ Desigo PXC001-E.D: Versions 2.3 and later
+ Desigo PXC12-E.D: Versions 2.3 and later
+ Desigo PXC22-E.D: Versions 2.3 and later
+ Desigo PXC22.1-E.D: Versions 2.3 and later
+ Desigo PXC36.1-E.D: Versions 2.3 and later
+ Desigo PXC50-E.D: Versions 2.3 and later
+ Desigo PXC64-U: Versions 2.3 and later
+ Desigo PXC100-E.D: Versions 2.3 and later
+ Desigo PXC128-U: Versions 2.3 and later
+ Desigo PXC200-E.D: Versions 2.3 and later
+ Desigo PXM20-E: Versions 2.3 and later
+ Update B:
+ TALON TC Compact (BACnet): All versions
+ TALON TC Modular (BACnet): All versions
+ End Update B.","CVE-2021-31344
+CVE-2021-31345
+CVE-2021-31346
+CVE-2021-31881
+CVE-2021-31882
+CVE-2021-31883
+CVE-2021-31884
+CVE-2021-31885
+CVE-2021-31886
+CVE-2021-31887
+CVE-2021-31888
+CVE-2021-31889
+CVE-2021-31890",9.8,Critical,"CWE-843
+CWE-805
+CWE-240
+CWE-170
+CWE-119
+CWE-1284
+CWE-191
+CWE-125",Critical Manufacturing,Worldwide,Germany
 1887,12/16/2021,3/22/2022,2021,ICSA-21-238-03,Delta Electronics DIAEnergie (Update B),Delta Electronics,DIAEnergie,The following versions of DIAEnergie are affected: DIAEnergie Version 1.7.5 and prior.,CVE-2021-23228; CVE-2021-31558;CVE-2021-32955; CVE-2021-32967; CVE-2021-32983; CVE-2021-32991; CVE-2021-33003; CVE-2021-38390; CVE-2021-38391; CVE-2021-38393; CVE-2021-44471; CVE-2021-44544; CVE-2022-0988,9.8,Critical,CWE-288; CWE-352; CWE-79; CWE-89; CWE-434; CWE-916; CWE-319,Critical Manufacturing,Worldwide,Taiwan
 1886,12/16/2021,No Updates,2021,ICSA-21-217-01,"HCC Embedded InterNiche TCP/IP stack, NicheLite (Update A)",HCC Embedded,"InterNiche stack (NicheStack), NicheLite",The following embedded component TCP/IP stacks are affected: InterNiche stack: All versions prior to v4.3 NicheLite: All versions prior to v4.3.,CVE-2021-27565; CVE-2021-31226; CVE-2021-31227; CVE-2021-31228; CVE-2021-31400; CVE-2021-31401; CVE-2021-36762; CVE-2020-25767; CVE-2020-25926; CVE-2020-25927; CVE-2020-25928; CVE-2020-35683; CVE-2020-35684; CVE-2020-35685,9.8,Critical,CWE-466; CWE-130; CWE-330; CWE-20; CWE-248; CWE-839; CWE-340; CWE-703; CWE-170,Multiple Critical Sectors,Worldwide,Hungary
 1885,12/16/2021,No Updates,2021,ICSA-21-131-03,Siemens Linux-based Products (Update F),Siemens,Linux Based Products,"The following Siemens Linux based products are affected: RUGGEDCOM RM1224: All versions between v5.0 and v6.4 SCALANCE M-800: All versions between v5.0 and v6.4 SCALANCE S615: All versions between v5.0 and v6.4 SCALANCE SC-600: All versions prior to v2.1.3 SCALANCE W1750D: v8.3.0.1, v8.6.0, and v8.7.0 SIMATIC Cloud Connect 7: All versions SIMATIC MV500 Family: All versions SIMATIC NET CP 1243-1 (incl. SIPLUS variants): Versions 3.1.39 and later SIMATIC NET CP 1243-7 LTE EU: Versions 3.1.39 and later SIMATIC NET CP 1243-7 LTE US: Versions 3.1.39 and later SIMATIC NET CP 1243-7: Versions 3.1.39 and later SIMATIC NET CP 1243-8 IRC: Versions 3.1.39 and later SIMATIC NET CP 1542SP-1 IRC (incl. SIPLUS variants): Versions 2.0 and later SIMATIC NET CP 1542SP-1: Versions 2.0 and later SIMATIC NET CP 1543-1 (incl. SIPLUS variants): Versions 2.2 and later SIMATIC NET CP 1543SP-1 (incl SIPLUS variants): Versions 2.0 and later SIMATIC NET CP 1545-1: All versions SINEMA Remote Connect Server: All versions prior to v3.0 SP1 TIM 1531 IRC (incl. SIPLUS NET variants): All versions.",CVE-2020-25705,7.4,High,CWE-330,Multiple Critical Sectors,Worldwide,Germany
