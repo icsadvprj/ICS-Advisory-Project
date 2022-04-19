@@ -1,4 +1,34 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2042,4/19/2022,No Updates,2022,ICSA-22-109-01,Interlogix Hills ComNav,Interlogix (Carrier Global Corporation),Hills ComNav,Carrier reports these vulnerabilities affect the following Hills ComNav remote access integration modules: Hills ComNav: versions prior to 3002-19.,"CVE-2022-26519
+CVE-2022-1318",6.2,Medium,"CWE-307
+CWE-326",Commercial Facilities,Australia,United States
+2041,4/19/2022,No Updates,2022,ICSA-22-109-02,Automated Logic WebCTRL,Automated Logic,WebCtrl Server,Carrier reports this vulnerability affects the following Automated Logic WebCtrl Server building automation software products: WebCtrl Server: All versions up to 7.0 3.2.,CVE-2022-1019,5.2,Medium,CWE-601,Commercial Facilities,Worldwide,United States
+2040,4/19/2022,No Updates,2022,ICSA-22-109-03,FANUC ROBOGUIDE Simulation Platform,FANUC Corporation / FANUC America Corporation,ROBOGUIDE,"The following versions of ROBOGUIDE, a simulation platform software suite for FANUC Robots, are affected: ROBOGUIDE v9.40083.00.05 (Rev T) and earlier.
+ Note: This offline simulation software program does not provide any control or management of physical devices or processes. It is included because it is used in Industrial Control Systems (ICS).","CVE-2021-38483
+CVE-2021-43986
+CVE-2021-43988
+CVE-2021-43990
+CVE-2021-43933",6.1,Medium,"CWE-732
+CWE-284
+CWE 22
+CWE-611
+CWE-400",Critical Manufacturing,Worldwide,Japan; United States
+2039,4/19/2022,No Updates,2022,ICSA-22-109-04,Elcomplus SmartPPT SCADA,Elcomplus,SmartPPT,"The following version of SmartPPT SCADA, an integrated voice and data dispatch software, is affected: SmartPPT SCADA v1.1.","CVE-2021-43932
+CVE-2021-43939
+CVE-2021-43934
+CVE-2021-43930",9.8,Critical,"CWE-79
+CWE-285
+CWE-434
+CWE-22",Communications,Worldwide,Russia
+2038,4/19/2022,No Updates,2022,ICSA-22-109-05,Elcomplus SmartPPT SCADA Server,Elcomplus,SmartPPT SCADA Server,"The following version of SmartPPT SCADA Server, an integrated voice and data dispatch software, is affected: SmartPPT SCADA Server v1.4.","CVE-2021-43932
+CVE-2021-43938
+CVE-2021-43934
+CVE-2021-43930
+CVE-2021-43937",9.8,Critical,"CWE-79
+CWE-200
+CWE-434
+CWE-35
+CWE-352",Communications,Worldwide,Russia
 2037,4/14/2022,No Updates,2022,ICSA-22-104-01,Delta Electronics DMARS,Delta Electronics,DMARS,"The following versions of DMARS, a Motion Controller program development tool, are affected:DMARS: All versions prior to v2.1.10.24.",CVE-2022-1331,5.5,Medium,CWE-611,Critical Manufacturing,Worldwide,Taiwan
 2036,4/14/2022,No Updates,2022,ICSA-22-104-02,Johnson Controls Metasys,Johnson Controls Inc.,Metasys ADS/ADX/OAS Servers,Johnson Controls reports this vulnerability affects the following Metasys ADS/ADX/OAS servers for building management systems: All Metasys ADS/ADX/OAS Servers: Versions 10 and 11.,CVE-2021-36205,8.1,High,CWE-459,Critical Manufacturing,Worldwide,Ireland
 2035,4/14/2022,No Updates,2022,ICSA-22-104-03,Red Lion DA50N,Red Lion,DA50N,"The following versions of Red Lion DA50N, a networking gateway, are affected: DA50N: All versions.","CVE-2022-26516; CVE-2022-1039; CVE-2022-27179",9.6,Critical,"CWE-345; CWE-521; CWE-1104; CWE-522",Multiple Critical Sectors,Worldwide,United States
