@@ -1,4 +1,27 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2045,4/21/2022,No Updates,2022,ICSA-22-111-01,Delta Electronics ASDA-Soft,Delta Electronics,ASDA-Soft,The following versions of ASDA-Soft servo software are affected: ASDA-Soft: Version 5.4.1.0 and prior.,"CVE-2022-1402
+CVE-2022-1403",7.8,High,"CWE-125
+CWE-787",Critical Manufacturing,Worldwide,Taiwan
+2044,4/21/2022,No Updates,2022,ICSA-22-111-02,Johnson Controls Metasys SCT Pro,"Johnson Controls, Inc.",Metasys,"The following versions of Johnson Controls SCT and SCT Pro building automation software are affected: 
+ Metasys System Configuration Tool (SCT): All versions prior to 14.2.2
+ Metasys System Configuration Tool Pro (SCT Pro): All versions prior to 14.2.2.",CVE-2021-36203,5.3,Medium,CWE-918,Critical Manufacturing,Worldwide,Ireland
+2043,4/21/2022,No Updates,2022,ICSA-22-111-03,Hitachi Energy MicroSCADA Pro/X SYS600,Hitachi Energy,MicroSCADA Pro/X SYS600,"The following versions of MicroSCADA Pro/X SYS600, a SCADA product, are affected:
+ SYS600: Versions 10.1.1 and prior (OpenSSL Vulnerability)
+ SYS600: Versions 9.4 FP1 through 10.2.1 (Node.js vulnerabilities)
+ SYS600: Versions 10.0.0 through 10.2.1 (PostgreSQL vulnerabilities).","CVE-2020-1968
+CVE-2020-8265
+CVE-2020-8287
+CVE-2020-8201
+CVE-2020-8252
+CVE-2020-8172
+CVE-2020-8174
+CVE-2021-32027
+CVE-2021-32028",8.8,High,"CWE-203
+CWE-444
+CWE-120
+CWE-295
+CWE-119
+CWE-200",Energy,Worldwide,Switzerland
 2042,4/19/2022,No Updates,2022,ICSA-22-109-01,Interlogix Hills ComNav,Interlogix (Carrier Global Corporation),Hills ComNav,Carrier reports these vulnerabilities affect the following Hills ComNav remote access integration modules: Hills ComNav: versions prior to 3002-19.,"CVE-2022-26519
 CVE-2022-1318",6.2,Medium,"CWE-307
 CWE-326",Commercial Facilities,Australia,United States
