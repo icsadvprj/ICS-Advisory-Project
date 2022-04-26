@@ -1,4 +1,15 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2046,4/26/2022,No Updates,2022,ICSA-22-116-01,Hitachi Energy System Data Manager,Hitachi Energy,System Data Manager – SDM600,Hitachi Energy reports these vulnerabilities affect the following System Data Manager products: All System Data Manager – SDM600 versions prior to version 1.2 FP2 HF10 (Build Nr. 1.2.14002.506).,"CVE-2020-1968
+CVE-2020-12243
+CVE-2020-25709
+CVE-2020-25710
+CVE-2020-36229
+CVE-2020-36230
+CVE-2021-23840",7.5,High,"CWE-203
+CWE-674
+CWE-617
+CWE-843
+CWE-190",Energy,Worldwide,Switzerland
 2045,4/21/2022,No Updates,2022,ICSA-22-111-01,Delta Electronics ASDA-Soft,Delta Electronics,ASDA-Soft,The following versions of ASDA-Soft servo software are affected: ASDA-Soft: Version 5.4.1.0 and prior.,"CVE-2022-1402
 CVE-2022-1403",7.8,High,"CWE-125
 CWE-787",Critical Manufacturing,Worldwide,Taiwan
@@ -316,7 +327,31 @@ CWE-787",Energy,Worldwide,Germany
 1939,2/1/2022,No Updates,2022,ICSA-22-032-02,Advantech ADAM-3600,Advantech,ADAM-3600,"The following versions of ADAM-3600, a remote terminal unit, are affected: ADAM-3600: Version 2.6.2 and prior.",CVE-2022-22987,9.8,Critical,CWE-321,Energy; Water and Wastewater Systems,East Asia United States Europe,Taiwan
 1938,2/1/2022,No Updates,2021,ICSA-21-315-02,Multiple Data Distribution Service (DDS) Implementations (Update A),"Eclipse, eProsima, GurumNetworks, Object Computing, Inc. (OCI), Real-Time Innovations (RTI), TwinOaks Computing","CycloneDDS, FastDDS, GurumDDS, OpenDDS, Connext DDS Professional, Connext DDS Secure, Connext DDS Micro, CoreDX DDS","The following implementations of OMG DDS are affected: Eclipse CycloneDDS: All versions prior to 0.8.0 eProsima Fast DDS: All versions prior to 2.4.0 (#2269) GurumNetworks GurumDDS: All versions Object Computing, Inc. (OCI) OpenDDS: All versions prior to 3.18.1 Real-Time Innovations (RTI) Connext DDS Professional and Connext DDS Secure: Versions 4.2x to 6.1.0 RTI Connext DDS Micro: Versions 3.0.0 and later TwinOaks Computing CoreDX DDS: All versions prior to 5.9.1.",CVE-2021-38441; CVE-2021-38443; CVE-2021-38425; CVE-2021-38423; CVE-2021-38439; CVE-2021-38445; CVE-2021-38447; CVE-2021-38429; CVE-2021-38427; CVE-2021-38433; CVE-2021-38435; CVE-2021-38487; CVE-2021-43547,8.6,High,CWE-121; CWE-122; CWE-123; CWE-130; CWE-131; CWE-228; CWE-405; CWE-406,Multiple Critical Sectors,Worldwide,Multiple
 1937,1/27/2022,No Updates,2021,ICSMA-21-355-01,Fresenius Kabi Agilia Connect Infusion System (Update A),Fresenius Kabi,Agilia Connect Infusion System,"The following accesories of the Agilia Connect Infusion System, are affected: Agilia Connect WiFi module of the pumps vD25 and prior Agilia Link+ v3.0 D15 and prior Vigilant Software Suite v1.0: Vigilant Centerium, Vigilant MasterMed and Vigilant Insight Agilia Partner maintenance software v3.3.0 and prior.",CVE-2021-23195; CVE-2021-23196; CVE-2021-23207; CVE-2021-23233; CVE-2021-23236; CVE-2021-31562; CVE-2021-33843; CVE-2021-33846; CVE-2021-33848; CVE-2021-41835; CVE-2021-43355; CVE-2021-44464; CVE-2020-35340,7.5,High,CWE-1104; CWE-256; CWE-284; CWE-327; CWE-400; CWE-522; CWE-548; CWE-552; CWE-603; CWE-798; CWE-79,Healthcare and Public Health,Worldwide,Germany
-1936,1/27/2022,No Updates,2021,ICSA-21-334-02,Mitsubishi Electric MELSEC and MELIPC Series (Update A),Mitsubishi Electric,MELSEC and MELIPC Series,"The following versions of MELSEC series CPU modules and MELIPC Series Industrial Computers are affected: MELSEC iQ-R Series R00/01/02CPU, Firmware: Versions 24 and prior MELSEC iQ-R Series R04/08/16/32/120(EN)CPU Firmware: Versions 57 and prior MELSEC iQ-R Series R08/16/32/120SFCPU: All versions MELSEC iQ-R Series R08/16/32/120PCPU Firmware: Versions 29 and prior MELSEC iQ-R Series R08/16/32/120PSFCPU: All versions MELSEC iQ-R Series R16/32/64MTCPU: All versions MELSEC iQ-R Series R12CCPU-V: All versions; MELSEC Q Series Q03UDECPU, Q04/06/10/13/20/26/50/100UDEHCPU: The first 5 digits of serial No. 23121 and prior; MELSEC Q Series Q03/04/06/13/26UDVCPU: The first 5 digits of serial No. 23071 and prior MELSEC Q Series Q04/06/13/26UDPVCPU: The first 5 digits of serial No. 23071 and prior MELSEC Q Series Q12DCCPU-V, Q24DHCCPU-V(G), Q24/26DHCCPU-LS: All versions MELSEC Q Series MR-MQ100: All versions MELSEC Q Series Q172/173DCPU-S1, Q172/173DSCPU: All versions MELSEC Q Series Q170MCPU, Q170MSCPU(-S1): All versions; MELSEC L Series L02/06/26CPU(-P), L26CPU-(P)BT: The first 5 digits of serial No. 23121 and prior; MELIPC Series MI5122-VW: All versions.",CVE-2021-20609; CVE-2021-20610; CVE-2021-20611,7.5,High,CWE-130; CWE-20; CWE-400,Critical Manufacturing,Worldwide,Japan
+1936,1/27/2022,4/26/2022,2021,ICSA-21-334-02,Mitsubishi Electric MELSEC and MELIPC Series (Update B),Mitsubishi Electric,MELSEC and MELIPC Series,"The following versions of MELSEC series CPU modules and MELIPC Series Industrial Computers are affected:
+MELSEC iQ-R Series R00/01/02CPU, Firmware: Versions 24 and prior
+MELSEC iQ-R Series R04/08/16/32/120(EN)CPU Firmware: Versions 57 and prior
+MELSEC iQ-R Series R08/16/32/120SFCPU: All versions
+MELSEC iQ-R Series R08/16/32/120PCPU Firmware: Versions 29 and prior
+MELSEC iQ-R Series R08/16/32/120PSFCPU: All versions
+MELSEC iQ-R Series R16/32/64MTCPU: All versions
+MELSEC iQ-R Series R12CCPU-V: All versions
+MELSEC Q Series Q03UDECPU, Q04/06/10/13/20/26/50/100UDEHCPU:  The first 5 digits of serial No. 23121 and prior
+MELSEC Q Series Q03/04/06/13/26UDVCPU: The first 5 digits of serial No. 23071 and prior
+MELSEC Q Series Q04/06/13/26UDPVCPU: The first 5 digits of serial No. 23071 and prior
+Begin Update B:
+MELSEC Q Series Q12DCCPU-V, Q24DHCCPU-V(G), Q24/26DHCCPU-LS: The first 5 digits of serial No. 24031 and prior
+MELSEC Q Series MR-MQ100: Operating system software version F and prior
+MELSEC Q Series Q172/173DCPU-S1: Operating system software version W and prior 
+MELSEC Q Series Q172/173DSCPU: All versions
+MELSEC Q Series Q170MCPU: Operating system software version W and prior 
+MELSEC Q Series Q170MSCPU(-S1): All versions
+End Update B
+MELSEC L Series L02/06/26CPU(-P), L26CPU-(P)BT:  The first 5 digits of serial No. 23121 and prior
+MELIPC Series MI5122-VW: All versions.","CVE-2021-20609
+CVE-2021-20610
+CVE-2021-20611",7.5,High,"CWE-130
+CWE-20
+CWE-400",Critical Manufacturing,Worldwide,Japan
 1935,1/25/2022,No Updates,2022,ICSA-22-025-01,GE Gas Power ToolBoxST,GE,ToolBoxST,GE reports these vulnerabilities affect the following software platform for programming: ToolBoxST OS: All versions prior to 07.09.07C.,CVE-2021-44477; CVE-2018-16202,7.5,High,CWE-22; CWE-611,Communications; Critical Manufacturing; Energy; Healthcare and Public Health; Transportation Systems; Water and Wastewater Systems,Worldwide,United States
 1934,1/20/2022,No Updates,2022,ICSA-22-020-01,ICONICS and Mitsubishi Electric HMI SCADA,ICONICS/Mitsubishi Electric,"ICONICS Product Suite, Mitsubishi Electric MC Works64","These vulnerabilities can affect the following HMI SCADA products: ICONICS Suite including GENESIS64, Hyper Historian, AnalytiX, and MobileHMI For CVE-2022-23127 (Cross-site Scripting CWE-79) All versions up to and including 10.96.2 For CVE-2022-23128 (Incomplete List of Disallowed Inputs CWE-184) All versions from 10.95.3 to 10.97 For CVE-2022-23129 (Plaintext Storage of a Password CWE-256) All versions from 10.90 to 10.97 For CVE-2022-23130 (Buffer Over-read CWE-126) All versions up to and including 10.97 Mitsubishi Electric MC Works64 For CVE-2022-23127 (Cross-site Scripting CWE-79) All versions prior to 4.04E (10.95.210.01) For CVE-2022-23128 (Incomplete List of Disallowed Inputs CWE-184) MC Works64: Version 4.00A (v10.95.201.23) to 4.04E (v10.95.210.01) For CVE-2022-23129 (Plaintext Storage of a Password CWE-256) All versions prior to 4.04E (10.95.210.01) For CVE-2022-23130 (Buffer Over-read CWE-126) MC Works64: Version 4.00A (v10.95.201.23) to 4.04E (v10.95.210.01).",CVE-2022-23127; CVE-2022-23128; CVE-2022-23129; CVE-2022-23130,9.8,Critical,CWE-126; CWE-184; CWE-256; CWE-79,Critical Manufacturing,Worldwide,United States; Japan
 1933,1/20/2022,4/5/2022,2021,ICSMA-21-187-01,Philips Vue PACS (Update B),Philips,Vue PACS,Philips reports these vulnerabilities affect the following Vue PACS products: Vue PACS: Versions 12.2.x.x and prior Vue MyVue: Versions 12.2.x.x and prior Vue Speech: Versions 12.2.x.x and prior Vue Motion: Versions 12.2.1.5 and prior.,CVE-2021-27493; CVE-2021-27497; CVE-2021-27501; CVE-2021-33018; CVE-2021-33020; CVE-2021-33022; CVE-2021-33024; CVE-2021-39369; CVE-2020-1938; CVE-2020-4670;CVE-2019-9636;CVE-2018-10115; CVE-2018-11218; CVE-2018-12326; CVE-2018-8014; CVE-2015-9251; CVE-2012-1708,9.8,Critical,CWE-1188; CWE-119; CWE-1214; CWE-176; CWE-20; CWE-23; CWE-287; CWE-319; CWE-324; CWE-327; CWE-522; CWE-665; CWE-693; CWE-707; CWE-710; CWE-79,Healthcare and Public Health,Worldwide,Netherlands
