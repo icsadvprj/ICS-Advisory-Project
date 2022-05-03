@@ -1,4 +1,30 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2048,5/3/2022,No Updates,2022,ICSA-22-123-01,Yokogawa CENTUM and ProSafe-RS,Yokogawa,CENTUM and ProSafe-RS,"The following versions of CENTUM (a Distributed Control System) and ProSafe-RS (Safety Instrumented System), are affected:
+
+CVE-2022-27188: 
+
+CENTUM VP series: CENTUM VP (Including CENTUM VP Entry Class): R4.01.00 through R4.03.00 (if VP6E5150 is installed)
+B/M9000 VP: R6.01.01 through R6.03.02
+
+CVE-2022-26034:
+
+CENTUM VP (Including CENTUM VP Entry Class): R6.01.10 through R6.09.00 (if VP6E5000 is installed)
+B/M9000 VP R8.01.01 through R8.03.01 
+Prosafe-RS: R4.01.00 through R4.07.00 – if RS4E5000 is installed
+
+CVE-2019-0203, CVE-2018-11782, CVE-2015-0248:
+
+CENTUM VP (Including CENTUM VP Entry Class): R6.01.10 through R6.07.10 if VP6E5000 or VP6E5100 are installed
+B/M9000 VP R8.01.01 through R8.03.01
+Prosafe-RS: R4.01.00 through R4.05.00 – if RS4E5000 or RS4E5100 are installed.","CVE-2022-27188
+CVE-2022-26034
+CVE-2019-0203
+CVE-2018-11782
+CVE-2015-0248",7.5,High,"CWE-78
+CWE-287
+CWE-476
+CWE-20
+CWE-399",Critical Manufacturing; Energy; Food and Agriculture,Worldwide,Japan
 2047,4/28/2022,No Updates,2022,ICSA-22-118-01,Johnson Controls Metasys,"Johnson Controls, Inc.",Metasys ADS/ADX/OAS Servers,Johnson Controls reports this vulnerability affects the following Metasys ADS/ADX/OAS Servers:All Metasys ADS/ADX/OAS Servers: Versions 10 and 11.,CVE-2021-36207,9.8,Critical,CWE-269,Critical Manufacturing,Worldwide,Ireland
 2046,4/26/2022,No Updates,2022,ICSA-22-116-01,Hitachi Energy System Data Manager,Hitachi Energy,System Data Manager – SDM600,Hitachi Energy reports these vulnerabilities affect the following System Data Manager products: All System Data Manager – SDM600 versions prior to version 1.2 FP2 HF10 (Build Nr. 1.2.14002.506).,"CVE-2020-1968
 CVE-2020-12243
