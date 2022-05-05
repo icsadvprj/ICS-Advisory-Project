@@ -1,4 +1,5 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2049,5/5/2022,No Updates,2022,ICSA-22-125-01,Johnson Controls Metasys,Johnson Controls Inc.,Metasys ADS/ADX/OAS Servers,Johnson Controls reports this vulnerability affects the following Metasys ADS/ADX/OAS Servers: Metasys ADS/ADX/OAS Servers: Versions 10 and 11.,CVE-2022-21934,8,High,CWE-620,Critical Manufacturing,Worldwide,Ireland
 2048,5/3/2022,No Updates,2022,ICSA-22-123-01,Yokogawa CENTUM and ProSafe-RS,Yokogawa,CENTUM and ProSafe-RS,"The following versions of CENTUM (a Distributed Control System) and ProSafe-RS (Safety Instrumented System), are affected:
 
 CVE-2022-27188: 
