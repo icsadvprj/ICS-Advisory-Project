@@ -1,4 +1,16 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2055,5/10/2022,No Updates,2022,ICSA-22-130-01,Adminer in Industrial Products,Adminer,Adminer,"The following versions of Adminer, a database management tool, are affected: Adminer: Versions 1.112.0 to 4.6.2.",CVE-2021-43008,7.5,High,CWE-552,Multiple Sectors,Worldwide,Czech Republic
+2054,5/10/2022,No Updates,2022,ICSA-22-130-02,Eaton Intelligent Power Protector,Eaton,Intelligent Power Protector (IPP),"The following versions of Eaton IPP, a power protection platform, are affected: Eaton Intelligent Power Protector (IPP): All versions prior to v1.69 release 166.",CVE-2021-23283,5.2,Medium,CWE-79,Multiple Sectors,Worldwide,Ireland
+2053,5/10/2022,No Updates,2022,ICSA-22-130-03,Eaton Intelligent Power Manager Infrastructure,Eaton,Intelligent Power Manager Infrastructure,The following Eaton Intelligent power monitoring products are affected: Eaton Intelligent Power Manager Infrastructure (IPM Infrastructure): All versions including v1.5.0 plus205.,"CVE-2021-23284
+CVE-2021-23285
+CVE-2021-23286",5.7,Medium,"CWE-79
+CWE-1236",Multiple Sectors,Worldwide,Ireland
+2052,5/10/2022,No Updates,2022,ICSA-22-130-04,Eaton Intelligent Power Manager,Eaton,Intelligent Power Manager (IPM) v1,"The following versions of Eaton IPM, a power management platform, are affected: Eaton Intelligent Power Manager (IPM) v1: All versions prior to v1.70.",CVE-2021-23282,5.2,Medium,CWE-79,Multiple Sectors,Worldwide,Ireland
+2051,5/10/2022,No Updates,2022,ICSA-22-130-05,AVEVA InTouch Access Anywhere and Plant SCADA Access Anywhere,AVEVA,AVEVA InTouch Access Anywhere and AVEVA Plant SCADA Access Anywhere,"AVEVA reports this vulnerability affects the following HMI products: AVEVA InTouch Access Anywhere: All versions; 
+ AVEVA Plant SCADA Access Anywhere (formerly known as AVEVA Citect Anywhere and Schneider Electric Citect Anywhere): All versions.",CVE-2022-1467,7.4,High,CWE-668,"Chemical, Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater Systems",Worldwide,United Kingdom
+2050,5/10/2022,No Updates,2022,ICSA-22-130-06,Mitsubishi Electric MELSOFT GT OPC UA,Mitsubishi Electric,MELSOFT GT OPC UA Client,The following products and version combinations using OPC UA Client Connections are affected: MELSOFT GT OPC UA Client: Versions 1.00A to 1.02C; GT SoftGOT2000: Versions 1.215Z to 1.270G.,"CVE-2021-3712
+CVE-2021-23840",7.5,High,"CWE-125
+CWE-190",Critical Manufacturing,Worldwide,Japan
 2049,5/5/2022,No Updates,2022,ICSA-22-125-01,Johnson Controls Metasys,Johnson Controls Inc.,Metasys ADS/ADX/OAS Servers,Johnson Controls reports this vulnerability affects the following Metasys ADS/ADX/OAS Servers: Metasys ADS/ADX/OAS Servers: Versions 10 and 11.,CVE-2022-21934,8,High,CWE-620,Critical Manufacturing,Worldwide,Ireland
 2048,5/3/2022,No Updates,2022,ICSA-22-123-01,Yokogawa CENTUM and ProSafe-RS,Yokogawa,CENTUM and ProSafe-RS,"The following versions of CENTUM (a Distributed Control System) and ProSafe-RS (Safety Instrumented System), are affected:
 
