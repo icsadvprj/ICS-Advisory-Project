@@ -1,4 +1,10 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2073,5/19/2022,No Updates,2022,ICSA-22-139-01,Mitsubishi Electric MELSEC iQ-F Series,Mitsubishi Electric,MELSEC iQ-F Series,"The following versions of the MELSEC iQ-F series a CPU module are affected:
+MELSEC iQ-F FX5U-xMy/z x=32,64,80, y=T,R, z=ES,DS,ESS,DSS: All versions prior to 1.270
+MELSEC iQ-F FX5UC-xMy/z x=32,64,96, y=T,R, z=D,DSS: All versions prior to 1.270
+MELSEC iQ-F FX5UC-32MT/DS-TS, FX5UC-32MT/DSS-TS, FX5UC-32MR/DS-TS: All versions prior to 1.270
+MELSEC iQ-F FX5UJ-xMy/z x=24,40,60, y=T,R, z=ES,ESS: All versions prior to 1.030.","CVE-2022-2516
+CVE-2022-25162",8.6,High,CWE-20,Critical Manufacturing,Worldwide,Japan
 2072,5/17/2022,No Updates,2022,ICSA-22-137-01,Circutor COMPACT DC-S BASIC,Circutor,COMPACT DC-S BASIC,"The following versions of Circutor COMPACT DC-S BASIC, a smart metering concentrator, are affected: Circutor COMPACT DC-S BASIC: CIR_CDC_v1.2.17.",CVE-2022-1669,6.8,Medium,CWE-121,Critical Manufacturing,Worldwide,Spain
 2071,5/12/2022,No Updates,2022,ICSA-22-132-01,Delta Electronics CNCSoft,Delta Electronics,CNCSoft,"The following versions of CNCSoft, a software management platform, are affected: CNCSoft: All versions prior to 1.01.32.","CVE-2022-1405
 CVE-2022-1404",7.8,High,"CWE-121
