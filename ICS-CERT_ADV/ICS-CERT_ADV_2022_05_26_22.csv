@@ -1,4 +1,13 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2077,5/26/2022,No Updates,2022,ICSA-22-146-02,Horner Automation Cscape Csfont,Horner Automation,Cscape Csfont,The following versions of Horner Automation Cscape PLC management software are affected: Horner Automation Cscape Csfont: Versions 9.90 SP5 (v9.90.196) and prior.,"CVE-2022-27184
+ CVE-2022-28690
+ CVE-2022-29488
+ CVE-2022-30540",7.8,High,"CWE-787
+ CWE-125
+ CWE-122",Critical Manufacturing,Worldwide,United States
+2076,5/26/2022,No Updates,2022,ICSA-22-146-01,Keysight N6854A Geolocation server and N6841A RF Sensor software,"Keysight Technologies, Inc.",N6854A Geolocation server and N6841A RF Sensor software,"The following version of Keysight N6854A Geolocation and server and N6841A Sensor software, a spectrum monitoring platform, are affected: Keysight N6854A and N6841A RF: Version 2.4.0 or later.","CVE-2022-1661
+ CVE-2022-1660",9.8,Critical,"CWE-23
+ CWE-502",Critical Manufacturing; Transportation Systems,Worldwide,United States
 2075,5/24/2022,No Updates,2022,ICSA-22-144-01,Rockwell Automation Logix Controllers,Rockwell Automation,Logix Controllers,"Rockwell Automation reports this vulnerability affects the following Logix Controllers: 
 CompactLogix 5380 controllers: firmware Versions 32.013 and earlier
 Compact GuardLogix 5380 controllers: firmware Versions 32.013 and earlier
