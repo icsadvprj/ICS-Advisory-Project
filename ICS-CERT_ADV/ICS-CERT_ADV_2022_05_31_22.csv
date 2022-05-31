@@ -1,4 +1,29 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2080,5/31/2022,No Updates,2022,ICSMA-22-151-01,BD Pyxis,"Becton, Dickinson and Company (BD)",Pyxis,"The following BD Pyxis products, an automated medication dispensing system, are affected:
+BD Pyxis ES Anesthesia Station
+BD Pyxis CIISafe
+BD Pyxis Logistics
+BD Pyxis MedBank
+BD Pyxis MedStation 4000
+BD Pyxis MedStation ES
+BD Pyxis MedStation ES Server
+BD Pyxis ParAssist
+BD Pyxis Rapid Rx
+BD Pyxis StockStation
+BD Pyxis SupplyCenter
+BD Pyxis SupplyRoller
+BD Pyxis SupplyStation
+BD Pyxis SupplyStation EC
+BD Pyxis SupplyStation RF auxiliary
+BD Rowa Pouch Packaging Systems.",CVE-2022-22767,8.8,High,CWE-262,Healthcare and Public Health,Worldwide,United States
+2079,5/31/2022,No Updates,2022,ICSMA-22-151-02,BD Synapsys,"Becton, Dickinson and Company (BD)",Synapsys,"The following versions of BD Synapsys, a microbiology informatics software platform, are affected: BD Synapsys: Versions 4.20, 4.20 SR1 and 4.30.",CVE-2022-30277,5.7,Medium,CWE-613,Healthcare and Public Health,Worldwide,United States
+2078,5/31/2022,No Updates,2022,ICSA-22-151-01,Fuji Electric Alpha7 PC Loader,Fuji Electric,Alpha7 PC Loader,"The following versions of Alpha7 PC Loader, a servo drive system, are affected: Alpha7 PC Loader: All versions.",CVE-2022-1888,7.8,High,CWE-121,Critical Manufacturing,Worldwide,Japan
+2077,5/26/2022,No Updates,2022,ICSA-22-146-02,Horner Automation Cscape Csfont,Horner Automation,Cscape Csfont,The following versions of Horner Automation Cscape PLC management software are affected: Horner Automation Cscape Csfont: Versions 9.90 SP5 (v9.90.196) and prior.,"CVE-2022-27184
+ CVE-2022-28690
+ CVE-2022-29488
+ CVE-2022-30540",7.8,High,"CWE-787
+ CWE-125
+ CWE-122",Critical Manufacturing,Worldwide,United States
 2077,5/26/2022,No Updates,2022,ICSA-22-146-02,Horner Automation Cscape Csfont,Horner Automation,Cscape Csfont,The following versions of Horner Automation Cscape PLC management software are affected: Horner Automation Cscape Csfont: Versions 9.90 SP5 (v9.90.196) and prior.,"CVE-2022-27184
  CVE-2022-28690
  CVE-2022-29488
@@ -19,11 +44,19 @@ Compact GuardLogix 5370 controllers: firmware Versions 33.013 and earlier
 ControlLogix 5570 controllers: firmware Versions 33.013 and earlier
 GuardLogix 5570 controllers: firmware Versions 33.013 and earlier.",CVE-2022-1797,6.8,Medium,CWE-400,Multiple Critical Sectors,Worldwide,United States
 2074,5/24/2022,No Updates,2022,ICSA-22-144-02,Matrikon OPC Server,Matrikon (Subsidiary of Honeywell),Matrikon OPC Server,The following versions of Makitron OPC software are affected: Matrikon OPC Server: All versions.,CVE-2022-1261,5.8,Medium,CWE-284,Multiple Critical Sectors,Worldwide,Canada
-2073,5/19/2022,No Updates,2022,ICSA-22-139-01,Mitsubishi Electric MELSEC iQ-F Series,Mitsubishi Electric,MELSEC iQ-F Series,"The following versions of the MELSEC iQ-F series a CPU module are affected:
-MELSEC iQ-F FX5U-xMy/z x=32,64,80, y=T,R, z=ES,DS,ESS,DSS: All versions prior to 1.270
-MELSEC iQ-F FX5UC-xMy/z x=32,64,96, y=T,R, z=D,DSS: All versions prior to 1.270
+2073,5/19/2022,5/31/2022,2022,ICSA-22-139-01,Mitsubishi Electric MELSEC iQ-F Series (Update A),Mitsubishi Electric,MELSEC iQ-F Series,"The following versions of the MELSEC iQ-F series a CPU module are affected:
+--------- Begin Update A Part 1 of 3 ---------
+MELSEC iQ-F FX5U-xMy/z x=32,64,80, y=T,R, z=ES,DS,ESS,DSS with serial number 17X**** or later: All versions prior to 1.270
+MELSEC iQ-F FX5U-xMy/z x=32,64,80, y=T,R, z=ES,DS,ESS,DSS with Serial number 179**** and prior: All versions prior to 1.073
+MELSEC iQ-F FX5UC-xMy/z x=32,64,96, y=T,R, z=D,DSS with serial number 17X**** or later: All versions prior to 1.270
+MELSEC iQ-F FX5UC-xMy/z x=32,64,96, y=T,R, z=D,DSS with Serial number 179**** and prior: All versions prior to 1.073
+--------- End Update A Part 1 of 3 ---------
 MELSEC iQ-F FX5UC-32MT/DS-TS, FX5UC-32MT/DSS-TS, FX5UC-32MR/DS-TS: All versions prior to 1.270
-MELSEC iQ-F FX5UJ-xMy/z x=24,40,60, y=T,R, z=ES,ESS: All versions prior to 1.030.","CVE-2022-2516
+MELSEC iQ-F FX5UJ-xMy/z x=24,40,60, y=T,R, z=ES,ESS: All versions prior to 1.030
+--------- Begin Update A Part 2 of 3 ---------
+MELSEC iQ-F FX5UJ-xMy/ES-A x=24,40,60, y=T.R: All versions prior to 1.031 (These products are sold in limited regions)
+MELSEC iQ-F FX5S-xMy/z x=30,40,60,80, y=T.R, z=ES,ESS: Version 1.000 (These products are sold in limited regions)
+--------- End Update A Part 2 of 3 ---------","CVE-2022-25161
 CVE-2022-25162",8.6,High,CWE-20,Critical Manufacturing,Worldwide,Japan
 2072,5/17/2022,No Updates,2022,ICSA-22-137-01,Circutor COMPACT DC-S BASIC,Circutor,COMPACT DC-S BASIC,"The following versions of Circutor COMPACT DC-S BASIC, a smart metering concentrator, are affected: Circutor COMPACT DC-S BASIC: CIR_CDC_v1.2.17.",CVE-2022-1669,6.8,Medium,CWE-121,Critical Manufacturing,Worldwide,Spain
 2071,5/12/2022,No Updates,2022,ICSA-22-132-01,Delta Electronics CNCSoft,Delta Electronics,CNCSoft,"The following versions of CNCSoft, a software management platform, are affected: CNCSoft: All versions prior to 1.01.32.","CVE-2022-1405
@@ -61,7 +94,6 @@ CWE-89
 CWE-22
 CWE-676",Information Technology,Worldwide,United States
 2067,5/12/2022,No Updates,2022,ICSA-22-132-05,Siemens Industrial PCs and CNC devices,Siemens,Industrial PCs and CNC devices,"Siemens reports these vulnerabilities affect the following Industrial PCs and CNC devices:
- 
  SIMATIC Drive Controller family: All versions prior to v05.00.01.00
  SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants): All versions prior to v0209_0105
  SIMATIC Field PG M5: All BIOS versions prior to v22.01.08
@@ -542,8 +574,46 @@ CWE-20",Critical Manufacturing,Worldwide,Japan
 2009,3/31/2022,No Updates,2022,ICSA-22-090-01,Schneider Electric SCADAPack Workbench,Schneider Electric,SCADAPack Workbench,The following versions of SCADAPack Workbench software are affected: SCADAPack Workbench Versions 6.6.8a and prior.,CVE-2022-0221,5.5,Medium,CWE-611,Multiple Critical Sectors,Worldwide,France
 2008,3/31/2022,No Updates,2022,ICSA-22-090-02,Hitachi Energy e-mesh EMS,Hitachi Energy,e-mesh EMS,"The following version of e-mesh EMS, an optimizer software for energy resources, is affected: e-mesh EMS Version 1.0.","CVE-2020-8174; CVE-2020-8265; CVE-2020-11080; CVE-2021-22883",7.5,High,"CWE-119; CWE-400; CWE-416",Energy,Worldwide,Switzerland
 2007,3/31/2022,No Updates,2022,ICSA-22-090-03,Fuji Electric Alpha5,Fuji Electric,Alpha5,"The following versions of Fuji Electric’s Alpha5, a servo drive system, are affected: Alpha5: All versions prior to 4.3.","CVE-2022-21168; CVE-2022-21202; CVE-2022-24383; CVE-2022-21228; CVE-2022-21214",7.8,High,"CWE-824; CWE-125; CWE-121; CWE-122",Critical Manufacturing,Worldwide,Japan
-2006,3/31/2022,No Updates,2022,ICSA-22-090-04,Mitsubishi Electric FA Products,Mitsubishi Electric,FA products,"The following FA CPU module products are affected:MELSEC iQ-F Series FX5U(C) CPU modules, All models: All versions MELSEC iQ-F Series FX5UJ CPU modules, All models: All versions
-1.","CVE-2022-25155; CVE-2022-25156; CVE-2022-25157; CVE-2022-25158; CVE-2022-25159; CVE-2022-25160",7.4,High,"CWE-836; CWE-328; CWE-312; CWE-294",Critical Manufacturing,Worldwide,Japan
+2006,3/31/2022,5/31/2022,2022,ICSA-22-090-04,Mitsubishi Electric FA Products (Update A),Mitsubishi Electric,FA products,"The following FA CPU module products are affected:
+MELSEC iQ-F Series FX5U(C) CPU modules, All models: All versions
+MELSEC iQ-F Series FX5UJ CPU modules, All models: All versions
+--------- Begin Update A Part 1 of 2 ---------
+MELSEC iQ-R series: All Versions of the following:
+R00/01/02CPU:
+R04/08/16/32/120(EN)CPU
+R08/16/32/120SFCPU
+R08/16/32/120PCPU
+R08/16/32/120PSFCPU
+R16/32/64MTCPU
+RJ71GN11-T2
+RJ71GN11-EIP
+RJ71C24(-R2/R4)
+RJ71EN71
+RJ71GF11-T2
+RJ71GP21(S)-SX
+RJ72GF15-T2
+MELSEC Q series: All Versions of the following: 
+Q03UDECPU, Q04/06/10/13/20/26/50/100UDEHCPU
+Q03/04/06/13/26UDVCPU
+Q04/06/13/26UDPVCPU
+QJ71C24N(-R2/R4)
+QJ71E71-100
+QJ72BR15
+QJ72LP25(-25/G/GE)
+MELSEC L series: All Versions of the following:
+L02/06/26CPU(-P), L26CPU-(P)BT
+LJ71C24(-R2)
+LJ71E71-100
+LJ72GF15-T2
+--------- End Update A Part 1 of 2 ---------","CVE-2022-25155
+CVE-2022-25156
+CVE-2022-25157
+CVE-2022-25158
+CVE-2022-25159
+CVE-2022-25160",7.4,High,"CWE-836
+CWE-328
+CWE-312
+CWE-294",Critical Manufacturing,Worldwide,Japan
 2005,3/31/2022,No Updates,2022,ICSA-22-090-05,Rockwell Automation Logix Controllers,Rockwell Automation,Logix Controllers,Rockwell Automation reports the vulnerability affects the following products: 1768 CompactLogix controllers; 1769 CompactLogix controllers; CompactLogix 5370 controllers; CompactLogix 5380 controllers; CompactLogix 5480 controllers; Compact GuardLogix 5370 controllers; Compact GuardLogix 5380 controllers; ControlLogix 5550 controllers; ControlLogix 5560 controllers; ControlLogix 5570 controllers; ControlLogix 5580 controllers; GuardLogix 5560 controllers; GuardLogix 5570 controllers; GuardLogix 5580 controllers; FlexLogix 1794-L34 controllers; DriveLogix 5730 controllers; SoftLogix 5800 controllers.,CVE-2022-1161,10,Critical,CWE-829,Multiple Sectors,Worldwide,United States
 2004,3/31/2022,No Updates,2022,ICSA-22-090-06,General Electric Renewable Energy MDS Radios,General Electric Renewable Energy,MDS iNET/iNET II/SD/TD220/TD220MAX Radios,General Electric reports these vulnerabilities affect the following radios: iNET/iNET II series radio firmware versions prior to rev. 8.3.0; SD series radio firmware versions prior to rev. 6.4.7; TD220X series radio firmware versions prior to rev. 2.0.16; TD220MAX series radio firmware versions prior to rev. 1.2.6.,"CVE-2017-17562; CVE-2022-24119; CVE-2022-24116; CVE-2022-24118; CVE-2022-24120; CVE-2022-24117",10,Critical,"CWE-20; CWE-912; CWE-326; CWE-400; CWE-256; CWE-494",Communications; Critical Manufacturing; Energy; Healthcare and Public Health; Transportation Systems; Water and Wastewater Systems,Worldwide,United States
 2003,3/31/2022,No Updates,2022,ICSA-22-090-07,Rockwell Automation Studio 5000 Logix Designer,Rockwell Automation,Studio 5000 Logix Designer,"Rockwell Automation reports this vulnerability affects the following Studio 5000 Logix Designer design, configuration hardware, and software products: ControlLogix 5580 controllers; GuardLogix 5580 controllers; CompactLogix 5380 controllers; CompactLogix 5480 controllers Compact GuardLogix 5380 controllers.",CVE-2022-1159,7.7,High,CWE-94,Multiple Critical Sectors,Worldwide,United States
