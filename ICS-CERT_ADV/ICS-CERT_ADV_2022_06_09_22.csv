@@ -1,4 +1,31 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2084,6/9/2022,No Updates,2022,ICSA-22-160-01,Mitsubishi Electric Air Conditioning Systems,Mitsubishi Electric,Air Conditioning Systems,"The firmware on the following Mitsubishi Electric products is affected:
+G-150AD: Versions 3.21 and prior
+AG-150A-A: Versions 3.21 and prior
+AG-150A-J: Versions 3.21 and prior
+GB-50AD: Versions 3.21 and prior
+GB-50ADA-A: Versions 3.21 and prior
+GB-50ADA-J: Versions 3.21 and prior
+EB-50GU-A: Versions. 7.10 and prior
+EB-50GU-J: Versions 7.10 and prior
+AE-200J: Versions 7.97 and prior
+AE-200A: Versions 7.97 and prior
+AE-200E: Versions 7.97 and prior
+AE-50J: Versions 7.97 and prior
+AE-50A: Versions 7.97 and prior
+AE-50E: Versions 7.97 and prior
+EW-50J: Versions 7.97 and prior
+EW-50A: Versions 7.97 and prior
+EW-50E: Versions 7.97 and prior
+TE-200A: Versions 7.97 and prior
+TE-50A: Versions 7.97 and prior
+TW-50A: Versions 7.97 and prior.","CVE-2022-24296
+CVE-2016-2183
+CVE-2013-2566
+CVE-2015-2808
+CVE-2009-3555",7.5,High,"CWE-327
+CWE-200
+CWE-300",Commercial Facilities,Worldwide,Japan
 2083,6/3/2022,No Updates,2022,ICSA-22-154-01,Vulnerabilities Affecting Dominion Voting Systems ImageCast X,Dominion Voting Systems,Democracy Suite ImageCast X,"The following versions of the Dominion Voting Systems ImageCast X software are known to be affected (other versions were not able to be tested):
 ImageCast X firmware based on Android 5.1, as used in Dominion Democracy Suite Voting System Version 5.5-A
 ImageCast X application Versions 5.5.10.30 and 5.5.10.32, as used in Dominion Democracy Suite Voting System Version 5.5-A
