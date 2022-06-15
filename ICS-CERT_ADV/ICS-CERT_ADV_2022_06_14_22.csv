@@ -1,4 +1,15 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2087,6/14/2022,No Updates,2022,ICSA-22-165-01,Johnson Controls Metasys ADS ADX OAS Servers,"Johnson Controls, Inc.",Metasys ADS/ADX/OAS Servers,The following versions of Metasys ADS/ADX/OAS Servers are affected: All Metasys ADS/ADX/OAS Versions 10 and 11.,"CVE-2022-21935
+CVE-2022-21937
+CVE-2022-21938",8.7,High,"CWE-620
+CWE-79",Critical Manufacturing,Worldwide,Ireland
+2086,6/14/2022,No Updates,2022,ICSA-22-165-02,Meridian Cooperative Meridian,Meridian Cooperative,Meridian,"The following versions of Meridian utility software are affected:
+Version 22.02
+Version 22.03.",CVE-2022-29578,7.5,High,CWE-284,Energy,United States,United States
+2085,6/14/2022,No Updates,2022,ICSA-22-165-03,Mitsubishi Electric MELSEC-Q/L and MELSEC iQ-R,Mitsubishi Electric,MELSEC-Q/L Series and iQ-R Series,"The following versions of MELSEC-Q Ethernet Interface Module, MELSEC-L Ethernet Interface Module, and MELSEC iQ-R MES Interface Module are affected:
+MELSEC-Q Series QJ71E71-100: First five digits of serial number 24061 and prior
+MELSEC-L Series LJ71E71-100: First five digits of serial number 24061 and prior
+MELSEC iQ-R Series RD81MES96N: firmware Version 08 and prior.",CVE-2022-25163,8.1,High,CWE-20,Critical Manufacturing,Worldwide,Japan
 2084,6/9/2022,No Updates,2022,ICSA-22-160-01,Mitsubishi Electric Air Conditioning Systems,Mitsubishi Electric,Air Conditioning Systems,"The firmware on the following Mitsubishi Electric products is affected:
 G-150AD: Versions 3.21 and prior
 AG-150A-A: Versions 3.21 and prior
