@@ -124,15 +124,14 @@ SINEMA Remote Connect Server: All versions prior to v3.0 SP1.",CVE-2020-25705,7.
  TALON TC Series (BACnet): All versions prior to 3.5.3
  APOGEE PXC Series (BACnet): All versions prior to 3.5.3.","CVE-2019-1393
 CVE-2019-13939",7.1,High,CWE-84,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
-1882,12/16/2021,5/12/2022,2021,ICSA-20-014-05,Siemens TIA Portal (Update D),Siemens,TIA Portal,"The following versions of TIA Portal, the Totally Integrated Automation Portal, are affected:
- TIA Portal v14: All versions 
- Begin Update D:
- TIA Portal v15: All versions prior to v15.1 Update 7
- End Update D
- TIA Portal v16: All versions 
- TIA Portal v17: All versions","CVE-2019-1093
+1882,12/16/2021,6/16/2022,2021,ICSA-20-014-05,Siemens TIA Portal (Update E),Siemens,TIA Portal,"The following versions of TIA Portal, the Totally Integrated Automation Portal, are affected:
+TIA Portal v14: All versions
+TIA Portal v15: All versions prior to v15.1 Update 7
+TIA Portal v16: All versions 
+--------- Begin Update E Part 1 of 2 ---------
+TIA Portal v17: All versions prior to v17 update 4
+--------- End Update E Part 1 of 2 ---------.","CVE-2019-1093
 CVE-2019-10934",7.8,High,CWE-22,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
-1882,12/16/2021,No Updates,2021,ICSA-20-014-05,Siemens TIA Portal (Update B),Siemens,TIA Portal,The following versions of TIA Portal; the Totally Integrated Automation Portal are affected: TIA Portal v14: All versions prior to v14 SP1 Update 10; TIA Portal v15: All versions prior to v15.1 Upd 4 TIA Portal v16: All versions prior to v16 Upd 1.,CVE-2019-1093; CVE-2019-10934,7.8,High,CWE-22,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
 1881,12/14/2021,No Updates,2021,ICSA-21-348-01,Advantech R-SeeNet,Advantech,R-SeeNet,"The following versions of R-SeeNet, a monitoring application, are affected: R-SeeNet: Versions 2.4.16 and prior.",CVE-2021-21910; CVE-2021-21911; CVE-2021-21912; CVE-2021-21915; CVE-2021-21916; CVE-2021-21917; CVE-2021-21918; CVE-2021-21919; CVE-2021-21920; CVE-2021-21921; CVE-2021-21922; CVE-2021-21923; CVE-2021-21924; CVE-2021-21925; CVE-2021-21926; CVE-2021-21927; CVE-2021-21928; CVE-2021-21929; CVE-2021-21930; CVE-2021-21931; CVE-2021-21932; CVE-2021-21933; CVE-2021-21934; CVE-2021-21935; CVE-2021-21936; CVE-2021-21937,8.8,High,CWE-89; CWE-269,Critical Manufacturing; Energy; Water and Wastewater Systems,East Asia Europe Middle East South America United States,Taiwan
 1880,12/14/2021,No Updates,2021,ICSMA-21-152-01,Hillrom Medical Device Management (Update A),Hillrom,Medical Device Management,"The following Hillrom products, are affected: Welch Allyn Service Tool: versions prior to v1.10 Welch Allyn Connex Device Integration Suite  Network Connectivity Engine (NCE): versions prior to v5.3 Welch Allyn Software Development Kit (SDK): versions prior to v3.2 Welch Allyn Connex Central Station (CS): versions prior to v1.8.6 Welch Allyn Service Monitor: versions prior to v1.7.0.0 Welch Allyn Connex Vital Signs Monitor (CVSM): versions prior to v2.43.02 Welch Allyn Connex Integrated Wall System (CIWS): versions prior to v2.43.02 Welch Allyn Connex Spot Monitor (CSM): versions prior to v1.52 Welch Allyn Spot Vital Signs 4400 Device (Spot 4400) / Welch Allyn Spot 4400 Vital Signs Extended Care Device: versions prior to v1.11.00.",CVE-2021-27408; CVE-2021-27410,5.9,Medium,CWE-125; CWE-787,Healthcare and Public Health,Worldwide,United States
 1879,12/9/2021,No Updates,2021,ICSMA-21-343-01,Hillrom Welch Allyn Cardio Products,Hillrom,Welch Allyn Cardio Products,"The following Hillrom cardiology products, when configured to use single sign-on (SSO), are affected: Welch Allyn Q-Stress Cardiac Stress Testing System: Versions 6.0.0 through 6.3.1 Welch Allyn X-Scribe Cardiac Stress Testing System: Versions 5.01 through 6.3.1 Welch Allyn Diagnostic Cardiology Suite: Version 2.1.0 Welch Allyn Vision Express: Versions 6.1.0 through 6.4.0 Welch Allyn H-Scribe Holter Analysis System: Versions 5.01 through 6.4.0 Welch Allyn R-Scribe Resting ECG System: Versions 5.01 through 7.0.0 Welch Allyn Connex Cardio: Versions 1.0.0 through 1.1.1.",CVE-2021-43935,8.1,High,CWE-288,Healthcare and Public Health,Worldwide,United States
@@ -354,7 +353,76 @@ CVE-2019-10934",7.8,High,CWE-22,Chemical; Critical Manufacturing; Energy; Food a
  SOFTNET-IE PNIO: All versions",CVE-2020-28400,7.5,High,CWE-770,Multiple Critical Sectors,Worldwide,Germany
 1792,10/14/2021,No Updates,2021,ICSA-21-131-12,Siemens SIMATIC SmartVNC HMI WinCC Products (Update B),Siemens,SIMATIC SmartVNC HMI WinCC Products,"The following Siemens SIMATIC HMIs/WinCC products are affected: SIMATIC HMI Comfort Outdoor Panels 7 and 15 (incl. SIPLUS variants): All versions prior to v16 Update 4 SIMATIC HMI Comfort Panels 4-22 (incl. SIPLUS variants): All versions prior to v16 Update 4 SIMATIC HMI KTP Mobile Panels KTP400F, KTP700, KTP700F, KTP900, KTP900F: All versions prior to v16 Update 4 SIMATIC WinCC Runtime Advanced: All versions prior to v16 Update 4.",CVE-2021-25660; CVE-2021-25661; CVE-2021-25662; CVE-2021-27383; CVE-2021-27384; CVE-2021-27385; CVE-2021-27386,9.8,Critical,CWE-788; CWE-755; CWE-119; CWE-400,Multiple Critical Sectors,Worldwide,Germany
 1791,10/14/2021,No Updates,2021,ICSA-21-131-14,Siemens SCALANCE W1750D (Update B),Siemens,SCALANCE W1750D,"The following versions of SCALANCE W1750D, a software management platform, are affected: SCALANCE W1750D: All versions prior to 8.7.0 SCALANCE W1750D: Version 8.7.0 (Only affected by CVE-2020-24635, CVE-2020-24636, CVE-2021-25145, CVE-2021-25146, CVE-2021-25155, CVE-2021-25156, CVE-2021-25157, CVE-2021-25158, CVE-2021-25159, CVE-2021-25160, CVE-2021-25161, and CVE-2021-25162).",CVE-2021-25143; CVE-2021-25144; CVE-2021-25145; CVE-2021-25146; CVE-2021-25148; CVE-2021-25149; CVE-2021-25150; CVE-2021-25155; CVE-2021-25156; CVE-2021-25157; CVE-2021-25158; CVE-2021-25159; CVE-2021-25160; CVE-2021-25161; CVE-2021-25162; CVE-2020-24635; CVE-2020-24636; CVE-2019-5317; CVE-2019-5319,9.8,Critical,CWE-20; CWE-77; CWE-79; CWE-120; CWE-287; CWE-362,Chemical; Energy; Food and Agriculture; Healthcare and Public Health; Transportation; Water and Wastewater,Worldwide,Germany
-1790,10/14/2021,No Updates,2021,ICSA-20-042-04,Siemens PROFINET-IO Stack (Update F),Siemens,PROFINET-IO Stack,Products that include the Siemens PROFINET-IO (PNIO) stack in versions prior to v06.00 are affected. Additionally; Siemens recommends other vendors of PROFINET devices check their products for vulnerable versions of the Siemens PNIO stack as part of the Siemens Development/Evaluation Kits. Development/Evaluation Kits for PROFINET IO: DK Standard Ethernet Controller: all versions EK-ERTEC 200: all versions prior to 4.5 EK-ERTEC 200P: all versions prior to 4.6 PROFINET Driver for Controller: all version prior to 2.1 RUGGEDCOM RM1224: all versions prior to 4.3 SCALANCE M-800 / S615: all versions prior to 4.3 SCALANCE W700 IEEE 802.11n: all versions prior to 6.0.1 SCALANCE X-200 switch family (incl. SIPLUS NET variants): all versions SCALANCE X-200IRT switch family (incl. SIPLUS NET variants): all versions prior to 5.3 SCALANCE X-300 switch family (incl. X408 and SIPLUS NET variants): all versions SCALANCE XB-200; XC-200; XP-200; XF-200BA and XR-300WG: all versions prior to 3.0 SCALANCE XM-400 switch family: all versions prior to 6.0 SCALANCE XR-500 switch family: all versions prior to 6.0 SIMATIC CP 1616 and CP 1604: all versions prior to 2.8 SIMATIC CP 343-1 (incl. SIPLUS NET variants): all versions SIMATIC CP 343-1 Advanced (incl. SIPLUS NET variants): all versions SIMATIC CP 343-1 ERPC: all versions SIMATIC CP 343-1 LEAN (incl. SIPLUS NET variants): all versions SIMATIC CP 443-1 (incl. SIPLUS NET variants): all versions SIMATIC CP 443-1 Advanced (incl. SIPLUS NET variants): all versions SIMATIC CP 443-1 OPC UA: all versions SIMATIC ET200AL IM 157-1 PN: all versions SIMATIC ET200M IM153-4 PN IO HF (incl. SIPLUS variants): all versions SIMATIC ET200M IM153-4 PN IO ST (incl. SIPLUS variants): all versions SIMATIC ET200MP IM155-5 PN HF (incl. SIPLUS variants): all versions prior to 4.2.0 SIMATIC ET200MP IM155-5 PN ST (incl. SIPLUS variants): all versions prior to 4.1.0 SIMATIC ET200S (incl. SIPLUS variants): all versions SIMATIC ET200SP IM155-6 PN Basic (incl. SIPLUS variants): all versions SIMATIC ET200SP IM155-6 PN HF (incl. SIPLUS variants): all versions prior to 3.3.1 SIMATIC ET200SP IM155-6 PN ST (incl. SIPLUS variants): all versions prior to 4.1.0; SIMATIC ET200ecoPN (except 6ES7141-6BG00-0BB0; 6ES7141-6BH00-0BB0; 6ES7142-6BG00-0BB0; 6ES7142-6BR00-0BB0; 6S7143-6BH00-0BB0; 6ES7146-6FF00-0AB0; 6ES7148-6JD00-0AB0 and 6ES7148-6JG00-0BB0): All versions; SIMATIC ET200ecoPN (except 6ES7148-6JD00-0AB0 and 6ES7146-6FF00-0AB0): all versions SIMATIC ET200pro; IM 154-3 PN HF: all versions SIMATIC ET200pro; IM 154-4 PN HF: all versions SIMATIC IPC Support; Package for VxWorks: all versions SIMATIC MV400 family: all versions SIMATIC PN/PN Coupler 6ES7158-3AD01-0XA0 (incl. SIPLUS NET variant): all versions SIMATIC RF180C: all versions SIMATIC RF182C: all versions SIMATIC RF600 family: all versions prior to 3 SIMOTION C: All versions prior v4.5 SIMOTION D (incl. SIPLUS variants): All versions prior to v4.5 SIMOTION P: All versions prior to v4.5 SINAMICS DCP: all versions prior to 1.3 SOFTNET-IE PNIO: all versions.,CVE-2019-13946,7.5,High,CWE-400,Critical Manufacturing,Worldwide,Germany
+1790,10/14/2021,6/16/2022,2021,ICSA-20-042-04,Siemens PROFINET-IO Stack (Update H),Siemens,PROFINET-IO Stack,"Products that include the Siemens PROFINET-IO (PNIO) stack in versions prior to v06.00 are affected. Additionally, Siemens recommends other vendors of PROFINET devices check their products for vulnerable versions of the Siemens PNIO stack as part of the Siemens Development/Evaluation Kits.
+SIMATIC ET200ecoPN, 4AO U/I 4xM12 (6ES7145-6HD00-0AB0): All versions
+SIMATIC ET200ecoPN, 8 DIO, DC24V/1,3A, 8xM12 (6ES7147-6BG00-0AB0): All versions
+SIMATIC ET200ecoPN, 8 DO, DC24V/2A, 8xM12 (6ES7142-6BR00-0AB0): All versions
+SIMATIC ET200ecoPN, 8AI RTD/TC 8xM12 (6ES7144-6KD50-0AB0): All versions
+SIMATIC ET200ecoPN, 8AI; 4 U/I; 4 RTD/TC 8xM12 (6ES7144-6KD00-0AB0): All versions
+SIMATIC ET200ecoPN, 8DI, DC24V, 4xM12 (6ES7141-6BF00-0AB0): All versions
+SIMATIC ET200ecoPN, 8DI, DC24V, 8xM12 (6ES7141-6BG00-0AB0): All versions
+SIMATIC ET200ecoPN, 8DO, DC24V/0,5A, 4xM12 (6ES7142-6BF50-0AB0): All versions
+SIMATIC ET200ecoPN, 8DO, DC24V/1,3A, 4xM12 (6ES7142-6BF00-0AB0): All versions
+SIMATIC ET200ecoPN, 8DO, DC24V/1,3A, 8xM12 (6ES7142-6BG00-0AB0): All versions
+SIMATIC ET200ecoPN, 16DI, DC24V, 8xM12 (6ES7141-6BH00-0AB0): All versions
+SIMATIC ET200ecoPN, 16DO DC24V/1,3A, 8xM12 (6ES7142-6BH00-0AB0): All versions
+SIMATIC ET200ecoPN: IO-Link Master (6ES7148-6JA00-0AB0): All versions
+SCALANCE XB-200: All versions prior to v3.0
+SCALANCE XC-200: All versions prior to v3.0
+SCALANCE XP-200: All versions prior to v3.0
+SCALANCE XF-200BA: All versions prior to v3.0
+SCALANCE XR-300WG: All versions prior to v3.0
+SCALANCE M-800: All versions prior to v4.3
+SCALANCE S615: All versions prior to v4.3
+Development/Evaluation Kits for PROFINET IO:
+DK Standard Ethernet Controller: All versions
+EK-ERTEC 200: All versions prior to 4.5
+EK-ERTEC 200P: All versions prior to 4.6
+PROFINET Driver for Controller: All versions prior to 2.1
+RUGGEDCOM RM1224: All versions prior to 4.3
+SCALANCE M-800 / S615: All versions prior to 4.3
+SCALANCE W700 IEEE 802.11n: All versions prior to 6.0.1
+SCALANCE X-200 switch family (incl. SIPLUS NET variants): All versions
+SCALANCE X-200IRT switch family (incl. SIPLUS NET variants): All versions prior to 5.3 
+SCALANCE X-300 switch family (incl. X408 and SIPLUS NET variants): All versions
+SCALANCE XB-200, XC-200, XP-200, XF-200BA and XR-300WG: All versions prior to 3.0
+SCALANCE XM-400 switch family: All versions prior to 6.0
+SCALANCE XR-500 switch family: All versions prior to 6.0
+SIMATIC CP 1616 and CP 1604: all versions prior to 2.8
+SIMATIC CP 343-1 (incl. SIPLUS NET variants): All versions
+SIMATIC CP 343-1 Advanced (incl. SIPLUS NET variants): All versions
+SIMATIC CP 343-1 ERPC: All versions
+SIMATIC CP 343-1 LEAN (incl. SIPLUS NET variants): All versions
+SIMATIC CP 443-1 (incl. SIPLUS NET variants): All versions
+SIMATIC CP 443-1 Advanced (incl. SIPLUS NET variants): All versions
+SIMATIC CP 443-1 OPC UA: All versions
+SIMATIC ET200AL IM 157-1 PN: All versions
+SIMATIC ET200M IM153-4 PN IO HF (incl. SIPLUS variants): All versions
+SIMATIC ET200M IM153-4 PN IO ST (incl. SIPLUS variants): All versions
+SIMATIC ET200MP IM155-5 PN HF (incl. SIPLUS variants): All versions prior to 4.2.0
+SIMATIC ET200MP IM155-5 PN ST (incl. SIPLUS variants): All versions prior to 4.1.0
+SIMATIC ET200S (incl. SIPLUS variants): all versions
+SIMATIC ET200SP IM155-6 PN Basic (incl. SIPLUS variants): All versions
+SIMATIC ET200SP IM155-6 PN HF (incl. SIPLUS variants): All versions prior to 3.3.1
+SIMATIC ET200SP IM155-6 PN ST (incl. SIPLUS variants): All versions prior to 4.1.0
+SIMATIC ET200ecoPN (except 6ES7141-6BG00-0BB0, 6ES7141-6BH00-0BB0, 6ES7142-6BG00-0BB0, 6ES7142-6BR00-0BB0, 6S7143-6BH00-0BB0, 6ES7146-6FF00-0AB0, 6ES7148-6JD00-0AB0 and 6ES7148-6JG00-0BB0): All versions
+SIMATIC ET200ecoPN (except 6ES7148-6JD00-0AB0 and 6ES7146-6FF00-0AB0): all versions
+SIMATIC ET200pro, IM 154-3 PN HF: all versions
+SIMATIC ET200pro, IM 154-4 PN HF: all versions
+SIMATIC IPC Support, Package for VxWorks: all versions
+SIMATIC MV400 family: all versions
+SIMATIC PN/PN Coupler 6ES7158-3AD01-0XA0 (incl. SIPLUS NET variant): all versions
+SIMATIC RF180C: all versions
+SIMATIC RF182C: all versions
+SIMATIC RF600 family: all versions prior to 3
+SIMOTION C: All versions prior v4.5
+SIMOTION D (incl. SIPLUS variants): All versions prior to v4.5
+SIMOTION P: All versions prior to v4.5
+SINAMICS DCP: all versions prior to 1.3
+SOFTNET-IE PNIO: all versions
+--------- Begin Update H Part 1 of 2 ---------
+SCALANCE X-300 switch family (incl. X408 and SIPLUS NET variants): All versions prior to v4.1.4
+--------- End Update H Part 1 of 2 ---------.",CVE-2019-13946,7.5,High,CWE-400,Critical Manufacturing,Worldwide,Germany
 1789,10/14/2021,No Updates,2021,ICSA-19-283-01,Siemens Industrial Real-Time (IRT) Devices (Update F),Siemens,Industrial Real-Time (IRT) Devices,"Siemens CP1604/CP1616: All versions prior to 2.8 Development/Evaluation Kits for PROFINET IO: DK Standard Ethernet Controller: All versions prior to 4.1.1 Patch 05 EK-ERTEC 200: All versions prior to 4.5.0 Patch 01 EK-ERTEC 200P: All versions prior to 4.5.0 SCALANCE X-200IRT: All versions prior to 5.2.1 SIMATIC ET 200M: All versions SIMATIC ET 200S: All versions SIMATIC ET 200ecoPN (except 6ES7148-6JD00-0AB0 and 6ES7146-6FF00-0AB0): All versions SIMATIC ET 200pro: All versions SIMATIC PN/PN Coupler 6ES7158-3AD01-0XA0: All versions SIMATIC S7-300 CPU family (incl. F): All versions SIMATIC S7-400 (incl. F) v6 and below: All versions SIMATIC S7-400 PN/DP v7 (incl. F): All versions SIMATIC WinAC RTX (F) 2010: All versions prior to SP3 SIMOTION: All versions SINAMICS DCM: All versions prior to 1.5 HF1 SINAMICS DCP: All versions prior to 1.3 SINAMICS G110M v4.7 (Control Unit): All versions prior to 4.7 SP10 HF5 SINAMICS G120 v4.7 (Control Unit): All versions prior to 4.7 SP10 HF5 SINAMICS G130 v4.7 (Control Unit): All versions prior to 4.7 HF29 SINAMICS G150 (Control Unit): All versions prior to 4.8 SINAMICS GH150 v4.7 (Control Unit): All versions SINAMICS GL150 v4.7 (Control Unit): All versions SINAMICS GM150 v4.7 (Control Unit): All versions SINAMICS S110 (Control Unit): All versions SINAMICS S120 v4.7 (Control Unit and CBE20): All versions prior to 4.7 HF34 SINAMICS S150 (Control Unit): All versions prior to 4.8 SCALANCE X-200IRT switch family (incl. SIPLUS NET variants): All versions prior to 5.2.1 SIMATIC ET 200M (incl. SIPLUS variants): All versions SIMATIC ET 200S (incl. SIPLUS variants): All versions SIMATIC ET 200pro (incl. SIPLUS variants): All versions. SIMATIC ET200ecoPN (except 6ES7141-6BG00-0BB0, 6ES7141-6BH00-0BB0, 6ES7142-6BG00-0BB0, 6ES7142-6BR00-0BB0, 6ES7143-6BH00-0BB0, 6ES7146-6FF00-0AB0, 6ES7148-6JD00-0AB0, and 6ES7148-6JG00-0BB0): All versions. SIMATIC S7-300 CPU family (incl. related ET200 CPUs and SIPLUS variants): All versions prior to 3.X.17 SIMATIC S7-400 (incl. F) v6 and below CPU family (incl. SIPLUS variants): All versions SIMATIC S7-400 PN/DP v7 CPU family (incl. SIPLUS variants): All versions SIMOTION (incl. SIPLUS variants): All versions SINAMICS G120 v4.7 Control Unit (incl. SIPLUS variants): All versions prior to 4.7 SP10 HF5 SINAMICS S120 v4.7 Control Unit and CBE20 (incl. SIPLUS variants): All versions prior to 4.7 HF34 SINAMICS SL150 v4.7 (Control Unit): All versions prior to 4.7 HF33 SINAMICS SL150 v4.7 (Control Unit): All versions SINAMICS SM120 v4.7 (Control Unit): All versions SINUMERIK 828D: All versions prior to 4.8 SP5 SINUMERIK 840D sl: All versions.",CVE-2019-10923,7.5,High,CWE-20,Chemical; Commercial Facilities; Critical Manufacturing; Energy; Food and Agriculture; Healthcare and Public Health,Worldwide,Germany
 1788,10/14/2021,No Updates,2021,ICSA-19-283-02,Siemens PROFINET Devices (Update K),Siemens,PROFINET Devices,"Siemens reports the vulnerability affects the following PROFINET devices: Siemens reports the vulnerability affects the following PROFINET devices: Development/Evaluation Kits for PROFINET IO: DK Standard Ethernet Controller: All versions EK-ERTEC 200: All version EK-ERTEC 200P: All versions prior to 4.6 Patch 01 SIMATIC S7-410 V8 CPU family (incl. SIPLUS variants): All versions prior to 8.2.2 SIMATIC CFU PA: All versions prior to 1.2.0 SIMATIC ET 200SP Open Controller CPU 1515SP PC (incl. SIPLUS variants): All versions prior to 2.0 SIMATIC ET 200AL: All versions SIMATIC ET 200M (incl. SIPLUS variants): All versions SIMATIC ET 200MP IM 155-5 PN BA (incl. SIPLUS variants): All versions prior to 4.2.3 SIMATIC ET 200MP IM 155-5 PN HF (incl. SIPLUS variants): All versions prior to 4.4.0 SIMATIC ET 200MP IM 155-5 PN ST (incl. SIPLUS variants): All versions SIMATIC ET 200S (incl. SIPLUS variants): All versions SIMATIC ET 200SP IM 155-6 PN BA (incl. SIPLUS variants): All versions SIMATIC ET 200SP IM 155-6 PN HA (incl. SIPLUS variants): All versions prior to 1.2.1 SIMATIC ET 200ecoPN (except 6ES7141-6BG00-0BB0, 6ES7141-6BH00-0BB0, 6ES7142-6BG00-0BB0, 6ES7142-6BR00-0BB0, 6S7143-6BH00-0BB0, 6ES7146-6FF00-0AB0, 6ES7148-6JD00-0AB0 and 6ES7148-6JG00-0BB0): All versions SIMATIC ET 200SP IM 155-6 PN HF (incl. SIPLUS variants): All versions prior to 4.2.2. SIMATIC ET 200SP IM 155-6 PN HS (incl. SIPLUS variants): All versions prior to 4.0.1. SIMATIC ET 200SP IM 155-6 PN HS (incl. SIPLUS variants): All versions SIMATIC ET 200SP IM 155-6 PN ST (incl. SIPLUS variants): All versions SIMATIC ET 200SP IM 155-6 PN/2 HF (incl. SIPLUS variants): All versions prior to 4.2.2 SIMATIC ET 200SP IM 155-6 PN/3 HF (incl. SIPLUS variants): All versions prior to 4.2.1 SIMATIC ET 200pro: All versions SIMATIC HMI Comfort Outdoor Panels 7"" & 15"" (incl. SIPLUS variants): All versions SIMATIC HMI Comfort Panels 4"" - 22"" (incl. SIPLUS variants): All versions SIMATIC HMI KTP Mobile Panels: All versions SIMATIC PROFINET Driver: All versions prior to 2.1 SIMATIC S7-1200 CPU family (incl. SIPLUS variants): All versions prior to 4.4.0 SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants): All versions prior to 2.0 SIMATIC S7-1500 CPU Software Controller: All versions prior to 2.0 SIMATIC S7-300 CPU family (incl. related ET200 CPUs and SIPLUS variants): All versions prior to 3.X.17 SIMATIC S7-400 H V6 CPU family (incl. SIPLUS variants): All versions prior to 6.0.9 SIMATIC S7-400 PN/DP V6 and below CPU family (incl. SIPLUS variants): All versions SIMATIC S7-400 PN/DP V7 CPU family (incl. SIPLUS variants): All versions SIMATIC TDC CP51M1: All versions prior to 1.1.8 SIMATIC TDC CPU555: All versions prior to 1.1.1 SIMATIC WinAC RTX (F) 2010: All versions prior to SP3 SINAMICS DCM: All versions prior to 1.5 HF1 SINAMICS DCP: All versions prior to 1.3 SINAMICS G110M v4.7 PN Control Unit: All versions prior to 4.7 SP10 HF5 SINAMICS G120 v4.7 PN Control Unit (incl. SIPLUS variants): All versions prior to 4.7 SP10 HF5 SINAMICS G130 v4.7 Control Unit: All versions prior to 4.8 SINAMICS G150 Control Unit: All versions prior to 4.8 SINAMICS GH150 v4.7 Control Unit: All versions SINAMICS GL150 v4.7 Control Unit: All versions SINAMICS GM150 v4.7 Control Unit: All versions SINAMICS S110 Control Unit: All versions SINAMICS S120 v4.7 Control Unit (incl. SIPLUS variants): All versions SINAMICS S150 Control Unit: All versions prior to 4.8 SINAMICS SL150 v4.7 Control Unit: All versions prior to 4.7 HF33 SINAMICS SM120 v4.7 Control Unit: All versions SINUMERIK 828D: All versions prior to 4.8 SP5 SINUMERIK 840D sl: All versions SIMATIC ET 200ecoPN ((except 6ES7141-6BG00- 0BB0, 6ES7141-6BH00-0BB0, 6ES7142-6BG00- 0BB0, 6ES7142-6BR00-0BB0, 6ES7143-6BH00- 0BB0, 6ES7146-6FF00-0AB0 and 6ES7148- 6JD00-0AB0): All versions SIMATIC PN/PN Coupler (incl. SIPLUS NET variants): All versions prior to v4.2.1.",CVE-2019-10936,7.5,High,CWE-400,Critical Manufacturing,Worldwide,Germany
 1787,10/14/2021,No Updates,2021,ICSA-19-085-01,Siemens SCALANCE X (Update C),Siemens,SCALANCE X,SCALANCE X-200 switch family (including SIPLUS NET variants): all versions prior to v5.2.4 SCALANCE X-300 switch family (including SIPLUS NET variants): all versions prior to v4.1.3 SCALANCE XP/XC/XF-200 switch family (including SIPLUS NET variants): all versions prior to v4.1.,CVE-2019-6569,5.4,Medium,CWE-440,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
@@ -1123,7 +1191,45 @@ CWE-400",Information Technology,Worldwide,Germany
 1527,3/9/2021,No Updates,2021,ICSA-21-068-09,Siemens Solid Edge File Parsing,Siemens,Siemens Solid Edge File Parsing,The following versions of Siemens Solid Edge - portfolio of software tools are affected: Solid Edge SE2020: All versions before SE2020MP13 Solid Edge SE2021: Versions SE2021MP3 and prior.,CVE-2021-27380; CVE-2021-27381; CVE-2020-28385; CVE-2020-28387,7.8,High,CWE-611; CWE-125; CWE-787,Critical Manufacturing,Worldwide,Germany
 1526,3/9/2021,No Updates,2021,ICSA-21-035-01,Luxion KeyShot (Update A),Luxion,Luxion KeyShot,The following versions of Luxion software; 3D rendering and animation software are affected: KeyShot versions prior to 10.1 KeyShot Viewer versions prior to 10.1 KeyShot Network Rendering versions prior to 10.1 KeyVR versions prior to 10.1.,CVE-2021-22643; CVE-2021-22645; CVE-2021-22647; CVE-2021-22649; CVE-2021-22651,7.8,High,CWE-22; CWE-357; CWE-125; CWE-787; CWE-822,Critical Manufacturing,Worldwide,United States
 1525,3/9/2021,No Updates,2021,ICSA-21-019-01,dnsmasq by Simon Kelley (Update A),dnsmasq by Simon Kelley,dnsmasq by Simon Kelley,The following versions of dnsmasq DNS and DHCP server are affected: Version 2.8.2 and prior.,CVE-2020-25681; CVE-2020-25682; CVE-2020-25683; CVE-2020-25684; CVE-2020-25685; CVE-2020-25686; CVE-2020-25687,8.1,High,CWE-122; CWE-345; CWE-327,Multiple Critical Sectors,Worldwide,United Kingdom
-1524,3/9/2021,No Updates,2021,ICSA-20-105-08,"Siemens KTK, SIDOOR, SIMATIC, and SINAMICS (Update B)",Siemens,"KTK, SIDOOR, SIMATIC, and SINAMICS",The following Siemens products are affected: Development/Evaluation Kits for PROFINET IO: EK-ERTEC 200: All Versions Development/Evaluation Kits for PROFINET IO: EK-ERTEC 200P: All Versions. KTK ATE530S: All versions SIDOOR ATD430W: All versions SIDOOR ATE530S COATED: All versions SIDOOR ATE531S: All versions SIMATIC ET200SP IM155-6 MF HF: All versions SIMATIC ET 200SP Open Controller CPU 1515SP PC (incl. SIPLUS variants): All versions prior to 2.0 SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants): All versions prior to 2.0 SIMATIC ET200MP IM155-5 PN HF (incl. SIPLUS variants): Versions 4.2 and later SIMATIC ET200SP IM155-6 PN HA (incl. SIPLUS variants): All versions SIMATIC ET200SP IM155-6 PN HF (incl. SIPLUS variants): Versions 4.2 and later SIMATIC ET200SP IM155-6 PN/2 HF (incl. SIPLUS variants): Versions 4.2 and later SIMATIC ET200SP IM155-6 PN/3 HF (incl. SIPLUS variants): Versions 4.2 and later SIMATIC MICRO-DRIVE PDC: All versions SIMATIC PN/PN Coupler (incl. SIPLUS NET variants): Versions 4.2 and later SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants): All versions prior to 2.0 SIMATIC S7-1500 Software Controller: All versions prior to 2.0 SIMATIC S7-300 CPU family (incl. related ET200 CPUs and SIPLUS variants): All versions SIMATIC S7-400 H V6 CPU family and below (incl. SIPLUS variants): All Versions SIMATIC S7-400 PN/DP V7 and below CPU family (incl. SIPLUS variants): All versions SIMATIC S7-410 CPU family (incl. SIPLUS variants): All versions SIMATIC TDC CP51M1: All versions SIMATIC TDC CPU555: All versions SIMATIC WinAC RTX (F) 2010: All versions SINAMICS S/G Control Unit w. PROFINET: All versions.,CVE-2019-19300,7.5,High,CWE-400,Chemical; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
+1524,3/9/2021,6/16/2022,2021,ICSA-20-105-08,"Siemens KTK, SIDOOR, SIMATIC, and SINAMICS (Update C)",Siemens,"KTK, SIDOOR, SIMATIC, and SINAMICS","The following Siemens products are affected:
+Development/Evaluation Kits for PROFINET IO: EK-ERTEC 200: All Versions
+Development/Evaluation Kits for PROFINET IO: EK-ERTEC 200P: All Versions
+KTK ATE530S: All versions
+SIDOOR ATD430W: All versions
+SIDOOR ATE530S COATED: All versions
+SIDOOR ATE531S: All versions
+--------- Begin Update C Part 1 of 3 ---------
+SIMATIC ET200AL IM157-1 PN: All versions
+SIMATIC ET200ecoPN, CM 8x IO-Link, M12-L (6ES7148-6JG00-0BB0): Versions 5.1.1 and later
+SIMATIC ET200ecoPN, DI 8x24VDC, M12-L (6ES7141-6BG00-0BB0): Versions 5.1.1 and later
+SIMATIC ET200ecoPN, DI 16x24VDC, M12-L (6ES7141-6BH00-0BB0): Versions 5.1.1 and later
+SIMATIC ET200ecoPN, DIQ 16x24VDC/2A, M12-L (6ES7143-6BH00-0BB0): Versions 5.1.1 and later
+SIMATIC ET200ecoPN, DQ 8x24VDC/0,5A, M12-L (6ES7142-6BG00-0BB0): Versions 5.1.1 and later
+SIMATIC ET200ecoPN, DQ 8x24VDC/2A, M12-L (6ES7142-6BR00-0BB0): Versions 5.1.1 and later
+--------- End Update C Part 1 of 3 ---------
+SIMATIC ET200SP IM155-6 MF HF: All versions
+SIMATIC ET 200SP Open Controller CPU 1515SP PC (incl. SIPLUS variants): All versions prior to 2.0
+SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants): All versions prior to 2.0
+SIMATIC ET200MP IM155-5 PN HF (incl. SIPLUS variants): Versions 4.2 and later
+SIMATIC ET200SP IM155-6 PN HA (incl. SIPLUS variants): All versions
+SIMATIC ET200SP IM155-6 PN HF (incl. SIPLUS variants): Versions 4.2 and later
+SIMATIC ET200SP IM155-6 PN/2 HF (incl. SIPLUS variants): Versions 4.2 and later
+SIMATIC ET200SP IM155-6 PN/3 HF (incl. SIPLUS variants): Versions 4.2 and later
+SIMATIC MICRO-DRIVE PDC: All versions
+SIMATIC PN/PN Coupler (incl. SIPLUS NET variants): Versions 4.2 and later
+--------- Begin Update C Part 2 of 3 ----------
+SIMATIC S7-1200 CPU family (incl. SIPLUS variants): All versions prior to 4.4.0 
+--------- End Update C Part 2 of 3 ---------
+SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants): All versions prior to 2.0
+SIMATIC S7-1500 Software Controller: All versions prior to 2.0
+SIMATIC S7-300 CPU family (incl. related ET200 CPUs and SIPLUS variants): All versions
+SIMATIC S7-400 H V6 CPU family and below (incl. SIPLUS variants): All Versions
+SIMATIC S7-400 PN/DP V7 and below CPU family (incl. SIPLUS variants): All versions
+SIMATIC S7-410 CPU family (incl. SIPLUS variants): All versions
+SIMATIC TDC CP51M1: All versions
+SIMATIC TDC CPU555: All versions
+SIMATIC WinAC RTX (F) 2010: All versions
+SINAMICS S/G Control Unit w. PROFINET: All versions.",CVE-2019-19300,7.5,High,CWE-400,Chemical; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
 1523,3/9/2021,No Updates,2021,ICSA-19-162-02,Siemens SIMATIC Ident MV440 Family (Update A),Siemens,SIMATIC Ident MV420 and MV440 Families,SIMATIC MV440 family: All versions prior to v7.0.6.,CVE-2019-10925 CVE-2019-10926,7.1,High,CWE-319; CWE-269,Critical Manufacturing,Worldwide,Germany
 1522,3/9/2021,No Updates,2021,ICSA-19-099-04,Siemens SINEMA Remote Connect (Update A),Siemens,SINEMA Remote Connect,SINEMA Remote Connect Client; all versions prior to v2.0 HF1 SINEMA Remote Connect Server; all versions prior to v2.0.,CVE-2018-14618 CVE-2018-16890 CVE-2019-3822 CVE-2019-3823 CVE-2019-6570,8.3,High,CWE-280; CWE-131; CWE-125; CWE-121,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
 1521,3/4/2021,No Updates,2021,ICSA-21-063-01,Rockwell Automation 1734-AENTR Series B and Series C,Rockwell Automation,Rockwell Automation 1734-AENTR Series B and Series C,The following versions of 1734-AENTR are affected: Series B; Versions 4.001 to 4.005; and 5.011 to 5.017 Series C; Versions 6.011 and 6.012.,CVE-2020-14502; CVE-2020-14504,7.5,High,CWE-284; CWE-79,Critical Manufacturing,Worldwide,United States
