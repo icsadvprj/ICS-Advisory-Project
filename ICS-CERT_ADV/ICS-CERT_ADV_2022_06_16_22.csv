@@ -35,6 +35,18 @@ D0-06DD2-D
 D0-06DR-D
 D0-06DD2-D
 D0-06DR-D.",CVE-2022-2003,7.7,High,CWE-319,Multiple Critical Sectors,Worldwide,United States
+2102,6/16/2022,No Updates,2022,ICSA-22-167-03,AutomationDirect DirectLOGIC with Ethernet,AutomationDirect,DirectLOGIC with Ethernet Communication Modules,"The following versions of DirectLOGIC with Ethernet communication modules, a PLC Ethernet module, are affected: All versions of H0-ECOM and H0-ECOM100 when installed in the following D0-06 series CPUs versions prior to v2.72:
+D0-06DD1
+D0-06DD2
+D0-06DR
+D0-06DA
+D0-06AR
+D0-06AA
+D0-06DD1-D
+D0-06DD2-D
+D0-06DR-D.","CVE-2022-2004
+CVE-2022-2003",7.5,High,"CWE-400
+CWE-319",Multiple Critical Sectors,Worldwide,United States
 2101,6/16/2022,No Updates,2022,ICSA-22-167-04,Siemens Mendix SAML Module,Siemens,Mendix SAML Module,"Siemens reports these vulnerabilities affect the following Mendix SAML Modules: 
 Mendix SAML Module (Mendix 7 compatible): all versions prior to v1.16.6
 Mendix SAML Module (Mendix 8 compatible): all versions prior to v2.2.2
