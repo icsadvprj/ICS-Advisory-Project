@@ -1280,7 +1280,36 @@ CWE-532",Critical Manufacturing,Worldwide,Germany
 1953,2/10/2022,No Updates,2021,ICSA-21-068-06,Siemens TCP/IP Stack Vulnerabilities–AMNESIA:33 in SENTRON PAC / 3VA Devices (Update B),Siemens,"SENTRON 3VA COM100/800, SENTRON 3VA DSP800, SENTRON PAC2200, SENTRON PAC3200T, SENTRON PAC3200, SENTRON PAC3220, SENTRON PAC4200",The following products are affected: SENTRON 3VA COM100/800: all versions prior to v4.4.1 SENTRON 3VA DSP800: all versions prior to v4.0 SENTRON PAC2200 (with CLP Approval): all versions; SENTRON PAC2200 (with MID Approval): all versions prior to v3.2.2 SENTRON PAC2200 (without MID Approval): all versions prior to v3.2.2 SENTRON PAC3200: all versions prior to v2.4.7 SENTRON PAC3200T: all versions prior to v3.2.2; SENTRON PAC3220: all versions prior to v3.2.0 SENTRON PAC4200: all versions prior to v2.3.0.,CVE-2020-13987; CVE-2020-17437,6.5,Medium,CWE-125; CWE-787,Energy,Worldwide,Germany
 1952,2/10/2022,No Updates,2022,ICSA-20-105-07,Siemens SCALANCE & SIMATIC (Update E),Siemens,"SCALANCE, SIMATIC",The following versions of SCALANCE are affected: SIMATIC CP 442-1 RNA (6GK7442-1RX00-0XE0): All versions SIMATIC CP 443-1 RNA (6GK7443-1RX00- 0XE0): All versions; SCALANCE X-200 switch family (incl. SIPLUS NET variants): versions prior to v5.2.5SCALANCE X-200IRT switch family (incl. SIPLUS NET variants): versions prior to v5.5.0 SCALANCE X-300 switch family (incl. X408 and SIPLUS NET variants): all versions The following versions of SIMATIC are affected: SIMATIC CP 443-1 (incl. SIPLUS NET variants): all versions SIMATIC CP 443-1 Advanced (incl. SIPLUS NET variants): all versions SIMATIC RF180C: all versions SIMATIC RF182C: all versions.,CVE-2019-19301,7.5,High,CWE-400,Critical Manufacturing,Worldwide,Germany
 1951,2/10/2022,No Updates,2022,ICSA-20-042-02,Siemens Industrial Products SNMP Vulnerabilities (Update D),Siemens,"Various SCALANCE, SIMATIC, SIPLUS products",The following Siemens products are affected: IE/PB LINK PN IO (including SIPLUS NET variants): All versions prior to v4.0.1 SCALANCE S602: All versions prior to v4.1 SCALANCE S612: All versions prior to v4.1 SCALANCE S623: All versions prior to v4.1 SCALANCE S627-2M: All versions prior to v4.1; SIMATIC CP 343-1 Advanced (6GK7343-1GX31-0XE0):All versions SIMATIC CP 443-1 (6GK7443-1EX30-0XE0): All versions SIMATIC CP 443-1 Advanced (6GK7443-1GX30-0XE0):: All versions SIMATIC CP 443-1 OPC UA (6GK7443-1UX00-0XE0): All versions SIMATIC CP 1623 (6GK1162-3AA00): All versions prior to v14.00.15.00_51.25.00.01 SIMATIC CP 1626 (6GK1162-6AA01): All versions prior to v1.1.1 SIMATIC CP 1628(6GK1162-8AA00): All versions prior to v14.00.15.00_51.25.00.01 SIPLUS NET CP 343-1 Advanced (6AG1343-1GX31-4XE0): All versions SIPLUS NET CP 443-1 (6AG1443-1EX30-4XE0): All versions SIPLUS NET CP 443-1 Advanced (6AG1443-1GX30-4XE0): All versions; TIM 1531 IRC (including SIPLUS NET variants): All versions.,CVE-2018-18065; CVE-2015-5621,7.5,High,CWE-19; CWE-476,Chemical; Energy; Food and Agriculture; Healthcare and Public Health; Transportation Systems; and Water and Wastewater Systems,Worldwide,Germany
-1950,2/10/2022,No Updates,2022,ICSA-20-014-03,Siemens SCALANCE X Switches,Siemens,SCALANCE X Switches,"The following versions of SCALANCE X Switches, used to connect industrial components, are affected: SCALANCE X-200RNA (HSA): All versions SCALANCE X-200RNA (PRP): All versions SCALANCE X-200RNA EEC (HSR): All versions SCALANCE X-200RNA EEC (PRP): All versions SCALANCE X-300 switch family (incl. X408 and SIPLUS NET variants): All versions prior to v4.1.3.",CVE-2019-13933,8.8,High,CWE-306,Critical Manufacturing,Worldwide,Germany
+1950,2/10/2022,6/16/2022,2020,ICSA-20-014-03,Siemens SCALANCE X Switches (Update B),Siemens,SCALANCE X Switches,"The following versions of SCALANCE X Switches, used to connect industrial components, are affected:
+SCALANCE X-200RNA (HSA): All versions
+SCALANCE X-200RNA (PRP): All versions
+SCALANCE X-200RNA EEC (HSR): All versions
+SCALANCE X-200RNA EEC (PRP): All versions
+--------- Begin Update B Part 1 of 1 ---------
+SCALANCE X302-7 EEC: All versions prior to v4.1.3 
+SCALANCE X304-2FE: All versions prior to v4.1.3
+SCALANCE X306-1LD FE: All versions prior to v4.1.3
+SCALANCE X307-2 EEC: All versions prior to v4.1.3
+SCALANCE X307-2: All versions prior to v4.1.3
+SCALANCE X307-3: All versions prior to v4.1.3
+SCALANCE X307-3LD: All versions prior to v4.1.3
+SCALANCE X308-2: All versions prior to v4.1.3
+SCALANCE X308-2LD: All versions prior to v4.1.3
+SCALANCE X308-2LH: All versions prior to v4.1.3
+SCALANCE X308-2LH+: All versions prior to v4.1.3
+SCALANCE X308-2M: All versions prior to v4.1.3
+SCALANCE X308-2M TS: All versions prior to v4.1.3
+SCALANCE X310: All versions prior to v4.1.3
+SCALANCE X310FE: All versions prior to v4.1.3
+SCALANCE X320-1 FE: All versions prior to v4.1.3
+SCALANCE X320-1-2LD FE: All versions prior to v4.1.3
+SCALANCE X408-2: All versions prior to v4.1.3
+SCALANCE XR324-4M EEC: All versions prior to v4.1.3
+SCALANCE XR324-4M PoE: All versions prior to v4.1.3
+SCALANCE XR324-12M: All versions prior to v4.1.3
+SCALANCE XR324-12M TS: All versions prior to v4.1.3
+SIPLUS NET SCALANCE X308-2: All versions prior to v4.1.3
+--------- End Update B Part 1 of 1 ---------.",CVE-2019-13933,8.8,High,CWE-306,Critical Manufacturing,Worldwide,Germany
 1949,2/10/2022,No Updates,2019,ICSA-19-225-03,Siemens SCALANCE X Switches (Update C),Siemens,SCALANCE X switches,The following versions of SCALANCE X switches are affected: SCALANCE X204RNA (HSR) (6GK5204-0BA00-2MB2): All versions SCALANCE X204RNA (PRP) (6GK5204-0BA00-2KB2): All versions SCALANCE X204RNA EEC (HSR) (6GK5204-0BS00-2NA3): All versions SCALANCE X204RNA EEC (PRP) (6GK5204-0BS00-3LA3): All versions SCALANCE X204RNA EEC (PRP/HSR) (6GK5204-0BS00-3PA3): All versions; SCALANCE X-200IRT switch family (incl. SIPLUS NET variants): All versions prior to 5.5.0 SCALANCE X-200RNA: All versions.,CVE-2019-10942,8.6,High,CWE-410,Chemical; Critical Manufacturing; Energy; Food and Agriculture; and Water and Wastewater Systems,Worldwide,Germany
 1948,2/10/2022,6/16/2022,2022,ICSA-22-041-07,"Siemens Solid Edge JT2Go, and Teamcenter Visualization (Update C)",Siemens,"Solid Edge JT2Go and Teamcenter Visualization","Siemens reports these vulnerabilities affect the following visualization software products:
 JT2Go: All versions prior to v13.2.0.7
