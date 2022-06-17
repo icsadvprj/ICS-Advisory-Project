@@ -74,7 +74,33 @@ CWE-191
 CWE-125",Critical Manufacturing,Worldwide,Germany
 1887,12/16/2021,3/22/2022,2021,ICSA-21-238-03,Delta Electronics DIAEnergie (Update B),Delta Electronics,DIAEnergie,The following versions of DIAEnergie are affected: DIAEnergie Version 1.7.5 and prior.,CVE-2021-23228; CVE-2021-31558;CVE-2021-32955; CVE-2021-32967; CVE-2021-32983; CVE-2021-32991; CVE-2021-33003; CVE-2021-38390; CVE-2021-38391; CVE-2021-38393; CVE-2021-44471; CVE-2021-44544; CVE-2022-0988,9.8,Critical,CWE-288; CWE-352; CWE-79; CWE-89; CWE-434; CWE-916; CWE-319,Critical Manufacturing,Worldwide,Taiwan
 1886,12/16/2021,No Updates,2021,ICSA-21-217-01,"HCC Embedded InterNiche TCP/IP stack, NicheLite (Update A)",HCC Embedded,"InterNiche stack (NicheStack), NicheLite",The following embedded component TCP/IP stacks are affected: InterNiche stack: All versions prior to v4.3 NicheLite: All versions prior to v4.3.,CVE-2021-27565; CVE-2021-31226; CVE-2021-31227; CVE-2021-31228; CVE-2021-31400; CVE-2021-31401; CVE-2021-36762; CVE-2020-25767; CVE-2020-25926; CVE-2020-25927; CVE-2020-25928; CVE-2020-35683; CVE-2020-35684; CVE-2020-35685,9.8,Critical,CWE-466; CWE-130; CWE-330; CWE-20; CWE-248; CWE-839; CWE-340; CWE-703; CWE-170,Multiple Critical Sectors,Worldwide,Hungary
-1885,12/16/2021,No Updates,2021,ICSA-21-131-03,Siemens Linux-based Products (Update F),Siemens,Linux Based Products,"The following Siemens Linux based products are affected: RUGGEDCOM RM1224: All versions between v5.0 and v6.4 SCALANCE M-800: All versions between v5.0 and v6.4 SCALANCE S615: All versions between v5.0 and v6.4 SCALANCE SC-600: All versions prior to v2.1.3 SCALANCE W1750D: v8.3.0.1, v8.6.0, and v8.7.0 SIMATIC Cloud Connect 7: All versions SIMATIC MV500 Family: All versions SIMATIC NET CP 1243-1 (incl. SIPLUS variants): Versions 3.1.39 and later SIMATIC NET CP 1243-7 LTE EU: Versions 3.1.39 and later SIMATIC NET CP 1243-7 LTE US: Versions 3.1.39 and later SIMATIC NET CP 1243-7: Versions 3.1.39 and later SIMATIC NET CP 1243-8 IRC: Versions 3.1.39 and later SIMATIC NET CP 1542SP-1 IRC (incl. SIPLUS variants): Versions 2.0 and later SIMATIC NET CP 1542SP-1: Versions 2.0 and later SIMATIC NET CP 1543-1 (incl. SIPLUS variants): Versions 2.2 and later SIMATIC NET CP 1543SP-1 (incl SIPLUS variants): Versions 2.0 and later SIMATIC NET CP 1545-1: All versions SINEMA Remote Connect Server: All versions prior to v3.0 SP1 TIM 1531 IRC (incl. SIPLUS NET variants): All versions.",CVE-2020-25705,7.4,High,CWE-330,Multiple Critical Sectors,Worldwide,Germany
+1885,12/16/2021,6/16/2022,2021,ICSA-21-131-03,Siemens Linux-based Products (Update H),Siemens,Linux Based Products,"The following Siemens Linux-based products are affected:
+RUGGEDCOM RM1224: All versions between v5.0 and v6.4
+SCALANCE M-800: All versions between v5.0 and v6.4
+SCALANCE S615: All versions between v5.0 and v6.4
+SCALANCE SC-600: All versions prior to v2.1.3
+SCALANCE W1750D: v8.3.0.1, v8.6.0, and v8.7.0
+SIMATIC Cloud Connect 7: All versions
+SIMATIC MV500 Family: All versions
+SIMATIC CP 1243-1 (incl. SIPLUS variants): Versions 3.1.39 and prior
+SIMATIC CP 1243-7 LTE EU: Versions 3.1.39 and later, and prior to Version 3.3
+SIMATIC CP 1243-7 LTE US: Versions 3.1.39 and later, and prior to Version 3.3
+SIMATIC CP 1242-7 GPRS V2: Versions 3.1.39 and prior to Version 3.3
+SIMATIC CP 1243-8 IRC: Versions 3.1.39 and later
+SIMATIC CP 1542SP-1 IRC (incl. SIPLUS variants): Versions 2.0 and later
+SIMATIC CP 1542SP-1: Versions 2.0 and later
+SIMATIC CP 1543-1 (incl. SIPLUS variants): Versions prior to 3.0
+SIMATIC CP 1543SP-1 (incl SIPLUS variants): Versions 2.0 and later
+--------- Begin Update H Part 1 of 2 ---------
+SIMATIC CP 1545-1: All versions prior to v1.1
+--------- End Update H Part 1 of 2 ---------
+SIMATIC MV540 H (6GF3540-0GE10): All versions prior to 3.1
+SIMATIC MV540 S (6GF3540-0CD10): All versions prior to 3.1
+SIMATIC MV550 H (6GF3550-0GE10): All versions prior to 3.1
+SIMATIC MV550 S (6GF3550-0CD10): All versions prior to 3.1
+SIMATIC MV560 U (6GF3560-0LE10): All versions prior to 3.1
+SIMATIC MV560 X (6GF3560-0HE10): All versions prior to 3.1
+SINEMA Remote Connect Server: All versions prior to v3.0 SP1.",CVE-2020-25705,7.4,High,CWE-330,Multiple Critical Sectors,Worldwide,Germany
 1884,12/16/2021,No Updates,2021,ICSA-20-324-05,Mitsubishi Electric MELSEC iQ-R Series (Update B),Mitsubishi Electric,MELSEC iQ-R Series,Mitsubishi Electric reports the vulnerability affects the following MELSEC iQ-R series CPU module products: R00/01/02CPU firmware Versions 19 and earlier R04/08/16/32/120(EN)CPU firmware Versions 51 and earlier R08/16/32/120SFCPU firmware Versions 22 and earlier; R08/16/32/120PCPU firmware Versions 25 and earlier R08/16/32/120PSFCPU firmware Versions 06 and earlier; RJ71EN71 firmware Versions 47 and earlier RJ71GF11-T2 firmware Versions 47 and earlier RJ72GF15-T2 firmware Versions 07 and earlier RJ71GP21-SX firmware Versions 47 and earlier RJ71GP21S-SX firmware Versions 47 and earlier RJ71C24(-R2/R4) all versions RJ71GN11-T2 all versions.,CVE-2020-5668,7.5,High,CWE-400,Critical Manufacturing,Worldwide,Japan
 1883,12/16/2021,5/12/2022,2021,ICSA-20-105-06,"Siemens SIMOTICS, Desigo, APOGEE, and TALON (Update D)",Siemens,"SIMOTICS, Desigo, APOGEE, and TALON","Siemens reports the vulnerability affects the following products and versions:
  APOGEE MEC/MBC/PXC (P2): All versions prior to 2.8.2
@@ -357,7 +383,11 @@ CVE-2019-10934",7.8,High,CWE-22,Chemical; Critical Manufacturing; Energy; Food a
 1764,9/14/2021,No Updates,2021,ICSA-21-257-03,Schneider Electric Struxureware Data Center Expert,Schneider Electric,Struxureware Data Center Expert,"The following versions of Struxureware Data Center Expert, a monitoring software, are affected: Struxureware Data Center Expert Versions 7.8.1 and prior.",CVE-2021-22794; CVE-2021-22795,9.1,Critical,CWE-22; CWE-78,Commercial Facilities; Energy; Food and Agriculture; Government Facilities; Transportation Systems; Water and Wastewater Systems,Worldwide,France
 1763,9/14/2021,No Updates,2021,ICSA-21-257-04,Siemens Simcenter Femap,Siemens,Simcenter Femap,"The following versions of Simcenter Femap, a simulation application, are affected: Simcenter Femap v2020.2: All versions Simcenter Femap v2021.1: All versions.",CVE-2021-37176,3.3,Low,CWE-125,Critical Manufacturing,Worldwide,Germany
 1762,9/14/2021,No Updates,2021,ICSA-21-257-05,Siemens Simcenter STAR-CCM+ Viewer,Siemens,Simcenter STAR-CCM+ Viewer,"The following versions of Simcenter STAR-CCM+ Viewer, a simulation application, are affected: Simcenter STAR-CCM+ Viewer: All versions prior to 2021.2.1.",CVE-2021-25665,7.8,High,CWE-787,Critical Manufacturing,Worldwide,Germany
-1761,9/14/2021,No Updates,2021,ICSA-21-257-06,Siemens SIMATIC CP,Siemens,SIMATIC CP,"The following versions of SIMATIC, a communication processor, are affected: SIMATIC CP 1543-1 (incl. SIPLUS variants): All versions prior to v3.0 SIMATIC CP 1545-1: All versions.",CVE-2021-33716,6.5,Medium,CWE-312,Critical Manufacturing,Worldwide,Germany
+1761,9/14/2021,6/16/2022,2021,ICSA-21-257-06,Siemens SIMATIC CP (Update A),Siemens,SIMATIC CP,"The following versions of SIMATIC, a communication processor, are affected:
+SIMATIC CP 1543-1 (incl. SIPLUS variants): All versions prior to v3.0
+--------- Begin Update A Part 1 of 2 ---------
+SIMATIC CP 1545-1: All versions prior to v1.1
+--------- End Update A Part 1 of 2 ---------.",CVE-2021-33716,6.5,Medium,CWE-312,Critical Manufacturing,Worldwide,Germany
 1760,9/14/2021,No Updates,2021,ICSA-21-257-07,Siemens APOGEE and TALON,Siemens,APOGEE and TALON,The following products are affected: APOGEE MBC (PPC) (P2 Ethernet): v2.6.3 and newer APOGEE MEC (PPC) (P2 Ethernet): v2.6.3 and newer APOGEE PXC Compact (BACnet): All versions prior to v3.5.3 APOGEE PXC Compact (P2 Ethernet): v2.8 and newer APOGEE PXC Modular (BACnet): All versions prior to v3.5.3 APOGEE PXC Modular (P2 Ethernet): v2.8 and newer TALON TC Compact (BACnet): All versions prior to v3.5.3 TALON TC Modular (BACnet): All versions prior to v3.5.3.,CVE-2021-27391,9.8,Critical,CWE-120,Critical Manufacturing,Worldwide,Germany
 1759,9/14/2021,9/16/2021,2021,ICSA-21-257-08,Siemens Teamcenter,Siemens,Teamcenter,"The following versions of Teamcenter, a virtualization platform, are affected: Teamcenter 12.4: All versions prior to 12.4.0.8 Teamcenter 13.0: All versions prior to 13.0.0.7 Teamcenter 13.1: All versions prior to 13.1.0.5 Teamcenter 13.2: All versions prior to 13.2.0.2.",CVE-2021-40354; CVE-2021-40355; CVE-2021-40356,7.2,High,CWE-639; CWE-611; CWE-267,Multiple Critical Sectors,Worldwide,Germany
 1758,9/14/2021,No Updates,2021,ICSA-21-257-09,Siemens NX,Siemens,NX,The following versions of NX are affected: NX 1980 Series: All versions prior to v1984.,CVE-2021-37202; CVE-2021-37203,7.8,High,CWE-125; CWE-416,Critical Manufacturing,Worldwide,Germany
@@ -750,9 +780,29 @@ CVE-2020-8670
 CVE-2020-8703
 CVE-2020-8704",7.5,High,CWE-311,Multiple Critical Sectors,Worldwide,Germany
 1704,8/10/2021,No Updates,2021,ICSA-21-222-06,Siemens Energy AGT and SGT Solutions,Siemens,Energy AGT and SGT Solutions,The following Siemens products are affected: SGT-100: All versions SGT-200: All versions SGT-300: All versions SGT-400: All versions SGT-A20: All versions SGT-A35: All versions SGT-A64: All versions.,CVE-2016-20009,9.8,High,CWE-787,Multiple Critical Sectors,Worldwide,Germany
-1703,8/10/2021,No Updates,2021,ICSA-21-222-07,Siemens SIMATIC NET CP,Siemens,SIMATIC NET CP,The following Siemens products are affected: SIMATIC NET CP 1543-1 (Incl. SIPLUS NET variants): All versions prior to v3.0 SIMATIC NET CP 1545-1: All versions.,CVE-2020-9272; CVE-2020-9273,8.8,High,CWE-125; CWE-416,Multiple Critical Sectors,Worldwide,Germany
+1703,8/10/2021,6/16/2022,2021,ICSA-21-222-07,Siemens SIMATIC CP (Update A),Siemens,SIMATIC NET CP,"The following Siemens products are affected:
+SIMATIC NET CP 1543-1 (Incl. SIPLUS NET variants): All versions prior to v3.0
+--------- Begin Update A Part 1 of 2 ---------
+SIMATIC CP 1545-1 (6GK7545-1GX00-0XE0): All versions prior to v1.1
+--------- End Update A Part 1 of 2 ---------.","CVE-2020-9272
+CVE-2020-9273",8.8,High,"CWE-125
+CWE-416",Multiple Critical Sectors,Worldwide,Germany
 1702,8/10/2021,8/19/2021,2021,ICSA-21-222-08,Siemens Solid Edge,Siemens,Solid Edge,The following versions of Solid Edge are affected: Solid Edge SE2021: All versions prior to SE2021MP7.,CVE-2021-37178; CVE-2021-37179; CVE-2021-37180,7.8,High,CWE-824; CWE-611; CWE-416,Critical Manufacturing,Worldwide,Germany
-1701,8/10/2021,No Updates,2021,ICSA-21-194-07,Siemens Industrial Products LLDP (Update A),Siemens,Industrial Products LLDP,Siemens reports these vulnerabilities affect the following products: SIMATIC HMI Unified Comfort Panels: All versions prior to v17 SIMATIC NET CP 1243-1 (incl. SIPLUS variants): All versions SIMATIC NET CP 1243-8 IRC: All versions SIMATIC NET CP 1542SP-1: All versions SIMATIC NET CP 1542SP-1 IRC (incl. SIPLUS variants): All versions SIMATIC NET CP 1543-1 (incl. SIPLUS variants): All versions SIMATIC NET CP 1543SP-1 (incl. SIPLUS variants): All versions SIMATIC NET CP 1545-1: All versions; SINUMERIK ONE MCP: All versions prior to v2.0.1; TIM 1531 IRC (incl. SIPLUS NET variants): All versions prior to v2.2.,CVE-2020-27827; CVE-2015-8011,9.8,High,CWE-120; CWE-400,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater Systems,Worldwide,Germany
+1701,8/10/2021,6/16/2022,2021,ICSA-21-194-07,Siemens Industrial Products LLDP (Update B),Siemens,Industrial Products LLDP,"Siemens reports these vulnerabilities affect the following products:
+SIMATIC HMI Unified Comfort Panels: All versions prior to v17
+SIMATIC NET CP 1243-1 (incl. SIPLUS variants): All versions
+SIMATIC NET CP 1243-8 IRC: All versions
+SIMATIC NET CP 1542SP-1: All versions
+SIMATIC NET CP 1542SP-1 IRC (incl. SIPLUS variants): All versions
+SIMATIC NET CP 1543-1 (incl. SIPLUS variants): All versions
+SIMATIC NET CP 1543SP-1 (incl. SIPLUS variants): All versions
+--------- Begin Update B Part 1 of 2 ---------
+SIMATIC NET CP 1545-1: All versions prior to v1.1
+--------- End Update B Part 1 of 2 ---------
+SINUMERIK ONE MCP: All versions prior to v2.0.1
+TIM 1531 IRC (incl. SIPLUS NET variants): All versions prior to v2.2.","CVE-2020-27827
+CVE-2015-8011",9.8,High,"CWE-120
+CWE-400",Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater Systems,Worldwide,Germany
 1700,8/10/2021,No Updates,2021,ICSA-21-131-04,Siemens SINAMICS Medium Voltage Products Remote Access (Update B),Siemens,SINAMICS Medium Voltage Products,Siemens reports this vulnerability affects the following SINAMICS products with Telnet enabled on SIMATIC HMI Comfort Panels: SINAMICS SL150: All versions SINAMICS SM150: All versions SINAMICS SM150i: All versions.,CVE-2021-31337,7.7,High,CWE-788; CWE-122; CWE-665; CWE-170; CWE-119; CWE-125; CWE-121; CWE-400,Chemical; Commercial Facilities; Critical Manufacturing; Energy; Food and Agriculture; Healthcare and Public Health; Transportation; Water and Wastewater,Worldwide,Germany
 1699,8/10/2021,No Updates,2021,ICSA-21-131-13,Siemens SINAMICS Medium Voltage Products Telnet (Update A),Siemens,SINAMICS Medium Voltage Products,Siemens reports this vulnerability affects the following SINAMICS products with telnet enabled on SIMATIC comfort HMI Panels: SINAMICS GH150: All versions SINAMICS GL150 (with option X30): All versions SINAMICS GM150 (with option X30): All versions SINAMICS SH150: All versions SINAMICS SL150: All versions SINAMICS SM120: All versions SINAMICS SM150: All versions SINAMICS SM150i: All versions.,CVE-2020-15798,7.7,High,CWE-306,Chemical; Commercial Facilities; Critical Manufacturing; Energy; Food and Agriculture; Healthcare and Public Health; Transportation; Water and Wastewater,Worldwide,Germany
 1698,8/10/2021,No Updates,2021,ICSA-21-068-06,Siemens TCP/IP Stack VulnerabilitiesAMNESIA:33 in SENTRON PAC / 3VA Devices (Update B),Siemens,Siemens TCP/IP Stack VulnerabilitiesAMNESIA:33 in SENTRON PAC / 3VA Devices,The following products are affected: SENTRON 3VA COM100/800: all versions SENTRON 3VA DSP800: all versions SENTRON PAC2200 (with CLP Approval): all versions SENTRON PAC2200 (with MID Approval): all versions SENTRON PAC2200 (without MID Approval): all versions SENTRON PAC3200: all versions prior to v2.4.7 SENTRON PAC3200T: all versions SENTRON PAC3220: all versions prior to v3.2.0 SENTRON PAC4200: all versions prior to v2.3.0.,CVE-2020-13987; CVE-2020-17437,6.5,Medium,CWE-125; CWE-787,Energy,Worldwide,Germany
