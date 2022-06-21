@@ -1,4 +1,72 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2111,6/21/2022,No Updates,2022,ICSA-22-172-01,Mitsubishi Electric MELSEC Q and L Series,Mitsubishi Electric,MELSEC Q and L Series,"The following versions of MELSEC CPU models are affected: 
+ Q Series 
+ Q03UDECPU, Q04/06/10/13/20/26/50/100UDEHCPU: All versions 
+ Q03/04/06/13/26UDVCPU: Versions with the first 5 digits of serial No. 24051 and prior 
+ Q04/06/13/26UDPVCPU: Versions with the first 5 digits of serial No. 24051 and prior 
+ L Series 
+ L02/06/26CPU(-P), L26CPU-(P)BT: Versions with the first 5 digits of serial No. 24051 and prior.",CVE-2022-24946,7.5,High,CWE-413,Critical Manufacturing,Worldwide,Japan
+2110,6/21/2022,No Updates,2022,ICSA-22-172-02,JTEKT TOYOPUC,JTEKT,TOYOPUC Products,"The following versions of TOYOPUC products, a programmable logic controller, are affected: 
+ PC10G-CPU Type=TCC-6353: All versions 
+ PC10GE Type=TCC-6464: All versions 
+ PC10P Type=TCC-6372: All versions 
+ PC10P-DP Type=TCC-6726: All versions 
+ PC10P-DP-IO Type=TCC-6752: All versions 
+ PC10B-P Type=TCC-6373: All versions 
+ PC10B Type=TCC-1021: All versions 
+ PC10E Type=TCC-4737: All versions 
+ PC10EL Type=TCC-4747: All versions 
+ Plus CPU Type=TCC-6740: All versions 
+ PC3JX Type=TCC-6901: All versions 
+ PC3JX-D Type=TCC-6902: All versions 
+ PC10PE Type=TCC-1101: All versions 
+ PC10PE-1616P Type=TCC-1102: All versions 
+ PCDL Type=TKC-6688: All versions 
+ Nano 10GX Type=TUC-1157: All versions 
+ Nano CPU Type=TUC-6941: All versions.","CVE-2022-29951
+CVE-2022-29958",7.7,High,"CWE-306
+CWE-345",Critical Manufacturing,Worldwide,Japan
+2109,6/21/2022,No Updates,2022,ICSA-22-172-03,Phoenix Contact Classic Line Controllers,Phoenix Contact,"ILC, AXC, RFC, PC WORX, FC","The following versions of the classic line industrial controllers, are affected: 
+ ILC 1x0 All variants 
+ ILC 1x1 All variants 
+ ILC 1x1 GSM/GPRS: Article number 2700977 
+ ILC 3xx All variants 
+ AXC 1050: Article number 2700988 
+ AXC 1050 XC: Article number 2701295 
+ AXC 3050: Article number 2700989 
+ RFC 480S PN 4TX: Article number 2404577 
+ RFC 470 PN 3TX: Article number 2916600 
+ RFC 470S PN 3TX: Article number 2916794 
+ FC 460R PN 3TX: Article number 2700784 
+ RFC 460R PN 3TX-S: Article number 1096407 
+ RFC 430 ETH-IB: Article number 2730190 
+ RFC 450 ETH-IB: Article number 2730200 
+ PC WORX SRT: Article number 2701680 
+ PC WORX RT BASIC: Article number 2700291 
+ FC 350 PCI ETH: Article number 2730844.",CVE-2022-31800,9.8,Critical,CWE-345,Multiple Critical Sectors,Worldwide,Germany
+2108,6/21/2022,No Updates,2022,ICSA-22-172-04,Phoenix Contact ProConOS and MULTIPROG,Phoenix Contact,ProConOS/ProConOS eCLR and MULTIPROG,"The following versions of ProConOS, a software development kit, are affected: 
+ ProConOS: All versions 
+ ProConOS eCLR: All versions 
+ MULTIPROG: All versions.",CVE-2022-31801,9.8,Critical,CWE-345,Multiple Critical Sectors,Worldwide,Germany
+2107,6/21/2022,No Updates,2022,ICSA-22-172-05,Phoenix Contact Classic Line Industrial Controllers,Phoenix Contact,"ILC 131 ETH, ILC 131 ETH/XC, ILC 151 ETH, ILC 151 ETH/XC, ILC 171 ETH 2TX, ILC 191 ETH 2TX, ILC 191 ME/AN, and AXC 1050","The following versions of the classic line industrial controllers are affected: 
+ ILC 1x0: All variants 
+ ILC 1x1: All variants 
+ ILC 3xx: All variants 
+ AXC 1050: Article number 2700988 
+ AXC 1050XC: Article number 2701295 
+ AXC 3050: Article number 2700989 
+ RFC 480S: Article number 2404577 
+ RFC 470S: Article number 2916794 
+ RFC 460R: Article number 2700784 
+ RFC 430 ETH: Article number 2730190 
+ RFC 450 ETH: Article number 2730200 
+ PC WORX SRT: Article number 2701680 
+ PC WORX RT BASIC: Article number 2700291 
+ FC 350 PCI ETH: Article number 2730844.",CVE-2019-9201,9.8,Critical,CWE-306,Multiple Critical Sectors,Worldwide,Germany
+2106,6/21/2022,No Updates,2022,ICSA-22-172-06,Siemens WinCC OA,Siemens,SIMATIC WinCC OA,"The following versions of SIMATIC WinCC OA, a SCADA HMI system, are affected: 
+ SIMATIC WinCC OA v3.16: All versions 
+ SIMATIC WinCC OA v3.17: All versions 
+ SIMATIC WinCC OA v3.18: All versions.",CVE-2022-33139,9.8,Critical,CWE-603,Multiple Critical Sectors,Worldwide,Germany
 2105,6/16/2022,No Updates,2022,ICSMA-22-167-01,Hillrom Medical Device Management,"Hillrom Medical. Welch Allyn, and ELI",Welch Allyn medical devices,"The following Hillrom products, are affected:
 Welch Allyn ELI 380 Resting Electrocardiograph: Versions 2.6.0 and prior
 Welch Allyn ELI 280/BUR280/MLBUR 280 Resting Electrocardiograph: Versions 2.3.1 and prior
