@@ -1,4 +1,46 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2117,6/23/2022,No Updates,2022,ICSMA-22-174-01,OFFIS DCMTK,OFFIS,DCMTK,"The following versions of DCMTK, libraries and software that process DICOM image files, are affected:
+ DCMTK: All versions prior to 3.6.7.","CVE-2022-2119
+CVE-2022-2120
+CVE-2022-2121",7.5,High,"CWE-22
+CWE-23
+CWE-476",Healthcare and Public Health,Worldwide,Germany
+2116,6/23/2022,No Updates,2022,ICSA-22-174-01,Yokogawa STARDOM,Yokogawa,STARDOM,"The following versions of STARDOM, a network control system, are affected:
+ STARDOM FCN/FCJ: Versions R1.01 through R4.31
+ STARDOM FCN/FCJ: Versions R4.10 through R4.31, dual CPU modules only; only affected by CVE-2022-30997.","CVE-2022-2951
+CVE-2022-30997",6.3,Medium,"CWE-319
+CWE-798",Multiple Critical Sectors,Worldwide,Japan
+2115,6/23/2022,No Updates,2022,ICSA-22-174-02,Yokogawa CAMS for HIS,Yokogawa,Consolidation Alarm Management Software for Human Interface Station (CAMS for HIS),"The following products that use CAMS for HIS, are affected:
+ CENTUM CS 3000 (including CENTUM CS 3000 Entry Class): Versions R3.08.10 through R3.09.00. These vulnerabilities affect this product if LHS4800 (CAMS for HIS) is installed.
+ CENTUM VP (including CENTUM VP Entry Class): Versions R4.01.00 through R4.03.00 (these product versions are affected only if CAMS function is used), Versions R5.01.00 through R5.04.20, and R6.01.00 through R6.09.00 (these product versions are affected regardless of whether CAMS function is used or not).
+ Exaopc: Versions R3.72.00 through R3.80.00 (these product versions are affected if NTPF100-S6 ""For CENTUM VP Support CAMS for HIS"" is installed).
+ B/M9000CS: Versions R5.04.01 - R5.05.01
+ B/M9000 VP: Versions R6.01.01 - R8.03.01.",CVE-2022-30707,6.4,Medium,CWE-657,Critical Manufacturing; Energy; Food and Agriculture,Worldwide,Japan
+2114,6/23/2022,No Updates,2022,ICSA-22-174-03,Secheron SEPCOS Control and Protection Relay,Secheron,SEPCOS Control and Protection Relay,"The following firmware versions of the Secheron SEPCOS Control and Protection Relay are affected:
+ SEPCOS Single Package firmware (1.23.xx feature level): All versions prior to 1.23.21
+ SEPCOS Single Package firmware (1.24.xx feature level): All versions prior to 1.24.8
+ SEPCOS Single Package firmware (1.25.xx feature level): All versions prior to 1.25.3.","CVE-2022-2105
+CVE-2022-1667
+CVE-2022-2102
+CVE-2022-1668
+CVE-2022-2103
+CVE-2022-2104
+CVE-2022-1666",9.9,Critical,"CWE-841
+CWE-521
+CWE-284
+CWE-269
+CWE-522",Multiple Critical Sectors,Worldwide,Switzerland
+2113,6/23/2022,No Updates,2022,ICSA-22-174-04,Pyramid Solutions EtherNet/IP Adapter Development Kit,"Pyramid Solutions, Inc.",EtherNet/IP Adapter Development Kit,"The following versions of Pyramid Solutions’ products are affected:
+ EtherNet/IP Adapter Development Kit (EADK): Versions 4.4.0 and prior
+ EtherNet/IP Adapter DLL Kit (EIPA): Versions 4.4.0 and prior
+ EtherNet/IP Scanner Development Kit (EDKS): Versions 4.4.0 and prior.
+ EtherNet/IP Scanner DLL Kit (EIPS): Versions 4.4.0 and prior",CVE-2022-1737,9.8,Critical,CWE-787,Critical Manufacturing; Financial Services,Worldwide,United States
+2112,6/23/2022,No Updates,2022,ICSA-22-174-05,Elcomplus SmartICS,Elcomplus,SmartICS,"Elcomplus reports these vulnerabilities affect the following SmartICS web-based HMI: 
+ SmartICS v2.3.4.0.","CVE-2022-2140
+CVE-2022-2106
+CVE-2022-2088",8.8,High,"CWE-79
+CWE-23
+CWE-284",Communications; Commercial Facilities; Energy; Water and Wastewater Systems,Worldwide,Russia
 2111,6/21/2022,No Updates,2022,ICSA-22-172-01,Mitsubishi Electric MELSEC Q and L Series,Mitsubishi Electric,MELSEC Q and L Series,"The following versions of MELSEC CPU models are affected: 
  Q Series 
  Q03UDECPU, Q04/06/10/13/20/26/50/100UDEHCPU: All versions 
