@@ -1,4 +1,48 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2123,6/28/2022,No Updates,2022,ICSA-22-179-01,ABB e-Design,ABB,e-Design,"The following versions of e-Design engineering software are affected: 
+ e-Design: All versions prior to 1.12.2.0006.","CVE-2022-28702
+CVE-2022-29483",7.8,High,CWE-276,Energy,Worldwide,Switzerland
+2122,6/28/2022,No Updates,2022,ICSA-22-179-02,Omron SYSMAC CS/CJ/CP Series and NJ/NX Series,Omron,SYSMAC CS/CJ/CP Series and NJ/NX Series,"The following versions of the Omron SYSMAC CS/CJ/CP Series and NJ/NX Series, a programmable logic controller, are affected:
+ SYSMAC CS1: Versions prior to 4.1
+ SYSMAC CJ2M: Versions prior to 2.1
+ SYSMAC CJ2H: Versions prior to 1.5
+ SYSMAC CP1E/CP1H: Versions prior to 1.30
+ SYSMAC CP1L: Versions prior to 1.10
+ CP1W-CIF41: All versions
+ SYSMAC CX-Programmer: Versions prior to 9.6
+ SYSMAC NJ/NX Series: Versions prior to 1.49 (1.29 for NX7).","CVE-2022-31204
+CVE-2022-31205
+CVE-2022-31207
+CVE-2022-31206",6.5,Medium,"CWE-319
+CWE-256
+CWE-345
+CWE-347",Critical Manufacturing,Worldwide,Japan
+2121,6/28/2022,No Updates,2022,ICSA-22-179-03,Advantech iView,Advantech,iView,"The following versions of Advantech iView management software are affected:
+ Advantech iView: All versions prior to 5_7_04_6469.","CVE-2022-2135
+CVE-2022-2136
+CVE-2022-2137
+CVE-2022-2142
+CVE-2022-2138
+CVE-2022-2139
+CVE-2022-2143",9.8,Critical,"CWE-89
+CWE-306
+CWE-23
+CWE-77",Multiple Critical Sectors,"East Asia, Europe, United States",Taiwan
+2120,6/28/2022,No Updates,2022,ICSA-22-179-04,Motorola Solutions MOSCAD IP and ACE IP Gateways,Motorola Solutions,MOSCAD IP Gateway and ACE IP Gateway,"The following versions of Motorola MDLC are affected:
+ MOSCAD IP gateway (IPGW): All versions
+ ACE IP gateway (CPU 4600): All versions.",CVE-2022-30276,7.5,High,CWE-306,Multiple Critical Sectors,Worldwide,United States
+2119,6/28/2022,No Updates,2022,ICSA-22-179-05,Motorola Solutions MDLC,Motorola Solutions,MDLC,"The following versions of the Motorola Solutions MDLC protocol parser are affected:
+ MDLC: Versions 4.80.0024, 4.82.004, and 4.83.001.","CVE-2022-30273
+CVE-2022-30275",7.5,High,"CWE-327
+CWE-256",Multiple Critical Sectors,Worldwide,United States
+2118,6/28/2022,No Updates,2022,ICSA-22-179-06,Motorola Solutions ACE1000,Motorola Solutions,ACE1000,"The following versions of ACE1000, a remote terminal unit, are affected:
+ Motorola Solutions ACE1000: All versions.","CVE-2022-30271
+CVE-2022-30270
+CVE-2022-30274
+CVE-2022-30269
+CVE-2022-30272",9.8,Critical,"CWE-321
+CWE-798
+CWE-345",Multiple Critical Sectors,Worldwide,United States
 2117,6/23/2022,No Updates,2022,ICSMA-22-174-01,OFFIS DCMTK,OFFIS,DCMTK,"The following versions of DCMTK, libraries and software that process DICOM image files, are affected:
  DCMTK: All versions prior to 3.6.7.","CVE-2022-2119
 CVE-2022-2120
