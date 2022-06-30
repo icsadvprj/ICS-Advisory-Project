@@ -11,7 +11,29 @@ icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Adviso
 1907,12/16/2021,No Updates,2021,ICSA-21-350-02,Delta Electronics CNCSoft,Delta Electronics,CNCSoft,The following versions of CNCSoft industrial automation software are affected: CNCSoft Versions 1.01.30 and prior.,CVE-2021-44768,6.1,Medium,CWE-125,Critical Manufacturing,Worldwide,Taiwan
 1906,12/16/2021,No Updates,2021,ICSA-21-350-03,Wibu-Systems CodeMeter Runtime,Wibu-Systems AG,CodeMeter Runtime,"The following versions of CodeMeter Runtime, a license manger, are affected: CodeMeter Runtime: All versions prior to Version 7.30a.",CVE-2021-41057,7.1,High,CWE-269,Multiple Critical Sectors,Worldwide,Germany
 1905,12/16/2021,No Updates,2021,ICSA-21-350-04,Mitsubishi Electric GX Works2,Mitsubishi Electric,GX Works2,"The following versions of GX Works2, an engineering software suite, are affected: GX Works2: Versions 1.606G and prior.",CVE-2021-20608,5.3,Medium,CWE-130,Critical Manufacturing,Worldwide,Japan
-1904,12/16/2021,No Updates,2021,ICSA-21-350-05,Mitsubishi Electric FA Engineering Software,Mitsubishi Electric,FA Engineering Software,"The following versions of FA Engineering Software, an engineering software suite, are affected: GX Works2: Versions 1.606G and prior MELSOFT Navigator: All versions EZSockdet: All versions.",CVE-2021-20606; CVE-2021-20607,5.5,Medium,CWE-191; CWE-125,Critical Manufacturing,Worldwide,Japan
+1904,12/16/2021,6/30/2022,2021,ICSA-21-350-05,Mitsubishi Electric FA Engineering Software (Update A),Mitsubishi Electric,FA Engineering Software,"The following versions of FA Engineering Software, an engineering software suite, are affected:
+ GX Works2: Versions 1.606G and prior
+ --------- Begin Update A Part 1 of 2 ---------
+ MELSOFT Navigator: Versions 2.84N and prior
+ EZSocket: All versions
+ --------- End Update A Part 1 of 2 ---------.","CVE-2021-20606
+CVE-2021-20607",5.5,Medium,"CWE-191
+CWE-125",Critical Manufacturing,Worldwide,Japan
+1903,12/16/2021,No Updates,2021,ICSA-21-350-06,Siemens Capital VSTAR,Siemens,Capital VSTAR,"The following versions of Capital VSTAR software platform are affected because of their use of Nucleus NET, the networking stack of Nucleus RTOS (real-time operating system): Capital VSTAR: All versions with enabled Ethernet options.","CVE-2021-31344
+CVE-2021-31345
+CVE-2021-31346
+CVE-2021-31881
+CVE-2021-31882
+CVE-2021-31883
+CVE-2021-31884
+CVE-2021-31889
+CVE-2021-31890",8.8,High,"CWE-843
+CWE-240
+CWE-170
+CWE-119
+CWE-191
+CWE-125
+CWE-1248",Critical Manufacturing,Worldwide,Germany
 1903,12/16/2021,No Updates,2021,ICSA-21-350-06,Siemens Capital VSTAR,Siemens,Capital VSTAR,"The following versions of Capital VSTAR software platform are affected because of their use of Nucleus NET, the networking stack of Nucleus RTOS (real-time operating system): Capital VSTAR: All versions with enabled Ethernet options.",CVE-2021-31344; CVE-2021-31345; CVE-2021-31346; CVE-2021-31881; CVE-2021-31882; CVE-2021-31883; CVE-2021-31884; CVE-2021-31889; CVE-2021-31890,8.8,High,CWE-843; CWE-240; CWE-170; CWE-119; CWE-191; CWE-125; CWE-1248,Critical Manufacturing,Worldwide,Germany
 1902,12/16/2021,No Updates,2021,ICSA-21-350-07,Siemens POWER METER SICAM Q100,Siemens,POWER METER SICAM Q100,"The following versions of the POWER METER SICAM Q100 power monitoring device, are affected: POWER METER SICAM Q100 (7KG9501-0AA01-0AA1, 7KG9501-0AA01-2AA1, 7KG9501-0AA31-0AA1, 7KG9501-0AA31-2AA1): All versions prior to v2.41.",CVE-2021-44165,9.1,Critical,CWE-121,Multiple Critical Sectors,Worldwide,Germany
 1901,12/16/2021,No Updates,2021,ICSA-21-350-08,Siemens JTTK and JT Utilities,Siemens,JTTK and JT Utilities,"The following versions of JT Open Toolkit (JTTK), an application programming interface, and JT Utilities, a series of command line utilities, are affected: JT Utilities: All versions prior to v13.0.3.0 JTTK: All versions prior to v11.0.3.0.",CVE-2021-44446; CVE-2021-44447; CVE-2021-44448,7.8,High,CWE-125; CWE-787; CWE-416,Critical Manufacturing,Worldwide,Germany
