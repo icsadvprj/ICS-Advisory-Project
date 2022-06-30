@@ -1,4 +1,24 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2127,6/30/2022,No Updates,2022,ICSA-22-181-01,Exemys RME1,Exemys,RME1,"The following versions of Exemys RME1, an analog acquisition module, are affected: Exemys RME1-AI firmware: All versions prior to and including 2.1.6.",CVE-2022-2197,9.8,Critical,CWE-287,Multiple Critical Sectors,Worldwide,Argentina
+2126,6/30/2022,No Updates,2022,ICSA-22-181-02,Yokogawa Wide Area Communication Router,Yokogawa,Wide Area Communication Router (WAC Router),"Yokogawa reports this vulnerability affects the communication module for the following WAC Router: 
+ Wide Area Communication Router (for AW810D) VI461: Vnet/IP firmware (F) R12 or earlier.",CVE-2022-32284,5.9,Medium,CWE-330,Critical Manufacturing; Energy; Food and Agriculture,Worldwide,Japan
+2125,6/30/2022,No Updates,2022,ICSA-22-181-03,Emerson DeltaV Distributed Control System,Emerson,DeltaV Distributed Control System,"The following versions of DeltaV Distributed Control System, a software management platform, are affected:
+ DeltaV M-series: All versions
+ DeltaV S-series: All versions
+ DeltaV P-series: All versions
+ DeltaV SIS: All versions
+ DeltaV CIOC/EIOC/WIOC IO cards: All versions.","CVE-2022-29957
+CVE-2022-29962
+CVE-2022-29963
+CVE-2022-29964
+CVE-2022-30260
+CVE-2022-29965",8.8,High,"CWE-306
+CWE-798
+CWE-345
+CWE-327",Multiple Critical Sectors,Worldwide,United States
+2124,6/30/2022,No Updates,2022,ICSA-22-181-04,Distributed Data Systems WebHMI,Distributed Data Systems,WebHMI,The following versions of WebHMI are affected: WebHMI 4.1.1.7662 (and possibly prior versions).,"CVE-2022-2254
+CVE-2022-2253",9.1,Critical,"CWE-79
+CWE-78",Commercial Facilities; Critical Manufacturing; Food and Agriculture; Water and Wastewater Systems,Europe North America,Ukraine
 2123,6/28/2022,No Updates,2022,ICSA-22-179-01,ABB e-Design,ABB,e-Design,"The following versions of e-Design engineering software are affected: 
  e-Design: All versions prior to 1.12.2.0006.","CVE-2022-28702
 CVE-2022-29483",7.8,High,CWE-276,Energy,Worldwide,Switzerland
