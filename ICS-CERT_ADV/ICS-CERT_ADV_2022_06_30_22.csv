@@ -1,4 +1,14 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2129,7/7/2022,No Updates,2022,ICSA-22-188-01 ,Rockwell Automation MicroLogix,Rockwell Automation,MicroLogix 1100/1400,"Rockwell Automation reports this vulnerability affects the following MicroLogix controllers: 
+MicroLogix 1400: Versions 21.007 and prior
+MicroLogix 1100: All versions.",CVE-2022-21798,6.5,Medium,CWE-1021,Critical Manufacturing,Worldwide,United States
+2128,7/7/2022,No Updates,2022,ICSA-22-188-02,Bently Nevada ADAPT 3701/4X Series and 60M100,Bently Nevada (Subsidiary of Baker Hughes),3701/4X series and 60M100 (3701/60) Condition Monitoring System,"The following versions of Bently Nevada 3700 machinery monitors are affected:
+Bently Nevada 3701/40: All versions prior to 4.1
+Bently Nevada 3701/44: All versions prior to 4.1
+Bently Nevada 3701/46: All versions prior to 4.1
+Bently Nevada 60M100 (3701/60): All versions.","CVE-2022-29953
+CVE-2022-29952",9.1,Critical,"CWE-798
+CWE-306",Multiple Critical Sectors,Worldwide,United States
 2127,6/30/2022,No Updates,2022,ICSA-22-181-01,Exemys RME1,Exemys,RME1,"The following versions of Exemys RME1, an analog acquisition module, are affected: Exemys RME1-AI firmware: All versions prior to and including 2.1.6.",CVE-2022-2197,9.8,Critical,CWE-287,Multiple Critical Sectors,Worldwide,Argentina
 2126,6/30/2022,No Updates,2022,ICSA-22-181-02,Yokogawa Wide Area Communication Router,Yokogawa,Wide Area Communication Router (WAC Router),"Yokogawa reports this vulnerability affects the communication module for the following WAC Router: 
  Wide Area Communication Router (for AW810D) VI461: Vnet/IP firmware (F) R12 or earlier.",CVE-2022-32284,5.9,Medium,CWE-330,Critical Manufacturing; Energy; Food and Agriculture,Worldwide,Japan
