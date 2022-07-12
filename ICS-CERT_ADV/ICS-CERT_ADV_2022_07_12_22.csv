@@ -1,4 +1,13 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2130,7/12/2022,No Updates,2022,ICSA-22-193-01,Dahua ASI7213X-T1,Dahua,DHI-ASI7213X-T1,"The following versions of Dahua DHI-ASI7213X-T1, a facial recognition access controller, are affected: Dahua ASI7213X-T1: Firmware. v1.000.10Be006.0.R.201213","CVE-2022-2334
+CVE-2022-2335
+CVE-2022-2336
+CVE-2022-2337
+CVE-2022-2338",8.1,High,"CWE-294
+CWE-20
+CWE-307
+CWE-434
+CWE-209",Multiple Critical Sectors,Worldwide,China
 2129,7/7/2022,No Updates,2022,ICSA-22-188-01 ,Rockwell Automation MicroLogix,Rockwell Automation,MicroLogix 1100/1400,"Rockwell Automation reports this vulnerability affects the following MicroLogix controllers: 
 MicroLogix 1400: Versions 21.007 and prior
 MicroLogix 1100: All versions.",CVE-2022-21798,6.5,Medium,CWE-1021,Critical Manufacturing,Worldwide,United States
@@ -1390,7 +1399,17 @@ Varian: varian.com/resources-support/cybersecurity-varian",CVE-2022-25246; CVE-2
 1973,3/3/2022,No Updates,2022,ICSA-22-062-01,IPCOMM ipDIO,IPCOMM,ipDIO,"The following versions of IPCOMM ipDIO, a telecontrol communication device, are affected: Firmware Version 3.9 2016/04/18 / IPDIO SW 3.9.",CVE-2022-24432; CVE-2022-21146; CVE-2022-24915; CVE-2022-22985,8.8,High,CWE-79; CWE-94,Multiple Critical Sectors,Worldwide,Germany
 1972,2/24/2022,No Updates,2022,ICSA-22-055-01,FATEK Automation FvDesigner,FATEK Automation,FvDesigner,"The following versions of FvDesigner, a software tool used to design and develop FATEK FV HMI series product projects, are affected: FvDesigner: Versions 1.5.100 and prior.",CVE-2022-25170; CVE-2022-23985; CVE-2022-21209,7.8,High,CWE-121; CWE-787; CWE-125,Critical Manufacturing,Worldwide,Taiwan
 1971,2/24/2022,No Updates,2022,ICSA-22-055-02,Mitsubishi Electric EcoWebServerIII,Mitsubishi Electric,Energy Saving Data Collecting Server (EcoWebServerIII),"Mitsubishi Electric reports these vulnerabilities affect the following versions of EcoWebServerIII, an energy saving data collecting server: MES3-255C-EN: Versions 3.0.0 to 3.3.0, MES3-255C-DM-EN: Versions 3.0.0 to 3.3.0, MES3-255C-CN: Versions 3.0.0 to 3.3.0, MES3-255C-DM-CN: Versions 3.0.0 to 3.3.0.",CVE-2016-10735; CVE-2018-14040; CVE-2018-14042; CVE-2018-20676; CVE-2019-8331; CVE-2020-11022; CVE-2020-11023; CVE-2017-18214; CVE-2020-7746,7.5,High,CWE-79; CWE-400; CWE-915,Critical Manufacturing,Worldwide,Japan
-1970,2/24/2022,No Updates,2022,ICSA-22-055-03,Schneider Electric Easergy P5 and P3,Schneider Electric,Easergy P5 and P3,"The following versions of Easergy P5, a medium voltage protection relay, are affected: All firmware versions prior to v01.401.101. The following versions of Easergy P3, a medium voltage protection relay, are affected: All versions prior to v30.205.",CVE-2022-22722; CVE-2022-22723; CVE-2022-22725,8.8,High,CWE-798; CWE-120,Commercial Facilities; Energy,Worldwide,France
+1970,2/24/2022,7/12/2022,2022,ICSA-22-055-03,Schneider Electric Easergy P5 and P3 (Update A),Schneider Electric,Easergy P5 and P3,"The following versions of Easergy P5, a medium voltage protection relay, are affected:
+ --------- Begin Update A Part 2 of 4 ---------
+ All firmware versions prior to v01.401.102
+ --------- End Update A Part 2 of 4 ---------
+ The following versions of Easergy P3, a medium voltage protection relay, are affected:
+ All versions prior to v30.205.","CVE-2022-22722
+CVE-2022-22723
+CVE-2022-22725
+CVE-2022-34758",8.8,High,"CWE-798
+CWE-120
+CWE-20",Commercial Facilities; Energy,Worldwide,France
 1969,2/24/2022,No Updates,2021,ICSA-21-231-02,Baker Hughes Bently Nevada 3500,Bently Nevada (Subsidiary of Baker Hughes),3500,"The following software versions are affected: System 1 6.x, Part No. 3060/00, Versions 6.98 and prior, Released Dec 2020; System 1, Part No. 3071/xx & 3072/xx, Versions 21.1 HF1 and prior, Released July 2021; 3500 Rack Configuration, Part No. 129133-01, Versions 6.4 and prior, Released May 2020; 3500/22M Firmware, Part No. 288055-01, Versions 5.05 and prior, Released May 2021.",CVE-2021-32997,8.2,High,CWE-916,Critical Manufacturing; Energy,Worldwide,United States
 1968,2/22/2022,No Updates,2022,ICSA-22-053-01,GE Proficy CIMPLICITY-IPM,GE,Proficy CIMPLICITY,"The following versions of Proficy CIMPLICITY, an HMI and SCADA platform, are affected: Proficy CIMPLICITIY v11.1 and prior versions.",CVE-2022-23921,7.5,High,CWE-269,Multiple Critical Sectors,Worldwide,United States
 1967,2/22/2022,No Updates,2022,ICSA-22-053-02,GE Proficy CIMPLICITY-Cleartext,GE,Proficy CIMPLICITY,"The affected product is vulnerable due to cleartext transmission of credentials seen in the CIMPLICITY network, which can be easily spoofed and used to log in to make operational changes to the system.",CVE-2022-21798,7.5,High,CWE-319,Multiple Critical Sectors,Worldwide,United States
