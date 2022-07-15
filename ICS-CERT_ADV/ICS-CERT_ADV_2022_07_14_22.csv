@@ -65,7 +65,7 @@ CWE-306",Critical Manufacturing,Worldwide,Germany
  Drawing SDK (CVE-2022-28808): All versions prior to 2023.3
  Drawing SDK (CVE-2022-28809): All versions prior to 2023.3.","CVE-2022-28807
 CVE-2022-28808
-CVE-2022-28809",7.8,High,CWE-125,Multiple Critical Sectors,Worldwide,Germany
+CVE-2022-28809",7.8,High,CWE-125,Multiple Critical Sectors,Worldwide,United States
 2143,7/14/2022,No Updates,2022,ICSA-22-195-13,Siemens Mendix,Siemens,Mendix,"The following versions of Mendix, a high productivity app platform, are affected:
  Mendix Applications using Mendix 7: All versions prior to v7.23.31
  Mendix Applications using Mendix 8: All versions prior to v8.18.18
