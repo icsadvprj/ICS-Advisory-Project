@@ -14,8 +14,6 @@ The ICS-CERT Advisory Contribution template and instructions on how to enter/upd
 ## Background ##
 While this process is very manual, I hope to further automate it with the help of contributors in the ICS Advisory Project. Since 2018, the data has been scraped using Microsoft Excel formulas and VBA scripts to parse it into its current form, as seen in the ICS-CERT_ADV.csv files.
 
-Another goal for this project is to break out the Critical Infrastructures individually for each vendor and product to enable clear use trends across multiple industries. The current way that ICS-CERT Advisory list Critical Infrastructure information per vendor and product is a semi-colon separated as one line.
-
 Please feel free to propose a better way to help maintain and share this data. Your support helps support the ICS Advisory Project: ICS-CERT Advisory Dashboard currently built and hosted for free on Google Data Studio.
 
 If you have questions, please email: icsadvisoryproject@gmail.com
