@@ -1,4 +1,12 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2149,7/19/2022,No Updates,2022,ICSA-22-200-01,MiCODUS MV720 GPS tracker,MiCODUS,MV720 GPS tracker,The following versions of MV720 GPS tracker are affected: MV720 model.,"CVE-2022-2107
+CVE-2022-2141
+CVE-2022-2199
+CVE-2022-34150
+CVE-2022-33944",9.8,Critical,"CWE-798
+CWE-287
+CWE-79
+CWE-639",Transportation Systems; Government Facilities; Financial Services; Critical Manufacturing,Worldwide,China
 2148,7/14/2022,No Updates,2022,ICSA-22-195-02,Siemens SICAM GridEdge,Siemens,SICAM GridEdge,"The following versions of SICAM GridEdge are affected:
  SICAM GridEdge Essential ARM (6MD7881-2AA30): All versions.
  SICAM GridEdge Essential Intel (6MD7881-2AA40): All versions prior to v2.7.3
