@@ -219,14 +219,16 @@ CWE-125",Critical Manufacturing,Worldwide,Germany
 2131,7/14/2022,No Updates,2022,ICSA-22-195-17,Siemens Opcenter Quality,Siemens,Opcenter Quality,"Siemens reports this vulnerability affects the following quality management systems: 
  Opcenter Quality V13.1: All versions prior to v13.1.20220624 
  Opcenter Quality V13.2: All versions prior to v13.2.20220624.",CVE-2022-33736,9.6,High,CWE-303,Critical Manufacturing,Worldwide,Germany
-2130,7/12/2022,No Updates,2022,ICSA-22-193-01,Dahua ASI7213X-T1,Dahua,DHI-ASI7213X-T1,"The following versions of Dahua DHI-ASI7213X-T1, a facial recognition access controller, are affected: Dahua ASI7213X-T1: Firmware. v1.000.10Be006.0.R.201213","CVE-2022-2334
-CVE-2022-2335
-CVE-2022-2336
-CVE-2022-2337
-CVE-2022-2338",8.1,High,"CWE-294
-CWE-20
-CWE-307
-CWE-434
+2130,7/12/2022,7/19/2022,2022,ICSA-22-193-01,Dahua ASI7213X-T1 (Update A),"Dahua Technology Co., Ltd",DHI-ASI7213X-T1,"The following versions of Dahua video products, are affected:
+--------- Begin Update A Part 2 of 4 ---------
+Dahua ASI7XXX: Versions prior to v1.000.0000009.0.R.220620
+Dahua IPC-HDBW2XXX: Versions prior to v2.820.0000000.48.R.220614
+Dahua IPC-HX2XXX: Versions Prior to v2.820.0000000.48.R.220614
+--------- End Update A Part 2 of 4 ---------.","CVE-2022-30560
+CVE-2022-30561
+CVE-2022-30562
+CVE-2022-30563",8.1,High,"CWE-434
+CWE-294
 CWE-209",Multiple Critical Sectors,Worldwide,China
 2129,7/7/2022,No Updates,2022,ICSA-22-188-01 ,Rockwell Automation MicroLogix,Rockwell Automation,MicroLogix 1100/1400,"Rockwell Automation reports this vulnerability affects the following MicroLogix controllers: 
 MicroLogix 1400: Versions 21.007 and prior
