@@ -11,12 +11,13 @@ icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Adviso
 1907,12/16/2021,No Updates,2021,ICSA-21-350-02,Delta Electronics CNCSoft,Delta Electronics,CNCSoft,The following versions of CNCSoft industrial automation software are affected: CNCSoft Versions 1.01.30 and prior.,CVE-2021-44768,6.1,Medium,CWE-125,Critical Manufacturing,Worldwide,Taiwan
 1906,12/16/2021,No Updates,2021,ICSA-21-350-03,Wibu-Systems CodeMeter Runtime,Wibu-Systems AG,CodeMeter Runtime,"The following versions of CodeMeter Runtime, a license manger, are affected: CodeMeter Runtime: All versions prior to Version 7.30a.",CVE-2021-41057,7.1,High,CWE-269,Multiple Critical Sectors,Worldwide,Germany
 1905,12/16/2021,No Updates,2021,ICSA-21-350-04,Mitsubishi Electric GX Works2,Mitsubishi Electric,GX Works2,"The following versions of GX Works2, an engineering software suite, are affected: GX Works2: Versions 1.606G and prior.",CVE-2021-20608,5.3,Medium,CWE-130,Critical Manufacturing,Worldwide,Japan
-1904,12/16/2021,6/30/2022,2021,ICSA-21-350-05,Mitsubishi Electric FA Engineering Software (Update A),Mitsubishi Electric,FA Engineering Software,"The following versions of FA Engineering Software, an engineering software suite, are affected:
- GX Works2: Versions 1.606G and prior
- --------- Begin Update A Part 1 of 2 ---------
- MELSOFT Navigator: Versions 2.84N and prior
- EZSocket: All versions
- --------- End Update A Part 1 of 2 ---------.","CVE-2021-20606
+1904,12/16/2021,7/28/2022,2021,ICSA-21-350-05,Mitsubishi Electric FA Engineering Software (Update B),Mitsubishi Electric,FA Engineering Software,"The following versions of FA Engineering Software, an engineering software suite, are affected:
+GX Works2: Versions 1.606G and prior
+MELSOFT Navigator: Versions 2.84N and prior
+EZSocket: All versions
+--------- Begin Update A Part 1 of 2 ---------
+EZSocket: Versions 5.4 and prior
+--------- End Update A Part 1 of 2 ---------.","CVE-2021-20606
 CVE-2021-20607",5.5,Medium,"CWE-191
 CWE-125",Critical Manufacturing,Worldwide,Japan
 1903,12/16/2021,No Updates,2021,ICSA-21-350-06,Siemens Capital VSTAR,Siemens,Capital VSTAR,"The following versions of Capital VSTAR software platform are affected because of their use of Nucleus NET, the networking stack of Nucleus RTOS (real-time operating system): Capital VSTAR: All versions with enabled Ethernet options.","CVE-2021-31344
