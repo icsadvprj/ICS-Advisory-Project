@@ -1,4 +1,9 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2160,7/28/2022,No Updates,2022,ICSA-22-209-01,Rockwell Products Impacted by Chromium Type Confusion,Rockwell Automation,"FactoryTalk Software, Enhanced HIM for PowerFlex, Connected Components Workbench","The following versions of Rockwell products are affected:
+FactoryTalk Linx Enterprise software: Versions 6.20, 6.21, and 6.30
+Enhanced HIM (eHIM) for PowerFlex 6000T: Version 1.001
+Connected Components Workbench software: Versions 11, 12, 13, and 20
+FactoryTalk View Site Edition: Version 13.",CVE-2022-1096,4,Medium,CWE-843,Multiple Critical Sectors,Worldwide,United States
 2159,7/26/2022,No Updates,2022,ICSA-22-207-04,MOXA NPort 5110,MOXA,NPort 5110,The following versions of the MOXA NPort 5110 device server are affected: NPort 5110: Firmware Versions 2.10.,"CVE-2022-2044
 CVE-2022-2043",8.2,High,CWE-787,Critical Manufacturing; Energy; Transportation Systems,Worldwide,Taiwan
 2158,7/26/2022,No Updates,2022,ICSA-22-207-03,Honeywell Saia Burgess PG5 PCD,Honeywell,Saia Burgess PG5 PCD,"The following versions of Saia Burgess PG5 PCD, a PLC, are affected: Saia Burgess PG5 PCD: All versions.","CVE-2022-30319
