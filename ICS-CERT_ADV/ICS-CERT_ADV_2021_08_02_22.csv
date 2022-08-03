@@ -95,7 +95,28 @@ CWE-119
 CWE-1284
 CWE-191
 CWE-125",Critical Manufacturing,Worldwide,Germany
-1887,12/16/2021,3/22/2022,2021,ICSA-21-238-03,Delta Electronics DIAEnergie (Update B),Delta Electronics,DIAEnergie,The following versions of DIAEnergie are affected: DIAEnergie Version 1.7.5 and prior.,CVE-2021-23228; CVE-2021-31558;CVE-2021-32955; CVE-2021-32967; CVE-2021-32983; CVE-2021-32991; CVE-2021-33003; CVE-2021-38390; CVE-2021-38391; CVE-2021-38393; CVE-2021-44471; CVE-2021-44544; CVE-2022-0988,9.8,Critical,CWE-288; CWE-352; CWE-79; CWE-89; CWE-434; CWE-916; CWE-319,Critical Manufacturing,Worldwide,Taiwan
+1887,12/16/2021,8/2/2022,2021,ICSA-21-238-03,Delta Electronics DIAEnergie (Update C),Delta Electronics,DIAEnergie,"The following versions of DIAEnergie are affected:
+-------- Begin Update C Part 1 of 2 --------- 
+DIAEnergie: All versions prior to 1.9
+--------- End Update C Part 1 of 2 ---------.","CVE-2021-23228
+CVE-2021-31558
+CVE-2021-32955
+CVE-2021-32967
+CVE-2021-32983
+CVE-2021-32991
+CVE-2021-33003
+CVE-2021-38390
+CVE-2021-38391
+CVE-2021-38393
+CVE-2021-44471
+CVE-2021-44544
+CVE-2022-0988",9.8,Critical,"CWE-288
+CWE-352
+CWE-79
+CWE-89
+CWE-434
+CWE-916
+CWE-319",Critical Manufacturing,Worldwide,Taiwan
 1886,12/16/2021,No Updates,2021,ICSA-21-217-01,"HCC Embedded InterNiche TCP/IP stack, NicheLite (Update A)",HCC Embedded,"InterNiche stack (NicheStack), NicheLite",The following embedded component TCP/IP stacks are affected: InterNiche stack: All versions prior to v4.3 NicheLite: All versions prior to v4.3.,CVE-2021-27565; CVE-2021-31226; CVE-2021-31227; CVE-2021-31228; CVE-2021-31400; CVE-2021-31401; CVE-2021-36762; CVE-2020-25767; CVE-2020-25926; CVE-2020-25927; CVE-2020-25928; CVE-2020-35683; CVE-2020-35684; CVE-2020-35685,9.8,Critical,CWE-466; CWE-130; CWE-330; CWE-20; CWE-248; CWE-839; CWE-340; CWE-703; CWE-170,Multiple Critical Sectors,Worldwide,Hungary
 1885,12/16/2021,6/16/2022,2021,ICSA-21-131-03,Siemens Linux-based Products (Update H),Siemens,Linux Based Products,"The following Siemens Linux-based products are affected:
 RUGGEDCOM RM1224: All versions between v5.0 and v6.4
@@ -1283,7 +1304,21 @@ CWE-400",Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water a
 1615,5/27/2021,5/28/2021,2021,ICSA-21-147-05,Mitsubishi Electric MELSEC iQ-R Series,Mitsubishi Electric,MELSEC iQ-R Series,The following MELSEC iQ-R series CPU modules are affected: R00/01/02CPU: All versions R04/08/16/32/120(EN)CPU: All versions R08/16/32/120SFCPU: All versions R08/16/32/120PCPU: All versions R08/16/32/120PSFCPU: All versions.,CVE-2021-20591,5.3,Medium,CWE-400,Critical Manufacturing,Worldwide,Japan
 1614,5/27/2021,No Updates,2021,ICSA-21-040-06,Siemens JT2Go and Teamcenter Visualization (Update A),Siemens,Siemens JT2Go and Teamcenter Visualization,The following products are affected: JT2Go: All versions prior to v13.1.0.1 Teamcenter Visualization: All versions prior to v13.1.0.1.,CVE-2021-25173; CVE-2021-25174; CVE-2021-25175; CVE-2021-25176; CVE-2021-25177; CVE-2021-25178; CVE-2021-31784; CVE-2020-26989; CVE-2020-26990; CVE-2020-26991; CVE-2020-26998; CVE-2020-26999; CVE-2020-27000; CVE-2020-27001; CVE-2020-27002; CVE-2020-27003; CVE-2020-27004; CVE-2020-27005; CVE-2020-27006; CVE-2020-27007; CVE-2020-27008; CVE-2020-28383; CVE-2020-28394,7.8,High,CWE-119; CWE-121; CWE-125; CWE-704; CWE-787; CWE-789; CWE-822; CWE-843,Critical Manufacturing,Worldwide,Germany
 1613,5/27/2021,No Updates,2021,ICSA-21-012-03,Siemens JT2Go and Teamcenter Visualization (Update B),Siemens,Siemens JT2Go and Teamcenter Visualization,The following products are affected: JT2Go: All versions prior to v13.1.0 JT2Go: Version 13.1.0. only affected by CVE-2020-26989; CVE-2020-26990; CVE-2020-26991 Teamcenter Visualization: All versions prior to v13.1.0 Teamcenter Visualization: Version 13.1.0 only affected by CVE-2020-26989; CVE-2020-26990; CVE-2020-26991.,CVE-2020-26980; CVE-2020-26981; CVE-2020-26982; CVE-2020-26983; CVE-2020-26984; CVE-2020-26985; CVE-2020-26986; CVE-2020-26987; CVE-2020-26988; CVE-2020-26989; CVE-2020-26990; CVE-2020-26991; CVE-2020-26992; CVE-2020-26993; CVE-2020-26994; CVE-2020-26995; CVE-2020-26996; CVE-2020-28383,7.8,High,CWE-843; CWE-122; CWE-611; CWE-125; CWE-787; CWE-121,Critical Manufacturing,Worldwide,Germany
-1612,5/27/2021,No Updates,2021,ICSA-20-212-03,Mitsubishi Electric Factory Automation Products Path Traversal (Update B),Mitsubishi Electric,Factory Automation Products,The following products and versions are affected: CW Configurator; Versions 1.010L and prior FR Configurator2; Versions 1.22Y and prior GX Works2; Versions 1.595V and prior GX Works3; Versions 1.063R and prior; MELSEC iQ-R Series Motion Module; Versions 10 and prior; MELSOFT iQ AppPortal; Version 1.17T and prior MELSOFT Navigator; 2.70Y and prior MI Configurator; all versions MR Configurator2; Version 1.110Q and prior MT Works2; Versions 1.156N and prior MX Component; Version 4.20W and prior RT ToolBox3; Versions 1.70Y and prior.,CVE-2020-1452; CVE-2020-14523,8.3,High,CWE-22,Critical Manufacturing,Worldwide,Japan
+1612,5/27/2021,8/2/2022,2021,ICSA-20-212-03,Mitsubishi Electric Factory Automation Products Path Traversal (Update C),Mitsubishi Electric,Factory Automation Products,"The following products and versions are affected:
+CW Configurator,Versions 1.010L and prior
+FR Configurator2, Versions 1.22Y and prior
+GX Works2, Versions 1.595V and prior
+GX Works3, Versions 1.063R and prior
+MELSEC iQ-R Series Motion Module, Versions 10 and prior
+MELSOFT iQ AppPortal, Version 1.17T and prior
+MELSOFT Navigator, 2.70Y and prior
+--------- Begin Update C Part 1 of 2 --------- 
+MI Configurator, versions 1.004E and prior
+--------- End Update C Part 1 of 2 ---------
+MR Configurator2, Version 1.110Q and prior
+MT Works2, Versions 1.156N and prior
+MX Component, Version 4.20W and prior
+RT ToolBox3, Versions 1.70Y and prior.",CVE-2020-14523,8.3,High,CWE-22,Critical Manufacturing,Worldwide,Japan
 1611,5/25/2021,No Updates,2021,ICSA-21-145-01,Datakit Libraries bundled in Luxion KeyShot,Datakit,Libraries bundled in Luxion KeyShot,"The following modules of Datakit CrossCADWare, Versions 2021.1 and earlier, a library embedded in end-user applications, are affected: CatiaV5_3dRead CatiaV6_3dRead Step3dRead Ug3dReadPsr Jt3dReadPsr The following versions of Luxion software, 3D rendering and animation software, are bundled with the affected Datakit libraries: KeyShot: Versions v10.1 and prior.",CVE-2021-27488; CVE-2021-27490; CVE-2021-27492; CVE-2021-27494; CVE-2021-27496,7.8,High,CWE-611; CWE-125; CWE-787; CWE-121; CWE-822,Multiple Critical Sectors,Worldwide,France
 1610,5/25/2021,No Updates,2021,ICSA-21-145-02,Rockwell Automation Micro800 and MicroLogix 1400,Rockwell Automation,Micro800 and MicroLogix 1400,The following controllers are affected: Micro800: All versions MicroLogix 1400: Version 21 and later when Enhanced Password Security enabled.,CVE-2021-32926,6.1,Medium,CWE-300,Critical Manufacturing,Worldwide,United States
 1609,5/18/2021,No Updates,2021,ICSA-21-138-01,Emerson Rosemount X-STREAM,Emerson,Rosemount X-STREAM,"The following versions of Emersons Rosemount X-STREAM gas analysis software, are affected: X-STREAM enhanced XEGP  all revisions X-STREAM enhanced XEGK  all revisions X-STREAM enhanced XEFD  all revisions X-STREAM enhanced XEXF  all revisions.",CVE-2021-27457; CVE-2021-27459; CVE-2021-27461; CVE-2021-27463; CVE-2021-27465; CVE-2021-27467,7.5,High,CWE-22; CWE-79; CWE-1021; CWE-326; CWE-434; CWE-539,Energy; Chemical,Worldwide,United States
