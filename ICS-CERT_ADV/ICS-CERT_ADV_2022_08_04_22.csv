@@ -1,4 +1,5 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2161,8/4/2022,No Updates,2022,ICSA-22-216-01,Digi ConnectPort X2D,"Digi International, Inc.",ConnectPort X2D Gateway,The following Digi products are affected: Digi ConnectPort X2D Gateway: All firmware versions in devices manufactured prior to January 2020.,CVE-2022-2634,10,Critical,CWE-250,Multiple Critical Sectors,Worldwide,United States
 2160,7/28/2022,No Updates,2022,ICSA-22-209-01,Rockwell Products Impacted by Chromium Type Confusion,Rockwell Automation,"FactoryTalk Software, Enhanced HIM for PowerFlex, Connected Components Workbench","The following versions of Rockwell products are affected:
 FactoryTalk Linx Enterprise software: Versions 6.20, 6.21, and 6.30
 Enhanced HIM (eHIM) for PowerFlex 6000T: Version 1.001
@@ -17,9 +18,11 @@ CVE-2022-30314
 CVE-2022-30313",7.7,High,"CWE-345
 CWE-798
 CWE-306",Multiple Critical Sectors,Worldwide,United States
-2156,7/26/2022,No Updates,2022,ICSA-22-207-01,Inductive Automation Ignition,Inductive Automation,Ignition,"The following versions of Inductive Automation Ignition software are affected:
- Inductive Automation Ignition: All versions prior to 8.1.9
- Inductive Automation Ignition: All versions prior to v7.9.21.",CVE-2022-1704,8.5,High,CWE-611,Critical Manufacturing; Energy; Information Technology,United States,United States
+2156,7/26/2022,8/4/2022,2022,ICSA-22-207-01,Inductive Automation Ignition (Update A),Inductive Automation,Ignition,"The following versions of Inductive Automation Ignition software are affected:
+-------- Begin Update A Part 1 of 1 ---------
+Inductive Automation Ignition: All versions from 8.1 to those prior to v8.1.8
+Inductive Automation Ignition: All 7.9 versions prior to v7.9.21
+--------- End Update A Part 1 of 1 ---------",CVE-2022-1704,8.5,High,CWE-611,Critical Manufacturing; Energy; Information Technology,United States,United States
 2155,7/21/2022,No Updates,2022,ICSA-22-202-05,AutomationDirect Stride Field I/O,AutomationDirect,Stride Field I/O,"AutomationDirect reports this vulnerability affects Stride Field I/O products with the following part numbers:
  SIO-MB04RTDS, firmware version prior to v8.3.4.0
  SIO- MB04ADS, firmware version prior to v8.4.3.0
