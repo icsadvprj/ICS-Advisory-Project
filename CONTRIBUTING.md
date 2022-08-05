@@ -16,7 +16,7 @@ While this process is very manual, I hope to further automate it with the help o
 
 Please feel free to propose a better way to help maintain and share this data. Your support helps support the ICS Advisory Project: ICS-CERT Advisory Dashboard currently built and hosted for free on Google Data Studio.
 
-If you have questions, please email: icsadvisoryproject@gmail.com
+If you have questions, please email: icsadvisoryproj@icsadvisoryproject.com
 
 ## Issues ##
 If you want to report a bug or request a new feature, the most direct method is to [create an issue](https://github.com/icsadvprj/ICS-Advisory-Project/issues) in this
