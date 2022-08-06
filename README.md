@@ -6,7 +6,10 @@ While some of this dataset may seem duplicative of CVE data, CISA ICS-CERT Advis
 This project is a community effort, don't hesitate to [contact us](mailto:icsadvisoryproj@icsadvisoryproject.com) if you have questions about contributing or want to support the improvement, expansion, maintenance, and protection of this data source.
 
 ## ICS Advisory Project | ICS-CERT Advisory Dashboard ##
-To view the ICS Advisory Project: ICS-CERT Advisory Dashboard, click [Here](https://datastudio.google.com/reporting/f0d99ae7-c75b-4fdd-9951-8ecada5aee5e).
+To view the ICS Advisory Project: ICS-CERT Advisory Dashboard, click [Here](https://www.icsadvisoryproject.com/home).
+
+## Add-On ICS-CERT Advisories project add-on for Splunk
+Efi Kaufman's Splunk Add-On for ICS-CERT Advisories: https://github.com/efi-k/ICS_CERT_TA
 
 ## Join our Discord channels and associated supporting ICS/OT Communties:
 - ICS Advisory Project: https://discord.gg/qJ8QMmxw9M
