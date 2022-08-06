@@ -8,8 +8,8 @@ This project is a community effort, don't hesitate to [contact us](mailto:icsadv
 ## ICS Advisory Project | ICS-CERT Advisory Dashboard ##
 To view the ICS Advisory Project: ICS-CERT Advisory Dashboard, click [Here](https://www.icsadvisoryproject.com/home).
 
-## NEW ICS-CERT Advisories project add-on for Splunk
-Efi Kaufman's Splunk Add-On for ICS-CERT Advisories: https://github.com/efi-k/ICS_CERT_TA
+## NEW ICS-CERT Advisory Project add-on for Splunk
+Check out Efi Kaufman's Splunk Add-On for ICS-CERT Advisories: https://github.com/efi-k/ICS_CERT_TA
 
 ## Join our Discord channels and associated supporting ICS/OT Communties:
 - ICS Advisory Project: https://discord.gg/qJ8QMmxw9M
