@@ -1,4 +1,11 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2164,8/9/2022,No Updates,2022,ICSA-22-221-01,Mitsubishi Electric GT SoftGOT2000,Mitsubishi Electric,GT SoftGOT2000,The following version of GT SoftGOT2000 is affected: GT SoftGOT2000: Version 1.275M.,"CVE-2022-0778
+CVE-2022-1292",9.8,Critical,"CWE-835
+CWE-78",Critical Manufacturing,Worldwide,Japan
+2163,8/9/2022,No Updates,2022,ICSA-22-221-02,Emerson ControlWave,Emerson,ControlWave,"The following versions of ControlWave, a programmable controller, are affected: ControlWave: All versions.",CVE-2022-30262,9.1,Critical,CWE-345,Oil & Gas; Petrochemical; Chemical; Life Sciences; Water and Wastewater Systems,Worldwide,United States
+2162,8/9/2022,No Updates,2022,ICSA-22-221-03,Emerson OpenBSI,Emerson,OpenBSI,"The following versions of OpenBSI, a set of network communication services, are affected: OpenBSI: Versions 5.9 SP3 and prior.","CVE-2022-29959
+CVE-2022-29960",9.6,Critical,"CWE-327
+CWE-321",Oil & Gas; Petrochemical; Chemical; Life Sciences; Water and Wastewater Systems,Worldwide,United States
 2161,8/4/2022,No Updates,2022,ICSA-22-216-01,Digi ConnectPort X2D,"Digi International, Inc.",ConnectPort X2D Gateway,The following Digi products are affected: Digi ConnectPort X2D Gateway: All firmware versions in devices manufactured prior to January 2020.,CVE-2022-2634,10,Critical,CWE-250,Multiple Critical Sectors,Worldwide,United States
 2160,7/28/2022,No Updates,2022,ICSA-22-209-01,Rockwell Products Impacted by Chromium Type Confusion,Rockwell Automation,"FactoryTalk Software, Enhanced HIM for PowerFlex, Connected Components Workbench","The following versions of Rockwell products are affected:
 FactoryTalk Linx Enterprise software: Versions 6.20, 6.21, and 6.30
