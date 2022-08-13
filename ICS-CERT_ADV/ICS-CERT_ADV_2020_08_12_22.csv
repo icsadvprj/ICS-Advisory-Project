@@ -133,7 +133,23 @@ icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Adviso
 1343,6/23/2020,No Updates,2020,ICSA-20-175-03,ABB Device Library Wizard,ABB,Device Library Wizard,The following products of Device Library Wizard are affected: Device Library Wizard: Versions 6.0.X; 6.0.3.1; and 6.0.3.2.,CVE-2020-8482,7.8,High,CWE-922,Chemical; Critical Manufacturing; Dams; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Switzerland
 1342,6/23/2020,7/28/2020,2020,ICSMA-20-170-01,Baxter ExactaMix (Update A),Baxter,ExactaMix,The following versions of Baxter ExactaMix Systems are affected: ExactaMix EM2400 Versions 1.10; 1.11; 1.13; 1.14; ExactaMix EM1200 Versions 1.1; 1.2; 1.4; 1.5.,CVE-2020-12008; CVE-2020-12012; CVE-2020-12016; CVE-2020-12020; CVE-2020-12024; CVE-2020-12032 CVE-2017-0143,8.1,High,CWE-319; CWE-668; CWE-284; CWE-20; CWE-311; CWE-259,Healthcare and Public Health,Worldwide,United States
 1341,6/23/2020,7/28/2020,2020,ICSMA-20-170-03,Baxter Phoenix Hemodialysis Delivery System (Update A),Baxter,Phoenix Hemodialysis Delivery System,The following versions of the Phoenix Hemodialysis Delivery System are affected: Phoenix Hemodialysis Delivery System SW 3.36 and 3.40.,CVE-2020-12048,7.5,High,CWE-319,Healthcare and Public Health,Worldwide,United States
-1340,6/23/2020,7/28/2020,2020,ICSMA-20-170-04,Baxter Sigma Spectrum Infusion Pumps (Update A),Baxter,Sigma Spectrum Infusion Pumps,The following versions of Sigma Spectrum Infusion systems are affected: Sigma Spectrum v6.x model 35700BAX Baxter Spectrum v8.x model 35700BAX2 Sigma Spectrum v6.x with Wireless Battery Modules v9; v11; v13; v14; v15; v16; v20D29; v20D30; v20D31; and v22D24 Baxter Spectrum v8.x with Wireless Battery Modules v17; v20D29; v20D30; v20D31; and v22D24 Baxter Spectrum Wireless Battery Modules v17; v20D29; v20D30; v20D31; and v22D24 Baxter Spectrum LVP v8.x with Wireless Battery Modules v17; v20D29; v20D30; v20D31; and v22D24.,CVE-2020-12039; CVE-2020-12040; CVE-2020-12041; CVE-2020-12043; CVE-2020-12045; CVE-2020-12047,8.6,High,CWE-319; CWE-732; CWE-672; CWE-259,Healthcare and Public Health,United States,United States
+1340,6/23/2020,8/11/2022,2020,ICSMA-20-170-04,Baxter Sigma Spectrum Infusion Pumps (Update B),Siemens,Sigma Spectrum Infusion Pumps  ,"The following versions of Sigma Spectrum Infusion systems, are affected: 
+Sigma Spectrum v6.x model 35700BAX 
+Baxter Spectrum v8.x model 35700BAX2 
+--------- Begin Update B Part 1 of 6 ---------
+Baxter Spectrum v9.x model 35700BAX3 
+Sigma Spectrum LVP v6.x with Wireless Battery Modules v9, v11, v13, v14, v15, v16, v16D38, v17, v17D19, v20D29 to v20D32, and v22D24 to v22D28 
+Baxter Spectrum LVP v8.x with Wireless Battery Modules v17, v17D19, v20D29 to v20D32, and v22D24 to v22D28 
+Baxter Spectrum LVP v9.x with Wireless Battery Module v22D19 to v22D28 
+--------- End Update B Part 1 of 6 --------- .","CVE-2020-12039
+CVE-2020-12040
+CVE-2020-12041
+CVE-2020-12043
+CVE-2020-12045
+CVE-2020-12047",8.6,High,"CWE-319
+CWE-732
+CWE-672
+CWE-259",Healthcare and Public Health,United States,United States
 1339,6/23/2020,3/15/2021,2020,ICSMA-20-170-06,BD Alaris PCU (Update A),"Becton, Dickinson and Company (BD)",Alaris PCU,The following versions of the BD Alaris PCU that has implemented the Linux Kernel v4.4.97 within the Laird Wireless Module WB40N are affected: Alaris PC Unit: Versions 9.13; 9.19; 9.33; and 12.1.,CVE-2019-11479,5.3,Medium,CWE-400,Healthcare and Public Health,Worldwide,United States
 1338,6/18/2020,No Updates,2020,ICSMA-20-170-05,BIOTRONIK CardioMessenger II,BIOTRONIK,CardioMessenger II,The following versions of the CardioMessenger II - a home monitoring unit are affected: CardioMessenger II-S T-Line T4APP 2.20 CardioMessenger II-S GSM T4APP 2.20.,CVE-2019-18246; CVE-2019-18248; CVE-2019-18252; CVE-2019-18254; CVE-2019-18256,4.6,Medium,CWE-319; CWE-287; CWE-311; CWE-257,Healthcare and Public Health,Worldwide,Germany
 1337,6/18/2020,No Updates,2020,ICSA-20-170-02,"Mitsubishi Electric MC Works64, MC Works32",Mitsubishi Electric,"MC Works64, MC Works32",The following products versions are affected: MC Works64 Version 4.02C (10.95.208.31) and earlier; all versions MC Works32 Version 3.00A (9.50.255.02).,CVE-2020-12007; CVE-2020-12009; CVE-2020-12011; CVE-2020-12013; CVE-2020-12015,9.4,Critical,CWE-502; CWE-94; CWE-787,Critical Manufacturing,Worldwide,Japan
@@ -218,30 +234,46 @@ icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Adviso
  SIMATIC WinCC Runtime Advanced: all versions
  SIMATIC WinCC Runtime Professional: all versions
  TIM 1531 IRC (incl. SIPLUS NET variants): all versions prior to v2.1.",CVE-2019-10929,3.7,Low,CWE-327,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
-1270,3/10/2020,No Updates,2020,ICSA-19-344-06,Siemens SIMATIC S7-1200 and S7-1500 CPU Families (Update A),Siemens,SIMATIC S7-1200 and S7-1500 CPU Families,"Siemens SIMATIC products: SIMATIC ET200SP (incl. SIPLUS variants) Open Controller CPU 1515SP PC: All versions. SIMATIC ET200SP (incl. SIPLUS variants) Open Controller CPU 1515SP PC2: Versions 20.8 and prior SIMATIC S7-1500 Software Controller: Versions 20.8 and prior. SIMATIC S7 PLCSIM Advanced: Versions 3.0 and prior SIMATIC S7-1200 CPU family (incl. SIPLUS variants): Versions 4.4 and prior SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants), excluding CPU 1518-4 PN/DP and CPU 1518 MFP (and related SIPLUS variant): All versions up to and including v2.8.1.",CVE-2019-10929; CVE-2019-10943,5.3,Medium,CWE-353; CWE-327,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
-1269,3/10/2020,4/14/2022,2020,ICSA-19-099-03,Siemens Industrial Products with OPC UA (Update G),Siemens,"SIMATIC, SINEC-NMS, SINEMA, SINEMURIK Industrial Control Products with OPC 
- UA","The following Siemens industrial products are affected:
- SIMATIC CP443-1 OPC UA (including SIPLUS NET variants): all versions
- SIMATIC ET 200 Open Controller CPU 1515SP PC2 (including SIPLUS variants): all versions prior to v2.7
- SIMATIC HMI Comfort Outdoor Panels 7"" & 15"" (including SIPLUS variants): all versions prior to v15.1 Upd 4
- SIMATIC HMI Comfort Panels 4"" 22"" (including SIPLUS variants): all versions prior to v15.1 Upd 4
- SIMATIC HMI KTP Mobile Panels KTP400F, KTP700, KTP700F, KTP900, KTP900F (including SIPLUS variants): all versions prior to v15.1 Upd 4
- SIMATIC IPC DiagMonitor: all versions prior to v5.1.3
- Update G
- SIMATIC NET PC Software v13: all versions
- SIMATIC NET PC Software v14: all versions prior to v14 SP1 Update 14
- SIMATIC NET PC Software v15: all versions
- End Update G.
- SIMATIC RF188C: all versions prior to v1.1.0
- SIMATIC RF600R: all versions prior to v3.2.1
- SIMATIC S7-1500 CPU Family (including related ET200 CPUs and SIPLUS variants): all versions, v2.5 and newer, and prior to v2.6.1
- SIMATIC S7-1500 Software Controller: all versions between v2.5 (including) and v2.7 (excluding)
- SIMATIC WinCC OA: all versions prior to v3.15-P018
- SIMATIC WinCC Runtime Advanced: all versions prior to v15.1 Upd 4
- SINEC-NMS: all versions prior to v1.0 SP1
- SINEMA Server: all versions prior to v14 SP2
- SINUMERIK OPC UA Server: all versions prior to v2.1
- TeleControl Server Basic: all versions.",CVE-2019-6575,7.5,High,CWE-248,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
+1270,3/10/2020,8/11/2022,2020,ICSA-19-344-06,Siemens SIMATIC S7-1200 and S7-1500 CPU Families (Update B),Siemens,SIMATIC S7-1200 and S7-1500 CPU families,"Siemens reports that these vulnerabilities affect the following SIMATIC products: 
+SIMATIC ET200SP (incl. SIPLUS variants) Open Controller CPU 1515SP PC: All versions
+--------- Begin Update B Part 1 of 2 ---------
+SIMATIC Drive Controller family: All versions (only affected by CVE-2019-10943)
+SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants): All versions prior to V20.8
+SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants): Versions 20.8 and later (only affected by CVE-2019-10943)
+SIMATIC ET 200SP Open Controller CPU 1515SP PC (incl. SIPLUS variants): All versions
+SIMATIC S7-1200 CPU family (incl. SIPLUS variants): All versions prior to V4.4.0
+SIMATIC S7-1200 CPU family (incl. SIPLUS variants): Versions 4.4.0 and later (only affected by CVE-2019-10943)
+SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants): All versions prior to V2.8.1
+SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants): Versions 2.8.1 and later (only affected by CVE-2019-10943)
+SIMATIC S7-1500 Software Controller: All versions prior to V20.8
+SIMATIC S7-1500 Software Controller Versions 20.8 and later (only affected by CVE-2019-10943)
+SIMATIC S7-PLCSIM Advanced: All versions prior to V3.0
+SIMATIC S7-PLCSIM Advanced: Versions 3.0 and later (only affected by CVE-2019-10943)
+--------- End Update B Part 1 of 2 ---------.","CVE-2019-10929
+CVE-2019-10943",5.3,Medium,"CWE-353
+CWE-327",Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
+1269,3/10/2020,8/11/2022,2019,ICSA-19-099-03,Siemens Industrial Products with OPC UA (Update H),Siemens,"SIMATIC, SINEC-NMS, SINEMA, SINEMURIK Industrial Control Products with OPC UA","The following Siemens industrial products are affected:
+SIMATIC CP443-1 OPC UA (including SIPLUS NET variants): all versions
+SIMATIC ET 200 Open Controller CPU 1515SP PC2 (including SIPLUS variants): all versions prior to v2.7
+SIMATIC HMI Comfort Outdoor Panels 7"" & 15"" (including SIPLUS variants): all versions prior to v15.1 Upd 4
+SIMATIC HMI Comfort Panels 4"" 22"" (including SIPLUS variants): all versions prior to v15.1 Upd 4
+SIMATIC HMI KTP Mobile Panels KTP400F, KTP700, KTP700F, KTP900, KTP900F (including SIPLUS variants): all versions prior to v15.1 Upd 4
+SIMATIC IPC DiagMonitor: all versions prior to v5.1.3
+SIMATIC NET PC Software v13: all versions
+SIMATIC NET PC Software v14: all versions prior to v14 SP1 Update 14
+SIMATIC NET PC Software v15: all versions
+SIMATIC RF188C: all versions prior to v1.1.0
+SIMATIC RF600R: all versions prior to v3.2.1
+SIMATIC S7-1500 CPU Family (including related ET200 CPUs and SIPLUS variants): all versions, v2.5 and newer, and prior to v2.6.1
+SIMATIC S7-1500 Software Controller: all versions between v2.5 (including) and v2.7 (excluding)
+SIMATIC WinCC OA: all versions prior to v3.15-P018
+SIMATIC WinCC Runtime Advanced: all versions prior to v15.1 Upd 4
+SINEC-NMS: all versions prior to v1.0 SP1
+SINEMA Server: all versions prior to v14 SP2
+SINUMERIK OPC UA Server: all versions prior to v2.1
+--------- Begin Update H Part 1 of 2 ---------
+TeleControl Server Basic: all versions prior to v3.1.1
+--------- End Update H Part 1 of 2 ---------.",CVE-2019-6575,7.5,High,CWE-248,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
 1268,3/10/2020,No Updates,2020,ICSA-16-348-05,Siemens S7-300/400 PLC Vulnerabilities (Update E),Siemens,S7-300/400 PLC,SIMATIC S7-300 CPU family (incl. related ET200 CPUs and SIPLUS variants) all versions SIMATIC S7-400 PN/DP V6 and below CPU family (incl. SIPLUS variants) all versions SIMATIC S7-400 PN/DP V7 CPU family (incl. SIPLUS variants) all versions SIMATIC S7-410 V8 CPU family (incl. SIPLUS variants) all versions (only affected by CVE-2016-9159).,CVE-2016-9159; CVE-2016-9158,7.5,High,CWE-200,Chemical; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
 1267,3/5/2020,No Updates,2020,ICSA-20-065-01,WAGO I/O-CHECK,WAGO,I/O-CHECK,The following versions of I/O-CHECK software are affected by the listed vulnerabilities: Series PFC100 (750-81xx/xxx-xxx) Series PFC200 (750-82xx/xxx-xxx) 750-852; 750-831/xxx-xxx; 750-881; 750-880/xxx-xxx; 750-889 750-823; 750-832/xxx-xxx; 750-862; 750-890/xxx-xxx; 750-891.,CVE-2019-5073; CVE-2019-5074; CVE-2019-5075; CVE-2019-5077; CVE-2019-5078; CVE-2019-5079; CVE-2019-5080; CVE-2019-5081; CVE-2019-5082,10,Critical,CWE-805; CWE-120; CWE-201; CWE-306,Commercial Facilities; Energy; Critical Manufacturing; Transportation,Worldwide,Germany
 1266,3/3/2020,No Updates,2020,ICSA-20-063-01,Emerson ValveLink,Emerson,ValveLink,The following versions of ValveLink digital valve controller software are affected: ValveLink; v12.0.264 to v13.4.118.,CVE-2020-6971,7.8,High,CWE-284,Chemical; Critical Manufacturing; Dams; Energy; Food and Agriculture; Healthcare and Public Health; Nuclear Reactors Materials and Waste; Transportation; Water and Wastewater,Worldwide,United States
