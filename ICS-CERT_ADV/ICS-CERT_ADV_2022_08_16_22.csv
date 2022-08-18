@@ -1,4 +1,51 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2178,8/16/2022,No Updates,2022,ICSA-22-228-01,Yokogawa CENTUM Controller FCS,Yokogawa,CENTUM VP & CS 3000 Controller FCS,"Yokogawa reports this vulnerability affects the following CENTUM VP/CS 3000 Controller FCS products:
+CENTUM VP/CS 3000 controller FCS
+CP31, CP33, CP345
+CP401, CP451.",CVE-2022-33939,6.5,Medium,CWE-399,Multiple Critical Sectors,Worldwide,Japan
+2177,8/16/2022,No Updates,2022,ICSA-22-228-02,LS ELECTRIC PLC and XG5000,"LS Electric, LS Industrial Systems (LSIS) Co. Ltd",LS ELEC PLC and XG5000,"The following versions of LS ELECTRIC PLC, a PLC, and XG5000, a PLC programming software, are affected:
+LS Electric PLC: All versions
+XG5000: All versions.",CVE-2022-2758,6.5,Medium,CWE-326,Multiple Critical Sectors,Worldwide,South Korea
+2176,8/16/2022,No Updates,2022,ICSA-22-228-04,Softing Secure Integration Server,Softing,Secure Integration Server,"Softing reports these vulnerabilities affect the following products: 
+Secure Integration Server: Version 1.22.
+edgeConnector: Version 3.1.
+edgeAggregator: Version 3.1.
+OPC UA C++ Server SDK: Version 6.
+OPC Suite: Version 5.2.
+uaGate: Version 1.74.","CVE-2022-1069
+CVE-2022-2334
+CVE-2022-2336
+CVE-2022-1373
+CVE-2022-2338
+CVE-2022-1748
+CVE-2022-2337
+CVE-2022-2547
+CVE-2022-2335",7.5,High,"CWE-125
+CWE-427
+CWE-287
+CWE-23
+CWE-319
+CWE-476
+CWE-191",Multiple Critical Sectors,Worldwide,Germany
+2175,8/16/2022,No Updates,2022,ICSA-22-228-03,Delta Industrial Automation DRAS,Delta Electronics,Delta Robot Automation Studio (DRAS),"The following versions of DRAS, a controller software suite, are affected:
+DRAS: All versions prior to 1.13.20.",CVE-2022-2759,5.5,Medium,CWE-611,Critical Manufacturing,Worldwide,Taiwan
+2174,8/16/2022,No Updates,2022,ICSA-22-228-05,B&R Industrial Automation Automation Studio 4,B&R Industrial Automation,Automation Studio 4,"B&R Automation reports the vulnerabilities affect the following versions of Automation Studio, a programmable logic controller (PLC) automation programming software: Automation Studio 4: All versions.",CVE-2021-22289,8.3,High,CWE-20,Chemical; Critical Manufacturing; Energy,Worldwide,Austria
+2173,8/16/2022,No Updates,2022,ICSA-22-228-06,Emerson Proficy Machine Edition,Emerson,Proficy Machine Edition,"The following versions of Proficy Machine Edition, an engineering workstation that is part of the PACSystems control system software platform, are affected:
+Proficy Machine Edition Version 9.80 and prior.","CVE-2022-2793
+CVE-2022-2792
+CVE-2022-2791
+CVE-2022-2790
+CVE-2022-2789
+CVE-2022-2788",9.3,Critical,"CWE-353
+CWE-284
+CWE-434
+CWE-347
+CWE-345
+CWE-29",Commercial Facilities; Critical Manufacturing; Dams; Defense Industrial Base; Energy; Food and Agriculture; Government Facilities; Information Technology; Transportation Systems; Water and Wastewater Systems,Worldwide,United States
+2172,8/16/2022,No Updates,2022,ICSA-22-228-07,Sequi PortBloque S,Sequi,Sequi PortBloque S,"The following versions of Sequi PortBloque S, a serial Modbus firewall, are affected:
+Sequi PortBloque S: All versions.","CVE-2022-2662
+CVE-2022-2661",9.9,Critical,"CWE-287
+CWE-285",Multiple Critical Sectors,Worldwide,United States
 2171,8/11/2022,No Updates,2022,ICSA-22-223-01,Siemens Simcenter STAR-CCM+,Siemens,Simcenter STAR-CCM+,The following versions of Simcenter STAR-CCM+ are affected: Simcenter STAR-CCM+: All versions.,CVE-2022-34659,5.3,Medium,CWE 200,Critical Manufacturing,Multiple Countries,Germany
 2170,8/11/2022,No Updates,2022,ICSA-22-223-02,Siemens Teamcenter,Siemens,Teamcenter,"The following versions of Teamcenter, a product lifecycle management software, are affected:
 Teamcenter v12.4: All versions prior to v12.4.0.15
@@ -1393,15 +1440,15 @@ CWE-79
 CWE-306
 CWE-294
 CWE-287",Multiple Sectors,Worldwide,Germany
-2064,5/12/2022,7/14/2022,2022,ICSA-22-132-08,Siemens Industrial Products with OPC UA (Update A),Siemens,"SIMATIC NET PC, SITOP Manager, TeleControl Server Basic","The following Siemens industrial products are affected:
- SIMATIC NET PC Software v14: All versions prior to 14 SP1 Update 14
- SIMATIC NET PC Software v15: All versions
- --------- Begin Update A Part 1 of 2 ---------
- SIMATIC NET PC Software v16: All versions prior to 16 Update 6 
- --------- End Update A Part 1 of 2 ---------
- SIMATIC NET PC Software v17: All versions prior to 17 SP1
- SITOP Manager: All versions
- TeleControl Server Basic v3: All versions.",CVE-2021-45117,6.5,Medium,CWE-476,Multiple Critical Sectors,Worldwide,Germany
+2064,5/12/2022,8/16/2022,2022,ICSA-22-132-08,Siemens Industrial Products with OPC UA (Update B),Siemens,"SIMATIC NET PC, SITOP Manager, TeleControl Server Basic","The following Siemens industrial products are affected:
+SIMATIC NET PC Software v14: All versions prior to 14 SP1 Update 14
+SIMATIC NET PC Software v15: All versions
+SIMATIC NET PC Software v16: All versions prior to 16 Update 6 
+SIMATIC NET PC Software v17: All versions prior to 17 SP1
+SITOP Manager: All versions
+--------- Begin Update B Part 1 of 2 ---------
+TeleControl Server Basic v3: All versions
+--------- End Update B Part 1 of 2 ---------.",CVE-2021-45117,6.5,Medium,CWE-476,Multiple Critical Sectors,Worldwide,Germany
 2063,5/12/2022,No Updates,2022,ICSA-22-132-09,Siemens JT2GO and Teamcenter Visualization,Siemens,"JT2GO, Teamcenter Visualization","The following Siemens products are affected:
  JT2GO: All versions prior to v13.3.0.3
  Teamcenter Visualization v13.3: All versions prior to v13.3.0.3
