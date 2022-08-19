@@ -115,7 +115,12 @@ CVE-2022-36324
 CVE-2022-36325",9.1,Critical,"CWE-74
 CWE-770
 CWE-80",Multiple Critical Sectors,Worldwide,Germany
-2164,8/9/2022,No Updates,2022,ICSA-22-221-01,Mitsubishi Electric GT SoftGOT2000,Mitsubishi Electric,GT SoftGOT2000,The following version of GT SoftGOT2000 is affected: GT SoftGOT2000: Version 1.275M.,"CVE-2022-0778
+2164,8/9/2022,8/18/2022,2022,ICSA-22-221-01,Mitsubishi Electric Multiple Factory Automation Products (Update A),Mitsubishi Electric,"GOT2000 compatible HMI software, CC-Link IE TSN Industrial Managed Switch, MELSEC iQ-R Series OPC UA Server Module","The following version of GT SoftGOT2000 is affected:
+--------- Begin Update A part 2 of 3 ---------
+GOT2000 compatible HMI software: Version 1.275M
+CC-Link IE TSN Industrial Managed Switch (NZ2MHG-TSNT8F2): Version 03 and prior [affected by CVE-2022-0778 only]
+MELSEC iQ-R Series OPC UA Server Module (RD81OPC96): Version 08 and prior [affected by CVE-2022-0778 only]
+--------- End Update A part 2 of 3 ---------.","CVE-2022-0778
 CVE-2022-1292",9.8,Critical,"CWE-835
 CWE-78",Critical Manufacturing,Worldwide,Japan
 2163,8/9/2022,No Updates,2022,ICSA-22-221-02,Emerson ControlWave,Emerson,ControlWave,"The following versions of ControlWave, a programmable controller, are affected: ControlWave: All versions.",CVE-2022-30262,9.1,Critical,CWE-345,Oil & Gas; Petrochemical; Chemical; Life Sciences; Water and Wastewater Systems,Worldwide,United States
@@ -572,13 +577,25 @@ CVE-2022-2106
 CVE-2022-2088",8.8,High,"CWE-79
 CWE-23
 CWE-284",Communications; Commercial Facilities; Energy; Water and Wastewater Systems,Worldwide,Russia
-2111,6/21/2022,No Updates,2022,ICSA-22-172-01,Mitsubishi Electric MELSEC Q and L Series,Mitsubishi Electric,MELSEC Q and L Series,"The following versions of MELSEC CPU models are affected: 
- Q Series 
- Q03UDECPU, Q04/06/10/13/20/26/50/100UDEHCPU: All versions 
- Q03/04/06/13/26UDVCPU: Versions with the first 5 digits of serial No. 24051 and prior 
- Q04/06/13/26UDPVCPU: Versions with the first 5 digits of serial No. 24051 and prior 
- L Series 
- L02/06/26CPU(-P), L26CPU-(P)BT: Versions with the first 5 digits of serial No. 24051 and prior.",CVE-2022-24946,7.5,High,CWE-413,Critical Manufacturing,Worldwide,Japan
+2111,6/21/2022,8/18/2022,2022,ICSA-22-172-01,"Mitsubishi Electric MELSEC iQ-R, Q, L Series and MELIPC Series (Update A)",Mitsubishi Electric,"MELSEC iQ-R, Q, and L Series CPU Module, as well as the MELIPC Series","The following products are affected: 
+MELSEC CPU Models
+--------- Begin Update A Part 2 of 7 ---------
+iQ-R Series
+R12CCPU-V: Firmware Version 16 and prior
+--------- End Update A Part 2 of 7 ---------
+Q Series
+Q03UDECPU, Q04/06/10/13/20/26/50/100UDEHCPU: Versions with the first 5 digits of serial No. 24061 and prior
+Q03/04/06/13/26UDVCPU: Versions with the first 5 digits of serial No. 24051 and prior
+Q04/06/13/26UDPVCPU: Versions with the first 5 digits of serial No. 24051 and prior
+--------- Begin Update A Part 3 of 7 ---------
+Q12DCCPU-V, Q24DHCCPU-V(G), Q24/26DHCCPU-LS: All versions
+--------- End Update A Part 3 of 7 ---------
+L Series
+L02/06/26CPU(-P), L26CPU-(P)BT: Versions with the first 5 digits of serial No. 24051 and prior
+--------- Begin Update A Part 4 of 7 ---------
+MELIPC Series
+MI5122-VW: Firmware Version 05 and prior
+--------- End Update A Part 4 of 7 ---------.",CVE-2022-24946,7.5,High,CWE-413,Critical Manufacturing,Worldwide,Japan
 2110,6/21/2022,No Updates,2022,ICSA-22-172-02,JTEKT TOYOPUC,JTEKT,TOYOPUC Products,"The following versions of TOYOPUC products, a programmable logic controller, are affected: 
  PC10G-CPU Type=TCC-6353: All versions 
  PC10GE Type=TCC-6464: All versions 
@@ -783,325 +800,342 @@ Teamcenter V13.3, all versions prior to V13.3.0.3
 Teamcenter V14.0, all versions prior to V14.0.0.2
 --------- End Update A Part 2 of 4 ---------
 This vulnerability only affects software using the Java EE Server Manager HTML Adaptor, which is not installed by default.",CVE-2022-31619,9.9,Critical,CWE-798,Multiple Critical Sectors,Worldwide,Germany
-2091,6/16/2022,7/14/2022,2022,ICSA-22-167-14,Siemens OpenSSL Affected Industrial Products (Update A),Siemens,Multiple industrial products,"The following Siemens industrial products are affected:
- Industrial Edge - OPC UA Connector: All versions
- Industrial Edge - PROFINET IO Connector: All versions
- Industrial Edge - SIMATIC S7 Connector App: All versions prior to v1.7.0
- RUGGEDCOM CROSSBOW Station Access Controller: All versions only running on ROX
- RUGGEDCOM RM1224 LTE(4G) EU: All versions
- RUGGEDCOM RM1224 LTE(4G) NAM: All versions
- RUGGEDCOM ROX MX5000: All versions
- RUGGEDCOM ROX MX5000RE: All versions
- RUGGEDCOM ROX RX1400: All versions
- RUGGEDCOM ROX RX1500: All versions
- RUGGEDCOM ROX RX1501: All versions
- RUGGEDCOM ROX RX1510: All versions
- RUGGEDCOM ROX RX1511: All versions
- RUGGEDCOM ROX RX1512: All versions
- RUGGEDCOM ROX RX1524: All versions
- RUGGEDCOM ROX RX1536: All versions
- RUGGEDCOM ROX RX5000: All versions
- SCALANCE LPE9403: All versions prior to v2.0
- SCALANCE M804PB: All versions
- SCALANCE M812-1 ADSL-Router (Annex A): All versions
- SCALANCE M812-1 ADSL-Router (Annex B): All versions
- SCALANCE M816-1 ADSL-Router (Annex A): All versions
- SCALANCE M816-1 ADSL-Router (Annex B): All versions
- SCALANCE M826-2 SHDSL-Router: All versions
- SCALANCE M874-2: All versions
- SCALANCE M874-3: All versions
- SCALANCE M876-3 (EVDO): All versions
- SCALANCE M876-3 (ROK): All versions
- SCALANCE M876-4 (EU): All versions
- SCALANCE M876-4 (NAM): All versions
- SCALANCE MUM853-1 (EU): All versions
- SCALANCE MUM853-1 (RoW): All versions
- SCALANCE MUM856-1 (EU): All versions
- SCALANCE MUM856-1 (NAM): All versions
- SCALANCE MUM856-1 (RoW): All versions
- SCALANCE S615: All versions
- SCALANCE SC622-2C: All versions prior to v2.3.1
- SCALANCE SC632-2C: All versions prior to v2.3.1
- SCALANCE SC636-2C: All versions prior to v2.3.1
- SCALANCE SC642-2C: All versions prior to v2.3.1
- SCALANCE SC646-2C: All versions prior to v2.3.1
- --------- Begin Update A Part 1 of 2 ---------
- SCALANCE X200-4P IRT (6GK5200-4AH00-2BA3): All versions
- SCALANCE X200-4P IRT (6GK5200-4AH10-2BA3): All versions
- SCALANCE X201-3P IRT (6GK5201-3BH00-2BA3): All versions
- SCALANCE X201-3P IRT (6GK5201-3BH10-2BA3): All versions
- SCALANCE X201-3P IRT PRO (6GK5201-3BH00-2BD2): All versions
- SCALANCE X201-3P IRT PRO (6GK5201-3JR10-2BA6): All versions
- SCALANCE X202-2IRT (6GK5202-2BB00-2BA3): All versions
- SCALANCE X202-2IRT (6GK5202-2BB10-2BA3): All versions
- SCALANCE X202-2P IRT (6GK5202-2BH00-2BA3): All versions
- SCALANCE X202-2P IRT (6GK5202-2BH10-2BA3): All versions
- SCALANCE X202-2P IRT PRO (6GK5202-2JR00-2BA6): All versions
- SCALANCE X202-2P IRT PRO (6GK5202-2JR10-2BA6): All versions
- SCALANCE X204-2 (6GK5204-2BB10-2AA3): All versions
- SCALANCE X204-2FM (6GK5204-2BB11-2AA3): All versions
- SCALANCE X204-2LD (6GK5204-2BC10-2AA3): All versions
- SCALANCE X204-2LD TS (6GK5204-2BC10-2CA2): All versions
- SCALANCE X204-2TS (6GK5204-2BB10-2CA2): All versions
- SCALANCE X204IRT (6GK5204-0BA00-2BA3): All versions
- SCALANCE X204IRT (6GK5204-0BA10-2BA3): All versions
- SCALANCE X204IRT PRO (6GK5204-0JA00-2BA6): All versions
- SCALANCE X204IRT PRO (6GK5204-0JA10-2BA6): All versions
- SCALANCE X206-1 (6GK5206-1BB10-2AA3): All versions
- SCALANCE X206-1LD (6GK5206-1BC10-2AA3): All versions
- SCALANCE X208 (6GK5208-0BA10-2AA3): All versions
- SCALANCE X208PRO (6GK5208-0HA10-2AA6): All versions
- SCALANCE X212-2 (6GK5212-2BB00-2AA3): All versions
- SCALANCE X212-2LD (6GK5212-2BC00-2AA3): All versions
- SCALANCE X216 (6GK5216-0BA00-2AA3): All versions
- SCALANCE X224 (6GK5224-0BA00-2AA3): All versions
- SCALANCE X302-7 EEC (2x 24V) (6GK5302-7GD00-2EA3): All versions
- SCALANCE X302-7 EEC (2x 24V, coated) (6GK5302-7GD00-2GA3): All versions
- SCALANCE X302-7 EEC (2x 230V) (6GK5302-7GD00-4EA3): All versions
- SCALANCE X302-7 EEC (2x 230V, coated) (6GK5302-7GD00-4GA3): All versions
- SCALANCE X302-7 EEC (24V) (6GK5302-7GD00-1EA3): All versions
- SCALANCE X302-7 EEC (24V, coated) (6GK5302-7GD00-1GA3): All versions
- SCALANCE X302-7 EEC (230V) (6GK5302-7GD00-3EA3): All versions
- SCALANCE X302-7 EEC (230V, coated) (6GK5302-7GD00-3GA3): All versions
- SCALANCE X304-2FE (6GK5304-2BD00-2AA3): All versions
- SCALANCE X306-1LD FE (6GK5306-1BF00-2AA3): All versions
- SCALANCE X307-2 EEC (2x 24V) (6GK5307-2FD00-2EA3): All versions
- SCALANCE X307-2 EEC (2x 24V, coated) (6GK5307-2FD00-2GA3): All versions
- SCALANCE X307-2 EEC (2x 230V) (6GK5307-2FD00-4EA3): All versions
- SCALANCE X307-2 EEC (2x 230V, coated) (6GK5307-2FD00-4GA3): All versions
- SCALANCE X307-2 EEC (24V) (6GK5307-2FD00-1EA3): All versions
- SCALANCE X307-2 EEC (24V, coated) (6GK5307-2FD00-1GA3): All versions
- SCALANCE X307-2 EEC (230V) (6GK5307-2FD00-3EA3): All versions
- SCALANCE X307-2 EEC (230V, coated) (6GK5307-2FD00-3GA3): All versions
- SCALANCE X307-3 (6GK5307-3BL00-2AA3): All versions
- SCALANCE X307-3 (6GK5307-3BL10-2AA3): All versions
- SCALANCE X307-3LD (6GK5307-3BM00-2AA3): All versions
- SCALANCE X307-3LD (6GK5307-3BM10-2AA3): All versions
- SCALANCE X308-2 (6GK5308-2FL00-2AA3): All versions
- SCALANCE X308-2 (6GK5308-2FL10-2AA3): All versions
- SCALANCE X308-2LD (6GK5308-2FM00-2AA3): All versions
- SCALANCE X308-2LD (6GK5308-2FM10-2AA3): All versions
- SCALANCE X308-2LH (6GK5308-2FN00-2AA3): All versions
- SCALANCE X308-2LH (6GK5308-2FN10-2AA3): All versions
- SCALANCE X308-2LH+ (6GK5308-2FP00-2AA3): All versions
- SCALANCE X308-2LH+ (6GK5308-2FP10-2AA3): All versions
- SCALANCE X308-2M (6GK5308-2GG00-2AA2): All versions
- SCALANCE X308-2M (6GK5308-2GG10-2AA2): All versions
- SCALANCE X308-2M PoE (6GK5308-2QG00-2AA2): All versions
- SCALANCE X308-2M PoE (6GK5308-2QG10-2AA2): All versions
- SCALANCE X308-2M TS (6GK5308-2GG00-2CA2): All versions
- SCALANCE X308-2M TS (6GK5308-2GG10-2CA2): All versions
- SCALANCE X310 (6GK5310-0FA00-2AA3): All versions
- SCALANCE X310 (6GK5310-0FA10-2AA3): All versions
- SCALANCE X310FE (6GK5310-0BA00-2AA3): All versions
- SCALANCE X310FE (6GK5310-0BA10-2AA3): All versions
- SCALANCE X320-1 FE (6GK5320-1BD00-2AA3): All versions
- SCALANCE X320-1-2LD FE (6GK5320-3BF00-2AA3): All versions
- SCALANCE X408-2 (6GK5408-2FD00-2AA2): All versions
- SCALANCE XB205-3 (SC) (6GK5205-3BD00-2AB2): All versions
- SCALANCE XB205-3 (SC) (6GK5205-3BD00-2TB2): All versions
- SCALANCE XB205-3 (ST/BFOC) (6GK5205-3BB00-2AB2): All versions
- SCALANCE XB205-3 (ST/BFOC) (6GK5205-3BB00-2TB2): All versions
- SCALANCE XB205-3LD (6GK5205-3BF00-2AB2): All versions
- SCALANCE XB205-3LD (6GK5205-3BF00-2TB2): All versions
- SCALANCE XB208 (6GK5208-0BA00-2AB2): All versions
- SCALANCE XB208 (6GK5208-0BA00-2TB2): All versions
- SCALANCE XB213-3 (SC) (6GK5213-3BD00-2AB2): All versions
- SCALANCE XB213-3 (SC) (6GK5213-3BD00-2TB2): All versions
- SCALANCE XB213-3 (ST/BFOC) (6GK5213-3BB00-2AB2): All versions
- SCALANCE XB213-3 (ST/BFOC) (6GK5213-3BB00-2TB2): All versions
- SCALANCE XB213-3LD (6GK5213-3BF00-2AB2): All versions
- SCALANCE XB213-3LD (6GK5213-3BF00-2TB2): All versions
- SCALANCE XB216 (6GK5216-0BA00-2AB2): All versions
- SCALANCE XB216 (6GK5216-0BA00-2TB2): All versions
- SCALANCE XC206-2 (SC) (6GK5206-2BD00-2AC2): All versions
- SCALANCE XC206-2 (ST/BFOC) (6GK5206-2BB00-2AC2): All versions
- SCALANCE XC206-2SFP (6GK5206-2BS00-2AC2): All versions
- SCALANCE XC206-2SFP EEC (6GK5206-2BS00-2FC2): All versions
- SCALANCE XC206-2SFP G (6GK5206-2GS00-2AC2): All versions
- SCALANCE XC206-2SFP G (6GK5206-2GS00-2TC2): All versions
- SCALANCE XC206-2SFP G EEC (6GK5206-2GS00-2FC2): All versions
- SCALANCE XC208 (6GK5208-0BA00-2AC2): All versions
- SCALANCE XC208EEC (6GK5208-0BA00-2FC2): All versions
- SCALANCE XC208G (6GK5208-0GA00-2AC2): All versions
- SCALANCE XC208G (6GK5208-0GA00-2TC2): All versions
- SCALANCE XC208G EEC (6GK5208-0GA00-2FC2): All versions
- SCALANCE XC216 (6GK5216-0BA00-2AC2): All versions
- SCALANCE XC216-4C (6GK5216-4BS00-2AC2): All versions
- SCALANCE XC216-4C G (6GK5216-4GS00-2AC2): All versions
- SCALANCE XC216-4C G (EIP Def.) (6GK5216-4GS00-2TC2): All versions
- SCALANCE XC216-4C G EEC (6GK5216-4GS00-2FC2): All versions
- SCALANCE XC216EEC (6GK5216-0BA00-2FC2): All versions
- SCALANCE XC224 (6GK5224-0BA00-2AC2): All versions
- SCALANCE XC224-4C G (6GK5224-4GS00-2AC2): All versions
- SCALANCE XC224-4C G (EIP Def.) (6GK5224-4GS00-2TC2): All versions
- SCALANCE XC224-4C G EEC (6GK5224-4GS00-2FC2): All versions
- SCALANCE XF201-3P IRT (6GK5201-3JR00-2BA6): All versions
- SCALANCE XF202-2P IRT (6GK5202-2BH00-2BD2): All versions
- SCALANCE XF204 (6GK5204-0BA00-2AF2): All versions
- SCALANCE XF204 (6GK5204-0BA00-2GF2): All versions
- SCALANCE XF204 DNA (6GK5204-0BA00-2YF2): All versions
- SCALANCE XF204-2 (6GK5204-2BC00-2AF2): All versions
- SCALANCE XF204-2BA (6GK5204-2AA00-2GF2): All versions
- SCALANCE XF204-2BA DNA (6GK5204-2AA00-2YF2): All versions
- SCALANCE XF204-2BA IRT (6GK5204-2AA00-2BD2): All versions
- SCALANCE XF204IRT (6GK5204-0BA00-2BF2): All versions
- SCALANCE XF204IRT (6GK5204-0BA10-2BF2): All versions
- SCALANCE XF206-1 (6GK5206-1BC00-2AF2): All versions
- SCALANCE XF208 (6GK5208-0BA00-2AF2): All versions
- SCALANCE XM408-4C (6GK5408-4GP00-2AM2): All versions
- SCALANCE XM408-4C (L3 int.) (6GK5408-4GQ00-2AM2): All versions
- SCALANCE XM408-8C (6GK5408-8GS00-2AM2): All versions
- SCALANCE XM408-8C (L3 int.) (6GK5408-8GR00-2AM2): All versions
- SCALANCE XM416-4C (6GK5416-4GS00-2AM2): All versions
- SCALANCE XM416-4C (L3 int.) (6GK5416-4GR00-2AM2): All versions
- SCALANCE XP208 (6GK5208-0HA00-2AS6): All versions
- SCALANCE XP208 (6GK5208-0HA00-2TS6): All versions
- SCALANCE XP208EEC (6GK5208-0HA00-2ES6): All versions
- SCALANCE XP208PoE EEC (6GK5208-0UA00-5ES6): All versions
- SCALANCE XP216 (6GK5216-0HA00-2AS6): All versions
- SCALANCE XP216 (6GK5216-0HA00-2TS6): All versions
- SCALANCE XP216EEC (6GK5216-0HA00-2ES6): All versions
- SCALANCE XP216POE EEC (6GK5216-0UA00-5ES6): All versions
- SCALANCE XR324-4M EEC (2x 24V, ports on front) (6GK5324-4GG00-2ER2): All versions
- SCALANCE XR324-4M EEC (2x 24V, ports on front) (6GK5324-4GG10-2ER2): All versions
- SCALANCE XR324-4M EEC (2x 24V, ports on rear) (6GK5324-4GG00-2JR2): All versions
- SCALANCE XR324-4M EEC (2x 24V, ports on rear) (6GK5324-4GG10-2JR2): All versions
- SCALANCE XR324-4M EEC (2x 100-240VAC/60-250VDC, ports on front) (6GK5324-4GG00-4ER2): All versions
- SCALANCE XR324-4M EEC (2x 100-240VAC/60-250VDC, ports on front) (6GK5324-4GG10-4ER2): All versions
- SCALANCE XR324-4M EEC (2x 100-240VAC/60-250VDC, ports on rear) (6GK5324-4GG00-4JR2): All versions
- SCALANCE XR324-4M EEC (2x 100-240VAC/60-250VDC, ports on rear) (6GK5324-4GG10-4JR2): All versions
- SCALANCE XR324-4M EEC (24V, ports on front) (6GK5324-4GG00-1ER2): All versions
- SCALANCE XR324-4M EEC (24V, ports on front) (6GK5324-4GG10-1ER2): All versions
- SCALANCE XR324-4M EEC (24V, ports on rear) (6GK5324-4GG00-1JR2): All versions
- SCALANCE XR324-4M EEC (24V, ports on rear) (6GK5324-4GG10-1JR2): All versions
- SCALANCE XR324-4M EEC (100-240VAC/60-250VDC, ports on front) (6GK5324-4GG00-3ER2): All versions
- SCALANCE XR324-4M EEC (100-240VAC/60-250VDC, ports on front) (6GK5324-4GG10-3ER2): All versions
- SCALANCE XR324-4M EEC (100-240VAC/60-250VDC, ports on rear) (6GK5324-4GG00-3JR2): All versions
- SCALANCE XR324-4M EEC (100-240VAC/60-250VDC, ports on rear) (6GK5324-4GG10-3JR2): All versions
-  SCALANCE XR324-4M PoE (24V, ports on front) (6GK5324-4QG00-1AR2): All versions
- SCALANCE XR324-4M PoE (24V, ports on rear) (6GK5324-4QG00-1HR2): All versions
- SCALANCE XR324-4M PoE (230V, ports on front) (6GK5324-4QG00-3AR2): All versions
- SCALANCE XR324-4M PoE (230V, ports on rear) (6GK5324-4QG00-3HR2): All versions
- SCALANCE XR324-4M PoE TS (24V, ports on front) (6GK5324-4QG00-1CR2): All versions
- SCALANCE XR324-12M (24V, ports on front) (6GK5324-0GG00-1AR2): All versions
- SCALANCE XR324-12M (24V, ports on front) (6GK5324-0GG10-1AR2): All versions
- SCALANCE XR324-12M (24V, ports on rear) (6GK5324-0GG00-1HR2): All versions
- SCALANCE XR324-12M (24V, ports on rear) (6GK5324-0GG10-1HR2): All versions
- SCALANCE XR324-12M (230V, ports on front) (6GK5324-0GG00-3AR2): All versions
- SCALANCE XR324-12M (230V, ports on front) (6GK5324-0GG10-3AR2): All versions
- SCALANCE XR324-12M (230V, ports on rear) (6GK5324-0GG00-3HR2): All versions
- SCALANCE XR324-12M (230V, ports on rear) (6GK5324-0GG10-3HR2): All versions
- SCALANCE XR324-12M TS (24V) (6GK5324-0GG00-1CR2): All versions
- SCALANCE XR324-12M TS (24V) (6GK5324-0GG10-1CR2): All versions
- SCALANCE XR324WG (24 x FE, AC 230V) (6GK5324-0BA00-3AR3): All versions
- SCALANCE XR324WG (24 X FE, DC 24V) (6GK5324-0BA00-2AR3): All versions
- SCALANCE XR328-4C WG (24xFE,4xGE, AC230V) (6GK5328-4FS00-3AR3): All versions
- SCALANCE XR328-4C WG (24xFE,4xGE, AC230V) (6GK5328-4FS00-3RR3): All versions
- SCALANCE XR328-4C WG (24XFE, 4XGE, 24V) (6GK5328-4FS00-2AR3): All versions
- SCALANCE XR328-4C WG (24xFE, 4xGE, DC24V) (6GK5328-4FS00-2RR3): All versions
- SCALANCE XR328-4C WG (28xGE, AC 230V) (6GK5328-4SS00-3AR3): All versions
- SCALANCE XR328-4C WG (28xGE, DC 24V) (6GK5328-4SS00-2AR3): All versions
- SCALANCE XR524-8C, 1x230V (6GK5524-8GS00-3AR2): All versions
- SCALANCE XR524-8C, 1x230V (L3 int.) (6GK5524-8GR00-3AR2): All versions
- SCALANCE XR524-8C, 2x230V (6GK5524-8GS00-4AR2): All versions
- SCALANCE XR524-8C, 2x230V (L3 int.) (6GK5524-8GR00-4AR2): All versions
- SCALANCE XR524-8C, 24V (6GK5524-8GS00-2AR2): All versions
- SCALANCE XR524-8C, 24V (L3 int.) (6GK5524-8GR00-2AR2): All versions
- SCALANCE XR526-8C, 1x230V (6GK5526-8GS00-3AR2): All versions
- SCALANCE XR526-8C, 1x230V (L3 int.) (6GK5526-8GR00-3AR2): All versions
- SCALANCE XR526-8C, 2x230V (6GK5526-8GS00-4AR2): All versions
- SCALANCE XR526-8C, 2x230V (L3 int.) (6GK5526-8GR00-4AR2): All versions
- SCALANCE XR526-8C, 24V (6GK5526-8GS00-2AR2): All versions
- SCALANCE XR526-8C, 24V (L3 int.) (6GK5526-8GR00-2AR2): All versions
- SCALANCE XR528-6M (6GK5528-0AA00-2AR2): All versions
- SCALANCE XR528-6M (2HR2) (6GK5528-0AA00-2HR2): All versions
- SCALANCE XR528-6M (2HR2, L3 int.) (6GK5528-0AR00-2HR2): All versions
- SCALANCE XR528-6M (L3 int.) (6GK5528-0AR00-2AR2): All versions
- SCALANCE XR552-12M (6GK5552-0AA00-2AR2): All versions
- SCALANCE XR552-12M (2HR2) (6GK5552-0AA00-2HR2): All versions
- SCALANCE XR552-12M (2HR2) (6GK5552-0AR00-2HR2): All versions
- SCALANCE XR552-12M (2HR2, L3 int.) (6GK5552-0AR00-2AR2): All versions
- Security Configuration Tool (SCT): All versions
- --------- End Update A Part 1 of 2 ---------
- SIMATIC Cloud Connect 7 CC712: All versions
- SIMATIC Cloud Connect 7 CC716: All versions
- SIMATIC CP 343-1 Advanced: All versions
- SIMATIC CP 443-1 Advanced: All versions
- SIMATIC CP 443-1 OPC UA: All versions
- SIMATIC CP 1242-7 V2: All versions
- SIMATIC CP 1243-1: All versions
- SIMATIC CP 1243-7 LTE EU: All versions
- SIMATIC CP 1243-7 LTE US: All versions
- SIMATIC CP 1243-8 IRC: All versions
- SIMATIC CP 1542SP-1: All versions
- SIMATIC CP 1543-1: All versions
- SIMATIC CP 1543SP-1: All versions
- SIMATIC CP 1545-1: All versions
- SIMATIC CP 1626: All versions
- SIMATIC CP 1628: All versions
- SIMATIC ET 200SP Open Controller (incl. SIPLUS variants): All versions
- SIMATIC Logon: All versions
- SIMATIC MV540 H: All versions
- SIMATIC MV540 S: All versions
- SIMATIC MV550 H: All versions
- SIMATIC MV550 S: All versions
- SIMATIC MV560 U: All versions
- SIMATIC MV560 X: All versions
- SIMATIC NET PC Software v14: All versions
- SIMATIC NET PC Software v15: All versions
- SIMATIC NET PC Software v16: All versions
- SIMATIC NET PC Software v17: All versions
- SIMATIC PCS 7 TeleControl: All versions
- SIMATIC PCS neo: All versions
- SIMATIC PDM: All versions
- SIMATIC RF166C: All versions prior to v2.0.1
- SIMATIC RF185C: All versions prior to v2.0.1
- SIMATIC RF186C: All versions prior to v2.0.1
- SIMATIC RF186CI: All versions prior to v2.0.1
- SIMATIC RF188C: All versions prior to v2.0.1
- SIMATIC RF188CI: All versions prior to v.2.0.1
- SIMATIC RF360R: All versions prior to v2.0.1
- SIMATIC RF610R: All versions prior to v4.0.1
- SIMATIC RF615R: All versions prior to v4.0.1
- SIMATIC RF650R: All versions prior to v4.0.1
- SIMATIC RF680R: All versions prior to v4.0.1
- SIMATIC RF685R: All versions prior to v4.0.1
- SIMATIC S7-1200 CPU family (incl. SIPLUS variants): All versions
- SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants): All versions
- SIMATIC S7-1500 Software Controller (incl. F): All versions
- SIMATIC S7-PLCSIM Advanced: All versions
- SIMATIC STEP 7 (TIA Portal): All versions
- SIMATIC STEP 7 V5.X: All versions
- SIMATIC WinCC (TIA Portal): All versions
- SINAUT Software ST7sc: All versions
- SINAUT ST7CC: All versions
- SINEC INS: All versions
- SINEC NMS: All versions
- SINEMA Remote Connect Server: All versions prior to v3.1
- SIPLUS ET 200SP CP 1543SP-1 ISEC: All versions
- SIPLUS ET 200SP CP 1543SP-1 ISEC TX RAIL: All versions
- SIPLUS NET CP 343-1 Advanced: All versions
- SIPLUS NET CP 443-1 Advanced: All versions
- SIPLUS NET CP 1242-7 v2: All versions
- SIPLUS NET CP 1543-1: All versions
- --------- Begin Update A Part 2 of 2 ---------
- SIPLUS NET SCALANCE X308-2 (6AG1308-2FL10-4AA3): All versions
- SIPLUS NET SCALANCE XC206-2 (6AG1206-2BB00-7AC2): All versions
- SIPLUS NET SCALANCE XC206-2SFP (6AG1206-2BS00-7AC2): All versions
- SIPLUS NET SCALANCE XC208 (6AG1208-0BA00-7AC2): All versions
- SIPLUS NET SCALANCE XC216-4C (6AG1216-4BS00-7AC2): All versions
- --------- End Update A Part 2 of 2 ---------
- SIPLUS S7-1200 CP 1243-1: All versions
- SIPLUS S7-1200 CP 1243-1 RAIL: All versions
- SIPLUS TIM 1531 IRC: All versions
- TeleControl Server Basic v3: All versions
- TIA Administrator: All versions
- TIA Portal Cloud: All versions
- TIA Portal v15: All versions
- TIA Portal v16: All versions
- TIA Portal v17: All versions
- TIM 1531 IRC: All versions.",CVE-2022-0778,7.5,High,CWE-835,Multiple Critical Sectors,Worldwide,Germany
+2091,6/16/2022,8/18/2022,2022,ICSA-22-167-14,Siemens OpenSSL Affected Industrial Products (Update B),Siemens,Multiple industrial products,"The following Siemens industrial products are affected:
+--------- Begin Update B Part 1 of 9 ---------
+Industrial Edge - OPC UA Connector: All versions prior to v1.7
+--------- End Update B Part 1 of 9 ---------
+Industrial Edge - SIMATIC S7 Connector App: All versions prior to v1.7.0
+RUGGEDCOM CROSSBOW Station Access Controller: All versions only running on ROX
+RUGGEDCOM RM1224 LTE(4G) EU: All versions
+RUGGEDCOM RM1224 LTE(4G) NAM: All versions
+--------- Begin Update B Part 2 of 9 ---------
+RUGGEDCOM ROX MX5000: All versions prior to v2.15.1
+RUGGEDCOM ROX MX5000RE: All versions prior to v2.15.1
+RUGGEDCOM ROX RX1400: All versions prior to v2.15.1
+RUGGEDCOM ROX RX1500: All versions prior to v2.15.1
+RUGGEDCOM ROX RX1501: All versions prior to v2.15.1
+RUGGEDCOM ROX RX1510: All versions prior to v2.15.1
+RUGGEDCOM ROX RX1511: All versions prior to v2.15.1
+RUGGEDCOM ROX RX1512: All versions prior to v2.15.1
+RUGGEDCOM ROX RX1524: All versions prior to v2.15.1
+RUGGEDCOM ROX RX1536: All versions prior to v2.15.1
+RUGGEDCOM ROX RX5000: All versions prior to v2.15.1
+--------- End Update B Part 2 of 9 ---------
+SCALANCE LPE9403 (6GK5998-3GS00-2AC2): All versions prior to v2.0
+SCALANCE M804PB (6GK5804-0AP00-2AA2): All versions
+SCALANCE M812-1 ADSL-Router (Annex A) (6GK5812-1AA00-2AA2): All versions
+SCALANCE M812-1 ADSL-Router (Annex B) (6GK5812-1BA00-2AA2): All versions
+SCALANCE M816-1 ADSL-Router (Annex A) (6GK5816-1AA00-2AA2): All versions
+SCALANCE M816-1 ADSL-Router (Annex B) (6GK5816-1BA00-2AA2): All versions
+SCALANCE M826-2 SHDSL-Router (6GK5826- 2AB00-2AB2): All versions
+SCALANCE M874-2 (6GK5874-2AA00-2AA2): All versions
+SCALANCE M874-3 (6GK5874-3AA00-2AA2): All versions
+SCALANCE M876-3 (EVDO) (6GK5876-3AA02- 2BA2): All versions
+SCALANCE M876-3 (ROK) (6GK5876-3AA02- 2EA2): All versions
+SCALANCE M876-4 (EU) (6GK5876-4AA00- 2BA2): All versions
+SCALANCE M876-4 (NAM) (6GK5876-4AA00- 2DA2): All versions
+SCALANCE MUM853-1 (EU) (6GK5853-2EA00- 2DA1): All versions
+SCALANCE MUM853-1 (RoW) (6GK5853- 2EA00-2AA1): All versions
+SCALANCE MUM856-1 (EU) (6GK5856-2EA00- 3DA1): All versions
+SCALANCE MUM856-1 (NAM) (6GK5856- 2EA00-3BA1): All versions
+SCALANCE MUM856-1 (RoW) (6GK5856- 2EA00-3AA1): All versions
+SCALANCE S615 (6GK5615-0AA00-2AA2): All versions
+SCALANCE SC622-2C (6GK5622-2GS00- 2AC2): All versions prior to v2.3.1
+SCALANCE SC632-2C (6GK5632-2GS00- 2AC2): All versions prior to v2.3.1
+SCALANCE SC636-2C (6GK5636-2GS00- 2AC2): All versions prior to v2.3.1
+SCALANCE SC642-2C (6GK5642-2GS00- 2AC2): All versions prior to v2.3.1
+SCALANCE SC646-2C (6GK5646-2GS00- 2AC2): All versions prior to v2.3.1
+--------- Begin Update B Part 3 of 9 ---------
+SCALANCE W1750D (JP) (6GK5750-2HX01- 1AD0): All versions
+SCALANCE W1750D (ROW) (6GK5750-2HX01- 1AA0): All versions
+SCALANCE W1750D (USA) (6GK5750-2HX01- 1AB0): All versions
+--------- End Update B Part 3 of 9 ---------
+SCALANCE X200-4P IRT (6GK5200-4AH00- 2BA3): All versions
+SCALANCE X200-4P IRT (6GK5200-4AH10- 2BA3): All versions
+SCALANCE X201-3P IRT (6GK5201-3BH00- 2BA3): All versions
+SCALANCE X201-3P IRT (6GK5201-3BH10- 2BA3): All versions
+SCALANCE X201-3P IRT PRO (6GK5201- 3BH00-2BD2): All versions
+SCALANCE X201-3P IRT PRO (6GK5201-3JR10- 2BA6): All versions
+SCALANCE X202-2IRT (6GK5202-2BB00- 2BA3): All versions
+SCALANCE X202-2IRT (6GK5202-2BB10- 2BA3): All versions
+SCALANCE X202-2P IRT (6GK5202-2BH00- 2BA3): All versions
+SCALANCE X202-2P IRT (6GK5202-2BH10- 2BA3): All versions
+SCALANCE X202-2P IRT PRO (6GK5202-2JR00- 2BA6): All versions
+SCALANCE X202-2P IRT PRO (6GK5202-2JR10- 2BA6): All versions
+SCALANCE X204-2 (6GK5204-2BB10-2AA3): All versions
+SCALANCE X204-2FM (6GK5204-2BB11- 2AA3): All versions
+SCALANCE X204-2LD (6GK5204-2BC10- 2AA3): All versions
+SCALANCE X204-2LD TS (6GK5204-2BC10- 2CA2): All versions
+SCALANCE X204-2TS (6GK5204-2BB10- 2CA2): All versions
+SCALANCE X204IRT (6GK5204-0BA00-2BA3): All versions
+SCALANCE X204IRT (6GK5204-0BA10-2BA3): All versions
+SCALANCE X204IRT PRO (6GK5204-0JA00- 2BA6): All versions
+SCALANCE X204IRT PRO (6GK5204-0JA10- 2BA6): All versions
+SCALANCE X206-1 (6GK5206-1BB10-2AA3): All versions
+SCALANCE X206-1LD (6GK5206-1BC10- 2AA3): All versions
+SCALANCE X208 (6GK5208-0BA10-2AA3): All versions
+SCALANCE X208PRO (6GK5208-0HA10- 2AA6): All versions
+SCALANCE X212-2 (6GK5212-2BB00-2AA3): All versions
+SCALANCE X212-2LD (6GK5212-2BC00- 2AA3): All versions
+SCALANCE X216 (6GK5216-0BA00-2AA3): All versions
+SCALANCE X224 (6GK5224-0BA00-2AA3): All versions
+SCALANCE X302-7 EEC (2x 24V) (6GK5302- 7GD00-2EA3): All versions
+SCALANCE X302-7 EEC (2x 24V, coated) (6GK5302-7GD00-2GA3): All versions
+SCALANCE X302-7 EEC (2x 230V) (6GK5302- 7GD00-4EA3): All versions
+SCALANCE X302-7 EEC (2x 230V, coated) (6GK5302-7GD00-4GA3): All versions
+SCALANCE X302-7 EEC (24V) (6GK5302- 7GD00-1EA3): All versions
+SCALANCE X302-7 EEC (24V, coated) (6GK5302-7GD00-1GA3): All versions
+SCALANCE X302-7 EEC (230V) (6GK5302- 7GD00-3EA3): All versions
+SCALANCE X302-7 EEC (230V, coated) (6GK5302-7GD00-3GA3): All versions
+SCALANCE X304-2FE (6GK5304-2BD00- 2AA3): All versions
+SCALANCE X306-1LD FE (6GK5306-1BF00- 2AA3): All versions
+SCALANCE X307-2 EEC (2x 24V) (6GK5307- 2FD00-2EA3): All versions
+SCALANCE X307-2 EEC (2x 24V, coated) (6GK5307-2FD00-2GA3): All versions
+SCALANCE X307-2 EEC (2x 230V) (6GK5307- 2FD00-4EA3): All versions
+SCALANCE X307-2 EEC (2x 230V, coated) (6GK5307-2FD00-4GA3): All versions
+SCALANCE X307-2 EEC (24V) (6GK5307- 2FD00-1EA3): All versions
+SCALANCE X307-2 EEC (24V, coated) (6GK5307-2FD00-1GA3): All versions
+SCALANCE X307-2 EEC (230V) (6GK5307- 2FD00-3EA3): All versions
+SCALANCE X307-2 EEC (230V, coated) (6GK5307-2FD00-3GA3): All versions
+SCALANCE X307-3 (6GK5307-3BL00-2AA3): All versions
+SCALANCE X307-3 (6GK5307-3BL10-2AA3): All versions
+SCALANCE X307-3LD (6GK5307-3BM00- 2AA3): All versions
+SCALANCE X307-3LD (6GK5307-3BM10- 2AA3): All versions
+SCALANCE X308-2 (6GK5308-2FL00-2AA3): All versions
+SCALANCE X308-2 (6GK5308-2FL10-2AA3): All versions
+SCALANCE X308-2LD (6GK5308-2FM00- 2AA3): All versions
+SCALANCE X308-2LD (6GK5308-2FM10- 2AA3): All versions
+SCALANCE X308-2LH (6GK5308-2FN00- 2AA3): All versions
+SCALANCE X308-2LH (6GK5308-2FN10- 2AA3): All versions
+SCALANCE X308-2LH+ (6GK5308-2FP00- 2AA3): All versions
+SCALANCE X308-2LH+ (6GK5308-2FP10- 2AA3): All versions
+SCALANCE X308-2M (6GK5308-2GG00-2AA2): All versions
+SCALANCE X308-2M (6GK5308-2GG10-2AA2): All versions
+SCALANCE X308-2M PoE (6GK5308-2QG00- 2AA2): All versions
+SCALANCE X308-2M PoE (6GK5308-2QG10- 2AA2): All versions
+SCALANCE X308-2M TS (6GK5308-2GG00- 2CA2): All versions
+SCALANCE X308-2M TS (6GK5308-2GG10- 2CA2): All versions
+SCALANCE X310 (6GK5310-0FA00-2AA3): All versions
+SCALANCE X310 (6GK5310-0FA10-2AA3): All versions
+SCALANCE X310FE (6GK5310-0BA00-2AA3): All versions
+SCALANCE X310FE (6GK5310-0BA10-2AA3): All versions
+SCALANCE X320-1 FE (6GK5320-1BD00- 2AA3): All versions
+SCALANCE X320-1-2LD FE (6GK5320-3BF00- 2AA3): All versions
+SCALANCE X408-2 (6GK5408-2FD00-2AA2): All versions
+SCALANCE XB205-3 (SC) (6GK5205-3BD00- 2AB2): All versions
+SCALANCE XB205-3 (SC) (6GK5205-3BD00- 2TB2): All versions
+SCALANCE XB205-3 (ST/BFOC) (6GK5205- 3BB00-2AB2): All versions
+SCALANCE XB205-3 (ST/BFOC) (6GK5205- 3BB00-2TB2): All versions
+SCALANCE XB205-3LD (6GK5205-3BF00- 2AB2): All versions
+SCALANCE XB205-3LD (6GK5205-3BF00- 2TB2): All versions
+SCALANCE XB208 (6GK5208-0BA00-2AB2): All versions
+SCALANCE XB208 (6GK5208-0BA00-2TB2): All versions
+SCALANCE XB213-3 (SC) (6GK5213-3BD00- 2AB2): All versions
+SCALANCE XB213-3 (SC) (6GK5213-3BD00- 2TB2): All versions
+SCALANCE XB213-3 (ST/BFOC) (6GK5213- 3BB00-2AB2): All versions
+SCALANCE XB213-3 (ST/BFOC) (6GK5213- 3BB00-2TB2): All versions
+SCALANCE XB213-3LD (6GK5213-3BF00- 2AB2): All versions
+SCALANCE XB213-3LD (6GK5213-3BF00- 2TB2): All versions
+SCALANCE XB216 (6GK5216-0BA00-2AB2): All versions
+SCALANCE XB216 (6GK5216-0BA00-2TB2): All versions
+SCALANCE XC206-2 (SC) (6GK5206-2BD00- 2AC2): All versions
+SCALANCE XC206-2 (ST/BFOC) (6GK5206- 2BB00-2AC2): All versions
+SCALANCE XC206-2SFP (6GK5206-2BS00- 2AC2): All versions
+SCALANCE XC206-2SFP EEC (6GK5206- 2BS00-2FC2): All versions
+SCALANCE XC206-2SFP G (6GK5206-2GS00- 2AC2): All versions
+SCALANCE XC206-2SFP G (6GK5206-2GS00- 2TC2): All versions
+SCALANCE XC206-2SFP G EEC (6GK5206- 2GS00-2FC2): All versions
+SCALANCE XC208 (6GK5208-0BA00-2AC2): All versions
+SCALANCE XC208EEC (6GK5208-0BA00- 2FC2): All versions
+SCALANCE XC208G (6GK5208-0GA00-2AC2): All versions
+SCALANCE XC208G (6GK5208-0GA00-2TC2): All versions
+SCALANCE XC208G EEC (6GK5208-0GA00- 2FC2): All versions
+SCALANCE XC216 (6GK5216-0BA00-2AC2): All versions
+SCALANCE XC216-4C (6GK5216-4BS00- 2AC2): All versions
+SCALANCE XC216-4C G (6GK5216-4GS00- 2AC2): All versions
+SCALANCE XC216-4C G (EIP Def.) (6GK5216- 4GS00-2TC2): All versions
+SCALANCE XC216-4C G EEC (6GK5216- 4GS00-2FC2): All versions
+SCALANCE XC216EEC (6GK5216-0BA00- 2FC2): All versions
+SCALANCE XC224 (6GK5224-0BA00-2AC2): All versions
+SCALANCE XC224-4C G (6GK5224-4GS00- 2AC2): All versions
+SCALANCE XC224-4C G (EIP Def.) (6GK5224- 4GS00-2TC2): All versions
+SCALANCE XC224-4C G EEC (6GK5224- 4GS00-2FC2): All versions
+SCALANCE XF201-3P IRT (6GK5201-3JR00- 2BA6): All versions
+SCALANCE XF202-2P IRT (6GK5202-2BH00- 2BD2): All versions
+SCALANCE XF204 (6GK5204-0BA00-2AF2): All versions
+SCALANCE XF204 (6GK5204-0BA00-2GF2): All versions
+SCALANCE XF204 DNA (6GK5204-0BA00- 2YF2): All versions
+SCALANCE XF204-2 (6GK5204-2BC00-2AF2): All versions
+SCALANCE XF204-2BA (6GK5204-2AA00- 2GF2): All versions
+SCALANCE XF204-2BA DNA (6GK5204-2AA00- 2YF2): All versions
+SCALANCE XF204-2BA IRT (6GK5204-2AA00- 2BD2): All versions
+SCALANCE XF204IRT (6GK5204-0BA00- 2BF2): All versions
+SCALANCE XF204IRT (6GK5204-0BA10- 2BF2): All versions
+SCALANCE XF206-1 (6GK5206-1BC00-2AF2): All versions
+SCALANCE XF208 (6GK5208-0BA00-2AF2): All versions
+SCALANCE XM408-4C (6GK5408-4GP00- 2AM2): All versions
+SCALANCE XM408-4C (L3 int.) (6GK5408- 4GQ00-2AM2): All versions
+SCALANCE XM408-8C (6GK5408-8GS00- 2AM2): All versions
+SCALANCE XM408-8C (L3 int.) (6GK5408- 8GR00-2AM2): All versions
+SCALANCE XM416-4C (6GK5416-4GS00- 2AM2): All versions
+SCALANCE XM416-4C (L3 int.) (6GK5416- 4GR00-2AM2): All versions
+SCALANCE XP208 (6GK5208-0HA00-2AS6): All versions
+SCALANCE XP208 (6GK5208-0HA00-2TS6): All versions
+SCALANCE XP208EEC (6GK5208-0HA00- 2ES6): All versions
+SCALANCE XP208PoE EEC (6GK5208-0UA00- 5ES6): All versions
+SCALANCE XP216 (6GK5216-0HA00-2AS6): All versions
+SCALANCE XP216 (6GK5216-0HA00-2TS6): All versions
+SCALANCE XP216EEC (6GK5216-0HA00- 2ES6): All versions
+SCALANCE XP216POE EEC (6GK5216-0UA00- 5ES6): All versions
+SCALANCE XR324-4M EEC (2x 24V, ports on front) (6GK5324-4GG00-2ER2): All versions
+SCALANCE XR324-4M EEC (2x 24V, ports on front) (6GK5324-4GG10-2ER2): All versions
+SCALANCE XR324-4M EEC (2x 24V, ports on rear) (6GK5324-4GG00-2JR2): All versions
+SCALANCE XR324-4M EEC (2x 24V, ports on rear) (6GK5324-4GG10-2JR2): All versions
+SCALANCE XR324-4M EEC (2x 100-240VAC/60- 250VDC, ports on front) (6GK5324-4GG00- 4ER2): All versions
+SCALANCE XR324-4M EEC (2x 100-240VAC/60- 250VDC, ports on front) (6GK5324-4GG10- 4ER2): All versions
+SCALANCE XR324-4M EEC (2x 100-240VAC/60- 250VDC, ports on rear) (6GK5324-4GG00- 4JR2): All versions
+SCALANCE XR324-4M EEC (2x 100-240VAC/60- 250VDC, ports on rear) (6GK5324-4GG10- 4JR2): All versions
+SCALANCE XR324-4M EEC (24V, ports on front) (6GK5324-4GG00-1ER2): All versions
+SCALANCE XR324-4M EEC (24V, ports on front) (6GK5324-4GG10-1ER2): All versions
+SCALANCE XR324-4M EEC (24V, ports on rear) (6GK5324-4GG00-1JR2): All versions
+SCALANCE XR324-4M EEC (24V, ports on rear) (6GK5324-4GG10-1JR2): All versions
+SCALANCE XR324-4M EEC (100-240VAC/60- 250VDC, ports on front) (6GK5324-4GG00- 3ER2): All versions
+SCALANCE XR324-4M EEC (100-240VAC/60- 250VDC, ports on front) (6GK5324-4GG10- 3ER2): All versions
+SCALANCE XR324-4M EEC (100-240VAC/60- 250VDC, ports on rear) (6GK5324-4GG00- 3JR2): All versions
+SCALANCE XR324-4M EEC (100-240VAC/60- 250VDC, ports on rear) (6GK5324-4GG10- 3JR2): All versions
+SCALANCE XR324-4M PoE (24V, ports on front) (6GK5324-4QG00-1AR2): All versions
+SCALANCE XR324-4M PoE (24V, ports on rear) (6GK5324-4QG00-1HR2): All versions
+SCALANCE XR324-4M PoE (230V, ports on front) (6GK5324-4QG00-3AR2): All versions
+SCALANCE XR324-4M PoE (230V, ports on rear) (6GK5324-4QG00-3HR2): All versions
+SCALANCE XR324-4M PoE TS (24V, ports on front) (6GK5324-4QG00-1CR2): All versions
+SCALANCE XR324-12M (24V, ports on front) (6GK5324-0GG00-1AR2): All versions
+SCALANCE XR324-12M (24V, ports on front) (6GK5324-0GG10-1AR2): All versions
+SCALANCE XR324-12M (24V, ports on rear) (6GK5324-0GG00-1HR2): All versions
+SCALANCE XR324-12M (24V, ports on rear) (6GK5324-0GG10-1HR2): All versions
+SCALANCE XR324-12M (230V, ports on front) (6GK5324-0GG00-3AR2): All versions
+SCALANCE XR324-12M (230V, ports on front) (6GK5324-0GG10-3AR2): All versions
+SCALANCE XR324-12M (230V, ports on rear) (6GK5324-0GG00-3HR2): All versions
+SCALANCE XR324-12M (230V, ports on rear) (6GK5324-0GG10-3HR2): All versions
+SCALANCE XR324-12M TS (24V) (6GK5324- 0GG00-1CR2): All versions
+SCALANCE XR324-12M TS (24V) (6GK5324- 0GG10-1CR2): All versions
+SCALANCE XR324WG (24 x FE, AC 230V) (6GK5324-0BA00-3AR3): All versions
+SCALANCE XR324WG (24 X FE, DC 24V) (6GK5324-0BA00-2AR3): All versions
+SCALANCE XR328-4C WG (24xFE,4xGE,AC230V) (6GK5328-4FS00- 3AR3): All versions
+SCALANCE XR328-4C WG (24xFE,4xGE,AC230V) (6GK5328-4FS00- 3RR3): All versions
+SCALANCE XR328-4C WG (24XFE, 4XGE, 24V) (6GK5328-4FS00-2AR3): All versions
+SCALANCE XR328-4C WG (24xFE, 4xGE,DC24V) (6GK5328-4FS00-2RR3): All versions
+SCALANCE XR328-4C WG (28xGE, AC 230V) (6GK5328-4SS00-3AR3): All versions
+SCALANCE XR328-4C WG (28xGE, DC 24V) (6GK5328-4SS00-2AR3): All versions
+SCALANCE XR524-8C, 1x230V (6GK5524- 8GS00-3AR2): All versions
+SCALANCE XR524-8C, 1x230V (L3 int.) (6GK5524-8GR00-3AR2): All versions
+SCALANCE XR524-8C, 2x230V (6GK5524- 8GS00-4AR2): All versions
+SCALANCE XR524-8C, 2x230V (L3 int.) (6GK5524-8GR00-4AR2): All versions
+SCALANCE XR524-8C, 24V (6GK5524-8GS00- 2AR2): All versions
+SCALANCE XR524-8C, 24V (L3 int.) (6GK5524- 8GR00-2AR2): All versions
+SCALANCE XR526-8C, 1x230V (6GK5526- 8GS00-3AR2): All versions
+SCALANCE XR526-8C, 1x230V (L3 int.) (6GK5526-8GR00-3AR2): All versions
+SCALANCE XR526-8C, 2x230V (6GK5526- 8GS00-4AR2): All versions
+SCALANCE XR526-8C, 2x230V (L3 int.) (6GK5526-8GR00-4AR2): All versions
+SCALANCE XR526-8C, 24V (6GK5526-8GS00- 2AR2): All versions
+SCALANCE XR526-8C, 24V (L3 int.) (6GK5526- 8GR00-2AR2): All versions
+SCALANCE XR528-6M (6GK5528-0AA00- 2AR2): All versions
+SCALANCE XR528-6M (2HR2) (6GK5528- 0AA00-2HR2): All versions
+SCALANCE XR528-6M (2HR2, L3 int.) (6GK5528-0AR00-2HR2): All versions
+SCALANCE XR528-6M (L3 int.) (6GK5528- 0AR00-2AR2): All versions
+SCALANCE XR552-12M (6GK5552-0AA00- 2AR2): All versions
+SCALANCE XR552-12M (2HR2) (6GK5552- 0AA00-2HR2): All versions
+SCALANCE XR552-12M (2HR2) (6GK5552- 0AR00-2HR2): All versions
+SCALANCE XR552-12M (2HR2, L3 int.) (6GK5552-0AR00-2AR2): All versions
+Security Configuration Tool (SCT): All versions
+--------- Begin Update B Part 4 of 9 ---------
+SIMATIC Cloud Connect 7 CC712 (6GK1411- 1AC00): All versions prior to v1.9
+SIMATIC Cloud Connect 7 CC716 (6GK1411- 5AC00): All versions prior to v1.9
+--------- End Update B Part 4 of 9 ---------
+SIMATIC CP 343-1 Advanced (6GK7343-1GX31- 0XE0): All versions
+SIMATIC CP 443-1 Advanced (6GK7443-1GX30- 0XE0): All versions
+SIMATIC CP 443-1 OPC UA (6GK7443-1UX00- 0XE0): All versions
+SIMATIC CP 1242-7 V2 (6GK7242-7KX31- 0XE0): All versions
+SIMATIC CP 1243-1 (6GK7243-1BX30-0XE0): All versions
+SIMATIC CP 1243-7 LTE EU (6GK7243-7KX30- 0XE0): All versions
+SIMATIC CP 1243-7 LTE US (6GK7243-7SX30- 0XE0): All versions
+SIMATIC CP 1243-8 IRC (6GK7243-8RX30- 0XE0): All versions
+SIMATIC CP 1542SP-1 (6GK7542-6UX00- 0XE0): All versions
+SIMATIC CP 1543-1 (6GK7543-1AX00-0XE0): All versions
+SIMATIC CP 1543SP-1 (6GK7543-6WX00- 0XE0): All versions
+SIMATIC CP 1545-1 (6GK7545-1GX00-0XE0): All versions
+SIMATIC CP 1626 (6GK1162-6AA01): All versions
+SIMATIC CP 1628 (6GK1162-8AA00): All versions
+SIMATIC ET 200SP Open Controller (incl. SIPLUS variants): All versions
+--------- Begin Update B Part 5 of 9 ---------
+SIMATIC Logon: All versions prior to v1.6 Upd6
+SIMATIC MV540 H (6GF3540-0GE10): All versions prior to v3.3
+SIMATIC MV540 S (6GF3540-0CD10): All versions prior to v3.3
+SIMATIC MV550 H (6GF3550-0GE10): All versions prior to v3.3
+SIMATIC MV550 S (6GF3550-0CD10): All versions prior to v3.3
+SIMATIC MV560 U (6GF3560-0LE10): All versions prior to v3.3
+SIMATIC MV560 X (6GF3560-0HE10): All versions prior to v3.3
+--------- End Update B Part 5 of 9 ---------
+SIMATIC NET PC Software v14: All versions
+SIMATIC NET PC Software v15: All versions
+--------- Begin Update B Part 6 of 9 ---------
+SIMATIC NET PC Software v16: All versions prior to v16 Update 6
+--------- End Update B Part 6 of 9 ---------
+SIMATIC NET PC Software v17: All versions
+SIMATIC PCS 7 TeleControl: All versions
+SIMATIC PCS neo: All versions
+--------- Begin Update B Part 7 of 9 ---------
+SIMATIC PDM: All versions prior to v9.2.2
+--------- End Update B Part 7 of 9 ---------
+SIMATIC RF166C (6GT2002-0EE20): All versions prior to v2.0.1
+SIMATIC RF185C (6GT2002-0JE10): All versions prior to v2.0.1
+SIMATIC RF186C (6GT2002-0JE20): All versions prior to v2.0.1
+SIMATIC RF186CI (6GT2002-0JE50): All versions prior to v2.0.1
+SIMATIC RF188C (6GT2002-0JE40): All versions prior to v2.0.1
+SIMATIC RF188CI (6GT2002-0JE60): All versions prior to v.2.0.1
+SIMATIC RF360R (6GT2801-5BA30): All versions prior to v2.0.1
+SIMATIC RF610R (6GT2811-6BC10): All versions prior to v4.0.1
+SIMATIC RF615R (6GT2811-6CC10): All versions prior to v4.0.1
+SIMATIC RF650R (6GT2811-6AB20): All versions prior to v4.0.1
+SIMATIC RF680R (6GT2811-6AA10): All versions prior to v4.0.1
+SIMATIC RF685R (6GT2811-6CA10): All versions prior to v4.0.1
+SIMATIC S7-1200 CPU family (incl. SIPLUS variants): All versions
+SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants): All versions
+SIMATIC S7-1500 Software Controller (incl. F): All versions
+SIMATIC S7-PLCSIM Advanced: All versions
+SIMATIC STEP 7 (TIA Portal): All versions
+--------- Begin Update B Part 8 of 9 ---------
+SIMATIC STEP 7 V5.X: All versions prior to v5.7 HF4
+--------- End Update B Part 8 of 9 ---------
+SIMATIC WinCC (TIA Portal): All versions
+SINAUT Software ST7sc: All versions
+SINAUT ST7CC: All versions
+SINEC INS: All versions
+SINEC NMS: All versions
+SINEMA Remote Connect Server: All versions prior to v3.1
+SIPLUS ET 200SP CP 1543SP-1 ISEC (6AG1543-6WX00-7XE0): All versions
+SIPLUS ET 200SP CP 1543SP-1 ISEC TX RAIL (6AG2543-6WX00-4XE0): All versions
+SIPLUS NET CP 343-1 Advanced (6AG1343- 1GX31-4XE0): All versions
+SIPLUS NET CP 443-1 Advanced (6AG1443- 1GX30-4XE0): All versions
+SIPLUS NET CP 1242-7 v2 (6AG1242-7KX31- 7XE0): All versions
+SIPLUS NET CP 1543-1 (6AG1543-1AX00- 2XE0): All versions
+SIPLUS NET SCALANCE X202-2P IRT (6AG1202-2BH00-2BA3): All versions
+SIPLUS NET SCALANCE X308-2 (6AG1308- 2FL10-4AA3): All versions
+SIPLUS NET SCALANCE XC206-2 (6AG1206- 2BB00-7AC2): All versions
+SIPLUS NET SCALANCE XC206-2SFP (6AG1206-2BS00-7AC2): All versions
+SIPLUS NET SCALANCE XC208 (6AG1208- 0BA00-7AC2): All versions
+SIPLUS NET SCALANCE XC216-4C (6AG1216- 4BS00-7AC2): All versions
+SIPLUS S7-1200 CP 1243-1 (6AG1243-1BX30- 2AX0): All versions
+SIPLUS S7-1200 CP 1243-1 RAIL (6AG2243- 1BX30-1XE0): All versions
+SIPLUS TIM 1531 IRC (6AG1543-1MX00-7XE0): All versions
+--------- Begin Update B Part 9 of 9 ---------
+TeleControl Server Basic v3: All versions prior to v3.1.1
+--------- End Update B Part 9 of 9 ---------
+TIA Administrator: All versions
+TIA Portal Cloud: All versions
+TIA Portal v15: All versions
+TIA Portal v16: All versions
+TIA Portal v17: All versions
+TIM 1531 IRC (6GK7543-1MX00-0XE0): All versions.",CVE-2022-0778,7.5,High,CWE-835,Multiple Critical Sectors,Worldwide,Germany
 2090,6/16/2022,No Updates,2022,ICSA-22-167-15,Siemens Teamcenter Active Workspace,Siemens,Teamcenter Active Workspace,"The following versions of Smart Security Manager, a software management platform, are affected:
 Teamcenter Active Workspace v5.2: All versions prior to 5.2.9
 Teamcenter Active Workspace v6.0: All versions prior to 6.0.3.",CVE-2022-32145,6.1,Medium,CWE-798,Multiple Critical Sectors,Worldwide,Germany
