@@ -118,7 +118,7 @@ CWE-434
 CWE-916
 CWE-319",Critical Manufacturing,Worldwide,Taiwan
 1886,12/16/2021,No Updates,2021,ICSA-21-217-01,"HCC Embedded InterNiche TCP/IP stack, NicheLite (Update A)",HCC Embedded,"InterNiche stack (NicheStack), NicheLite",The following embedded component TCP/IP stacks are affected: InterNiche stack: All versions prior to v4.3 NicheLite: All versions prior to v4.3.,CVE-2021-27565; CVE-2021-31226; CVE-2021-31227; CVE-2021-31228; CVE-2021-31400; CVE-2021-31401; CVE-2021-36762; CVE-2020-25767; CVE-2020-25926; CVE-2020-25927; CVE-2020-25928; CVE-2020-35683; CVE-2020-35684; CVE-2020-35685,9.8,Critical,CWE-466; CWE-130; CWE-330; CWE-20; CWE-248; CWE-839; CWE-340; CWE-703; CWE-170,Multiple Critical Sectors,Worldwide,Hungary
-1885,12/16/2021,8/11/2022,2021,ICSA-21-131-03,Siemens Linux-based Products (Update I),Siemens,Linux based products,"The following Siemens Linux-based products are affected:
+1885,12/16/2021,8/18/2022,2021,ICSA-21-131-03,Siemens Linux-based Products (Update J),Siemens,Linux based products,"The following Siemens Linux-based products are affected:
 RUGGEDCOM RM1224: All versions between v5.0 and v6.4
 SCALANCE M-800: All versions between v5.0 and v6.4
 SCALANCE S615: All versions between v5.0 and v6.4
@@ -133,10 +133,13 @@ SIMATIC CP 1542SP-1: Versions 2.0 and later
 SIMATIC CP 1543-1 (incl. SIPLUS variants): Versions prior to 3.0
 SIMATIC CP 1543SP-1 (incl SIPLUS variants): Versions 2.0 and later
 SIMATIC CP 1545-1: All versions prior to v1.1
---------- Begin Update I Part 1 of 2 ---------
+--------- Begin Update J Part 1 of 2 ---------
+SIPLUS NET CP 1242-7 V2 (6AG1242-7KX31-7XE0): Versions between and including v3.1.39 and v3.3
+SIPLUS S7-1200 CP 1243-1 (6AG1243-1BX30-2AX0): Versions between and including v3.1.39 and v3.3.46
+SIPLUS S7-1200 CP 1243-1 RAIL (6AG2243-1BX30-1XE0): Versions between and including v3.1.39 and v3.3.46
+-------- End Update J Part 1 of 2 ----------
 SIMATIC CP 1243-1 (incl. SIPLUS variants): All versions 3.1.39 and newer to those prior to v3.3.3
 SIMATIC CP 1243-8 IRC: All versions 3.1.39 and newer to those prior to v3.3.46
---------- End Update I Part 1 of 2 ---------
 SIMATIC MV540 H (6GF3540-0GE10): All versions prior to 3.1
 SIMATIC MV540 S (6GF3540-0CD10): All versions prior to 3.1
 SIMATIC MV550 H (6GF3550-0GE10): All versions prior to 3.1
@@ -1072,16 +1075,19 @@ SIMATIC CP 1545-1 (6GK7545-1GX00-0XE0): All versions prior to v1.1
 CVE-2020-9273",8.8,High,"CWE-125
 CWE-416",Multiple Critical Sectors,Worldwide,Germany
 1702,8/10/2021,8/19/2021,2021,ICSA-21-222-08,Siemens Solid Edge,Siemens,Solid Edge,The following versions of Solid Edge are affected: Solid Edge SE2021: All versions prior to SE2021MP7.,CVE-2021-37178; CVE-2021-37179; CVE-2021-37180,7.8,High,CWE-824; CWE-611; CWE-416,Critical Manufacturing,Worldwide,Germany
-1701,8/10/2021,8/11/2022,2021,ICSA-21-194-07,Siemens Industrial Products LLDP (Update C),Siemens,Industrial Products,"Siemens reports these vulnerabilities affect the following products:
+1701,8/10/2021,8/18/2022,2021,ICSA-21-194-07,Siemens Industrial Products LLDP (Update D),Siemens,Industrial Products,"Siemens reports these vulnerabilities affect the following products:
 SIMATIC HMI Unified Comfort Panels: All versions prior to v17
-SIMATIC NET CP 1542SP-1 IRC (incl. SIPLUS variants): All versions
+SIMATIC NET CP 1542SP-1 (6GK7542-6UX00-0XE0): All versions
+SIMATIC NET CP 1542SP-1 IRC (incl. SIPLUS variants) (6GK7243-8RX30-0XE0): All versions
 SIMATIC NET CP 1543-1 (incl. SIPLUS variants): All versions
 SIMATIC NET CP 1543SP-1 (incl. SIPLUS variants): All versions
---------- Begin Update C Part 1 of 2 ---------
-
-SIMATIC NET CP 1243-1 (incl. SIPLUS variants): All versions prior to v3.3.46
-SIMATIC NET CP 1243-8 IRC: All versions prior to v3.3.46
---------- End Update C Part 1 of 2 ---------
+SIMATIC NET CP 1545-1 (6GK7545-1GX00-0XE0): All versions prior to v1.1
+--------- Begin Update D Part 1 of 2 ---------
+SIPLUS S7-1200 CP 1243-1 (6AG1243-1BX30-2AX0): All versions prior to v3.3.46
+SIPLUS S7-1200 CP 1243-1 RAIL (6AG2243-1BX30-1XE0): All versions prior to v3.3.46
+--------- End Update D Part 1 of 2 ---------
+SIMATIC NET 1243-1 (incl. SIPLUS variants) (6GK7243-1BX30-0XE0): All versions prior to v3.3.46
+SIMATIC NET 1243-8 IRC (6GK7243-8RX30-0XE0): All versions prior to v3.3.46
 SINUMERIK ONE MCP: All versions prior to v2.0.1
 TIM 1531 IRC (incl. SIPLUS NET variants): All versions prior to v2.2.","CVE-2020-27827
 CVE-2015-8011",9.8,High,"CWE-120
