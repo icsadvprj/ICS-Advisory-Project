@@ -7,7 +7,7 @@ CVE-2022-2898",7.8,High,"CWE-822
 CWE-121
 CWE-416
 CWE-59",Energy; Critical Manufacturing,Worldwide,Ireland
-2183,8/23/2022,No Updates,2022,ICSA-22-235-05,Measuresoft ScadaPro Server,Measuresoft,ScadaPro Server,"The following versions of ScadaPro Server, a supervisory control and data acquisition (SCADA) system, are affected: ScadaPro Server: Versions prior to 6.8.0.1.",CVE-2022-2892,Not Assigned,Not Assigned,CWE-787,Energy; Critical Manufacturing,Worldwide,Ireland
+2183,8/23/2022,No Updates,2022,ICSA-22-235-05,Measuresoft ScadaPro Server,Measuresoft,ScadaPro Server,"The following versions of ScadaPro Server, a supervisory control and data acquisition (SCADA) system, are affected: ScadaPro Server: Versions prior to 6.8.0.1.",CVE-2022-2892,7.8,High,CWE-787,Energy; Critical Manufacturing,Worldwide,Ireland
 2182,8/23/2022,No Updates,2022,ICSA-22-235-07,Hitachi Energy RTU500,Hitachi Energy,RTU500 Series,"The following versions of Hitachi Energy’s RTU500 firmware are affected:
 RTU500 series CMU Firmware version 12.0.1–12.0.13
 RTU500 series CMU Firmware version 12.2.1–12.2.11
