@@ -1,4 +1,5 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2185,8/25/2022,No Updates,2022,ICSA-22-237-01,FATEK Automation FvDesigner,FATEK Automation,FvDesigner,The following versions of the FvDesigner software tool are affected: FvDesigner: Versions 1.5.103 and prior.,CVE-2022-2866,7.8,High,CWE-787,Critical Manufacturing,Worldwide,Taiwan
 2184,8/23/2022,No Updates,2022,ICSA-22-235-06,Measuresoft ScadaPro Server and Client,Measuresoft,ScadaPro Server and Client,"The following versions of ScadaPro, a supervisory control and data acquisition (SCADA) system, are affected: ScadaPro Server and Client: All Versions.","CVE-2022-2894
 CVE-2022-2895
 CVE-2022-2896
