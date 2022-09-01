@@ -1,4 +1,69 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2196,8/30/2022,No Updates,2022,ICSA-22-242-01,Hitachi Energy FACTS Control Platform (FCP) Product,Hitachi Energy,FACTS Control Platform (FCP) Product,"Hitachi Energy reports multiple open-source software related vulnerabilities in the following FACTS Control Platform (FCP) product versions: 
+FCP 1.1.0 - 1.3.0 
+FCP 2.1.0 - 2.3.0 
+FCP 3.0.0 - 3.12.0.","CVE-2020-1968
+CVE-2020-8172
+CVE-2020-8174
+CVE-2020-8201
+CVE-2020-8252
+CVE-2020-8265
+CVE-2020-8287",7.5,High,CWE-1357,Energy,Worldwide,Switzerland
+2195,8/30/2022,No Updates,2022,ICSA-22-242-02,Hitachi Energy Gateway Station (GWS) Product,Hitachi Energy,Gateway Station (GWS) Product,"Hitachi Energy reported multiple open-source software related vulnerabilities in the following GWS Product versions: 
+GWS 2.0.0.0 and earlier
+GWS 2.1.0.0
+GWS 2.2.0.0
+GWS 2.3.0.0
+GWS 2.4.0.0
+GWS 3.0.0.0
+GWS 3.1.0.0.","CVE-2020-1968
+CVE-2020-8172
+CVE-2020-8174
+CVE-2020-8201
+CVE-2020-8252
+CVE-2020-8265
+CVE-2020-8287",7.5,High,CWE-1357,Energy,Worldwide,Switzerland
+2194,8/30/2022,No Updates,2022,ICSA-22-242-03,Hitachi Energy MSM Product,Hitachi Energy,MSM Product,Hitachi Energy reports multiple open-source software related vulnerabilities in the following MSM product versions:  MSM version 2.2 and earlier.,"CVE-2015-6584
+CVE-2016-7103
+CVE-2011-4273
+CVE-2018-16842
+CVE-2016-9586
+CVE-2016-8617
+CVE-2016-8618
+CVE-2016-8619
+CVE-2016-8621
+CVE-2016-7167
+CVE-2014-3707
+CVE-2013-2174
+CVE-2014-0138",7.5,High,CWE-1357,Energy,Worldwide,Switzerland
+2193,8/30/2022,No Updates,2022,ICSA-22-242-04,Hitachi Energy RTU500 series,Hitachi Energy,RTU500 series,"Hitachi Energy reported this vulnerability affects the following RTU500 series in which HCI Modbus TCP is configured and enabled by project configuration: 
+RTU500 series CMU Firmware version 12.0.*
+RTU500 series CMU Firmware version 12.2.*
+RTU500 series CMU Firmware version 12.4.*
+RTU500 series CMU Firmware version 12.6.*
+RTU500 series CMU Firmware version 12.7.*
+RTU500 series CMU Firmware version 13.2.*",CVE-2022-28613,7.5,High,CWE-20,Energy,Worldwide,Switzerland
+2192,8/30/2022,No Updates,2022,ICSA-22-242-05,Fuji Electric D300win,Fuji Electric,D300win,"The following versions of D300win, a programming support tool expert, are affected: D300win: versions prior to 3.7.1.17.","CVE-2022-1738
+CVE-2022-1523",8.7,High,"CWE-125
+CWE-123",Multiple Critical Sectors,Worldwide,Japan
+2191,8/30/2022,No Updates,2022,ICSA-22-242-06,Honeywell ControlEdge,Honeywell,ControlEdge,"The following versions of ControlEdge, a PLC, are affected: ControlEdge: All versions prior to 151.2.",CVE-2022-30318,9.8,Critical,CWE-798,Multiple Critical Sectors,Worldwide,United States
+2190,8/30/2022,No Updates,2022,ICSA-22-242-07,Honeywell Experion LX,Honeywell,Experion LX,"The following versions of Experion LX, a distributed control system (DCS), are affected: Experion LX: All versions.",CVE-2022-30317,9.1,Critical,CWE-306,Multiple Critical Sectors,Worldwide,United States
+2189,8/30/2022,No Updates,2022,ICSA-22-242-08,Honeywell Trend Controls Inter-Controller Protocol,Honeywell,Trend Controls IQ Series that utilize Inter-Controller (IC) protocol,"The following versions of Trend Controls IQ Series IC, an industrial communication controller, are affected: IQ Series Controllers that utilize Inter-Controller (IC) protocol: All versions.",CVE-2022-30312,7.1,High,CWE-319,Multiple Critical Sectors,Worldwide,United States
+2188,8/30/2022,No Updates,2022,ICSA-22-242-09,Omron CX-Programmer,Omron,CX-Programmer,"The following Omron product, part of a software automation suite, is affected: Omron CX-Programmer: All versions prior to v9.78.",CVE-2022-2979,7.8,High,CWE-416,Critical Manufacturing,Worldwide,Japan
+2187,8/30/2022,No Updates,2022,ICSA-22-242-10,PTC Kepware KEPServerEX,PTC,Kepware KEPServerEX,"The following PTC products are affected by vulnerabilities found in Kepware KEPServerEX, a connectivity platform:
+Kepware KEPServerEX: Versions prior to 6.12
+ThingWorkx Kepware Server: Versions prior to 6.12
+ThingWorkx Industrial Connectivity: All versions
+OPC-Aggregator: Versions prior to 6.12
+ThingWorkx Kepware Edge: Versions 1.4 and prior
+
+The following products are known to be vulnerable:
+Rockwell Automation KEPServer Enterprise: Versions prior to v6.12
+GE Digital Industrial Gateway Server: Versions prior to v7.612
+Software Toolbox TOP Server: Versions prior to v6.12","CVE-2022-2848
+CVE-2022-2825",9.8,Critical,"CWE-122
+CWE-121",Multiple Critical Sectors,Worldwide,United States
+2186,8/30/2022,No Updates,2022,ICSA-22-242-11,Sensormatic Electronics iSTAR,Sensormatic Electronics LLC (Subsidiary of Johnson Controls),iSTAR Ultra,"The following versions of Sensormatic iSTAR Ultra, a network-ready door controller, are affected: iSTAR Ultra: All versions prior to 6.8.9. CU01.",CVE-2022-21941,10,Critical,CWE-77,Critical Manufacturing,Worldwide,Ireland
 2185,8/25/2022,No Updates,2022,ICSA-22-237-01,FATEK Automation FvDesigner,FATEK Automation,FvDesigner,The following versions of the FvDesigner software tool are affected: FvDesigner: Versions 1.5.103 and prior.,CVE-2022-2866,7.8,High,CWE-787,Critical Manufacturing,Worldwide,Taiwan
 2184,8/23/2022,No Updates,2022,ICSA-22-235-06,Measuresoft ScadaPro Server and Client,Measuresoft,ScadaPro Server and Client,"The following versions of ScadaPro, a supervisory control and data acquisition (SCADA) system, are affected: ScadaPro Server and Client: All Versions.","CVE-2022-2894
 CVE-2022-2895
@@ -139,12 +204,12 @@ CVE-2022-36324
 CVE-2022-36325",9.1,Critical,"CWE-74
 CWE-770
 CWE-80",Multiple Critical Sectors,Worldwide,Germany
-2164,8/9/2022,8/18/2022,2022,ICSA-22-221-01,Mitsubishi Electric Multiple Factory Automation Products (Update A),Mitsubishi Electric,"GOT2000 compatible HMI software, CC-Link IE TSN Industrial Managed Switch, MELSEC iQ-R Series OPC UA Server Module","The following version of GT SoftGOT2000 is affected:
---------- Begin Update A part 2 of 3 ---------
-GOT2000 compatible HMI software: Version 1.275M
-CC-Link IE TSN Industrial Managed Switch (NZ2MHG-TSNT8F2): Version 03 and prior [affected by CVE-2022-0778 only]
+2164,8/9/2022,8/30/2022,2022,ICSA-22-221-01,Mitsubishi Electric Multiple Factory Automation Products (Update B),Mitsubishi Electric,"GOT2000 compatible HMI software, CC-Link IE TSN Industrial Managed Switch, MELSEC iQ-R Series OPC UA Server Module","The following version of GT SoftGOT2000 is affected:
+GOT2000 compatible HMI software (GT SoftGOT2000): Version 1.275M
 MELSEC iQ-R Series OPC UA Server Module (RD81OPC96): Version 08 and prior [affected by CVE-2022-0778 only]
---------- End Update A part 2 of 3 ---------.","CVE-2022-0778
+--------- Begin Update B part 1 of 2 ---------
+CC-Link IE TSN Industrial Managed Switch (NZ2MHG-TSNT8F2, NZ2MHG-TSNT4): Version 03 and prior [affected by CVE-2022-0778 only]
+--------- End Update B part 1 of 2 ---------.","CVE-2022-0778
 CVE-2022-1292",9.8,Critical,"CWE-835
 CWE-78",Critical Manufacturing,Worldwide,Japan
 2163,8/9/2022,No Updates,2022,ICSA-22-221-02,Emerson ControlWave,Emerson,ControlWave,"The following versions of ControlWave, a programmable controller, are affected: ControlWave: All versions.",CVE-2022-30262,9.1,Critical,CWE-345,Oil & Gas; Petrochemical; Chemical; Life Sciences; Water and Wastewater Systems,Worldwide,United States
