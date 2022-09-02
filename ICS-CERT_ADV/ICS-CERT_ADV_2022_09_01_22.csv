@@ -1,4 +1,13 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2198,9/1/2022,No Updates,2022,ICSMA-22-244-01,Contec Health CMS8000,Contec Health,CMS8000 CONTEC ICU CCU Vital Signs Patient Monitor,The following Contec Health products are affected: Contec Health CMS8000 CONTEC ICU CCU Vital Signs Patient Monitor.,"CVE-2022-36385
+CVE-2022-38100
+CVE-2022-38069
+CVE-2022-3845
+CVE-2022-3027",7.5,High,"CWE-284
+CWE-400
+CWE-798
+CWE-489",Healthcare and Public Health,Worldwide,China
+2197,9/1/2022,No Updates,2022,ICSA-22-244-01,Delta Electronics DOPSoft,Delta Electronics,DOPSoft,"The following versions of DOPSoft, a software supporting the DOP-100 series HMI screens, are affected: DOPSoft: All versions.",CVE-2022-2966,3.3,Low,CWE-125,Critical Manufacturing,Worldwide,Taiwan
 2196,8/30/2022,No Updates,2022,ICSA-22-242-01,Hitachi Energy FACTS Control Platform (FCP) Product,Hitachi Energy,FACTS Control Platform (FCP) Product,"Hitachi Energy reports multiple open-source software related vulnerabilities in the following FACTS Control Platform (FCP) product versions: 
 FCP 1.1.0 - 1.3.0 
 FCP 2.1.0 - 2.3.0 
