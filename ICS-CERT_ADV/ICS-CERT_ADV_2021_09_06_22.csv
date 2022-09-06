@@ -937,7 +937,11 @@ CWE-190
 CWE-400",Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
 1732,9/14/2021,No Updates,2021,ICSA-19-225-03,Siemens SCALANCE X Switches (Update C),Siemens,SCALANCE X Switches,SCALANCE X-200 switch family (incl. SIPLUS NET variants): All versions SCALANCE X-200IRT switch family (incl. SIPLUS NET variants): All versions prior to 5.5.0. SCALANCE X-200RNA: All versions.,CVE-2019-10942,8.6,High,CWE-410,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater,Worldwide,Germany
 1731,9/9/2021,No Updates,2021,ICSA-21-252-01,AVEVA PCS Portal,AVEVA,PCS Portal,"The following versions of the AVEVA Software Platform Common Services (PCS) Portal are affected: PCS Versions 4.5.2, 4.5.1, 4.5.0, and 4.4.6 The following products ship a vulnerable version of the PCS Portal application and are affected: AVEVA System Platform 2020 R2 P01, 2020 R2, and 2020 AVEVA Work Tasks 2020 Update 1 AVEVA Work Tasks 2020 AVEVA Mobile Operator 2020 AVEVA Manufacturing Execution System 2020 AVEVA Batch Management 2020 AVEVA Enterprise Data Management 2021.",CVE-2021-38410,7.3,High,CWE-427,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater Systems,Worldwide,United Kingdom
-1730,9/9/2021,No Updates,2021,ICSA-21-252-02,Delta Electronics DOPSoft 2,Delta Electronics,DOPSoft 2,The following versions of DOPSoft 2 are affected: DOPSoft 2: Version 2.00.07 and prior.,CVE-2021-38402; CVE-2021-38404; CVE-2021-38406,7.8,High,CWE-122; CWE-787; CWE-121,Critical Manufacturing,Worldwide,Taiwan
+1730,9/9/2021,9/6/2022,2021,ICSA-21-252-02,Delta Electronics DOPSoft 2 (Update A),Delta Electronics,DOPSoft 2,The following versions of DOPSoft 2 are affected: DOPSoft 2: Version 2.00.07 and prior.,"CVE-2021-38402
+CVE-2021-38404
+CVE-2021-38406",7.8,High,"CWE-122
+CWE-787
+CWE-121",Critical Manufacturing,Worldwide,Taiwan
 1729,9/9/2021,No Updates,2021,ICSA-21-252-03,Mitsubishi Electric Europe B.V. smartRTU and INEA ME-RTU,Mitsubishi Electric Europe B.V.,smartRTU and INEA ME-RTU,The following products are affected: smartRTU and INEA ME-RTU: All firmware versions prior to Version 3.3.,CVE-2019-14925; CVE-2019-14926; CVE-2019-14927; CVE-2019-14928; CVE-2019-14929; CVE-2019-14930; CVE-2019-14931,9.8,Critical,CWE-284; CWE-78; CWE-79; CWE-276; CWE-256; CWE-798,Critical Manufacturing,Worldwide,Japan
 1728,9/9/2021,5/31/2022,2021,ICSA-20-245-01,Mitsubishi Electric Multiple Products (Update D),Mitsubishi Electric,Multiple Products,"QJ71MES96, all versions
 QJ71WS96, all versions
