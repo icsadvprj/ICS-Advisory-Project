@@ -1,4 +1,31 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2202,9/6/2022,No Updates,2022,ICSA-22-249-01,Triangle Microworks Libraries,Triangle Microworks,TMW IEC 61850 Software Library and TMW IEC 60870-6 (ICCP/TASE.2) Software Library,"TMW Library: IEC 61850
+Any client or server using the C language library with a version number of 11.2.0 or earlier.
+Any client or server using the C++, C#, or Java language library with a version number of 5.0.1 or earlier.
+TMW Library: IEC 60870-6 (ICCP/Tase.2)
+Any client or server using a C++ language library with a version number of 4.4.3 or earlier.",CVE-2022-38138,7.5,High,CWE-824,Energy; Water and Wastewater Systems,Worldwide,United States
+2201,9/6/2022,No Updates,2022,ICSA-22-249-02,AVEVA Edge 2020 R2 SP1 and all prior versions,AVEVA,AVEVA Edge 2020 R2 SP1 and all prior versions,"The following versions of AVEVA Edge, an industrial software system, are affected: AVEVA Edge: 2020 R2 SP1 and all prior versions.","CVE-2022-36970
+CVE-2022-28686
+CVE-2022-28687
+CVE-2022-28688
+CVE-2022-28685
+CVE-2022-36969",7.8,High,"CWE-357
+CWE-427
+CWE-502
+CWE-611",Critical Manufacturing,Worldwide,United Kingdom
+2200,9/6/2022,No Updates,2022,ICSA-22-249-03,Cognex 3D-A1000 Dimensioning System,Cognex,3D-A1000 Dimensioning System,"The following versions of Cognex 3D-A1000 Dimensioning System, an industrial smart camera, are affected: Cognex 3D-A1000 Dimensioning System: Firmware Version: 1.0.3 (3354) and prior.","CVE-2022-1368
+CVE-2022-1522
+CVE-2022-1525",9.8,Critical,"CWE-306
+CWE-117
+CWE-602",Commercial Facilities; Transportation,Worldwide,United States
+2199,9/6/2022,No Updates,2022,ICSA-22-249-04,Hitachi Energy TXpert Hub CoreTec 4,Hitachi Energy,TXpert Hub CoreTec 4,"The following versions of TXpert Hub CoreTec 4, a digital transformer monitoring and diagnostics device, are affected: 
+TXpert Hub CoreTec 4 version 2.0.0, 2.0.1
+TXpert Hub CoreTec 4 version 2.1.0, 2.1.1, 2.1.2, 2.1.3
+TXpert Hub CoreTec 4 version 2.2.0, 2.2.1.","CVE-2021-35530
+CVE-2021-35531
+CVE-2021-35532",6,Medium,"CWE-288
+CWE-20
+CWE-494",Energy,Worldwide,Switzerland
 2198,9/1/2022,No Updates,2022,ICSMA-22-244-01,Contec Health CMS8000,Contec Health,CMS8000 CONTEC ICU CCU Vital Signs Patient Monitor,The following Contec Health products are affected: Contec Health CMS8000 CONTEC ICU CCU Vital Signs Patient Monitor.,"CVE-2022-36385
 CVE-2022-38100
 CVE-2022-38069
