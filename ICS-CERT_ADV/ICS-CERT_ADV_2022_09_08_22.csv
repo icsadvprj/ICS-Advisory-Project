@@ -1,4 +1,24 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2204,9/8/2022,No Updates,2022,ICSMA-22-251-01,Baxter Sigma Spectrum Infusion Pump,Baxter,Sigma and Baxter Spectrum Infusion Pumps,"The following versions of Sigma Spectrum Infusion systems are affected:
+Sigma Spectrum v6.x model 35700BAX
+Sigma Spectrum v8.x model 35700BAX2
+Baxter Spectrum IQ (v9.x) model 35700BAX3
+Sigma Spectrum LVP v6.x Wireless Battery Modules v16, v16D38, v17, v17D19, v20D29 to v20D32, and v22D24 to v22D28
+Sigma Spectrum LVP v8.x Wireless Battery Modules v17, v17D19, v20D29 to v20D32, and v22D24 to v22D28
+Baxter Spectrum IQ LVP (v9.x) with Wireless Battery Modules v22D19 to v22D28.","CVE-2022-26390
+CVE-2022-26392
+CVE-2022-26393
+CVE-2022-26394",5.5,Medium,"CWE-311
+CWE-134
+CWE-306",Healthcare and Public Health,United States Canada Puerto Rico Caribbean,United States
+2203,9/8/2022,No Updates,2022,ICSA-22-251-01,MZ Automation libIEC61850,MZ Automation GmbH,libIEC61850,"The following versions of libIEC61850, IEC 61850 implementation software, are affected:
+libIEC61850 Versions 1.4 and prior
+libIEC61850 Version 1.5 prior to commit a3b04b7bc4872a5a39e5de3fdc5fbde52c09e10e.","CVE-2022-2970
+CVE-2022-2972
+CVE-2022-2971
+CVE-2022-2973",10,Critical,"CWE-121
+CWE 843
+CWE-476",Energy,Worldwide,Germany
 2202,9/6/2022,No Updates,2022,ICSA-22-249-01,Triangle Microworks Libraries,Triangle Microworks,TMW IEC 61850 Software Library and TMW IEC 60870-6 (ICCP/TASE.2) Software Library,"TMW Library: IEC 61850
 Any client or server using the C language library with a version number of 11.2.0 or earlier.
 Any client or server using the C++, C#, or Java language library with a version number of 5.0.1 or earlier.
@@ -86,17 +106,16 @@ CWE-123",Multiple Critical Sectors,Worldwide,Japan
 2190,8/30/2022,No Updates,2022,ICSA-22-242-07,Honeywell Experion LX,Honeywell,Experion LX,"The following versions of Experion LX, a distributed control system (DCS), are affected: Experion LX: All versions.",CVE-2022-30317,9.1,Critical,CWE-306,Multiple Critical Sectors,Worldwide,United States
 2189,8/30/2022,No Updates,2022,ICSA-22-242-08,Honeywell Trend Controls Inter-Controller Protocol,Honeywell,Trend Controls IQ Series that utilize Inter-Controller (IC) protocol,"The following versions of Trend Controls IQ Series IC, an industrial communication controller, are affected: IQ Series Controllers that utilize Inter-Controller (IC) protocol: All versions.",CVE-2022-30312,7.1,High,CWE-319,Multiple Critical Sectors,Worldwide,United States
 2188,8/30/2022,No Updates,2022,ICSA-22-242-09,Omron CX-Programmer,Omron,CX-Programmer,"The following Omron product, part of a software automation suite, is affected: Omron CX-Programmer: All versions prior to v9.78.",CVE-2022-2979,7.8,High,CWE-416,Critical Manufacturing,Worldwide,Japan
-2187,8/30/2022,No Updates,2022,ICSA-22-242-10,PTC Kepware KEPServerEX,PTC,Kepware KEPServerEX,"The following PTC products are affected by vulnerabilities found in Kepware KEPServerEX, a connectivity platform:
+2187,8/30/2022,9/8/2022,2022,ICSA-22-242-10,PTC Kepware KEPServerEX (Update A),PTC,Kepware KEPServerEX,"The following PTC products are affected by vulnerabilities found in Kepware KEPServerEX, a connectivity platform:
 Kepware KEPServerEX: Versions prior to 6.12
 ThingWorkx Kepware Server: Versions prior to 6.12
 ThingWorkx Industrial Connectivity: All versions
 OPC-Aggregator: Versions prior to 6.12
 ThingWorkx Kepware Edge: Versions 1.4 and prior
-
 The following products are known to be vulnerable:
 Rockwell Automation KEPServer Enterprise: Versions prior to v6.12
 GE Digital Industrial Gateway Server: Versions prior to v7.612
-Software Toolbox TOP Server: Versions prior to v6.12","CVE-2022-2848
+Software Toolbox TOP Server: Versions prior to v6.12.","CVE-2022-2848
 CVE-2022-2825",9.8,Critical,"CWE-122
 CWE-121",Multiple Critical Sectors,Worldwide,United States
 2186,8/30/2022,No Updates,2022,ICSA-22-242-11,Sensormatic Electronics iSTAR,Sensormatic Electronics LLC (Subsidiary of Johnson Controls),iSTAR Ultra,"The following versions of Sensormatic iSTAR Ultra, a network-ready door controller, are affected: iSTAR Ultra: All versions prior to 6.8.9. CU01.",CVE-2022-21941,10,Critical,CWE-77,Critical Manufacturing,Worldwide,Ireland
