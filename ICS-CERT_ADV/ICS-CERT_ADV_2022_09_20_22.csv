@@ -1,4 +1,27 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2218,9/20/2022,No Updates,2022,ICSA-22-263-01,Hitachi Energy PROMOD IV,Hitachi Energy,PROMOD IV,"The following versions of PROMOD IV and the PROMOD-Generator, an energy planning, transmission congestion, and price forecasting system, are affected: Hitachi Energy PROMOD IV Version: 11.2, 11.3, and 11.4.",CVE-2010-3591,9,Critical,CWE-284,Energy,Worldwide,Switzerland
+2217,9/20/2022,No Updates,2022,ICSA-22-263-02,Hitachi Energy AFF660/665 Series,Hitachi Energy,AFF660/665 Firewall,"The following versions of Hitachi Energy AFF660/665, an industrial firewall, are affected:
+Hitachi Energy AFF660 FW: Versions 03.0.02 and prior
+Hitachi Energy AFF665 FW: Versions 03.0.02 and prior.",CVE-2020-6994,9.8,Critical,CWE-121,Energy,Worldwide,Switzerland
+2216,9/20/2022,No Updates,2022,ICSMA-22-263-01,Medtronic NGP 600 Series Insulin Pumps,Medtronic,"MiniMed 600 Series Insulin Pumps, Guardian Link 3 Transmitter, Guardian 2 Link Transmitter, Carelink USB, Contour Next Link 2.4","The following versions of the Medtronic NGP 600 Series Insulin Pumps and accessory components are affected:
+MiniMed 620G: MMT-1710
+MiniMed 630G: MMT-1715, MMT-1754, MMT-1755
+MiniMed 640G: MMT-1711, MMT-1712, MMT-1751, MMT-1752
+MiniMed 670G: MMT-1740, MMT-1741, MMT-1742, MMT-1760, MMT-1762, MMT-1762, MMT-1780, MMT-1781, MMT-1782.",CVE-2022-32537,4.8,Medium,CWE-693,Healthcare and Public Health,Worldwide,Ireland
+2215,9/20/2022,No Updates,2022,ICSA-22-263-03,Dataprobe iBoot-PDU,Dataprobe,iBoot-PDU FW,"The following versions of Dataprobe iBoot-PDU, a power distribution unit, are affected: Dataprobe iBoot-PDU FW: All Versions prior to 1.42.06162022.","CVE-2022-3183
+CVE-2022-3184
+CVE-2022-3185
+CVE-2022-3186
+CVE-2022-3187
+CVE-2022-3188
+CVE-2022-3189",9.8,Critical,"CWE-78
+CWE-22
+CWE-200
+CWE-284
+CWE-285
+CWE-863
+CWE-918",Critical Manufacturing,Multiple Countries,United States
+2214,9/20/2022,No Updates,2022,ICSA-22-263-04,Host Engineering Communications Module,Host Engineering,H0-ECOM100 Communications Module,"The following firmware versions of H0-ECOM100 Communications Module, a module to communicate with programmable logic controllers, are affected: Firmware v5.0.155 and prior.",CVE-2022-3228,6.5,Medium,CWE-121,Critical Manufacturing,Worldwide,United States
 2213,9/15/2022,No Updates,2022,ICSA-22-258-01,Siemens Mobility CoreShield OWG Software,Siemens,CoreShield One-Way Gateway (OWG) Software,"The following versions of CoreShield OWG software, which enable unidirectional exchange of information between network zones, are affected: 
 CoreShield OWG Software: All versions prior to 2.2.",CVE-2022-38466,7.8,High,CWE-284,Multiple Critical Sectors,Worldwide,Germany
 2212,9/15/2022,No Updates,2022,ICSA-22-258-02,Siemens Simcenter Femap and Parasolid,Siemens,Simcenter Femap and Parasolid," Siemens reports these vulnerabilities as affecting the following products: 
@@ -652,7 +675,7 @@ CVE-2022-31217
 CVE-2022-31218
 CVE-2022-31219
 CVE-2022-26057",7.8,High,CWE-269,Multiple Critical Sectors,Worldwide,Switzerland
-2149,7/19/2022,No Updates,2022,ICSA-22-200-01,MiCODUS MV720 GPS tracker,MiCODUS,MV720 GPS tracker,The following versions of MV720 GPS tracker are affected: MV720 model.,"CVE-2022-2107
+2149,7/19/2022,9/20/2022,2022,ICSA-22-200-01,MiCODUS MV720 GPS tracker (Update A),MiCODUS,MV720 GPS tracker,The following versions of MV720 GPS tracker are affected: MV720 model.,"CVE-2022-2107
 CVE-2022-2141
 CVE-2022-2199
 CVE-2022-34150
@@ -1115,7 +1138,7 @@ EA9-RHMI
 EA9-PGMSW.","CVE-2022-2006
 CVE-2022-2005",7.8,High,"CWE-427
 CWE-319",Multiple Critical Sectors,Worldwide,United States
-2103,6/16/2022,No Updates,2022,ICSA-22-167-02,AutomationDirect DirectLOGIC with Serial Communication,AutomationDirect,DirectLOGIC with Serial Communication,"The following versions of DirectLOGIC with serial communication, a programmable controller, are affected:
+2103,6/16/2022,9/20/2022,2022,ICSA-22-167-02,AutomationDirect DirectLOGIC with Serial Communication (Update A),AutomationDirect,DirectLOGIC with Serial Communication,"The following versions of DirectLOGIC with serial communication, a programmable controller, are affected:
 The following D0-06 series CPUs, prior to v2.72: 
 D0-06DD1
 D0-06DD2
@@ -1127,8 +1150,38 @@ D0-06DD1-D
 D0-06DD2-D
 D0-06DR-D
 D0-06DD2-D
-D0-06DR-D.",CVE-2022-2003,7.7,High,CWE-319,Multiple Critical Sectors,Worldwide,United States
-2102,6/16/2022,No Updates,2022,ICSA-22-167-03,AutomationDirect DirectLOGIC with Ethernet,AutomationDirect,DirectLOGIC with Ethernet Communication Modules,"The following versions of DirectLOGIC with Ethernet communication modules, a PLC Ethernet module, are affected: All versions of H0-ECOM and H0-ECOM100 when installed in the following D0-06 series CPUs versions prior to v2.72:
+D0-06DR-D
+--------- Begin Update A part 1 of 2 ---------
+D0-05DD: All versions prior to V5.41
+D0-05DR: All versions prior to V5.41.
+D0-05DA: All versions prior to V5.41
+D0-05AR: All versions prior to V5.41
+D0-05AA: All versions prior to V5.41
+D0-05AD: All versions prior to V5.41
+D0-05DD-D: All versions prior to V5.41
+D0-05DR-D: All versions prior to V5.41
+D2-230: All versions
+D2-240: All versions
+D2-250: All versions
+D2-250-1: All versions prior to V4.91
+D2-260: All versions prior to V2.71
+D2-262: All versions prior to V1.06
+D3-350: All versions
+D4-430: All versions
+D4-440: All versions
+D4-450: All versions
+D4-454: All versions prior to V1.04
+F1-130AA: All versions
+F1-130AD: All versions
+F1-130DA: All versions
+F1-130DD: All versions
+F1-130DD-D: All versions
+F1-130DR-D: All versions
+F1-130AR: All versions
+F1-130DR: All versions
+--------- End Update A part 1 of 2 ---------.",CVE-2022-2003,7.7,High,CWE-319,Multiple Critical Sectors,Worldwide,United States
+2102,6/16/2022,9/20/2022,2022,ICSA-22-167-03,AutomationDirect DirectLOGIC with Ethernet (Update A),AutomationDirect,DirectLOGIC with Ethernet Communication Modules,"The following versions of DirectLOGIC with Ethernet communication modules, a PLC Ethernet module, are affected:
+All versions of H0-ECOM and H0-ECOM100 when installed in the following D0-06 series CPUs versions prior to v2.72:
 D0-06DD1
 D0-06DD2
 D0-06DR
@@ -1137,7 +1190,29 @@ D0-06AR
 D0-06AA
 D0-06DD1-D
 D0-06DD2-D
-D0-06DR-D.","CVE-2022-2004
+D0-06DR-D
+--------- Begin Update A part 1 of 2 ---------
+All versions of H0-ECOM and H0-ECOM100 when installed in the following D0-05 series CPUs versions prior to v5.41
+D0-05DD
+D0-05DR
+D0-05DA
+D0-05AR
+D0-05AA
+D0-05AD
+D0-05DD-D
+D0-05DR-D
+All versions of H2-ECOM and H2-ECOM100 when installed in the following:
+D2-240: All versions
+D2-250: All versions
+D2-250-1: All versions prior to 4.91
+D2-260: All versions prior to 2.71
+D2-262: All versions prior to 1.06
+All versions of H4-ECOM and All versions of H4-ECOM100 when installed in the following:
+D4-430: All versions
+D4-440: All versions
+D4-450: All versions
+D4-454: All versions prior to 1.04
+--------- End Update A part 1 of 2 ---------DirectLOGIC with Serial Communication.","CVE-2022-2004
 CVE-2022-2003",7.5,High,"CWE-400
 CWE-319",Multiple Critical Sectors,Worldwide,United States
 2101,6/16/2022,No Updates,2022,ICSA-22-167-04,Siemens Mendix SAML Module,Siemens,Mendix SAML Module,"Siemens reports these vulnerabilities affect the following Mendix SAML Modules: 
