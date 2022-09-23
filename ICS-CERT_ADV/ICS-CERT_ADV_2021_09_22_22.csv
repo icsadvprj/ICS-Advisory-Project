@@ -957,11 +957,11 @@ CVE-2021-38406",7.8,High,"CWE-122
 CWE-787
 CWE-121",Critical Manufacturing,Worldwide,Taiwan
 1729,9/9/2021,No Updates,2021,ICSA-21-252-03,Mitsubishi Electric Europe B.V. smartRTU and INEA ME-RTU,Mitsubishi Electric Europe B.V.,smartRTU and INEA ME-RTU,The following products are affected: smartRTU and INEA ME-RTU: All firmware versions prior to Version 3.3.,CVE-2019-14925; CVE-2019-14926; CVE-2019-14927; CVE-2019-14928; CVE-2019-14929; CVE-2019-14930; CVE-2019-14931,9.8,Critical,CWE-284; CWE-78; CWE-79; CWE-276; CWE-256; CWE-798,Critical Manufacturing,Worldwide,Japan
-1728,9/9/2021,5/31/2022,2021,ICSA-20-245-01,Mitsubishi Electric Multiple Products (Update D),Mitsubishi Electric,Multiple Products,"QJ71MES96, all versions
+1728,9/9/2021,9/22/2022,2021,ICSA-20-245-01,Mitsubishi Electric Multiple Products (Update E),Mitsubishi Electric,Multiple Products,"QJ71MES96, all versions
 QJ71WS96, all versions
 Q06CCPU-V, all versions
-Q24DHCCPU-V, all versions
-Q24DHCCPU-VG, all versions
+Q24DHCCPU-V, the first 5 digits of serial number 24031 and prior
+Q24DHCCPU-VG, the first 5 digits of serial number 24031 and prior
 R12CCPU-V, Version 13 and prior
 RD55UP06-V, Version 09 and prior
 RD55UP12-V, Version 01
@@ -997,9 +997,11 @@ FX3U-ENET-L, Version 1.14 and prior
 FX3U-ENET-P502, Version 1.14 and prior
 FX5-CCLGN-MS, Version 1.000
 IU1-1M20-D, all versions
-LE7-40GU-L, all versions
-GOT2000 Series GT21 Model, all versions
-GS Series, all versions
+--------- Begin Update E Part 1 of 2 ---------
+LE7-40GU-L, screen package data, version 1.01 and prior
+--------- End Update E Part 1 of 2 ---------
+GOT2000 Series GT21 Model, Version 01.44.000 and prior
+GS Series GS21 Model, Version 01.44.000 and prior
 GOT1000 Series GT14 Model, all versions
 FR-A800-E Series, production date December 2020 and prior
 FR-F800-E Series, production date December 2020 and prior
@@ -1015,11 +1017,7 @@ LJ71E71-100, the first 5 digits of serial number 21092 and prior
 QJ71MT91, the first 5 digits of serial number 20082 and prior
 NZ2GACP620-60, Version 1.03D and prior
 NZ2GACP620-300, Version 1.03D and prior
-GT25-J71GN13-T2, Version 03 and prior
---------- Begin Update D Part 1 of 2 ---------
-GOT2000 Series GT21 Model, Version 01.44.000 and prior
-GS Series, GS Series GS21 Model, Version 01.44.000 and prior
---------- End Update D Part 1 of 2 ---------","CVE-2020-1622
+GT25-J71GN13-T2, Version 03 and prior.","CVE-2020-1622
 CVE-2020-16226",7.3,High,CWE-342,Critical Manufacturing,Worldwide,Japan
 1727,9/7/2021,No Updates,2021,ICSA-21-250-01,Mitsubishi Electric MELSEC iQ-R Series,Mitsubishi Electric,MELSEC iQ-R Series,Mitsubishi Electric reports these vulnerabilities affect the following MELSEC products: R08/16/32/120SFCPU: All versions R08/16/32/120PSFCPU: All versions.,CVE-2021-20594; CVE-2021-20597; CVE-2021-20598,7.4,High,CWE-200; CWE-522; CWE-645,Critical Manufacturing,Worldwide,Japan
 1726,9/7/2021,No Updates,2021,ICSA-21-250-02,Hitachi ABB Power Grids System Data Manager,Hitachi and ABB,Power Grids System Data Manager,The following versions of System Data Manager are affected: SDM600: All versions prior to 1.2 FP2 HF6 (Build Nr. 1.2.14002.257).,CVE-2021-35526,6.3,Medium,CWE-312,Energy,Worldwide,Switzerland
@@ -1567,7 +1565,7 @@ CVE-2019-19282",7.5,High,CWE-131,Chemical; Critical Manufacturing; Energy; Food 
 1470,1/5/2021,No Updates,2021,ICSA-20-308-03,ARC Informatique PcVue (Update A),ARC Informatique,PcVue,The following versions of PcVue are affected: PcVue Versions 8.10 to versions prior to 12.0.17.,CVE-2020-26867; CVE-2020-26868; CVE-2020-26869,9.8,Critical,CWE-767; CWE-502; CWE-200,Multiple Critical Sectors,Worldwide,France
 1469,1/5/2021,No Updates,2021,ICSA-20-282-01,Johnson Controls Sensormatic Electronics American Dynamics victor Web Client and Software House CCURE Web Client (Update A),Sensormatic Electronics LLC (Subsidiary of Johnson Controls),American Dynamics victor Web Client and Software House CCURE Web Client,Johnson Controls reports that the vulnerability affects the following versions of victor Web Client and CCURE Web Client software: American Dynamics victor Web Client: All versions up to and including v5.4.1; Software House CCURE Web Client: All versions up to and including v2.80.,CVE-2020-9048,7.1,High,CWE-285,Critical Manufacturing,Worldwide,Ireland
 1468,1/5/2021,No Updates,2021,ICSA-20-224-01,Yokogawa CENTUM (Update A),Yokogawa,CENTUM,Yokogawa reports that the vulnerability affects the following CENTUM distributed control system products: Exaopc (R3.72.00 - R3.78.00); CENTUM CS 3000 versions R3.08.10 - R3.09.50 (Including CENTUM CS 3000 Entry Class) CENTUM VP versions R4.01.00 - R6.07.00 (Including CENTUM VP Entry Class) B/M9000CS versions R5.04.01 - R5.05.01 B/M9000 VP versions R6.01.01 - R8.03.01.,CVE-2020-5608; CVE-2020-5609,8.1,High,CWE-287; CWE-22,Critical Manufacturing; Energy; Food and Agriculture,Worldwide,Japan
-1467,1/5/2021,7/28/2022,2021,ICSA-20-212-02,Mitsubishi Electric Factory Automation Engineering Software (Update C),Mitsubishi Electric,"Mitsubishi Electric, Multiple Factory Automation Engineering Software products","The following products and versions are affected:
+1467,1/5/2021,9/22/2022,2021,ICSA-20-212-02,Mitsubishi Electric Factory Automation Engineering Software (Update D),Mitsubishi Electric,"Mitsubishi Electric, Multiple Factory Automation Engineering Software products","The following products and versions are affected:
 CPU Module Logging Configuration Tool, versions 1.100E and prior
 CW Configurator, Versions 1.010L and prior
 Data Transfer, Versions 3.40S and prior
@@ -1583,14 +1581,14 @@ GX Works3, Versions 1.063R and prior
 M_CommDTM-HART, Version 1.00A
 M_CommDTM-IO-Link, Versions 1.03D and prior
 MELFA-Works, versions 4.3 and prior
-MELSEC WinCPU Setting Utility, all versions
+--------- Begin Update D Part 1 of 2--------- 
+MELSEC WinCPU Setting Utility, Versions 1.03D and prior
+--------- End Update D Part 1 of 2--------- 
 MELSOFT EM Software Development Kit (EM Configurator), Versions 1.010L and prior
 MELSOFT FieldDeviceConfigurator, Versions 1.03D and prior
 MELSOFT Navigator, Versions 2.62Q and prior
 MH11 SettingTool Version2, versions 2.002C and prior
---------- Begin Update C Part 1 of 4--------- 
 MI Configurator, Versions 1.004E and prior
---------- End Update C Part 1 of 4--------- 
 Motorizer, Versions 1.005F and prior
 MR Configurator2, Versions 1.105K and prior
 MT Works2, Versions 1.156N and prior
@@ -1602,7 +1600,4 @@ Network Interface Board MNETH utility, Versions 34L and prior
 PX Developer, Versions 1.52E and prior
 RT ToolBox2, Versions 3.72A and prior
 RT ToolBox3, Versions 1.70Y and prior 
-Setting/monitoring tools for the C Controller module (SW3PVC-CCPU), all versions
---------- Begin Update C Part 2 of 4--------- 
-Setting/monitoring tools for the C Controller module (SW4PVC-CCPU), Versions 4.12N and prior
---------- End Update C Part 2 of 4--------- ",CVE-2020-14496,8.3,High,CWE-275,Critical Manufacturing,Worldwide,Japan
+Setting/monitoring tools for the C Controller module (SW4PVC-CCPU), Versions 4.12N and prior.",CVE-2020-14496,8.3,High,CWE-275,Critical Manufacturing,Worldwide,Japan
