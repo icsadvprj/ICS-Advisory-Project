@@ -1,4 +1,21 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2024,9/29/2022,No Updates,2022,ICSA-22-272-01,Hitachi Energy MicroSCADA Pro X SYS600_8DBD000106,Hitachi Energy,MicroSCADA Pro/X SYS600,"Hitachi Energy reports this vulnerability affects the following SCADA products used for monitoring and controlling power systems: 
+SYS600 10.3.1 and earlier
+SYS600 9.4 FP2 Hotfix 4 and earlier versions.","CVE-2022-1778
+CVE-2022-2277
+CVE-2022-29490
+CVE-2022-29492
+CVE-2022-29922",8.5,High,"CWE-20
+CWE-269
+CWE-284
+CWE-241",Energy,Worldwide,Switzerland
+2023,9/29/2022,No Updates,2022,ICSA-22-272-02,Hitachi Energy MicroSCADA Pro X SYS600_8DBD000107,Hitachi Energy,MicroSCADA Pro/X SYS600,"Hitachi Energy reports this vulnerability affects the following SCADA products used for monitoring and controlling power systems: 
+SYS600 10.3.1 and earlier
+SYS600 9.x versions
+CVE-2020-25692 impacts SYS600 if the Authentication Service is installed; it is not installed by default but needs to be either enabled during the installation process of SYS600 or manually installed later. Authentication Service (previously ABB Authentication Service) is needed only when SYS600 users are authenticated using centralized SDM600 user account management.","CVE-2020-25692
+CVE-2022-0778",7.5,High,CWE-1357,Energy,Worldwide,Switzerland
+2022,9/27/2022,No Updates,2022,ICSA-22-270-01,Hitachi Energy AFS660/AFS665,Hitachi Energy,AFS660/AFS665 industrial switches,Hitachi Energy reports this vulnerability affects the following AFS660/AFS665 industrial switches: Releases 7.0.02 or prior.,CVE-2020-6994,9.8,Critical,CWE-20,Energy,Worldwide,Switzerland
 2022,9/27/2022,No Updates,2022,ICSA-22-270-01,Hitachi Energy AFS660/AFS665,Hitachi Energy,AFS660/AFS665 industrial switches,Hitachi Energy reports this vulnerability affects the following AFS660/AFS665 industrial switches: Releases 7.0.02 or prior.,CVE-2020-6994,9.8,Critical,CWE-20,Energy,Worldwide,Switzerland
 2021,9/27/2022,No Updates,2022,ICSA-22-270-02,Hitachi Energy APM Edge,Hitachi Energy,Lumada Asset Performance Management (APM) Edge,"The following versions of APM are affected: 
 Lumada APM Edge Version 1.0
@@ -140,7 +157,7 @@ CWE-732",Critical Manufacturing,Worldwide,Canada
 DIAEnergie Version 1.8.0 and prior.",Not Assigned,9.8,Critical,CWE-798,Critical Manufacturing,Worldwide,Taiwan
 2205,9/13/2022,No Updates,2022,ICSA-22-256-04,Kingspan TMS300 CS,Kingspan,TMS300 CS,"All versions of Kingspan TMS300 CS, a water tank management system, are affected.
 Kingspan TMS300 CS: All versions.",CVE-2022-2757,9.8,Critical,CWE-287,Water and Wastewater Systems,Worldwide,Ireland
-2204,9/8/2022,No Updates,2022,ICSMA-22-251-01,Baxter Sigma Spectrum Infusion Pump,Baxter,Sigma and Baxter Spectrum Infusion Pumps,"The following versions of Sigma Spectrum Infusion systems are affected:
+2204,9/8/2022,9/29/2022,2022,ICSMA-22-251-01,Baxter Sigma Spectrum Infusion Pump (Update A),Baxter,Sigma and Baxter Spectrum Infusion Pumps,"The following versions of Sigma Spectrum Infusion systems are affected:
 Sigma Spectrum v6.x model 35700BAX
 Sigma Spectrum v8.x model 35700BAX2
 Baxter Spectrum IQ (v9.x) model 35700BAX3
@@ -149,7 +166,7 @@ Sigma Spectrum LVP v8.x Wireless Battery Modules v17, v17D19, v20D29 to v20D32, 
 Baxter Spectrum IQ LVP (v9.x) with Wireless Battery Modules v22D19 to v22D28.","CVE-2022-26390
 CVE-2022-26392
 CVE-2022-26393
-CVE-2022-26394",5.5,Medium,"CWE-311
+CVE-2022-26394",7.5,High,"CWE-311
 CWE-134
 CWE-306",Healthcare and Public Health,United States Canada Puerto Rico Caribbean,United States
 2203,9/8/2022,No Updates,2022,ICSA-22-251-01,MZ Automation libIEC61850,MZ Automation GmbH,libIEC61850,"The following versions of libIEC61850, IEC 61850 implementation software, are affected:
@@ -195,7 +212,7 @@ CVE-2022-3027",7.5,High,"CWE-284
 CWE-400
 CWE-798
 CWE-489",Healthcare and Public Health,Worldwide,China
-2197,9/1/2022,No Updates,2022,ICSA-22-244-01,Delta Electronics DOPSoft,Delta Electronics,DOPSoft,"The following versions of DOPSoft, a software supporting the DOP-100 series HMI screens, are affected: DOPSoft: All versions.",CVE-2022-2966,3.3,Low,CWE-125,Critical Manufacturing,Worldwide,Taiwan
+2197,9/1/2022,9/29/2022,2022,ICSA-22-244-01,Delta Electronics DOPSoft (Update A),Delta Electronics,DOPSoft,"The following versions of DOPSoft, a software supporting the DOP-100 series HMI screens, are affected: DOPSoft: All versions",CVE-2022-2966,3.3,Low,CWE-125,Critical Manufacturing,Worldwide,Taiwan
 2196,8/30/2022,No Updates,2022,ICSA-22-242-01,Hitachi Energy FACTS Control Platform (FCP) Product,Hitachi Energy,FACTS Control Platform (FCP) Product,"Hitachi Energy reports multiple open-source software related vulnerabilities in the following FACTS Control Platform (FCP) product versions: 
 FCP 1.1.0 - 1.3.0 
 FCP 2.1.0 - 2.3.0 
@@ -279,7 +296,11 @@ RTU500 series CMU Firmware version 12.7.1–12.7.3
 RTU500 series CMU Firmware version 13.2.1–13.2.4
 RTU500 series CMU Firmware version 13.3.1.",CVE-2022-2081,7.5,High,CWE-121,Energy,Worldwide,Switzerland
 2181,8/23/2022,No Updates,2022,ICSA-22-235-03,mySCADA myPRO,mySCADA Technologies,mySCADA myPRO,mySCADA reports this vulnerability affects the following myPRO HMI/SCADA systems: myPRO: Versions 8.26.0 and prior.,CVE-2022-2234,9.9,Critical,CWE-77,Energy; Food and Agriculture; Transportation Systems; Water and Wastewater Systems,Worldwide,Czech Republic
-2180,8/23/2022,No Updates,2022,ICSA-22-235-01,ARC Informatique PcVue,ARC Informatique,PcVue,"The following ARC Informatique product components are affected:
+2180,8/23/2022,9/29/2022,2022,ICSA-22-235-01,ARC Informatique PcVue (Update A),ARC Informatique,PcVue,"The following ARC Informatique product components are affected:
+--------- Begin Update A part 1 of 2 ---------
+PcVue 12 OAuth web service configuration versions prior to 12.0.27
+PcVue 15 OAuth web service configuration versions prior to 15.2.3
+--------- End Update A part 1 of 2 ---------
 PcVue 12 OAuth web service configuration
 PcVue 15 OAuth web service configuration.",CVE-2022-2569,5.5,Medium,CWE-312,Multiple Critical Sectors,Worldwide,France
 2179,8/23/2022,No Updates,2022,ICSA-22-235-02,Delta Industrial Automation DIALink,Delta Electronics,Delta Industrial Automation DIALink,"The following versions of the DIALink Industrial Automation server are affected:
