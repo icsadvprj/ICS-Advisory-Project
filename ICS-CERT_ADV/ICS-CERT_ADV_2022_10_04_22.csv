@@ -1,5 +1,19 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
-icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2029,10/4/2022,No Updates,2022,ICSA-22-277-01,Johnson Controls Metasys ADX Server,Johnson Controls Inc.,Metasys ADX (Extended Application and Data Server) Server running MVE (Metasys for Validated Environments),Johnson Controls reports this vulnerability affects the following Metasys ADX Server running MVE: Metasys ADX Server version 12.0 running MVE.,CVE-2022-21936,8.1,High,CWE-287,Critical Manufacturing,Worldwide,Ireland
+2028,10/4/2022,No Updates,2022,ICSA-22-277-02,Hitachi Energy Modular Switchgear Monitoring,Hitachi Energy,Modular Switchgear Monitoring (MSM),"The following versions of MSM, a monitoring system for high voltage switchgear, are affected: MSM version 2.2 and prior.","CVE-2021-40335
+CVE-2021-40336",5,Medium,"CWE-352
+CWE-113",Energy,Worldwide,Switzerland
+2027,10/4/2022,No Updates,2022,ICSA-22-277-03,Horner Automation Cscape,Horner Automation,Cscape,"The following versions of Cscape, a PLC control software, are affected:
+Cscape Version 9.90 SP 6 and prior
+Cscape Version 9.90 SP 7 and prior (CVE-2022-3379 and CVE-2022-3378 only).","CVE-2022-3379
+CVE-2022-3378
+CVE-2022-3377",7.8,High,"CWE-787
+CWE-824",Critical Manufacturing,Worldwide,United States
+2026,10/4/2022,No Updates,2022,ICSA-22-277-04,Omron CX-Programmer,Omron,CX-Programmer,"The following versions of CX-Programmer, part of a software automation suite, are affected: CX-Programmer: Version 9.78 and prior.","CVE-2022-3398
+CVE-2022-3396
+CVE-2022-3397",7.8,High,"CWE-787
+CWE-824",Critical Manufacturing,Worldwide,Japan
+2025,10/4/2022,No Updates,2022,ICSMA-22-277-01,BD Totalys MultiProcessor,"Becton, Dickinson and Company (BD)",Totalys MultiProcessor,The following BD products and versions are affected: BD Totalys MultiProcessor: All versions 1.70 and prior.,CVE-2022-40263,6.6,Medium,CWE-798,Healthcare and Public Health,Worldwide,United States
 2024,9/29/2022,No Updates,2022,ICSA-22-272-01,Hitachi Energy MicroSCADA Pro X SYS600_8DBD000106,Hitachi Energy,MicroSCADA Pro/X SYS600,"Hitachi Energy reports this vulnerability affects the following SCADA products used for monitoring and controlling power systems: 
 SYS600 10.3.1 and earlier
 SYS600 9.4 FP2 Hotfix 4 and earlier versions.","CVE-2022-1778
