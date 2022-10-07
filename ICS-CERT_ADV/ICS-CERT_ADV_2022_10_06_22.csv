@@ -1,4 +1,13 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2031,10/6/2022,No Updates,2022,ICSA-22-279-01,Rockwell Automation FactoryTalk VantagePoint,Rockwell Automation,FactoryTalk VantagePoint software,"The following Rockwell Automation products are affected:
+FactoryTalk VantagePoint: Firmware versions prior to 8.0
+FactoryTalk VantagePoint: Firmware versions between 8.0 and 8.10
+FactoryTalk VantagePoint: Firmware versions between 8.10 and 8.20
+FactoryTalk VantagePoint: Firmware versions between 8.20 and 8.30
+FactoryTalk VantagePoint: Firmware versions between 8.30 and 8.31.","CVE-2022-38743
+CVE-2022-3158",9.9,Critical,"CWE-284
+CWE-89",Critical Manufacturing,Worldwide,United States
+2030,10/6/2022,No Updates,2022,ICSA-22-279-02,HIWIN Robot System Software (HRSS),HIWIN,HIWIN Robot System Software (HRSS),"The following version of HIWIN Robot System Software, a human-machine interface (HMI), is affected: HIWIN HRSS: version 3.3.21.9869.",CVE-2022-3382,7.5,High,CWE-284,Multiple Critical Sectors,Worldwide,Taiwan
 2029,10/4/2022,No Updates,2022,ICSA-22-277-01,Johnson Controls Metasys ADX Server,Johnson Controls Inc.,Metasys ADX (Extended Application and Data Server) Server running MVE (Metasys for Validated Environments),Johnson Controls reports this vulnerability affects the following Metasys ADX Server running MVE: Metasys ADX Server version 12.0 running MVE.,CVE-2022-21936,8.1,High,CWE-287,Critical Manufacturing,Worldwide,Ireland
 2028,10/4/2022,No Updates,2022,ICSA-22-277-02,Hitachi Energy Modular Switchgear Monitoring,Hitachi Energy,Modular Switchgear Monitoring (MSM),"The following versions of MSM, a monitoring system for high voltage switchgear, are affected: MSM version 2.2 and prior.","CVE-2021-40335
 CVE-2021-40336",5,Medium,"CWE-352
