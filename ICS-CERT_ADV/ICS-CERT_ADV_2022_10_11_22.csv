@@ -1,4 +1,16 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2034,10/11/2022,No Updates,2022,ICSA-22-284-01,Altair HyperView Player,Altair,HyperView Player,"The following versions of Altair HyperView Player, a standalone 3D viewer, are affected: HyperView Player: Versions 2021.1.0.27 and prior.","CVE-2022-2947
+CVE-2022-2949
+CVE-2022-2950
+CVE-2022-2951",7.8,High,"CWE-119
+CWE-908
+CWE-129",Information Technology,Worldwide,United States
+2033,10/11/2022,No Updates,2022,ICSA-22-284-02,Daikin SVMPC1 and SVMPC2,Daikin Holdings Singapore Pte Ltd,"SVMPC1, SVMPC2","The following versions of Daikin Holdings Singapore Pte Ltd. SVMPC1 and SVMPC2, both an office and remote controller, are affected:
+SVMPC1: Version 2.1.22 and prior 
+SVMPC2: Version 1.2.3 and prior.","CVE-2022-41653
+CVE-2022-38355",9.8,Critical,"CWE-259
+CWE-284",Energy,Worldwide,Japan
+2032,10/11/2022,No Updates,2022,ICSA-22-284-03,Sensormatic Electronics C-CURE 9000,Sensormatic Electronics LLC (Subsidiary of Johnson Controls),C-CURE 9000,Johnson Controls Inc. reports this vulnerability affects the following Sensormatic Electronics C-CURE 9000 security management systems: C-CURE 9000 version 2.90 and prior.,CVE-2021-36201,4.3,Medium,CWE-204,Critical Manufacturing,Worldwide,Ireland
 2031,10/6/2022,No Updates,2022,ICSA-22-279-01,Rockwell Automation FactoryTalk VantagePoint,Rockwell Automation,FactoryTalk VantagePoint software,"The following Rockwell Automation products are affected:
 FactoryTalk VantagePoint: Firmware versions prior to 8.0
 FactoryTalk VantagePoint: Firmware versions between 8.0 and 8.10
