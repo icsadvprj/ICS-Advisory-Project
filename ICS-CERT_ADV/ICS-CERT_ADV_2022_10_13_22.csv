@@ -16,7 +16,7 @@ Lumada Asset Performance Manager (APM) versions 6.0.0.0 to 6.0.0.4
 Lumada Asset Performance Manager (APM) versions 6.1.0.0 and 6.1.0.1
 Lumada Asset Performance Manager (APM) versions 6.2.0.0 to 6.2.0.2
 Lumada Asset Performance Manager (APM) versions 6.3.0.0 to 6.3.0.2.","CVE-2022-22950
-CVE-2022-22950",7.5,High,"CWE-770
+CVE-2022-22965",7.5,High,"CWE-770
 CWE-94",Energy,Worldwide,Switzerland
 2045,10/13/2022,No Updates,2022,ICSA-22-286-06,Siemens Desigo PXM Devices Webserver,Siemens,Desigo PXM Devices,"The following Desigo devices contain the affected webserver:
 Desigo PXM30-1: All versions prior to V02.20.126.11-41
