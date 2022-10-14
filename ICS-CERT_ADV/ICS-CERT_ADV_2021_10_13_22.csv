@@ -233,7 +233,18 @@ CWE-787",Healthcare and Public Health,Worldwide,United States
 1842,11/11/2021,No Updates,2021,ICSA-21-315-03,Siemens SIMATIC WinCC,Siemens,SIMATIC WinCC,Siemens reports these vulnerabilities affects the following SIMATIC SCADA HMI system products: SIMATIC PCS 7 v8.2 and earlier: All versions SIMATIC PCS 7 v9.0: All versions SIMATIC PCS 7 v9.1: All versions SIMATIC WinCC v7.4 and earlier: All versions SIMATIC WinCC v7.5: All versions prior to v7.5 SP2 Update 5 SIMATIC WinCC v15 and earlier: All versions SIMATIC WinCC v16: All versions SIMATIC WinCC v17: All versions.,CVE-2021-40358; CVE-2021-40359; CVE-2021-40364,9.9,Critical,CWE-22; CWE-532,Critical Manufacturing,Worldwide,Germany
 1841,11/11/2021,No Updates,2021,ICSA-21-315-04,Siemens Mendix,Siemens,Mendix,"The following versions of Mendix, an application platform, are affected: Mendix Applications using Mendix 7: All versions prior to v7.23.26 Mendix Applications using Mendix 8: All versions prior to v8.18.12 Mendix Applications using Mendix 9: All versions prior to v9.6.1.",CVE-2021-42015,4,Medium,CWE-525,Multiple Critical Sectors,Worldwide,Germany
 1840,11/11/2021,No Updates,2021,ICSA-21-315-05,Siemens Mendix Studio Pro,Siemens,Mendix Studio Pro,Siemens reports these vulnerabilities affect the following Mendix products: Mendix Applications using Mendix 8: All versions prior to v8.18.13 Mendix Applications using Mendix 9: All versions prior to v9.6.2.,CVE-2021-42025; CVE-2021-42026,5.3,Medium,CWE-863,Critical Manufacturing,Worldwide,Germany
-1839,11/11/2021,No Updates,2021,ICSA-21-315-06,Siemens SCALANCE W1750D,Siemens,SCALANCE W1750D,"The following versions of SCALANCE W1750D, a wireless access point, are affected: SCALANCE W1750D: All versions prior to v8.7.1.3 SCALANCE W1750D: Versions 8.7.1.3 and newer (only affected by CVE-2021-37727, CVE-2021-37730, and CVE-2021-37734).",CVE-2021-37726; CVE-2021-37727; CVE-2021-37730; CVE-2021-37732; CVE-2021-37734; CVE-2021-37735,9.8,Critical,CWE-22; CWE-77; CWE-119,Multiple Critical Sectors,Worldwide,Germany
+1839,11/11/2021,10/13/2022,2021,ICSA-21-315-06,Siemens SCALANCE W1750D (Update A),Siemens,SCALANCE W1750D,"The following versions of SCALANCE W1750D, a wireless access point, are affected:
+SCALANCE W1750D: All versions prior to v8.7.1.3
+--------- Begin Update A part 1 of 3 ---------
+SCALANCE W1750D: Versions from 8.7.1.3 to those prior to v8.7.1.9 (only affected by CVE-2021-37727, CVE-2021-37730, and CVE-2021-37734)
+--------- End Update A part 1 of 3 ---------.","CVE-2021-37726
+CVE-2021-37727
+CVE-2021-37730
+CVE-2021-37732
+CVE-2021-37734
+CVE-2021-37735",9.8,Critical,"CWE-22
+CWE-77
+CWE-119",Multiple Critical Sectors,Worldwide,Germany
 1838,11/11/2021,12/10/2021,2021,ICSA-21-315-08,Siemens NX OBJ Translator,Siemens,NX OBJ Translator,Siemens reports these vulnerabilities affects the following NX products: NX 1953 Series: All versions prior to v1973.3700 NX 1980 Series: All versions prior to v1988.,CVE-2021-41535; CVE-2021-41538,7.8,High,CWE-824; CWE-416,Critical Manufacturing,Worldwide,Germany
 1837,11/11/2021,11/18/2021,2021,ICSA-21-315-09,Siemens Climatix POL909,Siemens,Climatix POL909,"The following versions of Climatix POL909 (AWM module), an advanced web module, are affected: Climatix POL909 (AWM module): All versions prior to v11.34.",CVE-2021-40366,6.4,Medium,CWE-311,Critical Manufacturing,Worldwide,Germany
 1836,11/11/2021,No Updates,2021,ICSA-21-315-10,Siemens SENTRON powermanager,Siemens,SENTRON powermanager,"The following versions of Siemens SENTRON powermanager, a power monitoring software to analyze energy consumption, are affected: SENTRON powermanager Version 3: All versions.",CVE-2021-37207,7.8,High,CWE-732,Critical Manufacturing,Worldwide,Germany
@@ -305,11 +316,38 @@ R12CCPU-V: All versions
 1806,10/19/2021,No Updates,2021,ICSA-21-292-02,Trane HVAC Systems Controls,Trane,Trane HVAC Systems Controls,"The following versions of Trane building automation products, a device used to coordinate building controls, is affected: Tracer SC: Firmware v3.8 and prior.",CVE-2021-42534,6.3,Medium,CWE-79,Critical Manufacturing,Worldwide,Ireland
 1805,10/14/2021,No Updates,2021,ICSA-21-287-01,Schneider Electric CNM,Schneider Electric,CNM,"The following versions of CNM, ethernet network management software, are affected: ConneXium Network Manager: All versions.",CVE-2021-22801,7.8,High,CWE-269,Critical Manufacturing; Energy,Worldwide,France
 1804,10/14/2021,10/18/2021,2021,ICSA-21-287-02,Uffizio GPS Tracker,Uffizio,GPS Tracker,All versions of GPS Tracker software.,CVE-2021-32927; CVE-2021-32929; CVE-2020-17483; CVE-2020-17484; CVE-2020-17485,9.8,Critical,CWE-352; CWE-284; CWE-79; CWE-434; CWE-601,Transportation Systems,Worldwide,India
-1803,10/14/2021,No Updates,2021,ICSA-21-287-03,Mitsubishi Electric MELSEC iQ-R Series,Mitsubishi Electric,MELSEC iQ-R Series,Mitsubishi Electric reports the vulnerability affects the following MELSEC Safety CPU/SIL2 Process CPU Modules: R08/16/32/120SFCPU: all versions R08/16/32/120PSFCPU: all versions.,CVE-2021-20599,9.1,Critical,CWE-639,Critical Manufacturing,Worldwide,Japan
+1803,10/14/2021,10/13/2022,2021,ICSA-21-287-03,Mitsubishi Electric MELSEC iQ-R Series (UpdateA),Mitsubishi Electric,MELSEC iQ-R Series CPU Module,"--------- Begin Update A part 1 of 2 ---------
+Mitsubishi Electric reports the vulnerability affects the following MELSEC CPU Modules: 
+MELSEC iQ-R series Safety CPU R08/16/32/120SFCPU: Firmware versions ""26"" and prior
+MELSEC iQ-R series SIL2 Process CPU R08/16/32/120PSFCPU: all versions.",CVE-2021-20599,9.1,Critical,CWE-319,Critical Manufacturing,Worldwide,Japan
 1802,10/14/2021,No Updates,2021,ICSA-21-287-04,Siemens SINUMERIK,Siemens,SINUMERIK,The following versions of SINUMERIK controllers are affected: SINUMERIK 808D: All versions SINUMERIK 828D: All versions prior to v4.95.,CVE-2021-37199,7.5,High,CWE-122,Critical Manufacturing,Worldwide,Germany
 1801,10/14/2021,No Updates,2021,ICSA-21-287-05,Siemens SINEC NMS,Siemens,SINEC NMS,The following versions of Siemens SINEC NMS software are affected: SINEC NMS: Versions prior to v1.0 SP2 Update 1.,CVE-2021-33722; CVE-2021-33723; CVE-2021-33724; CVE-2021-33725; CVE-2021-33726; CVE-2021-33727; CVE-2021-33728; CVE-2021-33729; CVE-2021-33730; CVE-2021-33731; CVE-2021-33732; CVE-2021-33733; CVE-2021-33734; CVE-2021-33735; CVE-2021-33736,8.8,High,CWE-22; CWE-89; CWE-200; CWE-285; CWE-502,Energy,Worldwide,Germany
 1800,10/14/2021,No Updates,2021,ICSA-21-287-06,Siemens Solid Edge,Siemens,Solid Edge,The following Siemens products are affected: Solid Edge SE2021: All versions prior to SE2021MP8.,CVE-2021-37202; CVE-2021-37203; CVE-2021-41533; CVE-2021-41534; CVE-2021-41535; CVE-2021-41536; CVE-2021-41537; CVE-2021-41538; CVE-2021-41539; CVE-2021-41540,7.8,High,CWE-824; CWE-125; CWE-416,Multiple Critical Sectors,Worldwide,Germany
-1799,10/14/2021,No Updates,2021,ICSA-21-287-07,Siemens SCALANCE,Siemens,SCALANCE,"The following versions of SCALANCE W1750D, a software management platform, are affected: SCALANCE W1750D: All versions prior to v8.7.1.3 SCALANCE W1750D: Version 8.7.1.3 or later (Only affected by CVE-2019-5318, CVE-2020-37719, CVE-2021-37717, CVE-2021-37718, CVE-2021-37720, CVE-2021-37721, CVE-2021-37722, CVE-2021-37728).",CVE-2021-37716; CVE-2021-37717; CVE-2021-37718; CVE-2021-37720; CVE-2021-37721; CVE-2021-37722; CVE-2021-37723; CVE-2021-37724; CVE-2021-37725; CVE-2021-37728; CVE-2021-37729; CVE-2021-37731; CVE-2021-37733; CVE-2020-3771; CVE-2019-5318,9.8,Critical,CWE-120; CWE-352; CWE-22; CWE-77; CWE-78; CWE-311,Chemical; Energy; Food and Agriculture; Healthcare and Public Health; Transportation Systems; and Water and Wastewater Systems ,Worldwide,Germany
+1799,10/14/2021,10/13/2022,2021,ICSA-21-287-07,Siemens SCALANCE (Update A),Siemens,SCALANCE,"The following versions of SCALANCE W1750D, a software management platform, are affected:
+SCALANCE W1750D: All versions prior to v8.7.1.3
+--------- Begin Update A part 1 of 3 ---------
+SCALANCE W1750D: All version 8.7.1.9 and prior (Only affected by CVE-2019-5318)
+SCALANCE W1750D: All versions from 8.7.1.3 to 8.7.1.8 (Only affected by CVE-2019-5318, CVE-2020-37719, CVE-2021-37717, CVE-2021-37718, CVE-2021-37720, CVE-2021-37721, CVE-2021-37722, CVE-2021-37728)
+--------- End Update A part 1 of 3 ---------.","CVE-2021-37716
+CVE-2021-37717
+CVE-2021-37718
+CVE-2021-37720
+CVE-2021-37721
+CVE-2021-37722
+CVE-2021-37723
+CVE-2021-37724
+CVE-2021-37725
+CVE-2021-37728
+CVE-2021-37729
+CVE-2021-37731
+CVE-2021-37733
+CVE-2020-3771
+CVE-2019-5318",9.8,Critical,"CWE-120
+CWE-352
+CWE-22
+CWE-77
+CWE-78
+CWE-311",Chemical; Energy; Food and Agriculture; Healthcare and Public Health; Transportation Systems; and Water and Wastewater Systems,Worldwide,Germany
 1798,10/14/2021,12/22/2021,2021,ICSA-21-287-08,Siemens RUGGEDCOM ROX Devices,Siemens,RUGGEDCOM ROX Devices,"The following versions of RUGGEDCOM ROX, switches and serial-to-Ethernet devices, are affected: RUGGEDCOM ROX MX5000: All versions prior to v2.14.1 RUGGEDCOM ROX RX1400: All versions prior to v2.14.1 RUGGEDCOM ROX RX1500: All versions prior to v2.14.1 RUGGEDCOM ROX RX1501: All versions prior to v2.14.1 RUGGEDCOM ROX RX1510: All versions prior to v2.14.1 RUGGEDCOM ROX RX1511: All versions prior to v2.14.1 RUGGEDCOM ROX RX1512: All versions prior to v2.14.1 RUGGEDCOM ROX RX1524: All versions prior to v2.14.1 RUGGEDCOM ROX RX1536: All versions prior to v2.14.1 RUGGEDCOM ROX RX5000: All versions prior to v2.14.1.",CVE-2021-41546,7.5,High,CWE-400,Critical Manufacturing,Worldwide,Germany
 1797,10/14/2021,No Updates,2021,ICSA-21-287-09,Siemens SIMATIC Process Historian,Siemens,SIMATIC Process Historian,"The following versions of SIMATIC Process Historian, a long-term archive system, are affected: SIMATIC Process Historian 2013 and earlier: All versions SIMATIC Process Historian 2014: All versions prior to SP3 Update 6 SIMATIC Process Historian 2019: All versions SIMATIC Process Historian 2020: All versions.",CVE-2021-27395,9.8,Critical,CWE-306,Multiple Critical Sectors,Worldwide,Germany
 1796,10/14/2021,No Updates,2021,ICSA-21-259-01,Siemens RUGGEDCOM ROX (Update A),Siemens,RUGGEDCOM ROX,The following versions of RUGGEDCOM ROX are affected: RUGGEDCOM ROX MX5000: All versions prior to v2.14.1 RUGGEDCOM ROX RX1400: All versions prior to v2.14.1 RUGGEDCOM ROX RX1500: All versions prior to v2.14.1 RUGGEDCOM ROX RX1501: All versions prior to v2.14.1 RUGGEDCOM ROX RX1510: All versions prior to v2.14.1 RUGGEDCOM ROX RX1511: All versions prior to v2.14.1 RUGGEDCOM ROX RX1512: All versions prior to v2.14.1 RUGGEDCOM ROX RX1524: All versions prior to v2.14.1 RUGGEDCOM ROX RX1536: All versions prior to v2.14.1 RUGGEDCOM ROX RX5000: All versions prior to v2.14.1.,CVE-2021-37173; CVE-2021-37174; CVE-2021-37175,8.8,High,CWE-250; CWE-280; CWE-269,Multiple Critical Sectors,Worldwide,Germany
@@ -1019,7 +1057,16 @@ NZ2GACP620-60, Version 1.03D and prior
 NZ2GACP620-300, Version 1.03D and prior
 GT25-J71GN13-T2, Version 03 and prior.","CVE-2020-1622
 CVE-2020-16226",7.3,High,CWE-342,Critical Manufacturing,Worldwide,Japan
-1727,9/7/2021,No Updates,2021,ICSA-21-250-01,Mitsubishi Electric MELSEC iQ-R Series,Mitsubishi Electric,MELSEC iQ-R Series,Mitsubishi Electric reports these vulnerabilities affect the following MELSEC products: R08/16/32/120SFCPU: All versions R08/16/32/120PSFCPU: All versions.,CVE-2021-20594; CVE-2021-20597; CVE-2021-20598,7.4,High,CWE-200; CWE-522; CWE-645,Critical Manufacturing,Worldwide,Japan
+1727,9/7/2021,10/13/2022,2021,ICSA-21-250-01,Mitsubishi Electric MELSEC iQ-R Series (UpdateA),Mitsubishi Electric,MELSEC iQ-R Series CPU Module,"--------- Begin Update A part 1 of 2 ---------
+Mitsubishi Electric reports these vulnerabilities affect the following MELSEC products:
+MELSEC iQ-R series Safety CPU R08/16/32/120SFCPU: Firmware versions ""26"" and prior (CVE-2021-20594 and CVE-2021-20597)
+MELSEC iQ-R series Safety CPU R08/16/32/120SFCPU: all versions (CVE-2021-20598)
+MELSEC iQ-R series SIL2 Process CPU R08/16/32/120PSFCPU: all versions (CVE-2021-20594, CVE-2021-20597, and CVE-2021-20598)
+--------- End Update A part 1 of 2 ---------.","CVE-2021-20594
+CVE-2021-20597
+CVE-2021-20598",7.4,High,"CWE-200
+CWE-522
+CWE-645",Critical Manufacturing,Worldwide,Japan
 1726,9/7/2021,No Updates,2021,ICSA-21-250-02,Hitachi ABB Power Grids System Data Manager,Hitachi and ABB,Power Grids System Data Manager,The following versions of System Data Manager are affected: SDM600: All versions prior to 1.2 FP2 HF6 (Build Nr. 1.2.14002.257).,CVE-2021-35526,6.3,Medium,CWE-312,Energy,Worldwide,Switzerland
 1725,9/2/2021,No Updates,2021,ICSA-21-245-01,Johnson Controls Sensormatic Electronics Illustra,Sensormatic Electronics LLC (Subsidiary of Johnson Controls),Johnson Controls Sensormatic Electronics Illustra,"Johnson Controls reports this vulnerability affects the following Sensormatic Electronics Illustra camera systems: Pro Gen 3, All versions prior to 2.8.0 Flex Gen 2, All versions prior to 1.9.4 Pro 2, All versions Insight, All versions prior to 1.4.0.",CVE-2021-3156,7.8,High,CWE-193,Critical Manufacturing,Worldwide,Ireland
 1724,9/2/2021,No Updates,2021,ICSA-21-245-02,JTEKT TOYOPUC Products,JTEKT Corporation,JTEKT TOYOPUC Products,The following versions of these TOYOPUC products are affected: TOYOPUC-PC10 Series: PC10G-CPU TCC-6353: All versions PC10GE TCC-6464: All versions PC10P TCC-6372: All versions PC10P-DP TCC-6726: All versions PC10P-DP-IO TCC-6752: All versions PC10B-P TCC-6373: All versions PC10B TCC-1021: All versions PC10B-E/C TCU-6521: All versions PC10E TCC-4637: All versions PC10PE TCC-1101: All versions PC10PE-1616P TCC-1102: All versions EF10 TCU-6982: All versions TOYOPUC-Plus Series: Plus CPU TCC-6740: All versions Plus EX TCU-6741: All versions Plus EX2 TCU-6858: All versions Plus EFR TCU-6743: All versions Plus EFR2 TCU-6859: All versions Plus 2P-EFR TCU-6929: All versions Plus BUS-EX TCU-6900: All versions TOYOPUC-PC3J/PC2J Series: FL/ET-T-V2H THU-6289: All versions 2PORT-EFR THU-6404: All versions TOYOPUC-Nano Series Nano 10GX TUC-1157: All versions Nano CPU TUC-6941: All versions Nano 2ET TUU-6949: All versions Nano Safety TUC-1085: All versions Nano Safety RS00IP TUU-1086: All versions Nano Safety RS01IP TUU-1087: All versions.,CVE-2021-33011,4.3,Medium,CWE-770,Critical Manufacturing,Worldwide,Japan
