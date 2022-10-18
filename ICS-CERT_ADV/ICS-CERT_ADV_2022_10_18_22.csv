@@ -1,4 +1,11 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2051,10/18/2022,No Updates,2022,ICSA-22-291-01,Advantech R-SeeNet,Advantech,R-SeeNet,"The following versions of R-SeeNet, a software management platform, are affected:
+Version 2.4.19 and prior
+Version 2.4.17 and prior (CVE-2022-3386 and CVE-2022-3385 only).","CVE-2022-3387
+CVE-2022-3386
+CVE-2022-3385
+",9.8,Critical,"CWE-22
+CWE-121",Critical Manufacturing; Energy; Water and Wastewater Systems,Worldwide,Taiwan
 2050,10/13/2022,No Updates,2022,ICSA-22-286-01,Siemens LOGO!,Siemens,LOGO!,"The following versions of LOGO!, a programmable logic controller, are affected: LOGO! 8 BM (including SIPLUS variants): All versions prior to 8.3.",CVE-2022-3636,6.1,Medium,CWE-345,Commercial Facilities; Transportation Systems,Worldwide,Germany
 2049,10/13/2022,No Updates,2022,ICSA-22-286-02,Siemens Industrial Edge Management,Siemens,Industrial Edge Management,"The following versions of Industrial Edge Management, an application and device management platform, are affected: All versions prior to V1.5.1.",CVE-2022-40147,7.4,High,CWE-295,Critical Manufacturing,Worldwide,Germany
 2048,10/13/2022,No Updates,2022,ICSA-22-286-03,Siemens Solid Edge,Siemens,Solid Edge,"The following versions of Siemens Solid Edge, a portfolio of software tools, are affected: Solid Edge:  all versions prior to SE2022MP9.",CVE-2022-37864,7.8,High,CWE-122,Critical Manufacturing,Worldwide,Germany
