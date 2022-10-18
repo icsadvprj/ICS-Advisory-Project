@@ -209,7 +209,55 @@ CWE-787",Healthcare and Public Health,Worldwide,United States
 1871,12/2/2021,No Updates,2021,ICSA-21-336-03,Distributed Data Systems WebHMI,Distributed Data Systems,WebHMI,"The following versions of WebHMI, a SCADA system with built-in web server capability, are affected: All versions prior to 4.1.",CVE-2021-43931; CVE-2021-43936,10,Critical,CWE-305; CWE-434,Critical Manufacturing,Germany Poland Ukraine United States,Ukraine
 1870,12/2/2021,No Updates,2021,ICSA-21-336-04,Hitachi Energy RTU500 series BCI,Hitachi Energy,RTU500 series BCI,"The following firmware versions of RTU500 series, a remote terminal unit, are affected: RTU500 series CMU Firmware Version 12.0: All versions RTU500 series CMU Firmware Version 12.2: All versions RTU500 series CMU Firmware Version 12.4: All versions.",CVE-2021-35533,7.5,High,CWE-20,Energy,Worldwide,Switzerland
 1869,12/2/2021,No Updates,2021,ICSA-21-336-05,Hitachi Energy Relion 670/650/SAM600-IO,ABB,Relion 670/650/SAM600-IO,Hitachi Energy reports this vulnerability affects the following Relion products: Relion 670/650 series: All revisions of Version 2.2.0 Relion 670/650/SAM600-IO series: All revisions of Version 2.2.1 Relion 670 series: All revisions of Version 2.2.2 Relion 670 series: All revisions of Version 2.2.3 until 2.2.3.3 Relion 670/650 series: All revisions of Version 2.2.4.,CVE-2021-35535,8.1,High,CWE-1188,Energy,Worldwide,Switzerland
-1868,12/2/2021,No Updates,2021,ICSA-21-336-06,Hitachi Energy APM Edge,Hitachi Energy,APM Edge,Hitachi Energy reports this vulnerability affects the following APM product versions: APM Edge Version 1.0 APM Edge Version 2.0 APM Edge Version 3.0.,CVE-2021-20225; CVE-2021-20233; CVE-2021-23840; CVE-2021-23841; CVE-2021-3449; CVE-2021-3516; CVE-2021-3517; CVE-2021-3518; CVE-2021-3537; CVE-2021-3541; CVE-2020-10713; CVE-2020-14308; CVE-2020-14309; CVE-2020-14310; CVE-2020-14311; CVE-2020-14372; CVE-2020-15705; CVE-2020-15706; CVE-2020-15707; CVE-2020-1971; CVE-2020-24977; CVE-2020-25632; CVE-2020-27749; CVE-2020-27779; CVE-2019-1547; CVE-2019-1549; CVE-2019-1563; CVE-2019-20388; CVE-2017-8872,8.2,High,CWE-787; CWE-190; CWE-476; CWE-416; CWE-776; CWE-120; CWE-122; CWE-184; CWE-347; CWE-362; CWE-125; CWE-121; CWE-285; CWE-330; CWE-327; CWE-203; CWE-401,Energy,Worldwide,Switzerland
+1868,12/2/2021,10/18/2022,2021,ICSA-21-336-06,Hitachi Energy APM Edge (Update A),Hitachi Energy,APM Edge,"Hitachi Energy reports this vulnerability affects the following APM product versions: 
+APM Edge Version 1.0
+APM Edge Version 2.0
+APM Edge Version 3.0.","CVE-2021-3449
+CVE-2020-1971
+CVE-2019-1563
+CVE-2019-1549
+CVE-2019-1547
+CVE-2021-23840
+CVE-2021-23841
+CVE-2017-8872
+CVE-2019-20388
+CVE-2020-24977
+CVE-2021-3516
+CVE-2021-3517
+CVE-2021-3518
+CVE-2021-3537
+CVE-2021-3541
+CVE-2020-10713
+CVE-2020-14308
+CVE-2020-14309
+CVE-2020-14310
+CVE-2020-14311
+CVE-2020-15705
+CVE-2020-15706
+CVE-2020-15707
+CVE-2020-14372
+CVE-2020-25632
+CVE-2020-27749
+CVE-2020-27779
+CVE-2021-20225
+CVE-2021-20233",8.2,High,"CWE-1357
+CWE-787
+CWE-190
+CWE-476
+CWE-416
+CWE-776
+CWE-120
+CWE-122
+CWE-184
+CWE-347
+CWE-362
+CWE-125
+CWE-121
+CWE-285
+CWE-330
+CWE-327
+CWE-203
+CWE-401",Energy,Worldwide,Switzerland
 1867,12/2/2021,No Updates,2021,ICSA-21-336-07,Hitachi Energy PCM600 Update Manager,Hitachi Energy,PCM600 Update Manager,"The following versions of PCM600 Update Manager, an update manager for the PCM600 software (a protection and control IED manager), are affected: PCM600 Update Manager: Versions 2.1, 2.1.0.4, 2.2, 2.2.0.1, 2.2.0.2, 2.2.0.23, 2.3.0.60, 2.4.20041.1, and 2.4.20119.2.",CVE-2021-22278,6.7,Medium,CWE-295,Energy,Worldwide,Switzerland
 1866,12/2/2021,No Updates,2021,ICSA-21-336-08,Hitachi Energy RTU500 series,Hitachi Energy,RTU500 series,"The following versions of the RTU500 series, a remote terminal unit, are affected: RTU500 series CMU Firmware: Version 11.* RTU500 series CMU Firmware: Version 12.0.* RTU500 series CMU Firmware: Version 12.2.* RTU500 series CMU Firmware: Version 12.4.* RTU500 series CMU Firmware: Version 12.6.* RTU500 series CMU Firmware: Version 12.7.* RTU500 series CMU Firmware: Version 13.0.* RTU500 series CMU Firmware: Version 13.1.* RTU500 series CMU Firmware: Version 13.2.1.",CVE-2021-3517; CVE-2020-1968; CVE-2020-24977,8.6,High,CWE-126; CWE-203; CWE-125,Energy,Worldwide,Switzerland
 1865,11/30/2021,No Updates,2021,ICSA-21-334-01,Xylem Aanderaa GeoView,Xylem Inc,Aanderaa GeoView,"The following versions of Aanderaa GeoView, a web-based data display, are affected: AADI GeoView Webservice: All versions prior to v2.1.3.",CVE-2021-41063,8.2,High,CWE-89,Water and Wastewater Systems,Worldwide,United States
