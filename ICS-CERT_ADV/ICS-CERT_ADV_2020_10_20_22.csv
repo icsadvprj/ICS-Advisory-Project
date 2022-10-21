@@ -47,7 +47,30 @@ CWE-121",Multiple Critical Sectors,Worldwide,United States
 1427,10/29/2020,10/30/2020,2020,ICSA-20-303-02,Mitsubishi Electric MELSEC iQ-R,Mitsubishi Electric,MELSEC iQ-R,The following modules of MELSEC iQ-R Series are affected: EtherNet/IP Network Interface Module; RJ71EIP91: First 2 digits of serial number are 02 or before. PROFINET IO Controller Module; RJ71PN92: First 2 digits of serial number are 01 or before High Speed Data Logger Module; RD81DL96: First 2 digits of serial number are 08 or before MES Interface Module; RD81MES96N: First 2 digits of serial number are 04 or before OPC UA Server Module; RD81OPC96: First 2 digits of serial number are 04 or before.,CVE-2020-5653; CVE-2020-5654; CVE-2020-5655; CVE-2020-5656; CVE-2020-5657; CVE-2020-5658,9.8,Critical,CWE-284; CWE-88; CWE-119; CWE-476; CWE-399; CWE-384,Critical Manufacturing,Worldwide,Japan
 1426,10/27/2020,No Updates,2020,ICSA-20-301-01,SHUN HU Technology JUUKO Industrial Radio Remote Control,SHUN HU Technology Co Ltd,Industrial Radio Remote Control,The following versions of JUUKO Industrial Radio Remote Control are affected: • JUUKO K-800 and K-808: Firmware versions prior to numbers ending ...9A; ...9B; ...9C; etc. If you have any questions on what is affected; please contact SHUN HU Technology technical support.,CVE-2018-17932; CVE-2018-19025,8.3,High,CWE-294; CWE-77,Communications,Worldwide,Taiwan
 1425,10/22/2020,No Updates,2020,ICSMA-20-296-01,B. Braun OnlineSuite,B. Braun Melsungen AG,OnlineSuite,The following versions of OnlineSuite are affected: AP 3.0 and earlier.,CVE-2020-25170; CVE-2020-25172; CVE-2020-25174,8.6,High,CWE-1236; CWE-23; CWE-427,Healthcare and Public Health,Worldwide,Germany
-1424,10/22/2020,No Updates,2020,ICSMA-20-296-02,"B. Braun SpaceCom, Battery Pack SP with Wi-Fi, and Data module compactplus",B. Braun Melsungen AG,"Battery Pack SP with Wi-Fi, and Data module compactplus",The following versions of B. Braun products are affected: SpaceCom; software Versions U61 and earlier (United States); L81 and earlier (outside the United States) Battery pack with Wi-Fi; software Versions U61 and earlier (United States); L81 and earlier (outside the United States) Data module compactplus; software Versions A10 and A11 (not distributed in the United States).,CVE-2020-16238; CVE-2020-25150; CVE-2020-25152; CVE-2020-25154; CVE-2020-25156; CVE-2020-25158; CVE-2020-25160; CVE-2020-25162; CVE-2020-25164; CVE-2020-25166; CVE-2020-25168,7.6,High,CWE-79; CWE-601; CWE-643; CWE-384; CWE-759; CWE-23; CWE-347; CWE-269; CWE-798; CWE-489; CWE-284,Healthcare and Public Health,Worldwide,Germany
+1424,10/22/2020,10/20/2022,2022,ICSMA-20-296-02,"B. Braun SpaceCom, Battery Pack SP with Wi-Fi, and Data module compactplus (Update A)",B. Braun Melsungen AG,"SpaceCom, Battery Pack SP with Wi-Fi, and Data module compactplus","""The following versions of B. Braun products are affected:
+SpaceCom, software Versions U61 and earlier (United States), L81 and earlier (outside the United States)
+Battery pack with Wi-Fi, software Versions U61 and earlier (United States), L81 and earlier (outside the United States)
+Data module compactplus, software Versions A10 and A11 (not distributed in the United States).""","CVE-2020-16238
+CVE-2020-25150
+CVE-2020-25152
+CVE-2020-25154
+CVE-2020-25156
+CVE-2020-25158
+CVE-2020-25160
+CVE-2020-25162
+CVE-2020-25164
+CVE-2020-25166
+CVE-2020-25168",7.6,High,"CWE-79
+CWE-601
+CWE-643
+CWE-384
+CWE-759
+CWE-23
+CWE-347
+CWE-269
+CWE-798
+CWE-489
+CWE-284",Healthcare and Public Health,Worldwide,Germany
 1423,10/20/2020,10/27/2020,2020,ICSA-20-294-01,Rockwell Automation 1794-AENT Flex I/O Series B,Rockwell Automation,1794-AENT Flex I/O Series B,The following versions of 1794-AENT Flex I/O Series B - Ethernet/IP adapter are affected: 1794-AENT Flex I/O; Series B; Versions 4.003 and prior.,CVE-2020-6083; CVE-2020-6084; CVE-2020-6085; CVE-2020-6086; CVE-2020-6087,7.5,High,CWE-120,Critical Manufacturing,Worldwide,United States
 1422,10/20/2020,No Updates,2020,ICSA-20-294-02,Hitachi ABB Power Grids XMC20 Multiservice-Multiplexer,Hitachi and ABB,Power Grids XMC20 Multiservice-Multiplexer,Hitachi ABB Power Grids reports the vulnerability affects the following XMC20 Multiservice-Multiplexer products: XMC20 R4 using COGE5 versions older than co5ne_r1h07_12.esw XMC20 R6 using COGE5 versions older than co5ne_r2d14_03.esw.,CVE-2018-10933,9.1,Critical,CWE-287,Energy,Worldwide,Switzerland
 1421,10/20/2020,No Updates,2020,ICSMA-20-196-01,Capsule Technologies SmartLinx Neuron 2 (Update A),Capsule Technologies Inc,SmartLinx Neuron 2,The following versions of Capsule Technologies SmartLinx Neuron 2 - a medical device platform are affected: Capsule Technologies SmartLinx Neuron 2: Firmware Versions 9.0.3 and older.,CVE-2019-5024,7.6,High,CWE-693,Healthcare and Public Health,Worldwide,United States
