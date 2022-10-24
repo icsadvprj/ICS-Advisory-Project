@@ -1,19 +1,19 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
-2052,10/20/2022,No Updates,2022,ICSA-22-293-01,Bentley Systems MicroStation Connect,Bentley Systems,MicroStation Connect,"The following versions of Bentley Systems MicroStation Connect, a software management platform, are affected:
+2252,10/20/2022,No Updates,2022,ICSA-22-293-01,Bentley Systems MicroStation Connect,Bentley Systems,MicroStation Connect,"The following versions of Bentley Systems MicroStation Connect, a software management platform, are affected:
 v10.17.0.209 and prior.","CVE-2022-40201
 CVE-2022-41613",7.8,High,"CWE-121
 CWE-125",Critical Manufacturing,Worldwide,United States
-2051,10/18/2022,No Updates,2022,ICSA-22-291-01,Advantech R-SeeNet,Advantech,R-SeeNet,"The following versions of R-SeeNet, a software management platform, are affected:
+2251,10/18/2022,No Updates,2022,ICSA-22-291-01,Advantech R-SeeNet,Advantech,R-SeeNet,"The following versions of R-SeeNet, a software management platform, are affected:
 Version 2.4.19 and prior
 Version 2.4.17 and prior (CVE-2022-3386 and CVE-2022-3385 only).","CVE-2022-3387
 CVE-2022-3386
 CVE-2022-3385
 ",9.8,Critical,"CWE-22
 CWE-121",Critical Manufacturing; Energy; Water and Wastewater Systems,Worldwide,Taiwan
-2050,10/13/2022,No Updates,2022,ICSA-22-286-01,Siemens LOGO!,Siemens,LOGO!,"The following versions of LOGO!, a programmable logic controller, are affected: LOGO! 8 BM (including SIPLUS variants): All versions prior to 8.3.",CVE-2022-3636,6.1,Medium,CWE-345,Commercial Facilities; Transportation Systems,Worldwide,Germany
-2049,10/13/2022,No Updates,2022,ICSA-22-286-02,Siemens Industrial Edge Management,Siemens,Industrial Edge Management,"The following versions of Industrial Edge Management, an application and device management platform, are affected: All versions prior to V1.5.1.",CVE-2022-40147,7.4,High,CWE-295,Critical Manufacturing,Worldwide,Germany
-2048,10/13/2022,No Updates,2022,ICSA-22-286-03,Siemens Solid Edge,Siemens,Solid Edge,"The following versions of Siemens Solid Edge, a portfolio of software tools, are affected: Solid Edge:  all versions prior to SE2022MP9.",CVE-2022-37864,7.8,High,CWE-122,Critical Manufacturing,Worldwide,Germany
-2047,10/13/2022,No Updates,2022,ICSA-22-286-04,Siemens SIMATIC S7-1200 and S7-1500 CPU Families,Siemens,SIMATIC S7-1200 and S7-1500 CPU families,"Siemens reports this vulnerability affects the SIMATIC S7-1200 and S7-1500 CPU product families:
+2250,10/13/2022,No Updates,2022,ICSA-22-286-01,Siemens LOGO!,Siemens,LOGO!,"The following versions of LOGO!, a programmable logic controller, are affected: LOGO! 8 BM (including SIPLUS variants): All versions prior to 8.3.",CVE-2022-3636,6.1,Medium,CWE-345,Commercial Facilities; Transportation Systems,Worldwide,Germany
+2249,10/13/2022,No Updates,2022,ICSA-22-286-02,Siemens Industrial Edge Management,Siemens,Industrial Edge Management,"The following versions of Industrial Edge Management, an application and device management platform, are affected: All versions prior to V1.5.1.",CVE-2022-40147,7.4,High,CWE-295,Critical Manufacturing,Worldwide,Germany
+2248,10/13/2022,No Updates,2022,ICSA-22-286-03,Siemens Solid Edge,Siemens,Solid Edge,"The following versions of Siemens Solid Edge, a portfolio of software tools, are affected: Solid Edge:  all versions prior to SE2022MP9.",CVE-2022-37864,7.8,High,CWE-122,Critical Manufacturing,Worldwide,Germany
+2247,10/13/2022,No Updates,2022,ICSA-22-286-04,Siemens SIMATIC S7-1200 and S7-1500 CPU Families,Siemens,SIMATIC S7-1200 and S7-1500 CPU families,"Siemens reports this vulnerability affects the SIMATIC S7-1200 and S7-1500 CPU product families:
 SIMATIC Drive Controller family: All versions prior to 2.9.2
 SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (including SIPLUS variants): All versions prior to 21.9
 SIMATIC ET 200SP Open controller CPU 1515SP PC (including SIPLUS variants): All versions
@@ -21,7 +21,7 @@ SIMATIC S7-1200 CPU family (including SIPLUS variants): All versions prior to V4
 SIMATIC S7-1500 CPU family (including related ET200 CPUs and SIPLUS variants): All versions prior to 2.9.2
 SIMATIC S7-1500 Software Controller: All version prior to 21.9
 SIMCATIC S7-PLCSIM Advanced: All version prior to 4.0.",CVE-2022-38465,9.3,Critical,CWE-522,Multiple Critical Sectors,Worldwide,Germany
-2046,10/13/2022,No Updates,2022,ICSA-22-286-05,Hitachi Energy Lumada Asset Performance Management Prognostic Model Executor Service,Hitachi Energy,Lumada Asset Performance Manager (APM),"The following versions of Lumada Asset Performance Manager with the Prognostic Model Executor Service enabled are affected:
+2246,10/13/2022,No Updates,2022,ICSA-22-286-05,Hitachi Energy Lumada Asset Performance Management Prognostic Model Executor Service,Hitachi Energy,Lumada Asset Performance Manager (APM),"The following versions of Lumada Asset Performance Manager with the Prognostic Model Executor Service enabled are affected:
 Lumada Asset Performance Manager (APM) online service (SaaS) version 6.3.220323.0 and prior
 Lumada Asset Performance Manager (APM) versions 6.0.0.0 to 6.0.0.4
 Lumada Asset Performance Manager (APM) versions 6.1.0.0 and 6.1.0.1
@@ -29,7 +29,7 @@ Lumada Asset Performance Manager (APM) versions 6.2.0.0 to 6.2.0.2
 Lumada Asset Performance Manager (APM) versions 6.3.0.0 to 6.3.0.2.","CVE-2022-22950
 CVE-2022-22965",7.5,High,"CWE-770
 CWE-94",Energy,Worldwide,Switzerland
-2045,10/13/2022,No Updates,2022,ICSA-22-286-06,Siemens Desigo PXM Devices Webserver,Siemens,Desigo PXM Devices,"The following Desigo devices contain the affected webserver:
+2245,10/13/2022,No Updates,2022,ICSA-22-286-06,Siemens Desigo PXM Devices Webserver,Siemens,Desigo PXM Devices,"The following Desigo devices contain the affected webserver:
 Desigo PXM30-1: All versions prior to V02.20.126.11-41
 Desigo PXM30.E: All versions prior to V02.20.126.11-41
 Desigo PXM40-1: All versions prior to V02.20.126.11-41
@@ -50,11 +50,11 @@ CWE-200
 CWE-79
 CWE-352
 CWE-84",Critical Manufacturing,Worldwide,Germany
-2044,10/13/2022,No Updates,2022,ICSA-22-286-07,Siemens Nucleus RTOS FTP Server,Siemens,Nucleus Real-Time Operating System (RTOS) FTP Server,"The following Nucleus RTOS components contain the affected File Transport Protocol (FTP) server:
+2244,10/13/2022,No Updates,2022,ICSA-22-286-07,Siemens Nucleus RTOS FTP Server,Siemens,Nucleus Real-Time Operating System (RTOS) FTP Server,"The following Nucleus RTOS components contain the affected File Transport Protocol (FTP) server:
 Nucleus NET: All versions
 Nucleus ReadyStart V3: All versions prior to V2017.02.6
 Nucleus Source Code: Versions including affected FTP server.",CVE-2022-38371,7.5,High,CWE-400,Critical Manufacturing,Worldwide,Germany
-2043,10/13/2022,No Updates,2022,ICSA-22-286-08,Siemens TCP Event Service of SCALANCE and RUGGEDCOM Devices,Siemens,"SCALANCE, RUGGEDCOM","The following versions of Smart Security Manager, a software management platform, are affected:
+2243,10/13/2022,No Updates,2022,ICSA-22-286-08,Siemens TCP Event Service of SCALANCE and RUGGEDCOM Devices,Siemens,"SCALANCE, RUGGEDCOM","The following versions of Smart Security Manager, a software management platform, are affected:
 RUGGEDCOM RM1224 LTE(4G) EU (6GK6108-4AM00-2BA2): All versions prior to v7.1.2
 RUGGEDCOM RM1224 LTE(4G) NAM (6GK6108-4AM00-2DA2): All versions prior to v7.1.2
 SCALANCE M804PB (6GK5804-0AP00-2AA2): All versions prior to v7.1.2
@@ -84,7 +84,7 @@ SCALANCE WUM763-1 (6GK5763-1AL00-3AA0): All versions v1.1.0 and newer
 SCALANCE WUM763-1 (6GK5763-1AL00-3DA0): All versions v1.1.0 and newer
 SCALANCE WUM766-1 (6GK5766-1GE00-3DA0): All versions v1.1.0 and newer
 SCALANCE WUM766-1 (6GK5766-1GE00-3DB0): All versions v1.1.0 and newer.",CVE-2022-31766,8.6,High,CWE-20,Multiple Critical Sectors,Worldwide,Germany
-2042,10/13/2022,No Updates,2022,ICSA-22-286-09,Siemens SICAM P850 and P855 Devices,Siemens,SICAM P850 and P855 devices,"The following versions of Siemens SICAM P850 and P855 are affected:
+2242,10/13/2022,No Updates,2022,ICSA-22-286-09,Siemens SICAM P850 and P855 Devices,Siemens,SICAM P850 and P855 devices,"The following versions of Siemens SICAM P850 and P855 are affected:
 SICAM P850 (7KG8500-0AA00-0AA0): All versions prior to v3.10
 SICAM P850 (7KG8500-0AA00-2AA0): All versions prior to v3.10
 SICAM P850 (7KG8500-0AA10-0AA0): All versions prior to v3.10
@@ -123,11 +123,11 @@ SICAM P855 (7KG8551-0AA32-0AA0): All versions prior to v3.10
 SICAM P855 (7KG8551-0AA32-2AA0): All versions prior to v3.10.","CVE-2022-40226
 CVE-2022-41665",9.8,Critical,"CWE-384
 CWE-141",Multiple Critical Sectors,Worldwide,Germany
-2041,10/13/2022,No Updates,2022,ICSA-22-286-10,Siemens JT Open Toolkit and Simcenter Femap,Siemens,JT Open Toolkit and Simcenter Femap,"Siemens reports the following versions of JT Open Toolkit (JTTK), an API for JT-enabled software; and Simcenter Femap, a modeling editing and simulation application, are affected:
+2241,10/13/2022,No Updates,2022,ICSA-22-286-10,Siemens JT Open Toolkit and Simcenter Femap,Siemens,JT Open Toolkit and Simcenter Femap,"Siemens reports the following versions of JT Open Toolkit (JTTK), an API for JT-enabled software; and Simcenter Femap, a modeling editing and simulation application, are affected:
 JTTK: versions prior to V11.1.1.0
 Simcenter Femap V2022.1: versions prior to V2022.1.3
 Simcenter Femap V2022.2: versions prior to V2022.2.2.",CVE-2022-41851,7.8,High,CWE-824,Critical Manufacturing,Worldwide,Germany
-2040,10/13/2022,No Updates,2022,ICSA-22-286-11,Siemens SCALANCE and RUGGEDCOM Products,Siemens,Multiple SCALANCE and RUGGEDCOM products,"The following types and versions of SCALANCE and RUGGEDCOM devices are affected:
+2240,10/13/2022,No Updates,2022,ICSA-22-286-11,Siemens SCALANCE and RUGGEDCOM Products,Siemens,Multiple SCALANCE and RUGGEDCOM products,"The following types and versions of SCALANCE and RUGGEDCOM devices are affected:
 RUGGEDCOM RM1224 LTE(4G) EU (6GK6108- 4AM00-2BA2): All versions prior to V7.1.2
 RUGGEDCOM RM1224 LTE(4G) NAM (6GK6108-4AM00-2DA2): All versions prior to V7.1.2
 SCALANCE M804PB (6GK5804-0AP00-2AA2): All versions prior to V7.1.2
@@ -314,7 +314,7 @@ SIPLUS NET SCALANCE XC206-2 (6AG1206- 2BB00-7AC2): All versions
 SIPLUS NET SCALANCE XC206-2SFP (6AG1206-2BS00-7AC2): All versions
 SIPLUS NET SCALANCE XC208 (6AG1208- 0BA00-7AC2): All versions
 SIPLUS NET SCALANCE XC216-4C (6AG1216- 4BS00-7AC2): All versions.",CVE-2022-31765,8.8,High,CWE-862,Multiple Critical Sectors,Worldwide,Germany
-2039,10/13/2022,No Updates,2022,ICSA-22-286-12,"Siemens APOGEE, TALON and Desigo PXC/PXM Products",Siemens,"FTP Server of Nucleus RTOS based APOGEE, TALON and Desigo PXC/PXM Products","Siemens reports this vulnerability affects the following products which use FTP Server of Nucleus RTOS: 
+2239,10/13/2022,No Updates,2022,ICSA-22-286-12,"Siemens APOGEE, TALON and Desigo PXC/PXM Products",Siemens,"FTP Server of Nucleus RTOS based APOGEE, TALON and Desigo PXC/PXM Products","Siemens reports this vulnerability affects the following products which use FTP Server of Nucleus RTOS: 
 APOGEE MBC (PPC) (BACnet): All versions
 APOGEE MBC (PPC) (P2 Ethernet): All versions
 APOGEE MEC (PPC) (BACnet): All versions
@@ -338,12 +338,12 @@ Desigo PXC200-E.D: All versions since and including V2.3
 Desigo PXM20-E: All versions since and including V2.3
 TALON TC Compact (BACnet): All versions
 TALON TC Modular (BACnet): All versions.",CVE-2022-38371,9.8,Critical,CWE-400,Commercial Facilities; Government Facilities,Worldwide,Germany
-2038,10/13/2022,No Updates,2022,ICSA-22-286-13,Siemens LOGO! 8 BM Devices,Siemens,LOGO! 8 BM Devices,Siemens reports these vulnerabilities affect the following LOGO! 8 BM (Base Module) devices: LOGO! 8 BM (incl. SIPLUS variants): All versions.,"CVE-2022-36361
+2238,10/13/2022,No Updates,2022,ICSA-22-286-13,Siemens LOGO! 8 BM Devices,Siemens,LOGO! 8 BM Devices,Siemens reports these vulnerabilities affect the following LOGO! 8 BM (Base Module) devices: LOGO! 8 BM (incl. SIPLUS variants): All versions.,"CVE-2022-36361
 CVE-2022-36362
 CVE-2022-36363",9.8,Critical,"CWE-120
 CWE-20
 CWE-1285","Chemical, Energy; Food and Agriculture; Water and Wastewater Systems",Worldwide,Germany
-2037,10/13/2022,No Updates,2022,ICSA-22-286-14,Siemens SIMATIC HMI Panels,Siemens,SIMATIC Human Machine Interface (HMI) Panels,"The following versions of SIMATIC HMIs are affected:
+2237,10/13/2022,No Updates,2022,ICSA-22-286-14,Siemens SIMATIC HMI Panels,Siemens,SIMATIC Human Machine Interface (HMI) Panels,"The following versions of SIMATIC HMIs are affected:
 SIMATIC HMI Comfort Panels (incl. SIPLUS variants): All versions prior to V17 Update 4
 SIMATIC HMI KTP400 Basic (6AV2123-2DB03-0AX0): All versions prior to V17 Update 5
 SIMATIC HMI KTP700 Basic (6AV2123-2GB03-0AX0): All versions prior to V17 Update 5
@@ -354,7 +354,7 @@ SIPLUS HMI KTP400 BASIC (6AG1123-2DB03-2AX0): All versions prior to V17 Update 5
 SIPLUS HMI KTP700 BASIC (6AG1123-2GB03-2AX0): All versions prior to V17 Update 5
 SIPLUS HMI KTP900 BASIC (6AG1123-2JB03-2AX0): All versions prior to V17 Update 5
 SIPLUS HMI KTP1200 BASIC (6AG1123-2MB03-2AX0): All versions prior to V17 Update 5.",CVE-2022-40227,7.5,High,CWE-20,Multiple Critical Sectors,Worldwide,Germany
-2036,10/13/2022,No Updates,2022,ICSA-22-286-15,Siemens SCALANCE X-200 and X-200IRT Families,Siemens,SCALANCE X-200 and X-200IRT Families,"The following versions of SCALANCE X-200 and X-200IRT devices, industrial ethernet switches, are affected:
+2236,10/13/2022,No Updates,2022,ICSA-22-286-15,Siemens SCALANCE X-200 and X-200IRT Families,Siemens,SCALANCE X-200 and X-200IRT Families,"The following versions of SCALANCE X-200 and X-200IRT devices, industrial ethernet switches, are affected:
 SCALANCE X200-4P IRT (6GK5200-4AH00-2BA3): All versions prior to V5.5.0
 SCALANCE X201-3P IRT (6GK5201-3BH00-2BA3): All versions prior to V5.5.0
 SCALANCE X201-3P IRT PRO (6GK5201-3JR00-2BA6): All versions prior to V5.5.0
@@ -385,23 +385,23 @@ SCALANCE XF204IRT (6GK5204-0BA00-2BF2): All versions prior to V5.5.0
 SCALANCE XF206-1 (6GK5206-1BC00-2AF2): All versions prior to V5.2.5
 SCALANCE XF208 (6GK5208-0BA00-2AF2): All versions prior to V5.2.5
 SIPLUS NET SCALANCE X202-2P IRT (6AG1202-2BH00-2BA3): All versions prior to V5.5.0.",CVE-2022-40631,7.3,High,CWE-79,Multiple Critical Sectors,Worldwide,Germany
-2035,10/13/2022,No Updates,2022,ICSA-22-286-16,Siemens Desigo CC and Cerberus DMS,Siemens,Desigo CC and Cerberus DMS,"The following versions of Siemens management stations are affected:
+2235,10/13/2022,No Updates,2022,ICSA-22-286-16,Siemens Desigo CC and Cerberus DMS,Siemens,Desigo CC and Cerberus DMS,"The following versions of Siemens management stations are affected:
 Desigo CC: All versions  
 Desigo CC Compact: All versions 
 Cerberus DMS: All versions.",CVE-2022-33139,9.8,Critical,CWE-603,Multiple Critical Sectors,Worldwide,Germany
-2034,10/11/2022,No Updates,2022,ICSA-22-284-01,Altair HyperView Player,Altair,HyperView Player,"The following versions of Altair HyperView Player, a standalone 3D viewer, are affected: HyperView Player: Versions 2021.1.0.27 and prior.","CVE-2022-2947
+2234,10/11/2022,No Updates,2022,ICSA-22-284-01,Altair HyperView Player,Altair,HyperView Player,"The following versions of Altair HyperView Player, a standalone 3D viewer, are affected: HyperView Player: Versions 2021.1.0.27 and prior.","CVE-2022-2947
 CVE-2022-2949
 CVE-2022-2950
 CVE-2022-2951",7.8,High,"CWE-119
 CWE-908
 CWE-129",Information Technology,Worldwide,United States
-2033,10/11/2022,No Updates,2022,ICSA-22-284-02,Daikin SVMPC1 and SVMPC2,Daikin Holdings Singapore Pte Ltd,"SVMPC1, SVMPC2","The following versions of Daikin Holdings Singapore Pte Ltd. SVMPC1 and SVMPC2, both an office and remote controller, are affected:
+2233,10/11/2022,No Updates,2022,ICSA-22-284-02,Daikin SVMPC1 and SVMPC2,Daikin Holdings Singapore Pte Ltd,"SVMPC1, SVMPC2","The following versions of Daikin Holdings Singapore Pte Ltd. SVMPC1 and SVMPC2, both an office and remote controller, are affected:
 SVMPC1: Version 2.1.22 and prior 
 SVMPC2: Version 1.2.3 and prior.","CVE-2022-41653
 CVE-2022-38355",9.8,Critical,"CWE-259
 CWE-284",Energy,Worldwide,Japan
-2032,10/11/2022,No Updates,2022,ICSA-22-284-03,Sensormatic Electronics C-CURE 9000,Sensormatic Electronics LLC (Subsidiary of Johnson Controls),C-CURE 9000,Johnson Controls Inc. reports this vulnerability affects the following Sensormatic Electronics C-CURE 9000 security management systems: C-CURE 9000 version 2.90 and prior.,CVE-2021-36201,4.3,Medium,CWE-204,Critical Manufacturing,Worldwide,Ireland
-2031,10/6/2022,No Updates,2022,ICSA-22-279-01,Rockwell Automation FactoryTalk VantagePoint,Rockwell Automation,FactoryTalk VantagePoint software,"The following Rockwell Automation products are affected:
+2232,10/11/2022,No Updates,2022,ICSA-22-284-03,Sensormatic Electronics C-CURE 9000,Sensormatic Electronics LLC (Subsidiary of Johnson Controls),C-CURE 9000,Johnson Controls Inc. reports this vulnerability affects the following Sensormatic Electronics C-CURE 9000 security management systems: C-CURE 9000 version 2.90 and prior.,CVE-2021-36201,4.3,Medium,CWE-204,Critical Manufacturing,Worldwide,Ireland
+2231,10/6/2022,No Updates,2022,ICSA-22-279-01,Rockwell Automation FactoryTalk VantagePoint,Rockwell Automation,FactoryTalk VantagePoint software,"The following Rockwell Automation products are affected:
 FactoryTalk VantagePoint: Firmware versions prior to 8.0
 FactoryTalk VantagePoint: Firmware versions between 8.0 and 8.10
 FactoryTalk VantagePoint: Firmware versions between 8.10 and 8.20
@@ -409,23 +409,23 @@ FactoryTalk VantagePoint: Firmware versions between 8.20 and 8.30
 FactoryTalk VantagePoint: Firmware versions between 8.30 and 8.31.","CVE-2022-38743
 CVE-2022-3158",9.9,Critical,"CWE-284
 CWE-89",Critical Manufacturing,Worldwide,United States
-2030,10/6/2022,No Updates,2022,ICSA-22-279-02,HIWIN Robot System Software (HRSS),HIWIN,HIWIN Robot System Software (HRSS),"The following version of HIWIN Robot System Software, a human-machine interface (HMI), is affected: HIWIN HRSS: version 3.3.21.9869.",CVE-2022-3382,7.5,High,CWE-284,Multiple Critical Sectors,Worldwide,Taiwan
-2029,10/4/2022,No Updates,2022,ICSA-22-277-01,Johnson Controls Metasys ADX Server,Johnson Controls Inc.,Metasys ADX (Extended Application and Data Server) Server running MVE (Metasys for Validated Environments),Johnson Controls reports this vulnerability affects the following Metasys ADX Server running MVE: Metasys ADX Server version 12.0 running MVE.,CVE-2022-21936,8.1,High,CWE-287,Critical Manufacturing,Worldwide,Ireland
-2028,10/4/2022,No Updates,2022,ICSA-22-277-02,Hitachi Energy Modular Switchgear Monitoring,Hitachi Energy,Modular Switchgear Monitoring (MSM),"The following versions of MSM, a monitoring system for high voltage switchgear, are affected: MSM version 2.2 and prior.","CVE-2021-40335
+2230,10/6/2022,No Updates,2022,ICSA-22-279-02,HIWIN Robot System Software (HRSS),HIWIN,HIWIN Robot System Software (HRSS),"The following version of HIWIN Robot System Software, a human-machine interface (HMI), is affected: HIWIN HRSS: version 3.3.21.9869.",CVE-2022-3382,7.5,High,CWE-284,Multiple Critical Sectors,Worldwide,Taiwan
+2229,10/4/2022,No Updates,2022,ICSA-22-277-01,Johnson Controls Metasys ADX Server,Johnson Controls Inc.,Metasys ADX (Extended Application and Data Server) Server running MVE (Metasys for Validated Environments),Johnson Controls reports this vulnerability affects the following Metasys ADX Server running MVE: Metasys ADX Server version 12.0 running MVE.,CVE-2022-21936,8.1,High,CWE-287,Critical Manufacturing,Worldwide,Ireland
+2228,10/4/2022,No Updates,2022,ICSA-22-277-02,Hitachi Energy Modular Switchgear Monitoring,Hitachi Energy,Modular Switchgear Monitoring (MSM),"The following versions of MSM, a monitoring system for high voltage switchgear, are affected: MSM version 2.2 and prior.","CVE-2021-40335
 CVE-2021-40336",5,Medium,"CWE-352
 CWE-113",Energy,Worldwide,Switzerland
-2027,10/4/2022,No Updates,2022,ICSA-22-277-03,Horner Automation Cscape,Horner Automation,Cscape,"The following versions of Cscape, a PLC control software, are affected:
+2227,10/4/2022,No Updates,2022,ICSA-22-277-03,Horner Automation Cscape,Horner Automation,Cscape,"The following versions of Cscape, a PLC control software, are affected:
 Cscape Version 9.90 SP 6 and prior
 Cscape Version 9.90 SP 7 and prior (CVE-2022-3379 and CVE-2022-3378 only).","CVE-2022-3379
 CVE-2022-3378
 CVE-2022-3377",7.8,High,"CWE-787
 CWE-824",Critical Manufacturing,Worldwide,United States
-2026,10/4/2022,No Updates,2022,ICSA-22-277-04,Omron CX-Programmer,Omron,CX-Programmer,"The following versions of CX-Programmer, part of a software automation suite, are affected: CX-Programmer: Version 9.78 and prior.","CVE-2022-3398
+2226,10/4/2022,No Updates,2022,ICSA-22-277-04,Omron CX-Programmer,Omron,CX-Programmer,"The following versions of CX-Programmer, part of a software automation suite, are affected: CX-Programmer: Version 9.78 and prior.","CVE-2022-3398
 CVE-2022-3396
 CVE-2022-3397",7.8,High,"CWE-787
 CWE-824",Critical Manufacturing,Worldwide,Japan
-2025,10/4/2022,No Updates,2022,ICSMA-22-277-01,BD Totalys MultiProcessor,"Becton, Dickinson and Company (BD)",Totalys MultiProcessor,The following BD products and versions are affected: BD Totalys MultiProcessor: All versions 1.70 and prior.,CVE-2022-40263,6.6,Medium,CWE-798,Healthcare and Public Health,Worldwide,United States
-2024,9/29/2022,No Updates,2022,ICSA-22-272-01,Hitachi Energy MicroSCADA Pro X SYS600_8DBD000106,Hitachi Energy,MicroSCADA Pro/X SYS600,"Hitachi Energy reports this vulnerability affects the following SCADA products used for monitoring and controlling power systems: 
+2225,10/4/2022,No Updates,2022,ICSMA-22-277-01,BD Totalys MultiProcessor,"Becton, Dickinson and Company (BD)",Totalys MultiProcessor,The following BD products and versions are affected: BD Totalys MultiProcessor: All versions 1.70 and prior.,CVE-2022-40263,6.6,Medium,CWE-798,Healthcare and Public Health,Worldwide,United States
+2224,9/29/2022,No Updates,2022,ICSA-22-272-01,Hitachi Energy MicroSCADA Pro X SYS600_8DBD000106,Hitachi Energy,MicroSCADA Pro/X SYS600,"Hitachi Energy reports this vulnerability affects the following SCADA products used for monitoring and controlling power systems: 
 SYS600 10.3.1 and earlier
 SYS600 9.4 FP2 Hotfix 4 and earlier versions.","CVE-2022-1778
 CVE-2022-2277
@@ -435,21 +435,21 @@ CVE-2022-29922",8.5,High,"CWE-20
 CWE-269
 CWE-284
 CWE-241",Energy,Worldwide,Switzerland
-2023,9/29/2022,No Updates,2022,ICSA-22-272-02,Hitachi Energy MicroSCADA Pro X SYS600_8DBD000107,Hitachi Energy,MicroSCADA Pro/X SYS600,"Hitachi Energy reports this vulnerability affects the following SCADA products used for monitoring and controlling power systems: 
+2223,9/29/2022,No Updates,2022,ICSA-22-272-02,Hitachi Energy MicroSCADA Pro X SYS600_8DBD000107,Hitachi Energy,MicroSCADA Pro/X SYS600,"Hitachi Energy reports this vulnerability affects the following SCADA products used for monitoring and controlling power systems: 
 SYS600 10.3.1 and earlier
 SYS600 9.x versions
 CVE-2020-25692 impacts SYS600 if the Authentication Service is installed; it is not installed by default but needs to be either enabled during the installation process of SYS600 or manually installed later. Authentication Service (previously ABB Authentication Service) is needed only when SYS600 users are authenticated using centralized SDM600 user account management.","CVE-2020-25692
 CVE-2022-0778",7.5,High,CWE-1357,Energy,Worldwide,Switzerland
-2022,9/27/2022,No Updates,2022,ICSA-22-270-01,Hitachi Energy AFS660/AFS665,Hitachi Energy,AFS660/AFS665 industrial switches,Hitachi Energy reports this vulnerability affects the following AFS660/AFS665 industrial switches: Releases 7.0.02 or prior.,CVE-2020-6994,9.8,Critical,CWE-20,Energy,Worldwide,Switzerland
-2022,9/27/2022,No Updates,2022,ICSA-22-270-01,Hitachi Energy AFS660/AFS665,Hitachi Energy,AFS660/AFS665 industrial switches,Hitachi Energy reports this vulnerability affects the following AFS660/AFS665 industrial switches: Releases 7.0.02 or prior.,CVE-2020-6994,9.8,Critical,CWE-20,Energy,Worldwide,Switzerland
-2021,9/27/2022,No Updates,2022,ICSA-22-270-02,Hitachi Energy APM Edge,Hitachi Energy,Lumada Asset Performance Management (APM) Edge,"The following versions of APM are affected: 
+2222,9/27/2022,No Updates,2022,ICSA-22-270-01,Hitachi Energy AFS660/AFS665,Hitachi Energy,AFS660/AFS665 industrial switches,Hitachi Energy reports this vulnerability affects the following AFS660/AFS665 industrial switches: Releases 7.0.02 or prior.,CVE-2020-6994,9.8,Critical,CWE-20,Energy,Worldwide,Switzerland
+2222,9/27/2022,No Updates,2022,ICSA-22-270-01,Hitachi Energy AFS660/AFS665,Hitachi Energy,AFS660/AFS665 industrial switches,Hitachi Energy reports this vulnerability affects the following AFS660/AFS665 industrial switches: Releases 7.0.02 or prior.,CVE-2020-6994,9.8,Critical,CWE-20,Energy,Worldwide,Switzerland
+2221,9/27/2022,No Updates,2022,ICSA-22-270-02,Hitachi Energy APM Edge,Hitachi Energy,Lumada Asset Performance Management (APM) Edge,"The following versions of APM are affected: 
 Lumada APM Edge Version 1.0
 Lumada APM Edge Version 2.0
 Lumada APM Edge Version 3.0
 Lumada APM Edge Version 4.0.","CVE-2022-0492
 CVE-2021-4034",7.8,High,"CWE-287
 CWE-787",Energy,Worldwide,Switzerland
-2020,9/27/2022,No Updates,2022,ICSA-22-270-03,Rockwell Automation ThinManager ThinServer,Rockwell Automation,ThinManager ThinServer,"Rockwell Automation reports this vulnerability affects the following versions of ThinManager ThinServer, a thin client and remote desktop protocol (RDP) server management software: 
+2220,9/27/2022,No Updates,2022,ICSA-22-270-03,Rockwell Automation ThinManager ThinServer,Rockwell Automation,ThinManager ThinServer,"Rockwell Automation reports this vulnerability affects the following versions of ThinManager ThinServer, a thin client and remote desktop protocol (RDP) server management software: 
 Versions 11.0.0 through 11.0.4
 Versions 11.1.0 through 11.1.4
 Versions 11.2.0 through 11.2.5
