@@ -1,4 +1,41 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2260,10/25/2022,No Updates,2022,ICSMA-22-298-01,AliveCor KardiaMobile,AliveCor,KardiaMobile,"The following versions of KardiaMobile, a smartphone-based personal electrocardiogram (EKG) device, are affected:
+Kardia App Android application Version 5.17.1-754993421 and prior (affected only by CVE-[CWE-302])
+KardiaMobile IoT device, all versions (affected only by CVE-[CWE-311]).","CVE-2022-40703
+CVE-2022-41627",5.2,Medium,"CWE-302
+CWE-311",Healthcare and Public Health,North America and Europe,United States
+2259,10/25/2022,No Updates,2022,ICSA-22-298-01,Haas Controller,"Haas Automation, Inc",Haas Controller,"The following versions of the Haas Controller, a Computer Numerical Control (CNC), are affected:
+Haas Controller: Version 100.20.000.1110.","CVE-2022-2474
+CVE-2022-2475
+CVE-2022-41636",9.8,Critical,"CWE-306
+CWE-1220
+CWE-319",Critical Manufacturing,Worldwide,United States
+2258,10/25/2022,No Updates,2022,ICSA-22-298-02,HEIDENHAIN Controller TNC,HEIDENHAIN,HEIDENHAIN TNC 640 controlling a HARTFORD 5A-65E CNC machine,"The following version HEIDENDAIN Controller TNC, a computer numerical control (CNC) controller, is affected:
+HEIDENHAIN Controller TNC 640: Version 340590 07 SP5 Running HEROS 5.08.3 controlling HARTFORD 5A-65E CNC machine.",CVE-2022-41648,8.1,High,CWE-287,Multiple Critical Sectors,Worldwide,Germany
+2257,10/25/2022,No Updates,2022,ICSA-22-298-03,Siemens Siveillance Video Mobile Server,Siemens,Siveillance Video 2022 R2,"The following versions of Siemens Siveillance Video, a mobile server, are affected: All versions prior to V22.2a(80).",CVE-2022-43400,9.4,Critical,CWE-1390,"Communications, Commercial Facilities",Worldwide,Germany
+2256,10/25/2022,No Updates,2022,ICSA-22-298-04,Hitachi Energy MicroSCADA X DMS600,Hitachi Energy,DMS600,"The following Hitachi Energy product, integrated with MicroSCADA X, is affected: DMS600: Version 4.5.","CVE-2021-32027
+CVE-2021-32028",8.8,High,CWE-1357,Energy,Worldwide,Switzerland
+2255,10/25/2022,No Updates,2022,ICSA-22-298-05,Johnson Controls CKS CEVAS,CKS (Subsidiary of Johnson Controls),CEVAS,"The following versions of CKS CEVAS, a deployment management and billing system, are affected: All CEVAS versions prior to 1.01.46.",CVE-2021-36206,10,Critical,CWE-79,Emergency Services,Worldwide,Ireland
+2254,10/25/2022,No Updates,2022,ICSA-22-298-06,Delta Electronics DIAEnergie,Delta Electronics,DIAEnergie,"Delta Electronics reports the following versions of DIAEnergie, an industrial energy management system, are affected: DIAEnergie versions prior to v1.9.01.002.","CVE-2022-41701
+CVE-2022-40965
+CVE-2022-41555
+CVE-2022-41702
+CVE-2022-41651
+CVE-2022-41133
+CVE-2022-41773",8.8,High,"CWE-79
+CWE-89",Critical Manufacturing ,Worldwide,Taiwan
+2253,10/25/2022,No Updates,2022,ICSA-22-298-07,Delta Electronics InfraSuite Device Master,Delta Electronics,InfraSuite Device Master,"The following versions of InfraSuite Device Master, a real-time device monitoring software, are affected: Version 00.00.01a and prior.","CVE-2022-41778
+CVE-2022-38142
+CVE-2022-41779
+CVE-2022-41657
+CVE-2022-41772
+CVE-2022-40202
+CVE-2022-41688
+CVE-2022-41644
+CVE-2022-41776
+CVE-2022-41629",9.8,Critical,"CWE-502
+CWE-22
+CWE-306",Energy,Worldwide,Taiwan
 2252,10/20/2022,No Updates,2022,ICSA-22-293-01,Bentley Systems MicroStation Connect,Bentley Systems,MicroStation Connect,"The following versions of Bentley Systems MicroStation Connect, a software management platform, are affected:
 v10.17.0.209 and prior.","CVE-2022-40201
 CVE-2022-41613",7.8,High,"CWE-121
