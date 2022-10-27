@@ -1,4 +1,28 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2264,10/27/2022,No Updates,2022,ICSA-22-300-01,Rockwell Automation FactoryTalk Alarm and Events Server,Rockwell Automation,FactoryTalk Alarm and Events Server,"Rockwell Automation reports this vulnerability affects the following FactoryTalk Alarm and Events Server: 
+FactoryTalk Alarm and Events Server: All versions.",CVE-2022-38744,7.5,High,CWE-284,Chemical; Critical Manufacturing; Food and Agriculture; Water and Wastewater System,Worldwide,United States
+2263,10/27/2022,No Updates,2022,ICSA-22-300-02,SAUTER Controls moduWeb,SAUTER Controls,moduWeb,"The following version of SAUTER moduWeb firmware, web services used to monitor Building and Control networks and devices, are affected: 
+SAUTER moduWeb firmware Version 2.7.1.",CVE-2022-40190,8.8,High,CWE-79 ,Critical Manufacturing; Energy,Worldwide,Switzerland
+2262,10/27/2022,No Updates,2022,ICSA-22-300-03,Rockwell Automation Stratix Devices Containing Cisco IOS,Rockwell Automation,Stratix Devices,"The following versions of Stratix Devices, industrial ethernet switches, and the contained Cisco software are affected: 
+Cisco IOS XE and Cisco IOS software contained in: 
+Stratix 5800 switches: All versions prior to v16.12.01 
+Stratix 5400/5410 switches: All versions prior to v15.2(7)E2 (CVE-2020-3200 only)","CVE-2020-3229
+CVE-2020-3219
+CVE-2021-1446
+CVE-2020-3200
+CVE-2020-3211
+CVE-2020-3218
+CVE-2020-3209
+CVE-2021-1385
+CVE-2020-3516",8.8,High,"CWE-863
+CWE-20
+CWE-754
+CWE-436
+CWE-78
+CWE-347
+CWE-22",Multiple Critical Sectors,Worldwide,United States
+2261,10/27/2022,No Updates,2022,ICSA-22-300-04,Trihedral VTScada,Trihedral,VTScada,"The following versions of VTScada software are affected: 
+VTScada Versions 12.0.38 and prior configured to accept incoming HTTP(S) connections.",CVE-2022-3181,7.5,High,CWE-20,Energy; Water and Wastewater,Worldwide,Canada
 2260,10/25/2022,No Updates,2022,ICSMA-22-298-01,AliveCor KardiaMobile,AliveCor,KardiaMobile,"The following versions of KardiaMobile, a smartphone-based personal electrocardiogram (EKG) device, are affected:
 Kardia App Android application Version 5.17.1-754993421 and prior (affected only by CVE-[CWE-302])
 KardiaMobile IoT device, all versions (affected only by CVE-[CWE-311]).","CVE-2022-40703
