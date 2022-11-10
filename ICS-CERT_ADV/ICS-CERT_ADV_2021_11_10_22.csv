@@ -20,17 +20,15 @@ EZSocket: Versions 5.4 and prior
 --------- End Update A Part 1 of 2 ---------.","CVE-2021-20606
 CVE-2021-20607",5.5,Medium,"CWE-191
 CWE-125",Critical Manufacturing,Worldwide,Japan
-1903,12/16/2021,No Updates,2021,ICSA-21-350-06,Siemens Capital VSTAR,Siemens,Capital VSTAR,"The following versions of Capital VSTAR software platform are affected because of their use of Nucleus NET, the networking stack of Nucleus RTOS (real-time operating system): Capital VSTAR: All versions with enabled Ethernet options.","CVE-2021-31344
+1903,12/16/2021,11/10/2022,2021,ICSA-21-350-06,Siemens Capital VSTAR (Update A),Siemens,Capital VSTAR,"The following versions of Capital VSTAR software platform are affected because of their use of Nucleus NET, the networking stack of Nucleus RTOS (real-time operating system): Capital VSTAR: All versions with enabled Ethernet options.","CVE-2021-31344
 CVE-2021-31345
 CVE-2021-31346
 CVE-2021-31881
 CVE-2021-31882
 CVE-2021-31883
-CVE-2021-31884
 CVE-2021-31889
 CVE-2021-31890",8.8,High,"CWE-843
 CWE-240
-CWE-170
 CWE-119
 CWE-191
 CWE-125
@@ -42,7 +40,9 @@ CWE-1248",Critical Manufacturing,Worldwide,Germany
 1899,12/16/2021,No Updates,2021,ICSA-21-350-10,Siemens JT2Go and Teamcenter Visualization,Siemens,JT2Go and Teamcenter Visualization,The following versions of JT2Go and Teamcenter Visualization software tools are affected: JT2Go: All versions prior to v13.2.0.5 Teamcenter Visualization: All versions prior to v13.2.0.5.,CVE-2021-44001; CVE-2021-44002; CVE-2021-44003; CVE-2021-44004; CVE-2021-44005; CVE-2021-44006; CVE-2021-44007; CVE-2021-44008; CVE-2021-44009; CVE-2021-44010; CVE-2021-44011; CVE-2021-44012; CVE-2021-44013; CVE-2021-44014; CVE-2021-44015; CVE-2021-44017,7.8,High,CWE-125; CWE-193; CWE-416; CWE-457; CWE-787,Critical Manufacturing,Worldwide,Germany
 1898,12/16/2021,No Updates,2021,ICSA-21-350-11,Siemens SIMATIC eaSie PCS 7 Skill Package,Siemens,SIMATIC eaSie PCS 7 Skill Package,"The following versions of SIMATIC eaSie PCS 7 Skill Package, a digital assistant, are affected: SIMATIC eaSie PCS 7 Skill Package (6DL5424-0BX00-0AV8): All versions prior to 21.00 SP3.",CVE-2021-42022,6.5,Medium,CWE-22,Critical Manufacturing,Worldwide,Germany
 1897,12/16/2021,No Updates,2021,ICSA-21-350-12,Siemens SIMATIC ITC,Siemens,SIMATIC ITC,Siemens reports these vulnerabilities affect the following SIMATIC Industrial Thin Clients: SIMATIC ITC1500 V3: All versions prior to v3.2.1.0 SIMATIC ITC1500 V3 PRO: All versions prior to v3.2.1.0 SIMATIC ITC1900 V3: All versions prior to v3.2.1.0 SIMATIC ITC1900 V3 PRO: All versions prior to v3.2.1.0 SIMATIC ITC2200 V3: All versions prior to v3.2.1.0 SIMATIC ITC2200 V3 PRO: All versions prior to v3.2.1.0.,CVE-2020-14396; CVE-2020-14397; CVE-2020-14398; CVE-2020-14401; CVE-2020-14402; CVE-2020-14403; CVE-2020-14404; CVE-2020-14405; CVE-2019-15681; CVE-2019-15690; CVE-2019-20788; CVE-2019-20839; CVE-2019-20840; CVE-2018-20019; CVE-2018-20748; CVE-2018-20749; CVE-2018-20750; CVE-2018-21247; CVE-2017-18922,9.8,Critical,CWE-1035,Chemical; Critical Manufacturing; Energy; Food and Agriculture; Water and Wastewater Systems ,Worldwide,Germany
-1896,12/16/2021,No Updates,2021,ICSA-21-350-13,Siemens Questa and ModelSim,Siemens,Questa and ModelSim,"The following versions of Questa and ModelSim, integrated circuit simulators, are affected: ModelSim Simulation: All Versions Questa Simulation: All Versions.",CVE-2021-42023,9,Critical,CWE-522,Multiple Critical Sectors,Worldwide,Germany
+1896,12/16/2021,11/10/2022,2021,ICSA-21-350-13,Siemens Questa and ModelSim (Update A),Siemens,Questa Simulation and ModelSim Simulation,"The following versions of Questa and ModelSim, integrated circuit simulators, are affected:
+ModelSim Simulation: All Versions
+Questa Simulation: All Versions.",CVE-2021-42023,9,Critical,CWE-522,Multiple Critical Sectors,Worldwide,Germany
 1895,12/16/2021,No Updates,2021,ICSA-21-350-14,Siemens Siveillance Identity,Siemens,Siveillance Identity,"The following versions of Siveillance Identity, a web-based self-service portal, are affected: Siveillance Identity v1.5: All versions Siveillance Identity v1.6: All versions prior to v1.6.284.0.",CVE-2021-44522; CVE-2021-44523; CVE-2021-44524,7.5,High,CWE-668,Multiple Critical Sectors,Worldwide,Germany
 1894,12/16/2021,No Updates,2021,ICSA-21-350-15,Siemens Simcenter STAR-CCM+ Viewer,Siemens,Simcenter STAR-CCM+ Viewer,"The following versions of Simcenter STAR-CCM+ Viewer, a multiphysics computational fluid dynamics (CFD) software, are affected: Simcenter STAR-CCM+ Viewer: All versions prior to 2021.3.1.",CVE-2021-42024,7.8,High,CWE-787,Critical Manufacturing,Worldwide,Germany
 1893,12/16/2021,No Updates,2021,ICSA-21-350-16,Siemens Healthineers syngo fastView,Siemens Healthineers (Subsidiary of Siemens),syngo fastView,"The following versions of syngo fastView, a software for digital imaging and communications, are affected: Syngo fastView: All versions.",CVE-2021-40367; CVE-2021-42028,7.8,High,CWE-787,Healthcare and Public Health,Worldwide,Germany
