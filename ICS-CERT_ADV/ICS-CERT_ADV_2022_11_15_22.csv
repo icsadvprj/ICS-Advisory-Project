@@ -1,4 +1,5 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2279,11/15/2022,No Updates,2022,ICSA-22-319-01,Mitsubishi Electric GT SoftGOT2000,Mitsubishi Electric,GT SoftGOT2000,Mitsubishi Electric reports this vulnerability affects OpenSSL in the following products: GT SoftGOT2000 1.275M—1.280S.,CVE-2022-2068,9.8,Critical,CWE-78,Critical Manufacturing,Worldwide,Japan
 2278,11/10/2022,No Updates,2022,ICSA-22-314-01,Siemens Parasolid,Siemens,Parasolid,"Siemens reports these vulnerabilities affect the following Parasolid 3D geometric modeling tools:
 Parasolid V34.0: versions prior to V34.0.252
 Parasolid V34.0: versions prior to V34.0.254
