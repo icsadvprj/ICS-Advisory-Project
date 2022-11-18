@@ -1,4 +1,9 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2281,11/17/2022,No Updates,2022,ICSA-22-321-01,Red Lion Crimson,Red Lion Controls,Crimson,"The following versions of Crimson, a programming software for various controllers, HMIs, and modules are affected:
+Crimson 3.0: Version 707.000 and prior
+Crimson 3.1: Version 3126.001 and prior
+Crimson 3.2: Version 3.2.0044.0 and prior.",CVE-2022-3090,7.5,High,CWE-22,Multiple Critical Sectors,Worldwide,United States
+2280,11/17/2022,No Updates,2022,ICSA-22-321-02,Cradlepoint IBR600,Cradlepoint,IBR600,The following versions of Cradlepoint IBR600 are affected: NetCloud OS (NCOS) Version: 6.5.0.160bc2e and prior.,CVE-2022-3086,7.1,High,CWE-77,Information Technology,Worldwide,United States
 2279,11/15/2022,No Updates,2022,ICSA-22-319-01,Mitsubishi Electric GT SoftGOT2000,Mitsubishi Electric,GT SoftGOT2000,Mitsubishi Electric reports this vulnerability affects OpenSSL in the following products: GT SoftGOT2000 1.275M—1.280S.,CVE-2022-2068,9.8,Critical,CWE-78,Critical Manufacturing,Worldwide,Japan
 2278,11/10/2022,No Updates,2022,ICSA-22-314-01,Siemens Parasolid,Siemens,Parasolid,"Siemens reports these vulnerabilities affect the following Parasolid 3D geometric modeling tools:
 Parasolid V34.0: versions prior to V34.0.252
