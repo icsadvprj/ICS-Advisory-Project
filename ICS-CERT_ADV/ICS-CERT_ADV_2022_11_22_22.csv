@@ -1,4 +1,48 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2286,11/22/2022,No Updates,2022,ICSA-22-326-01,AVEVA Edge,AVEVA,Edge,"The following versions of AVEVA Edge, an HMI/SCADA software, are affected: 
+AVEVA Edge 2020 R2 SP1  
+AVEVA Edge 2020 R2 SP1 w/ HF 2020.2.00.40  
+AVEVA Edge 2020 R2 and all prior versions (formerly known as InduSoft Web Studio).","CVE-2021-42797
+CVE-2021-42796
+CVE-2021-42794
+CVE-2016-2542",9.8,Critical,"CWE-40
+CWE-284
+CWE-200
+CWE-427",Critical Manufacturing,Worldwide,United Kingdom
+2285,11/22/2022,No Updates,2022,ICSA-22-326-02,Digital Alert Systems DASDEC,Digital Alert Systems,DASDEC,"The following versions of DASDEC, an emergency communication system, are affected: 
+Versions prior to 4.1 (CVE-2019-18265 only)
+All versions (CVE-2022-40204 only).","CVE-2022-40204
+CVE-2019-18265",4.7,Medium,CWE-79,Communications; Emergency Services,United States,United States
+2284,11/22/2022,No Updates,2022,ICSA-22-326-03,Phoenix Contact Automation Worx,Phoenix Contact,Automation Worx Software Suite,"The following components of Automation Worx Software Suite are affected: 
+Config+: Versions 1.89 and prior
+PC Worx: Versions 1.89 and prior
+PC Worx Express: Versions 1.89 and prior.","CVE-2022-3737
+CVE-2022-3461",7.8,High,"CWE-125
+CWE-119",Critical Manufacturing,Worldwide,Germany
+2283,11/22/2022,No Updates,2022,ICSA-22-326-04,GE CIMPLICITY,GE,CIMPLICITY,"The following versions of CIMPLICITY, an HMI/SCADA software, are affected: 
+CIMPLICITY: Versions 2022 and prior.","CVE-2022-3084
+CVE-2022-2952
+CVE-2022-2948
+CVE-2022-2002
+CVE-2022-3092",7.8,High,"CWE-824
+CWE-122
+CWE-822
+CWE-787",Multiple Critical Sectors,Worldwide,United States
+2282,11/22/2022,No Updates,2022,ICSA-22-326-05,Moxa Multiple ARM-Based Computers,Moxa,ARM-Based Computers,"Moxa reports this vulnerability affects the following products and versions:  
+UC-8100A-ME-T System Image: Versions v1.0 to v1.6
+UC-2100 System Image: Versions v1.0 to v1.12
+UC-2100-W System Image: Versions v1.0 to v 1.12
+UC-3100 System Image: Versions v1.0 to v1.6
+UC-5100 System Image: Versions v1.0 to v1.4
+UC-8100 System Image: Versions v3.0 to v3.5
+UC-8100-ME-T System Image: Versions v3.0 and v3.1
+UC-8100A-ME-T System Image: Versions v1.0 to v1.6
+UC-8200 System Image: v1.0 to v1.5
+AIG-300 System Image: v1.0 to v1.4
+UC-8410A with Debian 9 System Image: Versions v4.0.2 and v4.1.2
+UC-8580 with Debian 9 System Image: Versions v2.0 and v2.1
+UC-8540 with Debian 9 System Image: Versions v2.0 and v2.1
+DA-662C-16-LX (GLB) System Image: Versions v1.0.2 to v1.1.2.",CVE-2022-3088 ,7.8,High,CWE-250,Critical Manufacturing; Energy; Transportation Systems ,Worldwide,Taiwan
 2281,11/17/2022,No Updates,2022,ICSA-22-321-01,Red Lion Crimson,Red Lion Controls,Crimson,"The following versions of Crimson, a programming software for various controllers, HMIs, and modules are affected:
 Crimson 3.0: Version 707.000 and prior
 Crimson 3.1: Version 3126.001 and prior
@@ -3975,13 +4019,11 @@ CVE-2021-44018",7.8,High,"CWE-119
 CWE-122
 CWE-125
 CWE-787",Critical Manufacturing,Worldwide,Germany
-1945,2/8/2022,8/2/2022,2021,ICSA-21-049-02,Mitsubishi Electric FA Engineering Software Products (Update F),Mitsubishi Electric,FA Engineering Software Products,"Mitsubishi Electric reports these vulnerabilities affect the following FA Engineering Software Products that communicate with MELSEC, FREQROL, or GOT products: 
+1945,2/8/2022,11/22/2022,2021,ICSA-21-049-02,Mitsubishi Electric FA Engineering Software Products (Update G),Mitsubishi Electric,FA Engineering Software Products,"Mitsubishi Electric reports these vulnerabilities affect the following FA Engineering Software Products that communicate with MELSEC, FREQROL, or GOT products: 
 CPU Module Logging Configuration Tool, Versions 1.112R and prior
 CW Configurator, Versions 1.011M and prior
 Data Transfer, Versions 3.44W and prior
---------- Begin Update F Part 1 of 6 ---------
 EZSocket, Versions 5.4 and prior
---------- End Update F Part 1 of 6 ---------
 FR Configurator, All versions
 FR Configurator SW3, All versions
 FR Configurator2, Versions 1.24A and prior
@@ -4004,12 +4046,12 @@ M_CommDTM-HART, All versions
 M_CommDTM-IO-Link, Versions 1.03D and prior
 MELFA-Works, Versions 4.4 and prior
 MELSEC WinCPU Setting Utility, All versions
-MELSOFT EM Software Development Kit (EM Configurator), All versions
+--------- Begin Update G Part 1 of 2 ---------
+MELSOFT EM Software Development Kit (EM Configurator), versions 1.015R and prior
+--------- End Update G Part 1 of 2 ---------
 MELSOFT Navigator, Versions 2.74C and prior
 MH11 SettingTool Version2, Versions 2.004E and prior
---------- Begin Update F Part 2 of 6 ---------
 MI Configurator, Versions 1.004E and prior
---------- End Update F Part 2 of 6 ---------
 MT Works2, Versions 1.167Z and prior
 MX Component, Versions 5.001B and prior
 Network Interface Board CC IE Control utility, Versions 1.29F and prior
@@ -4019,14 +4061,14 @@ Network Interface Board MNETH utility, Versions 34L and prior
 PX Developer, Versions 1.53F and prior
 RT ToolBox2, versions 3.73B and prior
 RT ToolBox3, versions 1.82L and prior
---------- Begin Update F Part 3 of 6 ---------
-Setting/monitoring tools for the C Controller module (SW3PVC-CCPU), all versions
 Setting/Monitoring tools for the C Controller module (SW4PVC-CCPU), Versions 4.12N and prior
---------- End Update F Part 3 of 6 ---------
 SLMP Data Collector, Versions 1.04E and prior.","CVE-2021-20587
 CVE-2021-20588",7.5,High,"CWE-122
 CWE-130",Critical Manufacturing,Worldwide,Japan
-1944,2/8/2022,8/2/2022,2022,ICSA-20-212-04,Mitsubishi Electric Factory Automation Engineering Products (Update H),Mitsubishi Electric,"Mitsubishi Electric, Factory Automation Engineering products","The following products and versions are affected:
+1944,2/8/2022,11/22/2022,2020,ICSA-20-212-04,Mitsubishi Electric Factory Automation Engineering Products (Update I),Mitsubishi Electric,"Mitsubishi Electric, Factory Automation Engineering products","The following products and versions are affected:
+--------- Begin Update I Part 1 of 2 ---------
+C Controller Interface Module Utility, version 2.10 or prior
+--------- End Update I Part 1 of 2 ---------
 C Controller Interface Module Utility, all versions
 CC-Link IE Control Network Data Collector, Version 1.00A
 CC-Link IE Field Network Data Collector, Version 1.00A
@@ -4050,12 +4092,12 @@ M_CommDTM-IO-Link, Versions 1.03D and prior
 MELFA-Works: Version 4.4 and prior
 MELSEC WinCPU Setting Utility, all versions
 MELSOFT Complete Clean Up Tool, Versions 1.06G and prior
-MELSOFT EM Software Development Kit, all versions
+--------- Begin Update I Part 2 of 2 ---------
+MELSOFT EM Software Development Kit, version 1.020W or prior
+--------- End Update I Part 2 of 2 ---------
 MELSOFT iQ AppPortal, 1.17T and prior
 MELSOFT Navigator, Versions 2.74C and prior
---------- Begin Update H Part 1 of 2 ---------
-MI Configurator, Version 1.004F or later
---------- End Update H Part 1 of 2 ---------
+MI Configurator, Version 1.004E and prior
 Motion Control Setting, Versions 1.005F and prior
 Motorizer, Versions 1.005F and prior
 MR Configurator2, Version 1.125F and prior
@@ -4073,10 +4115,8 @@ Position Board utility 2, all versions
 PX Developer, version 1.53F and prior
 RT ToolBox2: Version 3.73B and prior
 RT ToolBox3: Version 1.82L and prior
---------- Begin Update H Part 2 of 2 ---------
 Setting/Monitoring tools for the C Controller module (SW3PVC-CCPU), Version 3.13P and prior
 Setting/Monitoring tools for the C Controller module (SW4PVC-CCPU), Version 4.12N and prior
---------- End Update H Part 2 of 2 ---------
 SLMP Data Collector, Version 1.04E and prior.",CVE-2020-14521,8.3,High,CWE-428,Critical Manufacturing,Worldwide,Japan
 1943,2/3/2022,No Updates,2022,ICSA-22-034-01,Sensormatic PowerManage,Sensormatic Electronics LLC (Subsidiary of Johnson Controls),PowerManage,"The following versions of Sensormatic Electronics, LLC PowerManage, an operating platform, are affected: PowerManage Versions 4.0 to 4.8.",CVE-2021-44228,10,Critical,CWE-20,Critical Manufacturing,Worldwide,Ireland
 1942,2/3/2022,No Updates,2022,ICSA-22-034-02,Airspan Networks Mimosa,Airspan Networks,Mimosa by Airspan product line,"The following products of the Mimosa by Airspan product line, a network management software platform, are affected: MMP: All versions prior to v1.0.3 PTP C-series: Device versions prior to v2.8.6.1 PTMP C-series and A5x: Device versions prior to v2.5.4.1.","CVE-2022-0138
