@@ -8,7 +8,16 @@ icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Adviso
 1223,12/19/2019,No Updates,2019,ICSA-19-290-01,AVEVA Vijeo Citect and Citect SCADA (Update A),"AVEVA, Schneider Electric",Vijeo Citect and Citect SCADA,Versions of the IEC870IP driver used in AVEVA’s Vijeo Citect and Citect SCADA and Schneider Electric’s Power SCADA Operation are affected: IEC870IP driver v4.14.02 and prior.,CVE-2019-13537,7.5,High,CWE-121,Energy,Worldwide,France
 1222,12/17/2019,No Updates,2019,ICSA-19-351-01,GE S2020/S2020G Fast Switch 61850,GE,S2020/S2020G Fast Switch 61850,"GE S2020/S2020G Fast Switch 61850, a managed Ethernet switch version affected: Versions 07A03 and prior.",CVE-2019-18267,4.6,Medium,CWE-79,Critical Manufacturing; Energy; Transportation,Worldwide,United States
 1221,12/12/2019,No Updates,2019,ICSA-19-346-01,Advantech DiagAnywhere Server,Advantech,DiagAnywhere Server,DiagAnywhere Server Versions 3.07.11 and prior.,CVE-2019-18257,9.8,Critical,CWE-121,Critical Manufacturing; Energy; Water and Wastewater,East Asia United States and Europe,Taiwan
-1220,12/12/2019,1/13/2020,2019,ICSA-19-346-02,Omron PLC CJ and CS Series,Omron,PLC CJ and CS Series,"Omron PLC CJ series, all versions Omron PLC CS series, all versions.",CVE-2019-18259; CVE-2019-13533; CVE-2019-18269,8.6,High,CWE-294; CWE-290; CWE-412,Critical Manufacturing,Worldwide,Japan
+1220,12/12/2019,11/29/2022,2019,ICSA-19-346-02,Omron PLC CJ and CS Series (Update A),Omron,PLC CJ and CS Series,"The following versions of Omron Programmable Logic Controllers are affected:
+Omron PLC CJ series, all versions
+Omron PLC CS series, all versions
+--------- Begin Update A Part 1 of 1 ---------
+Omron PLC NX1P2 series, all versions
+--------- End Update A Part 1 of 1 ---------.","CVE-2019-18259
+CVE-2019-13533
+CVE-2019-18269",8.6,High,"CWE-290
+CWE-294
+CWE-412",Critical Manufacturing,Worldwide,Japan
 1219,12/12/2019,No Updates,2019,ICSA-19-346-03,"Omron PLC CJ, CS and NJ Series",Omron,"PLC CJ, CS and NJ Series","Omron PLC CS series, all versions Omron PLC CJ series, all versions Omron PLC NJ series, all versions",CVE-2019-18261,6.5,Medium,CWE-307,Critical Manufacturing,Worldwide,Japan
 1218,12/12/2019,No Updates,2019,ICSMA-19-318-01,Philips IntelliBridge EC40/80 (Update A),Philips,IntelliBridge EC40/80,"IntelliBridge EC40 Hub, all versions IntelliBridge EC80 Hub, all versions.",CVE-2019-18241,6.3,Medium,CWE-326,Healthcare and Public Health,Worldwide,Netherlands
 1217,12/12/2019,12/17/2019,2019,ICSA-19-106-03,PLC Cycle Time Influences (Update A),ABB,PLC Cycle Time Influences,ABB 1SAP120600R0071 PM554-TP-ETH,CVE-2019-10953,7.5,High,CWE-400,Chemical; Commercial Facilities; Critical Manufacturing; Dams; Energy; Food and Agriculture; Transportation; Water and Wastewater,Worldwide,Switzerland
