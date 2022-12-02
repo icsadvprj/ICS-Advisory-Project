@@ -1,4 +1,18 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2294,12/1/2022,No Updates,2022,ICSMA-22-335-01,BD BodyGuard Pumps,"Becton, Dickinson and Company (BD) ",BodyGuard Pumps,"The following BD BodyGuard products are affected: 
+BD BodyGuard 
+CME BodyGuard 323 (2nd Edition) 
+CME BodyGuard 323 Color Vision (2nd Edition) 
+CME BodyGuard 323 Color Vision (3rd Edition) 
+CME BodyGuard Twins (2nd Edition).",CVE-2022-43557,5.3,Medium,CWE-1299,Healthcare and Public Health,Deployed outside the United States,United States
+2293,12/1/2022,No Updates,2022,ICSA-22-335-01,Mitsubishi Electric MELSEC iQ-R Series,Mitsubishi Electric,MELSEC iQ-R Series,"The following Mitsubishi Electric MELSEC iQ-R Series products are affected: 
+RJ71EN71: Firmware version “65” and prior 
+R04/08/16/32/120ENCPU: Network part firmware version “65” and prior.",CVE-2022-40265,8.6,High,CWE-20,Critical Manufacturing,Worldwide,Japan
+2292,12/1/2022,No Updates,2022,ICSA-22-335-02,Horner Automation Remote Compact Controller,Horner Automation,Remote Compact Controller (RCC) 972,"The following version of Remote Compact Controller (RCC) 972, an all-in-one I/O controller, is affected: RCC 972: Firmware Version 15.40.","CVE-2022-2640
+CVE-2022-2641
+CVE-2022-2642",9.8,Critical,"CWE-326
+CWE-321
+CWE-1108",Critical Manufacturing,Worldwide,United States
 2291,11/29/2022,No Updates,2022,ICSA-22-333-01,Mitsubishi Electric GOT2000,Mitsubishi Electric,GOT2000 Series,"The following Mitsubishi Electric GOT2000 Series products are affected: 
 GT27 Model: FTP server versions 01.39.000 and prior
 GT25 Model: FTP server versions 01.39.000 and prior
