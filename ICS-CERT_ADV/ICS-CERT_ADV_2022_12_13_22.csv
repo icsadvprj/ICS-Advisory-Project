@@ -1,4 +1,21 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2301,12/13/2022,No Updates,2022,ICSA-22-347-01,ICONICS and Mitsubishi Electric Products,ICONICS/Mitsubishi Electric,ICONICS Product Suite ,"This vulnerability could affect the ICONICS Suite including GENESIS64, Hyper Historian, AnalytiX, and MobileHMI: 
+Versions v10.96 to v10.97.2 
+Note: ICONICS version 10.97.2 CFR1 and later versions are not vulnerable to this vulnerability.",CVE-2022-40264,6.3,Medium,CWE-22 ,Critical Manufacturing,Worldwide,United States
+2300,12/13/2022,No Updates,2022,ICSA-22-347-01,ICONICS and Mitsubishi Electric Products,ICONICS/Mitsubishi Electric,ICONICS Product Suite ,"This vulnerability could affect the ICONICS Suite including GENESIS64, Hyper Historian, AnalytiX, and MobileHMI: 
+Versions v10.96 to v10.97.2 
+Note: ICONICS version 10.97.2 CFR1 and later versions are not vulnerable to this vulnerability.",CVE-2022-40264,6.3,Medium,CWE-22 ,Critical Manufacturing,Worldwide,Japan
+2299,12/13/2022,No Updates,2022,ICSA-22-347-02,Schneider Electric APC Easy UPS Online,Schneider Electric,APC Easy UPS Online,"The following versions of APC Easy UPS Online, an uninterruptible power supply (UPS) monitoring software, are affected: 
+APC Easy UPS Online Version 2.5-GA and prior (Windows 7, 10, 11, Windows Server 2016, 2019, 2022) 
+APC Easy UPS Online Version 2.5-GA-01-22261 and prior (Windows 11, Windows Server 2019, 2022).","CVE-2022-42970
+CVE-2022-42971
+CVE-2022-42972
+CVE-2022-42973",9.8,Critical,"CWE-306
+CWE-434
+CWE-732
+CWE-798",Multiple Critical Sectors,Worldwide,France
+2298,12/13/2022,No Updates,2022,ICSA-22-347-03,Contec CONPROSSYS HMI System (CHS),Contec,CONPROSYS HMI System (CHS),"The following versions of CONPROSYS HMI System (CHS), are affected: 
+CONPROSYS HMI System (CHS): Version 3.4.4 and prior.",CVE-2022-44456,10,Critical,CWE-78,Multiple Critical Sectors,Worldwide,Japan
 2297,12/8/2022,No Updates,2022,ICSA-22-342-01,Advantech iView,Advantech,iView,The following versions of Advantech iView management software are affected: Version 5.7.04.6469 and prior.,CVE-2022-3323,7.5,High,CWE-89 ,Multiple Critical Sectors,"East Asia, Europe, United States",Taiwan
 2296,12/8/2022,No Updates,2022,ICSA-22-342-02,AVEVA InTouch Access Anywhere,AVEVA,InTouch Access Anywhere,"The following versions of AVEVA InTouch Access Anywhere, a remote human machine interface (HMI) software, are affected: Versions 2020 R2 and older.",CVE-2022-23854,7.5,High,CWE-23,Critical Manufacturing,Worldwide,United Kingdom
 2295,12/8/2022,No Updates,2022,ICSA-22-342-03,Rockwell Automation Logix controllers,Rockwell Automation,"CompactLogix, Compact GuardLogix, ControlLogix, and GuardLogix controllers","The following Rockwell Automation controllers are affected: 
