@@ -587,7 +587,74 @@ SOFTNET-IE PNIO: all versions
 SCALANCE X-300 switch family (incl. X408 and SIPLUS NET variants): All versions prior to v4.1.4
 --------- End Update H Part 1 of 2 ---------.",CVE-2019-13946,7.5,High,CWE-400,Critical Manufacturing,Worldwide,Germany
 1789,10/14/2021,No Updates,2021,ICSA-19-283-01,Siemens Industrial Real-Time (IRT) Devices (Update F),Siemens,Industrial Real-Time (IRT) Devices,"Siemens CP1604/CP1616: All versions prior to 2.8 Development/Evaluation Kits for PROFINET IO: DK Standard Ethernet Controller: All versions prior to 4.1.1 Patch 05 EK-ERTEC 200: All versions prior to 4.5.0 Patch 01 EK-ERTEC 200P: All versions prior to 4.5.0 SCALANCE X-200IRT: All versions prior to 5.2.1 SIMATIC ET 200M: All versions SIMATIC ET 200S: All versions SIMATIC ET 200ecoPN (except 6ES7148-6JD00-0AB0 and 6ES7146-6FF00-0AB0): All versions SIMATIC ET 200pro: All versions SIMATIC PN/PN Coupler 6ES7158-3AD01-0XA0: All versions SIMATIC S7-300 CPU family (incl. F): All versions SIMATIC S7-400 (incl. F) v6 and below: All versions SIMATIC S7-400 PN/DP v7 (incl. F): All versions SIMATIC WinAC RTX (F) 2010: All versions prior to SP3 SIMOTION: All versions SINAMICS DCM: All versions prior to 1.5 HF1 SINAMICS DCP: All versions prior to 1.3 SINAMICS G110M v4.7 (Control Unit): All versions prior to 4.7 SP10 HF5 SINAMICS G120 v4.7 (Control Unit): All versions prior to 4.7 SP10 HF5 SINAMICS G130 v4.7 (Control Unit): All versions prior to 4.7 HF29 SINAMICS G150 (Control Unit): All versions prior to 4.8 SINAMICS GH150 v4.7 (Control Unit): All versions SINAMICS GL150 v4.7 (Control Unit): All versions SINAMICS GM150 v4.7 (Control Unit): All versions SINAMICS S110 (Control Unit): All versions SINAMICS S120 v4.7 (Control Unit and CBE20): All versions prior to 4.7 HF34 SINAMICS S150 (Control Unit): All versions prior to 4.8 SCALANCE X-200IRT switch family (incl. SIPLUS NET variants): All versions prior to 5.2.1 SIMATIC ET 200M (incl. SIPLUS variants): All versions SIMATIC ET 200S (incl. SIPLUS variants): All versions SIMATIC ET 200pro (incl. SIPLUS variants): All versions. SIMATIC ET200ecoPN (except 6ES7141-6BG00-0BB0, 6ES7141-6BH00-0BB0, 6ES7142-6BG00-0BB0, 6ES7142-6BR00-0BB0, 6ES7143-6BH00-0BB0, 6ES7146-6FF00-0AB0, 6ES7148-6JD00-0AB0, and 6ES7148-6JG00-0BB0): All versions. SIMATIC S7-300 CPU family (incl. related ET200 CPUs and SIPLUS variants): All versions prior to 3.X.17 SIMATIC S7-400 (incl. F) v6 and below CPU family (incl. SIPLUS variants): All versions SIMATIC S7-400 PN/DP v7 CPU family (incl. SIPLUS variants): All versions SIMOTION (incl. SIPLUS variants): All versions SINAMICS G120 v4.7 Control Unit (incl. SIPLUS variants): All versions prior to 4.7 SP10 HF5 SINAMICS S120 v4.7 Control Unit and CBE20 (incl. SIPLUS variants): All versions prior to 4.7 HF34 SINAMICS SL150 v4.7 (Control Unit): All versions prior to 4.7 HF33 SINAMICS SL150 v4.7 (Control Unit): All versions SINAMICS SM120 v4.7 (Control Unit): All versions SINUMERIK 828D: All versions prior to 4.8 SP5 SINUMERIK 840D sl: All versions.",CVE-2019-10923,7.5,High,CWE-20,Chemical; Commercial Facilities; Critical Manufacturing; Energy; Food and Agriculture; Healthcare and Public Health,Worldwide,Germany
-1788,10/14/2021,No Updates,2021,ICSA-19-283-02,Siemens PROFINET Devices (Update K),Siemens,PROFINET Devices,"Siemens reports the vulnerability affects the following PROFINET devices: Siemens reports the vulnerability affects the following PROFINET devices: Development/Evaluation Kits for PROFINET IO: DK Standard Ethernet Controller: All versions EK-ERTEC 200: All version EK-ERTEC 200P: All versions prior to 4.6 Patch 01 SIMATIC S7-410 V8 CPU family (incl. SIPLUS variants): All versions prior to 8.2.2 SIMATIC CFU PA: All versions prior to 1.2.0 SIMATIC ET 200SP Open Controller CPU 1515SP PC (incl. SIPLUS variants): All versions prior to 2.0 SIMATIC ET 200AL: All versions SIMATIC ET 200M (incl. SIPLUS variants): All versions SIMATIC ET 200MP IM 155-5 PN BA (incl. SIPLUS variants): All versions prior to 4.2.3 SIMATIC ET 200MP IM 155-5 PN HF (incl. SIPLUS variants): All versions prior to 4.4.0 SIMATIC ET 200MP IM 155-5 PN ST (incl. SIPLUS variants): All versions SIMATIC ET 200S (incl. SIPLUS variants): All versions SIMATIC ET 200SP IM 155-6 PN BA (incl. SIPLUS variants): All versions SIMATIC ET 200SP IM 155-6 PN HA (incl. SIPLUS variants): All versions prior to 1.2.1 SIMATIC ET 200ecoPN (except 6ES7141-6BG00-0BB0, 6ES7141-6BH00-0BB0, 6ES7142-6BG00-0BB0, 6ES7142-6BR00-0BB0, 6S7143-6BH00-0BB0, 6ES7146-6FF00-0AB0, 6ES7148-6JD00-0AB0 and 6ES7148-6JG00-0BB0): All versions SIMATIC ET 200SP IM 155-6 PN HF (incl. SIPLUS variants): All versions prior to 4.2.2. SIMATIC ET 200SP IM 155-6 PN HS (incl. SIPLUS variants): All versions prior to 4.0.1. SIMATIC ET 200SP IM 155-6 PN HS (incl. SIPLUS variants): All versions SIMATIC ET 200SP IM 155-6 PN ST (incl. SIPLUS variants): All versions SIMATIC ET 200SP IM 155-6 PN/2 HF (incl. SIPLUS variants): All versions prior to 4.2.2 SIMATIC ET 200SP IM 155-6 PN/3 HF (incl. SIPLUS variants): All versions prior to 4.2.1 SIMATIC ET 200pro: All versions SIMATIC HMI Comfort Outdoor Panels 7"" & 15"" (incl. SIPLUS variants): All versions SIMATIC HMI Comfort Panels 4"" - 22"" (incl. SIPLUS variants): All versions SIMATIC HMI KTP Mobile Panels: All versions SIMATIC PROFINET Driver: All versions prior to 2.1 SIMATIC S7-1200 CPU family (incl. SIPLUS variants): All versions prior to 4.4.0 SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants): All versions prior to 2.0 SIMATIC S7-1500 CPU Software Controller: All versions prior to 2.0 SIMATIC S7-300 CPU family (incl. related ET200 CPUs and SIPLUS variants): All versions prior to 3.X.17 SIMATIC S7-400 H V6 CPU family (incl. SIPLUS variants): All versions prior to 6.0.9 SIMATIC S7-400 PN/DP V6 and below CPU family (incl. SIPLUS variants): All versions SIMATIC S7-400 PN/DP V7 CPU family (incl. SIPLUS variants): All versions SIMATIC TDC CP51M1: All versions prior to 1.1.8 SIMATIC TDC CPU555: All versions prior to 1.1.1 SIMATIC WinAC RTX (F) 2010: All versions prior to SP3 SINAMICS DCM: All versions prior to 1.5 HF1 SINAMICS DCP: All versions prior to 1.3 SINAMICS G110M v4.7 PN Control Unit: All versions prior to 4.7 SP10 HF5 SINAMICS G120 v4.7 PN Control Unit (incl. SIPLUS variants): All versions prior to 4.7 SP10 HF5 SINAMICS G130 v4.7 Control Unit: All versions prior to 4.8 SINAMICS G150 Control Unit: All versions prior to 4.8 SINAMICS GH150 v4.7 Control Unit: All versions SINAMICS GL150 v4.7 Control Unit: All versions SINAMICS GM150 v4.7 Control Unit: All versions SINAMICS S110 Control Unit: All versions SINAMICS S120 v4.7 Control Unit (incl. SIPLUS variants): All versions SINAMICS S150 Control Unit: All versions prior to 4.8 SINAMICS SL150 v4.7 Control Unit: All versions prior to 4.7 HF33 SINAMICS SM120 v4.7 Control Unit: All versions SINUMERIK 828D: All versions prior to 4.8 SP5 SINUMERIK 840D sl: All versions SIMATIC ET 200ecoPN ((except 6ES7141-6BG00- 0BB0, 6ES7141-6BH00-0BB0, 6ES7142-6BG00- 0BB0, 6ES7142-6BR00-0BB0, 6ES7143-6BH00- 0BB0, 6ES7146-6FF00-0AB0 and 6ES7148- 6JD00-0AB0): All versions SIMATIC PN/PN Coupler (incl. SIPLUS NET variants): All versions prior to v4.2.1.",CVE-2019-10936,7.5,High,CWE-400,Critical Manufacturing,Worldwide,Germany
+1788,10/14/2021,12/15/2022,2019,ICSA-19-283-02,Siemens PROFINET Devices (Update L),Siemens,PROFINET Devices,"Siemens reports the vulnerability affects the following PROFINET devices:
+Development/Evaluation Kits for PROFINET IO:
+DK Standard Ethernet Controller: All versions
+EK-ERTEC 200: All version
+EK-ERTEC 200P: All versions prior to 4.6 Patch 01
+SIMATIC S7-410 V8 CPU family (incl. SIPLUS variants): All versions prior to 8.2.2
+SIMATIC CFU PA: All versions prior to 1.2.0
+SIMATIC ET 200SP Open Controller CPU 1515SP PC (incl. SIPLUS variants): All versions prior to 2.0
+SIMATIC ET 200AL: All versions
+SIMATIC ET 200M (incl. SIPLUS variants): All versions
+SIMATIC ET 200MP IM 155-5 PN BA (incl. SIPLUS variants): All versions prior to 4.2.3
+SIMATIC ET 200MP IM 155-5 PN HF (incl. SIPLUS variants): All versions prior to 4.4.0
+SIMATIC ET 200MP IM 155-5 PN ST (incl. SIPLUS variants): All versions
+SIMATIC ET 200S (incl. SIPLUS variants): All versions
+SIMATIC ET 200SP IM 155-6 PN BA (incl. SIPLUS variants): All versions
+SIMATIC ET 200SP IM 155-6 PN HA (incl. SIPLUS variants): All versions prior to 1.2.1
+SIMATIC ET 200ecoPN, 4AO U/I 4xM12 (6ES7145-6HD00-0AB0): All versions
+SIMATIC ET 200ecoPN, 8 DIO, DC24V/1,3A, 8xM12 (6ES7147-6BG00-0AB0): All versions
+SIMATIC ET 200ecoPN, 8 DO, DC24V/2A, 8xM12 (6ES7142-6BR00-0AB0): All versions
+SIMATIC ET 200ecoPN, 8AI RTD/TC 8xM12 (6ES7144-6KD50-0AB0): All versions
+SIMATIC ET 200ecoPN, 8AI; 4 U/I; 4 RTD/TC 8xM12 (6ES7144-6KD00-0AB0): All versions
+SIMATIC ET 200ecoPN, 8DI, DC24V, 4xM12 (6ES7141-6BF00-0AB0): All versions
+SIMATIC ET 200ecoPN, 8DI, DC24V, 8xM12 (6ES7141-6BG00-0AB0): All versions
+SIMATIC ET 200ecoPN, 8DO, DC24V/0,5A, 4xM12 (6ES7142-6BF50-0AB0): All versions
+SIMATIC ET 200ecoPN, 8DO, DC24V/1,3A, 4xM12 (6ES7142-6BF00-0AB0): All versions
+SIMATIC ET 200ecoPN, 8DO, DC24V/1,3A, 8xM12 (6ES7142-6BG00-0AB0): All versions
+SIMATIC ET 200ecoPN, 16DI, DC24V, 8xM12 (6ES7141-6BH00-0AB0): All versions
+SIMATIC ET 200ecoPN, 16DO DC24V/1,3A, 8xM12 (6ES7142-6BH00-0AB0): All versions
+SIMATIC ET 200ecoPN, IO-Link Master (6ES7148-6JA00-0AB0): All versions
+SIMATIC ET 200SP IM 155-6 PN HF (incl. SIPLUS variants): All versions prior to 4.2.2
+SIMATIC ET 200SP IM 155-6 PN HS (incl. SIPLUS variants): All versions prior to 4.0.1
+SIMATIC ET 200SP IM 155-6 PN ST (incl. SIPLUS variants): All versions
+SIMATIC ET 200SP IM 155-6 PN/2 HF (incl. SIPLUS variants): All versions prior to 4.2.2
+SIMATIC ET 200SP IM 155-6 PN/3 HF (incl. SIPLUS variants): All versions prior to 4.2.1
+SIMATIC ET 200pro: All versions
+SIMATIC HMI Comfort Outdoor Panels 7"" & 15"" (incl. SIPLUS variants): All versions
+SIMATIC HMI Comfort Panels 4"" - 22"" (incl. SIPLUS variants): All versions
+SIMATIC HMI KTP Mobile Panels: All versions
+SIMATIC PROFINET Driver: All versions prior to 2.1
+SIMATIC S7-1200 CPU family (incl. SIPLUS variants): All versions prior to 4.4.0
+SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants): All versions prior to 2.0
+SIMATIC S7-1500 CPU Software Controller: All versions prior to 2.0
+SIMATIC S7-300 CPU family (incl. related ET200 CPUs and SIPLUS variants): All versions prior to 3.X.17
+SIMATIC S7-400 H V6 CPU family (incl. SIPLUS variants): All versions prior to 6.0.9
+SIMATIC S7-400 PN/DP V6 and below CPU family (incl. SIPLUS variants): All versions
+SIMATIC S7-400 PN/DP V7 CPU family (incl. SIPLUS variants): All versions
+SIMATIC TDC CP51M1: All versions prior to 1.1.8
+SIMATIC TDC CPU555: All versions prior to 1.1.1
+SIMATIC WinAC RTX (F) 2010: All versions prior to SP3
+SINAMICS DCM: All versions prior to 1.5 HF1
+SINAMICS DCP: All versions prior to 1.3
+SINAMICS G110M v4.7 PN Control Unit: All versions prior to 4.7 SP10 HF5
+SINAMICS G120 v4.7 PN Control Unit (incl. SIPLUS variants): All versions prior to 4.7 SP10 HF5
+SINAMICS G130 v4.7 Control Unit: All versions prior to 4.8
+SINAMICS G150 Control Unit: All versions prior to 4.8
+SINAMICS GH150 v4.7 Control Unit: All versions
+SINAMICS GL150 v4.7 Control Unit: All versions
+SINAMICS GM150 v4.7 Control Unit: All versions
+SINAMICS S110 Control Unit: All versions
+SINAMICS S120 v4.7 Control Unit (incl. SIPLUS variants): All versions
+SINAMICS S150 Control Unit: All versions prior to 4.8
+SINAMICS SL150 v4.7 Control Unit: All versions prior to 4.7 HF33
+SINAMICS SM120 v4.7 Control Unit: All versions
+SINUMERIK 828D: All versions prior to 4.8 SP5
+--------- Begin Update L Part 1 of 3 ---------
+SINUMERIK 840D sl: All versions prior to 4.8 SP6
+--------- End Update L Part 1 of 3 ---------
+SIMATIC PN/PN Coupler (incl. SIPLUS NET variants): All versions prior to v4.2.1.",CVE-2019-10936,7.5,High,CWE-400,Critical Manufacturing,Worldwide,Germany
 1787,10/14/2021,7/14/2022,2019,ICSA-19-085-01,Siemens SCALANCE X (Update D),Siemens,SCALANCE X,"The following SCALANCE products are affected:
  SCALANCE X204-2 (6GK5204-2BB10-2AA3): All versions
  SCALANCE X204-2FM (6GK5204-2BB11-2AA3): All versions
