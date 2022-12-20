@@ -1,5 +1,28 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
-2322,12/15/2022,No Updates,2022,ICSA-22-349-01,Prosys OPC UA Simulation Server,Prosys OPC,UA Simulation Server,"The following version of Prosys OPC UA simulation servers are affected:
+2327,12/20/2022,No Updates,2022,ICSA-22-354-01,Fuji Electric Tellus Lite V-Simulator,Fuji Electric,Tellus Lite V-Simulator,"The following versions of Fuji Electric Tellus Lite V-Simulator—a remote monitoring and operation software—are affected:
+Versions 4.0.12.0 and prior.","CVE-2022-3087
+CVE-2022-3085",7.8,High,"CWE-787
+CWE-121",Critical Manufacturing,Worldwide,Japan
+2326,12/20/2022,No Updates,2022,ICSA-22-354-02,Rockwell Automation GuardLogix and ControlLogix controllers,Rockwell Automation,"GuardLogix, ControlLogix, Compact Logix, and Compact GaurdLogix controllers","Rockwell Automation reports this vulnerability affects the following controllers: 
+CompactLogix 5370 Versions 20–33
+Compact GuardLogix 5370 Versions 28–33
+ControlLogix 5570 Versions 20–33
+ControlLogix5570 redundancy Versions 20–33
+GuardLogix 5570 Versions 20–33.",CVE-2022-3157,8.6,High,CWE-20,Multiple Critical Sectors,Worldwide,United States
+2325,12/20/2022,No Updates,2022,ICSA-22-354-03,ARC Informatique PcVue,ARC Informatique,PcVue,"The following versions of PcVue—a supervisory control and data acquisition (SCADA) monitoring and control software—are affected:
+PcVue Versions 15 through 15.2.2 (CVE-2022-3411 only)
+PcVue Versions 8.10 through 15.2.3 (CVE-2022-3412 only).","CVE-2022-4312
+CVE-2022-4311",5.5,Medium,"CWE-312
+CWE-532",Commercial Facilities; Transportation Systems; Water and Wastewater Systems; Energy; Critical Manufacturing; Food and Agriculture,Worldwide,France
+2324,12/20/2022,No Updates,2022,ICSA-22-354-04,Rockwell Automation MicroLogix 1100 and 1400,Rockwell Automation,MicroLogix 1100 and 1400,"The following versions of MicroLogix—a line of programmable logic controllers (PLCs)—are affected:
+MicroLogix 1100: all versions
+MicroLogix 1400 A: Versions 7.000 and prior
+MicroLogix 1400 B/C: Versions 21.007 and prior.","CVE-2022-46670
+CVE-2022-3166",7.5,High,"CWE-79
+CWE-1021",Multiple Critical Sectors,Worldwide,United States
+2323,12/20/2022,No Updates,2022,ICSA-22-354-05,Delta 4G Router DX-3021,Delta Electronics,4G Router DX-3021,"Delta reports this vulnerability affects the following 4G Routers: 
+DX-3021L9 versions prior to V1.24.",CVE-2022-4616,7.2,High,CWE-77,Energy,Worldwide,Taiwan
+2322,12/15/2022,12/20/2022,2022,ICSA-22-349-01,Prosys OPC UA Simulation Server (Update A),Prosys OPC,UA Simulation Server,"The following version of Prosys OPC UA simulation servers are affected:
 Prosys OPC UA Simulation Server versions prior to 5.4.0
 Prosys OPC UA Modbus Server 1.4.18-5 and prior.",CVE-2022-2967,6.5,Medium,CWE-522,Critical Manufacturing; Energy; Information Technology,Worldwide,Finland
 2321,12/15/2022,No Updates,2022,ICSA-22-349-02,Siemens SCALANCE X-200RNA Switch Devices,Siemens,SCALANCE,"The following Siemens software is affected:
