@@ -1,4 +1,21 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2331,12/22/2022,No Updates,2022,ICSA-22-356-01,Priva TopControl Suite,Priva,TopControl Suite,"The following components of Priva TopControl Suite are affected:
+Bacnet: All versions prior to 8.7.8.0
+Blue ID: All versions prior to 8.7.8.0
+Compass: All versions prior to 8.7.8.0
+Connect: All versions prior to 8.7.8.0
+TPC: All versions prior to 8.7.8.0.",CVE-2022-3010,7.5,High,CWE-916,Energy,Worldwide,Netherlands
+2330,12/22/2022,No Updates,2022,ICSA-22-356-02,Rockwell Automation Studio 5000 Logix Emulate,Rockwell Automation,Studio 5000 Logix Emulate,"The following versions of Studio 5000 Logix Emulate are affected:
+Studio 5000 Logix Emulate v .20-33.",CVE-2022-3156,7.8,High,CWE-284,Multiple Critical Sectors,Worldwide,United States
+2329,12/22/2022,No Updates,2022,ICSA-22-356-03,"Mitsubishi Electric MELSEC iQ-R, iQ-L Series and MELIPC Series",Mitsubishi Electric,"MELSEC iQ-R, iQ-L Series and MELIPC Series","Mitsubishi Electric reports this vulnerability affects the following MELSEC iQ-R, iQ-L series CPU module, and MELIPC series: 
+MELSEC iQ-R Series R00/01/02CPU: Firmware versions ""32"" and prior
+MELSEC iQ-R Series R04/08/16/32/120(EN)CPU: Firmware versions ""65"" and prior
+MELSEC iQ-R Series R08/16/32/120SFCPU: All versions
+MELSEC iQ-R Series R12CCPU-V: All versions
+MELSEC iQ-L Series L04/08/16/32HCPU: All versions
+MELIPC Series MI5122-VW: All versions.",CVE-2022-33324,7.5,High,CWE-404,Critical Manufacturing,Worldwide,Japan
+2328,12/22/2022,No Updates,2022,ICSA-22-356-04,Omron CX-Programmer,Omron,CX-Programmer,"The following versions of CX-Programmer, part of a software automation suite, are affected:
+CX-Programmer: Versions 9.78 and prior.",CVE-2022-43509,7.8,High,CWE-787,Critical Manufacturing,Worldwide,Japan
 2327,12/20/2022,No Updates,2022,ICSA-22-354-01,Fuji Electric Tellus Lite V-Simulator,Fuji Electric,Tellus Lite V-Simulator,"The following versions of Fuji Electric Tellus Lite V-Simulator—a remote monitoring and operation software—are affected:
 Versions 4.0.12.0 and prior.","CVE-2022-3087
 CVE-2022-3085",7.8,High,"CWE-787
