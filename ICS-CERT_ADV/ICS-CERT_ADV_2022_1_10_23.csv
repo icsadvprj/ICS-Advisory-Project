@@ -910,7 +910,11 @@ CVE-2022-43506
 CVE-2022-43457
 CVE-2022-43452",8.8,High,"CWE-79
 CWE-89",Critical Manufacturing ,Worldwide,Taiwan
-2253,10/25/2022,No Updates,2022,ICSA-22-298-07,Delta Electronics InfraSuite Device Master,Delta Electronics,InfraSuite Device Master,"The following versions of InfraSuite Device Master, a real-time device monitoring software, are affected: Version 00.00.01a and prior.","CVE-2022-41778
+2253,10/25/2022,1/10/2023,2022,ICSA-22-298-07,Delta Electronics InfraSuite Device Master (Update A),Delta Electronics,InfraSuite Device Master,"The following versions of InfraSuite Device Master, a real-time device monitoring software, are affected: 
+Version 00.00.01a and prior 
+--------- Begin Update A part 1 of 2 ---------
+InfraSuite Device Master: Versions prior to 1.0.3 (CVE-2022-41657 and CVE-2022-40202 only)
+--------- End Update A part 1 of 2 ---------.","CVE-2022-41778
 CVE-2022-38142
 CVE-2022-41779
 CVE-2022-41657
