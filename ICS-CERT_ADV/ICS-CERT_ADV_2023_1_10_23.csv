@@ -1,0 +1,46 @@
+icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2335,1/10/2023,No Updates,2023,ICSA-23-010-01,Black Box KVM,Black Box,KVM Switches and Extenders,"The following models and versions of Black Box KVMs, a Keyboard/Video/Mouse switch and extender, are affected:
+Black Box KVM ACR1000A-R-R2: Firmware version v3.4.31307
+Black Box KVM ACR1000A-T-R2: Firmware version v3.4.31307
+Black Box KVM ACR1002A-T: Firmware version v3.4.31307
+Black Box KVM ACR1002A-R: Firmware version v3.4.31307
+Black Box KVM ACR1020A-T: Firmware version v3.4.31307.",CVE-2022-4636,7.5,High,CWE-22,Multiple Critical Sectors,Worldwide,India
+2334,1/5/2023,No Updates,2023,ICSA-23-005-01,Hitachi Energy UNEM,Hitachi Energy,UNEM,"Hitachi Energy reports these vulnerabilities affect the following UNEM products:  
+UNEM R16A 
+UNEM R15B 
+UNEM R15A 
+UNEM R14B 
+UNEM R14A 
+UNEM R11B 
+UNEM R11A 
+UNEM R10C 
+UNEM R9C.","CVE-2021-40341
+CVE-2021-40342
+CVE-2022-3927
+CVE-2022-3928
+CVE-2022-3929",8.3,High,"CWE-326
+CWE-321
+CWE-319",Energy,Worldwide,Switzerland
+2333,1/5/2023,No Updates,2023,ICSA-23-005-02,Hitachi Energy FOXMAN-UN,Hitachi Energy,FOXMAN-UN,"Hitachi Energy reports these vulnerabilities affect the following FOXMAN-UN products:  
+FOXMAN-UN R16A  
+FOXMAN-UN R15B 
+FOXMAN-UN R15A 
+FOXMAN-UN R14B 
+FOXMAN-UN R14A 
+FOXMAN-UN R11B 
+FOXMAN-UN R11A 
+FOXMAN-UN R10C 
+FOXMAN-UN R9C.","CVE-2021-40341
+CVE-2021-40342
+CVE-2022-3927
+CVE-2022-3928
+CVE-2022-3929",8.3,High,"CWE-326
+CWE-1394
+CWE-321
+CWE-319",Energy,Worldwide,Switzerland
+2332,1/5/2023,No Updates,2023,ICSA-23-005-03,Hitachi Energy Lumada Asset Performance Management,Hitachi Energy,Lumada Asset Performance Management (APM),"The following versions of Lumada Asset Performance Management (APM), a web-based asset monitoring software deployable as both a cloud service or as a local deployment, are affected:
+Lumada APM: Version 6.5.0.0
+Lumada APM: Versions 6.1.0.0 through 6.4.0.0 (CVE-2022-37434 only).","CVE-2022-3602
+CVE-2022-3786
+CVE-2022-37434 ",9.8,Critical,"CWE-120
+CWE-787",Energy,Worldwide,Switzerland
