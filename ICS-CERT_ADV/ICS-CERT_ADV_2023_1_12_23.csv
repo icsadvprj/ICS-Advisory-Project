@@ -1,0 +1,83 @@
+icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2346,1/12/2023,No Updates,2023,ICSA-23-012-01,Sewio RTLS Studio,Sewio,RTLS Studio,"The following version of Sewio’s RTLS Studio, a Real-Time Location System (RTLS), is affected: RTLS Studio: version 2.0.0 up to and including version 2.6.2","CVE-2022-45444
+CVE-2022-47911
+CVE-2022-43483
+CVE-2022-41989
+CVE-2022-45127
+CVE-2022-47395
+CVE-2022-47917
+CVE-2022-46733
+CVE-2022-43455",10,Critical,"CWE-259 
+CWE-78 
+CWE-787
+CWE-352
+CWE-20
+CWE-79",Multiple Critical Sectors,Worldwide,Czech Republic
+2345,1/12/2023,No Updates,2023,ICSA-23-012-02,RONDS Equipment Predictive Maintenance Solution,RONDS,Equipment Predictive Maintenance (EPM),"The following version of RONDS EPM, an equipment predictive maintenance solution, is affected: v1.19.5","CVE-2022-3091
+CVE-2022-2893",8.2,High,"CWE-200 
+CWE-22",Critical Manufacturing,Worldwide,China
+2344,1/12/2023,No Updates,2023,ICSA-23-012-03,InHand Networks InRouter,InHand Networks,"InRouter302, InRouter615","The following versions of InRouters, an industrial router line, are affected: InRouter 302: All versions prior to IR302 V3.5.56 InRouter 615: All versions prior to InRouter6XX-S-V2.3.0.r5542","CVE-2022-22597
+CVE-2022-22598
+CVE-2022-22599
+CVE-2022-22600
+CVE-2022-22601",10,Critical,"CWE-319 
+CWE-78
+CWE-760
+CWE-284
+CWE-330",Energy; Critical Manufacturing; Transportation Systems; Healthcare and Public Health,Worldwide,China
+2343,1/12/2023,No Updates,2023,ICSA-23-012-04,Panasonic Sanyo CCTV Network Camera,Panasonic,Sanyo CCTV Network Camera,The following versions of Panasonic Sanyo CCTV Network Camera are affected: VCC-HD5600P version 2.03-06 VDC-HD3300P version 2.03-08 VDC-HD3300P version 1.02-05 VCC-HD3300 version 2.03-02 VDC-HD3100P version 2.03-00 VCC-HD2100P version 2.03-02,CVE-2022-4621,7.5,High,CWE-352,Commercial Facilities,Worldwide,Japan
+2342,1/12/2023,No Updates,2023,ICSA-23-012-05,SAUTER Controls Nova 200 – 220 Series (PLC 6),SAUTER Controls,Nova 200–220 Series (PLC 6),"The following firmware versions of SAUTER Controls Nova, a series of programmable logic controllers (PLCs), are affected: Nova 220 (EYK220F001) DDC with BACnet connection: Firmware version 3.3-006 and prior with BACnetstac version 4.2.1 and prior Nova 230 (EYK230F001) DDC with BACnet connection: Firmware version 3.3-006 and prior with BACnetstac version 4.2.1 and prior Nova 106 (EYK300F001) BACnet communication card: Firmware version 3.3-006 and prior with BACnetstac version 4.2.1 and prior moduNet300 (EY-AM300F001, EY-AM300F002): Firmware version 3.3-006 and prior with BACnetstac version 4.2.1 and prior","CVE-2023-0052
+CVE-2023-0053",9.8,Critical,"CWE-306
+CWE-319","Critical Manufacturing, Energy",Worldwide,Switzerland
+2341,1/12/2023,No Updates,2023,ICSA-23-012-06,Johnson Controls Metasys,Johnson Controls Inc.,Metasys ADS/ADX/OAS Servers,The following versions of Metasys ADS/ADX/OAS Servers are affected: Metasys ADS/ADX/OAS Version 10.X: All versions prior to 10.1.6 Metasys ADS/ADX/OAS Version 11.X: All versions prior to 11.0.3,CVE-2021-36204,7.8,High,CWE-522,Critical Manufacturing,Worldwide,Ireland
+2340,1/12/2023,No Updates,2023,ICSA-23-012-07,Hitachi Energy Lumada APM,Hitachi Energy,Lumada APM,Hitachi Energy reports the following products are affected: Lumada APM – SaaS: Versions 6.0.0.0 to 6.4.220601.0 Lumada APM – On Premises: Versions 6.0.0.0.0 to 6.4.0,CVE-2022-2155,5.7,Medium,CWE-284,Energy,Worldwide,Switzerland
+2339,1/12/2023,No Updates,2023,ICSA-23-012-08,Siemens S7-1500 CPU devices,Siemens,S7-1500 CPU product family,Siemens reports this vulnerability affects the following CPU products: SIMATIC Drive Controller CPU 1504D TF (6ES7615-4DF10-0AB0): All versions SIMATIC Drive Controller CPU 1507D TF (6ES7615-7DF10-0AB0): All versions SIMATIC S7-1500 CPU 1510SP F-1 PN (6ES7510-1SJ00-0AB0): All versions SIMATIC S7-1500 CPU 1510SP F-1 PN (6ES7510-1SJ01-0AB0): All versions SIMATIC S7-1500 CPU 1510SP-1 PN (6ES7510-1DJ00-0AB0): All versions SIMATIC S7-1500 CPU 1510SP-1 PN (6ES7510-1DJ01-0AB0): All versions SIMATIC S7-1500 CPU 1511-1 PN (6ES7511-1AK00-0AB0): All versions SIMATIC S7-1500 CPU 1511-1 PN (6ES7511-1AK01-0AB0): All versions SIMATIC S7-1500 CPU 1511-1 PN (6ES7511-1AK02-0AB0): All versions SIMATIC S7-1500 CPU 1511C-1 PN (6ES7511-1CK00-0AB0): All versions SIMATIC S7-1500 CPU 1511C-1 PN (6ES7511-1CK01-0AB0): All versions SIMATIC S7-1500 CPU 1511F-1 PN (6ES7511-1FK00-0AB0): All versions SIMATIC S7-1500 CPU 1511F-1 PN (6ES7511-1FK01-0AB0): All versions SIMATIC S7-1500 CPU 1511F-1 PN (6ES7511-1FK02-0AB0): All versions SIMATIC S7-1500 CPU 1511T-1 PN (6ES7511-1TK01-0AB0): All versions SIMATIC S7-1500 CPU 1511TF-1 PN (6ES7511-1UK01-0AB0): All versions SIMATIC S7-1500 CPU 1512C-1 PN (6ES7512-1CK00-0AB0): All versions SIMATIC S7-1500 CPU 1512C-1 PN (6ES7512-1CK01-0AB0): All versions SIMATIC S7-1500 CPU 1512SP F-1 PN (6ES7512-1SK00-0AB0): All versions SIMATIC S7-1500 CPU 1512SP F-1 PN (6ES7512-1SK01-0AB0): All versions SIMATIC S7-1500 CPU 1512SP-1 PN (6ES7512-1DK00-0AB0): All versions SIMATIC S7-1500 CPU 1512SP-1 PN (6ES7512-1DK01-0AB0): All versions SIMATIC S7-1500 CPU 1513-1 PN (6ES7513-1AL00-0AB0): All versions SIMATIC S7-1500 CPU 1513-1 PN (6ES7513-1AL01-0AB0): All versions SIMATIC S7-1500 CPU 1513-1 PN (6ES7513-1AL02-0AB0): All versions SIMATIC S7-1500 CPU 1513F-1 PN (6ES7513-1FL00-0AB0): All versions SIMATIC S7-1500 CPU 1513F-1 PN (6ES7513-1FL01-0AB0): All versions SIMATIC S7-1500 CPU 1513F-1 PN (6ES7513-1FL02-0AB0): All versions SIMATIC S7-1500 CPU 1513R-1 PN (6ES7513-1RL00-0AB0): All versions SIMATIC S7-1500 CPU 1515-2 PN (6ES7515-2AM00-0AB0): All versions SIMATIC S7-1500 CPU 1515-2 PN (6ES7515-2AM01-0AB0): All versions SIMATIC S7-1500 CPU 1515-2 PN (6ES7515-2AM02-0AB0): All versions SIMATIC S7-1500 CPU 1515F-2 PN (6ES7515-2FM00-0AB0): All versions SIMATIC S7-1500 CPU 1515F-2 PN (6ES7515-2FM01-0AB0): All versions SIMATIC S7-1500 CPU 1515F-2 PN (6ES7515-2FM02-0AB0): All versions SIMATIC S7-1500 CPU 1515R-2 PN (6ES7515-2RM00-0AB0): All versions SIMATIC S7-1500 CPU 1515T-2 PN (6ES7515-2TM01-0AB0): All versions SIMATIC S7-1500 CPU 1515TF-2 PN (6ES7515-2UM01-0AB0): All versions SIMATIC S7-1500 CPU 1516-3 PN/DP (6ES7516-3AN00-0AB0): All versions SIMATIC S7-1500 CPU 1516-3 PN/DP (6ES7516-3AN01-0AB0): All versions SIMATIC S7-1500 CPU 1516-3 PN/DP (6ES7516-3AN02-0AB0): All versions SIMATIC S7-1500 CPU 1516F-3 PN/DP (6ES7516-3FN00-0AB0): All versions SIMATIC S7-1500 CPU 1516F-3 PN/DP (6ES7516-3FN01-0AB0): All versions SIMATIC S7-1500 CPU 1516F-3 PN/DP (6ES7516-3FN02-0AB0): All versions SIMATIC S7-1500 CPU 1516T-3 PN/DP (6ES7516-3TN00-0AB0): All versions SIMATIC S7-1500 CPU 1516TF-3 PN/DP (6ES7516-3UN00-0AB0): All versions SIMATIC S7-1500 CPU 1517-3 PN/DP (6ES7517-3AP00-0AB0): All versions SIMATIC S7-1500 CPU 1517F-3 PN/DP (6ES7517-3FP00-0AB0): All versions SIMATIC S7-1500 CPU 1517H-3 PN (6ES7517-3HP00-0AB0): All versions SIMATIC S7-1500 CPU 1517T-3 PN/DP (6ES7517-3TP00-0AB0): All versions SIMATIC S7-1500 CPU 1517TF-3 PN/DP (6ES7517-3UP00-0AB0): All versions SIMATIC S7-1500 CPU 1518-4 PN/DP (6ES7518-4AP00-0AB0): All versions SIMATIC S7-1500 CPU 1518-4 PN/DP MFP (6ES7518-4AX00-1AB0): All versions SIMATIC S7-1500 CPU 1518-4F PN/DP (6ES7518-4FP00-0AB0): All versions SIMATIC S7-1500 CPU 1518F-4 PN/DP MFP (6ES7518-4FX00-1AB0): All versions SIMATIC S7-1500 CPU 1518HF-4 PN (6ES7518-4JP00-0AB0): All versions SIMATIC S7-1500 CPU 1518T-4 PN/DP (6ES7518-4TP00-0AB0): All versions SIMATIC S7-1500 CPU 1518TF-4 PN/DP (6ES7518-4UP00-0AB0): All versions SIMATIC S7-1500 C,CVE-2022-38773,4.6,Medium,CWE-1326,Multiple Critical Sectors,Worldwide,Germany
+2338,1/12/2023,No Updates,2023,ICSA-23-012-09,Siemens Mendix SAML Module,Siemens,Mendix SAML,"The following components from Siemens are affected: Mendix SAML (Mendix 8 compatible): Versions V2.3.0 and after up to V2.3.4 Mendix SAML (Mendix 9 compatible, New Track): Versions V3.3.0 and after up to V3.3.9 Mendix SAML (Mendix 9 compatible, Upgrade Track): Versions V3.3.0 and after up to V3.3.8",CVE-2022-46823,9.3,Critical,CWE-79,Multiple Critical Sectors,Worldwide,Germany
+2337,1/12/2023,No Updates,2023,ICSA-23-012-10,Siemens Automation License Manager,Siemens,Automation License Manager (ALM),The following software from Siemens is affected: Automation License Manager V5: All versions Automation License Manager V6: All versions prior to V6.0 SP9 Upd4,CVE-2022-43513,8.2,High,"CWE-73
+CWE-22",Multiple Critical Sectors,Worldwide,Germany
+2336,1/12/2023,No Updates,2023,ICSA-23-012-11,Siemens Solid Edge before V2023 MP1,Siemens,Solid Edge,The following versions of Siemens Solid Edge are affected: All versions prior to V2023 MP1,CVE-2022-47967,7.8,High,CWE-119,Critical Manufacturing,Worldwide,Germany
+2335,1/10/2023,No Updates,2023,ICSA-23-010-01,Black Box KVM,Black Box,KVM Switches and Extenders,"The following models and versions of Black Box KVMs, a Keyboard/Video/Mouse switch and extender, are affected:
+Black Box KVM ACR1000A-R-R2: Firmware version v3.4.31307
+Black Box KVM ACR1000A-T-R2: Firmware version v3.4.31307
+Black Box KVM ACR1002A-T: Firmware version v3.4.31307
+Black Box KVM ACR1002A-R: Firmware version v3.4.31307
+Black Box KVM ACR1020A-T: Firmware version v3.4.31307.",CVE-2022-4636,7.5,High,CWE-22,Multiple Critical Sectors,Worldwide,India
+2334,1/5/2023,No Updates,2023,ICSA-23-005-01,Hitachi Energy UNEM,Hitachi Energy,UNEM,"Hitachi Energy reports these vulnerabilities affect the following UNEM products:  
+UNEM R16A 
+UNEM R15B 
+UNEM R15A 
+UNEM R14B 
+UNEM R14A 
+UNEM R11B 
+UNEM R11A 
+UNEM R10C 
+UNEM R9C.","CVE-2021-40341
+CVE-2021-40342
+CVE-2022-3927
+CVE-2022-3928
+CVE-2022-3929",8.3,High,"CWE-326
+CWE-321
+CWE-319",Energy,Worldwide,Switzerland
+2333,1/5/2023,No Updates,2023,ICSA-23-005-02,Hitachi Energy FOXMAN-UN,Hitachi Energy,FOXMAN-UN,"Hitachi Energy reports these vulnerabilities affect the following FOXMAN-UN products:  
+FOXMAN-UN R16A  
+FOXMAN-UN R15B 
+FOXMAN-UN R15A 
+FOXMAN-UN R14B 
+FOXMAN-UN R14A 
+FOXMAN-UN R11B 
+FOXMAN-UN R11A 
+FOXMAN-UN R10C 
+FOXMAN-UN R9C.","CVE-2021-40341
+CVE-2021-40342
+CVE-2022-3927
+CVE-2022-3928
+CVE-2022-3929",8.3,High,"CWE-326
+CWE-1394
+CWE-321
+CWE-319",Energy,Worldwide,Switzerland
+2332,1/5/2023,No Updates,2023,ICSA-23-005-03,Hitachi Energy Lumada Asset Performance Management,Hitachi Energy,Lumada Asset Performance Management (APM),"The following versions of Lumada Asset Performance Management (APM), a web-based asset monitoring software deployable as both a cloud service or as a local deployment, are affected:
+Lumada APM: Version 6.5.0.0
+Lumada APM: Versions 6.1.0.0 through 6.4.0.0 (CVE-2022-37434 only).","CVE-2022-3602
+CVE-2022-3786
+CVE-2022-37434 ",9.8,Critical,"CWE-120
+CWE-787",Energy,Worldwide,Switzerland
