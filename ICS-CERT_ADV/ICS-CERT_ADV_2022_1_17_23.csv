@@ -584,8 +584,16 @@ CVE-2022-42973",9.8,Critical,"CWE-306
 CWE-434
 CWE-732
 CWE-798",Multiple Critical Sectors,Worldwide,France
-2298,12/13/2022,No Updates,2022,ICSA-22-347-03,Contec CONPROSSYS HMI System (CHS),Contec,CONPROSYS HMI System (CHS),"The following versions of CONPROSYS HMI System (CHS), are affected: 
-CONPROSYS HMI System (CHS): Version 3.4.4 and prior.",CVE-2022-44456,10,Critical,CWE-78,Multiple Critical Sectors,Worldwide,Japan
+2298,12/13/2022,1/17/2023,2022,ICSA-22-347-03,Contec CONPROSYS HMI System (CHS) (Update A),Contec,CONPROSYS HMI System (CHS),"The following versions of CONPROSYS HMI System (CHS), are affected:
+--------- Begin Update A part 3 of 5 --------- CVE-2022-44456 CONPROSYS HMI System (CHS): Ver.3.4.4 and prior CVE-2023-22331, CVE-2023-22334, CVE-2023-22373, CVE-2023-22339 CONPROSYS HMI System (CHS): Ver.3.4.5 and prior --------- End Update A part 3 of 5 ---------","CVE-2022-44456
+CVE-2023-22331
+CVE-2023-22334
+CVE-2023-22373
+CVE-2023-22339",10,Critical,"CWE-78
+CWE-1392
+CWE-836
+CWE-79
+CWE-284",Multiple Critical Sectors,Worldwide,Japan
 2297,12/8/2022,No Updates,2022,ICSA-22-342-01,Advantech iView,Advantech,iView,The following versions of Advantech iView management software are affected: Version 5.7.04.6469 and prior.,CVE-2022-3323,7.5,High,CWE-89 ,Multiple Critical Sectors,"East Asia, Europe, United States",Taiwan
 2296,12/8/2022,No Updates,2022,ICSA-22-342-02,AVEVA InTouch Access Anywhere,AVEVA,InTouch Access Anywhere,"The following versions of AVEVA InTouch Access Anywhere, a remote human machine interface (HMI) software, are affected: Versions 2020 R2 and older.",CVE-2022-23854,7.5,High,CWE-23,Critical Manufacturing,Worldwide,United Kingdom
 2295,12/8/2022,No Updates,2022,ICSA-22-342-03,Rockwell Automation Logix controllers,Rockwell Automation,"CompactLogix, Compact GuardLogix, ControlLogix, and GuardLogix controllers","The following Rockwell Automation controllers are affected: 
