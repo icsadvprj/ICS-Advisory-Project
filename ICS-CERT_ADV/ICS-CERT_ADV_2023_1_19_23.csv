@@ -1,4 +1,9 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2350,1/19/2023,No Updates,2023,ICSA-23-019-01,Hitachi Energy PCU400,Hitachi Energy,PCU400,"The following versions of PCU400, a network manager and process communication unit, are affected: 
+PCU400: Versions 9.3.0 and later up to but not including 9.3.8 
+PCULogger tool: Version 1.0.1.","CVE-2022-3602
+CVE-2022-3786",7.5,High,"CWE-1357 
+",Energy ,Worldwide,Switzerland
 2349,1/17/2023,No Updates,2023,ICSA-23-017-01,GE Proficy Historian,GE Digital,Proficy Historian,GE Digital reports these vulnerabilities affect the following Proficy Historian product: Proficy Historian v7.0 and higher versions Not Affected: Other GE software offerings including GE Digital and Proficy Products not listed above.,"CVE-2022-46732
 CVE-2022-46660
 CVE-2022-43494
