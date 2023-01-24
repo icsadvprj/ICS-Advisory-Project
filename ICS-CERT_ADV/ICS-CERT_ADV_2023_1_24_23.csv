@@ -1,4 +1,8 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2352,1/24/2023,No Updates,2023,ICSA-23-024-01,XINJE XD,XINJE,XINJE XD Programing Tool,The following versions of XINJE XD are affected: Version 3.5.1 and prior .,"CVE-2021-34605
+CVE-2021-34606",7.3,High,"CWE-23 
+CWE-427 ","Critical Manufacturing, Energy",Worldwide,China
+2351,1/24/2023,No Updates,2023,ICSA-23-024-02,SOCOMEC MODULYS GP,SOCOMEC,MODULYS GP,"The following versions of SOCOMEC MODULYS GP, a modular UPS, are affected: Netvision v7.20.",CVE-2023-0356,5.7,Medium,CWE-261,Energy,Worldwide,France
 2350,1/19/2023,No Updates,2023,ICSA-23-019-01,Hitachi Energy PCU400,Hitachi Energy,PCU400,"The following versions of PCU400, a network manager and process communication unit, are affected: 
 PCU400: Versions 9.3.0 and later up to but not including 9.3.8 
 PCULogger tool: Version 1.0.1.","CVE-2022-3602
