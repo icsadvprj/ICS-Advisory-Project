@@ -1,4 +1,9 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2363,2/2/2023,No Updates,2023,ICSA-23-033-03,Baicells Nova,Baicells Technologies,Nova,Baicells reports this vulnerability affects the following Nova LTE TDD eNodeB devices with firmware through RTS/RTD 3.6.6: Nova 227 Nova 233 Nova 243 Nova 246.,CVE-2023-24508,9.8,Critical,CWE-77,Communications,Worldwide,United States
+2362,2/2/2023,No Updates,2023,ICSA-23-033-04,Delta Electronics DVW-W02W2-E2,Delta Electronics,DVW-W02W2-E2,"The following versions of DVW-W02W2-E2, an industrial ethernet router, are affected: DVW-W02W2-E2: Version 2.42.",CVE-2022-42139,9.9,Critical,CWE-78,Critical Manufacturing,Worldwide,Taiwan
+2361,2/2/2023,No Updates,2023,ICSA-23-033-05,Delta Electronics DX-2100-L1-CN,Delta Electronics,DX-2100-L1-CN,"The following versions of DX-2100-L1-CN, an industrial ethernet router, are affected: DX-2100-L1-CN: Version 1.5.0.10.","CVE-2022-42140
+CVE-2023-0432",9,Critical,"CWE-78
+CWE-79",Critical Manufacturing,Worldwide,Taiwan
 2360,1/31/2023,No Updates,2023,ICSA-23-031-01,Delta Electronics DOPSoft,Delta Electronics,DOPSoft,"The following versions of DOPSoft, a human machine interface (HMI) editing software, are affected: DOPSoft: versions 4.00.16.22 and prior.","CVE-2023-0123
 CVE-2023-0124",7.8,High,"CWE-121
 CWE-787",Critical Manufacturing,Worldwide,Taiwan
