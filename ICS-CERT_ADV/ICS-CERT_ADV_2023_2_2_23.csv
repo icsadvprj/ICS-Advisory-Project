@@ -1,4 +1,12 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2365,2/2/2023,No Updates,2023,ICSA-23-033-01,Delta Electronics DIAScreen,Delta Electronics,DIAScreen,"The following versions of DIAScreen, a software configuration tool for Delta devices, are affected: DIAScreen: versions 1.2.1.23 and prior.","CVE-2023-0250
+CVE-2023-0251
+CVE-2023-0249",7.8,High,"CWE-121
+CWE-119
+CWE-787",Energy,Worldwide,Taiwan
+2364,2/2/2023,No Updates,2023,ICSA-23-033-02,Mitsubishi Electric GOT2000 Series and GT SoftGOT2000,Mitsubishi Electric,GOT Mobile Function on GOT2000 Series and GT SoftGOT2000,Mitsubishi Electric reports these vulnerabilities affect the GOT Mobile Function on the following products: GOT2000 Series: GT27 model: GOT Mobile versions 01.14.000–01.47.000 GT25 model: GOT Mobile versions 01.14.000–01.47.000 GT SoftGOT2000: software versions 1.265B–1.285X.,"CVE-2022-40269
+CVE-2022-40268",6.8,Medium,"CWE-290
+CWE-1021",Critical Manufacturing,Worldwide,Japan
 2363,2/2/2023,No Updates,2023,ICSA-23-033-03,Baicells Nova,Baicells Technologies,Nova,Baicells reports this vulnerability affects the following Nova LTE TDD eNodeB devices with firmware through RTS/RTD 3.6.6: Nova 227 Nova 233 Nova 243 Nova 246.,CVE-2023-24508,9.8,Critical,CWE-77,Communications,Worldwide,United States
 2362,2/2/2023,No Updates,2023,ICSA-23-033-04,Delta Electronics DVW-W02W2-E2,Delta Electronics,DVW-W02W2-E2,"The following versions of DVW-W02W2-E2, an industrial ethernet router, are affected: DVW-W02W2-E2: Version 2.42.",CVE-2022-42139,9.9,Critical,CWE-78,Critical Manufacturing,Worldwide,Taiwan
 2361,2/2/2023,No Updates,2023,ICSA-23-033-05,Delta Electronics DX-2100-L1-CN,Delta Electronics,DX-2100-L1-CN,"The following versions of DX-2100-L1-CN, an industrial ethernet router, are affected: DX-2100-L1-CN: Version 1.5.0.10.","CVE-2022-42140
