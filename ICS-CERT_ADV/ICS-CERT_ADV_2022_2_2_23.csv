@@ -1996,10 +1996,7 @@ CVE-2022-36324
 CVE-2022-36325",9.1,Critical,"CWE-74
 CWE-770
 CWE-80",Multiple Critical Sectors,Worldwide,Germany
-2164,8/9/2022,11/1/2022,2022,ICSA-22-221-01,Mitsubishi Electric Multiple Factory Automation Products (Update C),Mitsubishi Electric,"GOT2000 compatible HMI software, CC-Link IE TSN Industrial Managed Switch, MELSEC iQ-R Series OPC UA Server Module","The following version of GT SoftGOT2000 is affected:
-GOT2000 compatible HMI software (GT SoftGOT2000): Version 1.275M 
-CC-Link IE TSN Industrial Managed Switch (NZ2MHG-TSNT8F2, NZ2MHG-TSNT4): Version 03 and prior [affected by CVE-2022-0778 only] 
-MELSEC iQ-R Series OPC UA Server Module (RD81OPC96): Version 08 and prior [affected by CVE-2022-0778 only] ","CVE-2022-0778
+2164,8/9/2022,2/2/2023,2022,ICSA-22-221-01,Mitsubishi Electric Multiple Factory Automation Products (Update D),Mitsubishi Electric,"GOT2000 compatible HMI software, CC-Link IE TSN Industrial Managed Switch, MELSEC iQ-R Series OPC UA Server Module","The following version of GT SoftGOT2000 is affected: GOT2000 compatible HMI software (GT SoftGOT2000): Version 1.275M CC-Link IE TSN Industrial Managed Switch (NZ2MHG-TSNT8F2, NZ2MHG-TSNT4): Version 03 and prior [affected by CVE-2022-0778 only] MELSEC iQ-R Series OPC UA Server Module (RD81OPC96): Version 08 and prior [affected by CVE-2022-0778 only].","CVE-2022-0778
 CVE-2022-1292",9.8,Critical,"CWE-835
 CWE-78",Critical Manufacturing,Worldwide,Japan
 2163,8/9/2022,No Updates,2022,ICSA-22-221-02,Emerson ControlWave,Emerson,ControlWave,"The following versions of ControlWave, a programmable controller, are affected: ControlWave: All versions.",CVE-2022-30262,9.1,Critical,CWE-345,Oil and Gas; Petrochemical; Chemical; Life Sciences; Water and Wastewater Systems,Worldwide,United States
