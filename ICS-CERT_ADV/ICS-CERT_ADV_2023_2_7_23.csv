@@ -1,4 +1,5 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2366,2/7/2023,No Updates,2023,ICSA-23-037-01,EnOcean SmartServer,"EnOcean Edge Inc, (Subsidiary of EnOcean GmbH)",SmartServer with i.LON Vision,The following EnOcean Edge products are affected: EnOcean SmartServer: v2.2 SR8/SP8 (4.12.006) with i.LON Vision v2.2 SR8/SP8 (4.12.006).,CVE-2022-3089,6.3,Medium,CWE-798,Information Technology,Worldwide,United States
 2365,2/2/2023,No Updates,2023,ICSA-23-033-01,Delta Electronics DIAScreen,Delta Electronics,DIAScreen,"The following versions of DIAScreen, a software configuration tool for Delta devices, are affected: DIAScreen: versions 1.2.1.23 and prior.","CVE-2023-0250
 CVE-2023-0251
 CVE-2023-0249",7.8,High,"CWE-121
