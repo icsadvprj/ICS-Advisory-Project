@@ -26,9 +26,12 @@ Compact GuardLogix 5370 Versions 28–33
 ControlLogix 5570 Versions 20–33
 ControlLogix5570 redundancy Versions 20–33
 GuardLogix 5570 Versions 20–33.",CVE-2022-3157,8.6,High,CWE-20,Multiple Critical Sectors,Worldwide,United States
-2325,12/20/2022,No Updates,2022,ICSA-22-354-03,ARC Informatique PcVue,ARC Informatique,PcVue,"The following versions of PcVue—a supervisory control and data acquisition (SCADA) monitoring and control software—are affected:
+2325,12/20/2022,2/9/2023,2022,ICSA-22-354-03,ARC Informatique PcVue (Update A),ARC Informatique,PcVue,"The following versions of PcVue, a supervisory control and data acquisition (SCADA) monitoring and control software, are affected:
 PcVue Versions 15 through 15.2.2 (CVE-2022-3411 only)
-PcVue Versions 8.10 through 15.2.3 (CVE-2022-3412 only).","CVE-2022-4312
+--------- Begin Update A part 1 of 2 ---------
+PcVue Versions 8.10 through 15.2.3 (CVE-2022-3412 only) 
+PcVue 12 products are only affected until Version 12.0.28 
+--------- End Update A part 1 of 2 ---------.","CVE-2022-4312
 CVE-2022-4311",5.5,Medium,"CWE-312
 CWE-532",Commercial Facilities; Transportation Systems; Water and Wastewater Systems; Energy; Critical Manufacturing; Food and Agriculture,Worldwide,France
 2324,12/20/2022,No Updates,2022,ICSA-22-354-04,Rockwell Automation MicroLogix 1100 and 1400,Rockwell Automation,MicroLogix 1100 and 1400,"The following versions of MicroLogix—a line of programmable logic controllers (PLCs)—are affected:
@@ -2372,15 +2375,21 @@ CWE-78",Commercial Facilities; Critical Manufacturing; Food and Agriculture; Wat
 2123,6/28/2022,No Updates,2022,ICSA-22-179-01,ABB e-Design,ABB,e-Design,"The following versions of e-Design engineering software are affected: 
  e-Design: All versions prior to 1.12.2.0006.","CVE-2022-28702
 CVE-2022-29483",7.8,High,CWE-276,Energy,Worldwide,Switzerland
-2122,6/28/2022,No Updates,2022,ICSA-22-179-02,Omron SYSMAC CS/CJ/CP Series and NJ/NX Series,Omron,SYSMAC CS/CJ/CP Series and NJ/NX Series,"The following versions of the Omron SYSMAC CS/CJ/CP Series and NJ/NX Series, a programmable logic controller, are affected:
- SYSMAC CS1: Versions prior to 4.1
- SYSMAC CJ2M: Versions prior to 2.1
- SYSMAC CJ2H: Versions prior to 1.5
- SYSMAC CP1E/CP1H: Versions prior to 1.30
- SYSMAC CP1L: Versions prior to 1.10
- CP1W-CIF41: All versions
- SYSMAC CX-Programmer: Versions prior to 9.6
- SYSMAC NJ/NX Series: Versions prior to 1.49 (1.29 for NX7).","CVE-2022-31204
+2122,6/28/2022,2/9/2023,2022,ICSA-22-179-02,Omron SYSMAC CS-CJ-CP Series and NJ-NX Series (Update A),Omron,SYSMAC CS/CJ/CP Series and NJ/NX Series," The following versions of the Omron SYSMAC CS/CJ/CP Series and NJ/NX Series, a programmable logic controller, are affected:
+--------- Begin Update A part 1 of 4 ---------
+SYSMAC CS1H/CJ1G: Versions prior to 4.1 
+SYSMAC CS1D-CPU[][]H/P/HA: Versions prior to 1.4 
+SYSMAC CS1D-CPU[][]S/SA: Versions prior to 2.1 
+--------- End Update A part 1 of 4 ---------
+SYSMAC CJ2M: Versions prior to 2.1 
+SYSMAC CJ2H: Versions prior to 1.5 
+SYSMAC CP1E/CP1H: Versions prior to 1.30 
+--------- Begin Update A part 2 of 4 ---------
+SYSMAC CP1L: Versions prior to 1.1 
+--------- End Update A part 2 of 4 ---------
+CP1W-CIF41: All versions 
+SYSMAC CX-Programmer: Versions prior to 9.6 
+SYSMAC NJ/NX Series: Versions prior to 1.49 (1.29 for NX7) ","CVE-2022-31204
 CVE-2022-31205
 CVE-2022-31207
 CVE-2022-31206",6.5,Medium,"CWE-319
