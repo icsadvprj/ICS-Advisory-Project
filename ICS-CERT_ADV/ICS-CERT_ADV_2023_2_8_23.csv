@@ -1,4 +1,28 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2370,2/9/2023,No Updates,2023,ICSA-23-040-01,"Control By Web X-400, X-600M",Control By Web,"X-400, X-600M","The following versions of Control By Web X-400 and X-600M, web enabled I/O Controllers, are affected: 
+X-400: All firmware versions prior to 2.8 
+X-600M: All firmware versions prior to 1.16.00.","CVE-2023-23553
+CVE-2023-23551",9.1,Critical,"CWE-79
+CWE-94",Multiple Critical Sectors,Worldwide,United States
+2369,2/9/2023,No Updates,2023,ICSA-23-040-02,LS Electric XBC-DN32U,"LS ELECTRIC, LS Industrial Systems (LSIS) Co. Ltd",XBC-DN32U,"The following version of XBC-DN32U, a PLC performance module, is affected: XBC-DN32U: Operating System Version 01.80.","CVE-2023-22803
+CVE-2023-22804
+CVE-2023-22805
+CVE-2023-22806
+CVE-2023-22807
+CVE-2023-0102
+CVE-2023-0103",9.8,Critical,"CWE-306
+CWE-284
+CWE-319
+CWE-788",Multiple Critical Sectors,Worldwide,South Korea
+2368,2/9/2023,No Updates,2023,ICSA-23-040-03,Johnson Controls System Configuration Tool (SCT),"Johnson Controls, Inc.",System Configuration Tool,"The following versions of System Configuration Tool (SCT) are affected: 
+System Configuration Tool (SCT) version 14: Versions prior to 14.2.3 
+System Configuration Tool (SCT) version 15: Versions prior to 15.0.3.","CVE-2022-21939
+CVE-2022-21940",7.5,High,"CWE-1004
+CWE-614",Critical Manufacturing,Worldwide,Ireland
+2367,2/9/2023,No Updates,2023,ICSA-23-040-04,Horner Automation Cscape Envision RV,Horner Automation,Cscape Envision RV,"The following version of Cscape Envision RV, a control system remote access management software, is affected: Cscape Envision RV: Version 4.60.","CVE-2023-0621
+CVE-2023-0622
+CVE-2023-0623",7.8,High,"CWE-125
+CWE-787",Critical Manufacturing,Worldwide,United States
 2366,2/7/2023,No Updates,2023,ICSA-23-037-01,EnOcean SmartServer,"EnOcean Edge Inc, (Subsidiary of EnOcean GmbH)",SmartServer with i.LON Vision,The following EnOcean Edge products are affected: EnOcean SmartServer: v2.2 SR8/SP8 (4.12.006) with i.LON Vision v2.2 SR8/SP8 (4.12.006).,CVE-2022-3089,6.3,Medium,CWE-798,Information Technology,Worldwide,United States
 2365,2/2/2023,No Updates,2023,ICSA-23-033-01,Delta Electronics DIAScreen,Delta Electronics,DIAScreen,"The following versions of DIAScreen, a software configuration tool for Delta devices, are affected: DIAScreen: versions 1.2.1.23 and prior.","CVE-2023-0250
 CVE-2023-0251
