@@ -1,4 +1,86 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2385,2/16/2023,No Updates,2023,ICSA-23-047-01,Siemens Solid Edge,Siemens,Solid Edge,Siemens reports these vulnerabilities affect Solid Edge products. See SSA-491245 for more information on which specific vulnerabilities affect each of the following: Solid Edge SE2022: All versions Solid Edge SE2022: All versions prior to V2210 Update12 Solid Edge SE2023: All versions prior to V2023 Update 2.,"CVE-2021-32936
+CVE-2021-32938
+CVE-2021-32948
+CVE-2021-43336
+CVE-2021-43391
+CVE-2022-46345
+CVE-2022-46346
+CVE-2022-46347
+CVE-2022-46348
+CVE-2022-46349
+CVE-2023-22295
+CVE-2023-22321
+CVE-2023-22354
+CVE-2023-22669
+CVE-2023-22670
+CVE-2023-22846
+CVE-2023-23579
+CVE-2023-24549
+CVE-2023-24550
+CVE-2023-24551
+CVE-2023-24552
+CVE-2023-24553
+CVE-2023-24554
+CVE-2023-24555
+CVE-2023-24556
+CVE-2023-24557
+CVE-2023-24558
+CVE-2023-24559
+CVE-2023-24560
+CVE-2023-24561
+CVE-2023-24562
+CVE-2023-24563
+CVE-2023-24564
+CVE-2023-24565
+CVE-2023-24566
+CVE-2023-24581
+CVE-2023-25140",7.8,High,"CWE-787
+CWE-125
+CWE-122
+CWE-121",Critical Manufacturing,Worldwide,Germany
+2384,2/16/2023,No Updates,2023,ICSA-23-047-02,Siemens SCALANCE X-200 IRT,Siemens,SCALANCE X200 IRT Products,The following Siemens products are affected: SCALANCE X200-4P IRT (6GK5200-4AH00-2BA3): All versions prior to V5.5.0 SCALANCE X201-3P IRT (6GK5201-3BH00-2BA3): All versions prior to V5.5.0 SCALANCE X201-3P IRT PRO (6GK5201-3JR00-2BA6): All versions prior to V5.5.0 SCALANCE X202-2IRT (6GK5202-2BB00-2BA3): All versions prior to V5.5.0 SCALANCE X202-2P IRT (6GK5202-2BH00-2BA3): All versions prior to V5.5.0 SCALANCE X202-2P IRT PRO (6GK5202-2JR00-2BA6): All versions prior to V5.5.0 SCALANCE X204IRT (6GK5204-0BA00-2BA3): All versions prior to V5.5.0 SCALANCE X204IRT PRO (6GK5204-0JA00-2BA6): All versions prior to V5.5.0 SCALANCE XF201-3P IRT (6GK5201-3BH00-2BD2): All versions prior to V5.5.0 SCALANCE XF202-2P IRT (6GK5202-2BH00-2BD2): All versions prior to V5.5.0 SCALANCE XF204-2BA IRT (6GK5204-2AA00-2BD2): All versions prior to V5.5.0 SCALANCE XF204IRT (6GK5204-0BA00-2BF2): All versions prior to V5.5.0 SIPLUS NET SCALANCE X202-2P IRT (6AG1202-2BH00-2BA3): All versions prior to V5.5.0.,CVE-2007-5846,7.5,High,CWE-20,Multiple Critical Sectors,Worldwide,Germany
+2383,2/16/2023,No Updates,2023,ICSA-23-047-03,Siemens Brownfield Connectivity Client,Siemens,Brownfield Connectivity Client,Siemens reports these vulnerabilities affect the following Siemens Brownfield Connectivity Client products: Brownfield Connectivity Client: All versions prior to V2.15.,"CVE-2022-1292
+CVE-2022-1343
+CVE-2022-1434
+CVE-2022-1473",9.8,Critical,"CWE-78
+CWE-295
+CWE-327
+CWE-404",Critical Manufacturing,Worldwide,Germany
+2382,2/16/2023,No Updates,2023,ICSA-23-047-04,Siemens Brownfield Connectivity Gateway,Siemens,Brownfield Connectivity—Gateway,Siemens reports these vulnerabilities affect the following Brownfield Connectivity—Gateway products: Brownfield Connectivity—Gateway: all versions prior to V1.10 Brownfield Connectivity—Gateway: V1.10.1.,"CVE-2021-41771
+CVE-2021-41772
+CVE-2021-44716
+CVE-2021-44717
+CVE-2022-24675
+CVE-2022-24921
+CVE-2022-27536
+CVE-2022-28327",7.5,High,"CWE-119
+CWE-20
+CWE-400
+CWE-668
+CWE-770
+CWE-295",Critical Manufacturing,Worldwide,Germany
+2381,2/16/2023,No Updates,2023,ICSA-23-047-05,Siemens SiPass integrated AC5102/ACC-G2 and ACC-AP,Siemens,"SiPass integrated AC5100, AC5102, AC5200, ACC-AP, Granta-MK3","The following software from Siemens is affected: SiPass integrated AC5100 (ACC): All versions SiPass integrated AC5102 (ACC-G2): All versions prior to V2.85.44 SiPass integrated AC5200 (ACC-Lite, ACC-4, ACC-8, ACC-16, ACC-32): All versions SiPass integrated ACC-AP: All versions prior to V2.85.43 SiPass integrated Granta-MK3 (ACC-GRANTA): All versions.",CVE-2022-31808,7.8,High,CWE-20,Critical Manufacturing,Worldwide,Germany
+2380,2/16/2023,No Updates,2023,ICSA-23-047-06,Siemens Simcenter Femap,Siemens,Simcenter Femap,The following software from Siemens is affected: Simcenter Femap: All versions prior to V2023.1.,"CVE-2022-39157
+CVE-2022-43397",7.8,High,"CWE-125
+CWE-787",Critical Manufacturing,Worldwide,Germany
+2379,2/16/2023,No Updates,2023,ICSA-23-047-07,Siemens TIA Project Server,Siemens,TIA Project-Server,The following software from Siemens is affected: TIA Multiuser Server V14: All versions TIA Multiuser Server V15: All versions prior to V15.1 Update 8 TIA Project-Server: All versions prior to V1.1 TIA Project-Server V16: All versions TIA Project-Server V17: All versions.,CVE-2022-35868,6.7,Medium,CWE-426,Critical Manufacturing,Worldwide,Germany
+2378,2/16/2023,No Updates,2023,ICSA-23-047-08,Siemens RUGGEDCOM APE1808,Siemens,RUGGEDCOM APE1808 Product Family,The following software from Siemens is affected: RUGGEDCOM APE1808 ADM (6GK6015-0AL20-0GL0): All versions RUGGEDCOM APE1808 ADM CC (6GK6015-0AL20-0GL1): All versions RUGGEDCOM APE1808 CKP (6GK6015-0AL20-0GK0): All versions RUGGEDCOM APE1808 CKP CC (6GK6015-0AL20-0GK1): All versions RUGGEDCOM APE1808 CLOUDCONNECT (6GK6015-0AL20-0GM0): All versions RUGGEDCOM APE1808 CLOUDCONNECT CC (6GK6015-0AL20-0GM1): All versions RUGGEDCOM APE1808 ELAN (6GK6015-0AL20-0GP0): All versions RUGGEDCOM APE1808 ELAN CC (6GK6015-0AL20-0GP1): All versions RUGGEDCOM APE1808 SAM-L (6GK6015-0AL20-0GN0): All versions RUGGEDCOM APE1808 SAM-L CC (6GK6015-0AL20-0GN1): All versions RUGGEDCOM APE1808CLA-P (6GK6015-0AL20-1AA0): All versions RUGGEDCOM APE1808CLA-P CC (6GK6015-0AL20-1AA1): All versions RUGGEDCOM APE1808CLA-S1 (6GK6015-0AL20-1AB0): All versions RUGGEDCOM APE1808CLA-S1 CC (6GK6015-0AL20-1AB1): All versions RUGGEDCOM APE1808CLA-S3 (6GK6015-0AL20-1AD0): All versions RUGGEDCOM APE1808CLA-S3 CC (6GK6015-0AL20-1AD1): All versions RUGGEDCOM APE1808CLA-S5 (6GK6015-0AL20-1AF0): All versions RUGGEDCOM APE1808CLA-S5 CC (6GK6015-0AL20-1AF1): All versions RUGGEDCOM APE1808LNX (6GK6015-0AL20-0GH0): All versions RUGGEDCOM APE1808LNX CC (6GK6015-0AL20-0GH1): All versions RUGGEDCOM APE1808W10 (6GK6015-0AL20-0GJ0): All versions RUGGEDCOM APE1808W10 CC (6GK6015-0AL20-0GJ1): All versions.,"CVE-2022-30774
+CVE-2022-31243
+CVE-2022-33906
+CVE-2022-33907
+CVE-2022-33908
+CVE-2022-33982
+CVE-2022-33984",7,High,CWE-367,Multiple Critical Sectors,Worldwide,Germany
+2377,2/16/2023,No Updates,2023,ICSA-23-047-09,Siemens SIMATIC Industrial Products,Siemens,SIMATIC industrial products,The following software from Siemens is affected: SIMATIC Field PG M5: All versions SIMATIC Field PG M6: All versions SIMATIC IPC BX-39A: All versions SIMATIC IPC427E: All versions SIMATIC IPC477E: All versions SIMATIC IPC477E Pro: All versions SIMATIC IPC627E: All versions SIMATIC IPC647E: All versions SIMATIC IPC677E: All versions SIMATIC IPC847E: All versions SIMATIC ITP1000: All versions.,CVE-2022-21198,7.9,High,CWE-367,Multiple Critical Sectors,Worldwide,Germany
+2376,2/16/2023,No Updates,2023,ICSA-23-047-10,Siemens COMOS,Siemens,COMOS,The following Siemens software is affected: COMOS V10.2: All versions COMOS V10.3.3.1: Versions prior to V10.3.3.1.45 COMOS V10.3.3.2: Versions prior to V10.3.3.2.33 COMOS V10.3.3.3: Versions prior to V10.3.3.3.9 COMOS V10.3.3.4: Versions prior to V10.3.3.4.6 COMOS V10.4.0.0: Versions prior to V10.4.0.0.31 COMOS V10.4.1.0: Versions prior to V10.4.1.0.32 COMOS V10.4.2.0: Versions prior to V10.4.2.0.25.,CVE-2023-24482,10,Critical,CWE-120,Critical Manufacturing,Worldwide,Germany
+2375,2/16/2023,No Updates,2023,ICSA-23-047-11,Siemens Mendix,Siemens,Mendix Applications,The following Siemens software is affected: Mendix Applications using Mendix 7: All versions prior to V7.23.34 Mendix Applications using Mendix 8: All versions prior to V8.18.23 Mendix Applications using Mendix 9: All versions prior to V9.22.0 Mendix Applications using Mendix 9 (V9.12): All versions prior to V9.12.10 Mendix Applications using Mendix 9 (V9.18): All versions prior to V9.18.4 Mendix Applications using Mendix 9 (V9.6): All versions prior to V9.6.15.,CVE-2023-23835,5.9,Medium,CWE-284,Multiple Critical Sectors,Worldwide,Germany
+2374,2/16/2023,No Updates,2023,ICSA-23-047-12,"Siemens JT Open, JT Utilities, and Parasolid",Siemens,"JT Open Toolkit, JT Utilities, and Parasolid","The following Siemens software is affected: JT Open: All versions prior to V11.2.3.0 (only affected by CVE-2022-47936, CVE-2022-47977) JT Utilities: All versions prior to V13.2.3.0 (only affected by CVE-2022-47936, CVE-2022-47977) Parasolid V34.0: All versions prior to V34.0.252 (only affected by CVE-2022-47936) Parasolid V34.0: All versions prior to V34.0.254 (only affected by CVE-2022-25140) Parasolid V34.1: All versions prior to V34.1.242 (only affected by CVE-2022-47936, CVE-2023-25140) Parasolid V35.0: All versions prior to V35.0.170 (only affected by CVE-2022-47936, CVE-2023-25140) Parasolid V35.1: All versions prior to V35.1.150 (only affected by CVE-2022-47936, CVE-2023-25140).","CVE-2022-47936
+CVE-2022-47977
+CVE-2023-25140",7.8,High,"CWE-121
+CWE-119",Multiple Critical Sectors,Worldwide,Germany
+2373,2/16/2023,No Updates,2023,ICSA-23-047-13,Sub-IoT DASH 7 Alliance Protocol,Sub-IoT project,DASH 7 Alliance Protocol stack implementation,"The following versions of the Sub-IoT implementation of the Dash7 Alliance protocol, a low power, sub-GHz Internet of Things (IoT) communication protocol, are affected: Sub-IoT DASH 7 Alliance protocol implementation: All versions prior to 0.5.0.",CVE-2023-0847,5.3,Medium,CWE-787,Multiple Critical Sectors,Worldwide,Open-source
+2372,2/16/2023,No Updates,2023,ICSMA-23-047-01,BD Alaris Infusion Central,"Becton, Dickinson and Company (BD)",Alaris Infusion Central,"The following BD software products are affected: Alaris Infusion Central software versions 1.1 to 1.3.2, which are not sold in the U.S. Users who use BD Alaris PCU 8015 or BD Alaris Systems Manager are not impacted by this vulnerability.",CVE-2022-47376,7.3,High,CWE-255,Healthcare and Public Health,Outside the United States,United States
 2371,2/14/2023,No Updates,2023,ICSA-23-045-01,Weintek EasyBuilder Pro cMT Series,Weintek,EasyBuilder Pro,"The following versions of Weintek EasyBuilder Pro, a project management software, are affected: 
 v6.07.01 and prior
 v6.07.02.479 and prior
