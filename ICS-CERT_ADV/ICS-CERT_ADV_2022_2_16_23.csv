@@ -903,13 +903,9 @@ HEIDENHAIN Controller TNC 640: Version 340590 07 SP5 Running HEROS 5.08.3 contro
 2256,10/25/2022,No Updates,2022,ICSA-22-298-04,Hitachi Energy MicroSCADA X DMS600,Hitachi Energy,DMS600,"The following Hitachi Energy product, integrated with MicroSCADA X, is affected: DMS600: Version 4.5.","CVE-2021-32027
 CVE-2021-32028",8.8,High,CWE-1357,Energy,Worldwide,Switzerland
 2255,10/25/2022,No Updates,2022,ICSA-22-298-05,Johnson Controls CKS CEVAS,CKS (Subsidiary of Johnson Controls),CEVAS,"The following versions of CKS CEVAS, a deployment management and billing system, are affected: All CEVAS versions prior to 1.01.46.",CVE-2021-36206,10,Critical,CWE-79,Emergency Services,Worldwide,Ireland
-2254,10/25/2022,11/10/2022,2022,ICSA-22-298-06,Delta Electronics DIAEnergie (Update A),Delta Electronics,DIAEnergie,"Delta Electronics reports the following versions of DIAEnergie, an industrial energy management system, are affected: 
---------- Begin Update A part 1 of 3 ---------
-DIAEnergie versions prior to v1.9.01.002
-DIAEnergie versions prior to v1.9.02.001
---------- End Update A part 1 of 3 ---------.","CVE-2022-41701
+2254,10/25/2022,2/16/2023,2022,ICSA-22-298-06,Delta Electronic DIAEnergie (Update B),Delta Electronics,DIAEnergie,"Delta Electronics reports the following versions of DIAEnergie, an industrial energy management system, are affected: DIAEnergie versions prior to v1.9.01.002 DIAEnergie versions prior to v1.9.02.001 --------- Begin Update B part 3 of 5 --------- DIAEnergie versions prior to v1.9.03.001 --------- End Update B part 3 of 5 ---------.","CVE-2022-41701
 CVE-2022-40965
-CVE-2022-41555 
+CVE-2022-41555
 CVE-2022-41702
 CVE-2022-41651
 CVE-2022-40967
@@ -919,8 +915,10 @@ CVE-2022-41775
 CVE-2022-43447
 CVE-2022-43506
 CVE-2022-43457
-CVE-2022-43452",8.8,High,"CWE-79
-CWE-89",Critical Manufacturing ,Worldwide,Taiwan
+CVE-2022-43452
+CVE-2023-0822",8.8,High,"CWE-79
+CWE-89
+CWE-285",Critical Manufacturing,Worldwide,Taiwan
 2253,10/25/2022,1/10/2023,2022,ICSA-22-298-07,Delta Electronics InfraSuite Device Master (Update A),Delta Electronics,InfraSuite Device Master,"The following versions of InfraSuite Device Master, a real-time device monitoring software, are affected: 
 Version 00.00.01a and prior 
 --------- Begin Update A part 1 of 2 ---------
