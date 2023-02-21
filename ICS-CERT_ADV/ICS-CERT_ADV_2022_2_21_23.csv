@@ -4901,7 +4901,7 @@ CVE-2022-23130",9.8,Critical,"CWE-126
 CWE-184
 CWE-256
 CWE-79",Critical Manufacturing,Worldwide,Japan
-1933,1/20/2022,4/5/2022,2021,ICSMA-21-187-01,Philips Vue PACS (Update B),Philips,Vue PACS,Philips reports these vulnerabilities affect the following Vue PACS products: Vue PACS: Versions 12.2.x.x and prior Vue MyVue: Versions 12.2.x.x and prior Vue Speech: Versions 12.2.x.x and prior Vue Motion: Versions 12.2.1.5 and prior.,"CVE-2021-27493
+1933,1/20/2022,2/21/2023,2021,ICSMA-21-187-01,Philips Vue PACS (Update C),Philips,Vue PACS,Philips reports these vulnerabilities affect the following Vue PACS products: Vue PACS: Versions 12.2.x.x and prior Vue MyVue: Versions 12.2.x.x and prior Vue Speech: Versions 12.2.x.x and prior Vue Motion: Versions 12.2.1.5 and prior.,"CVE-2021-27493
 CVE-2021-27497
 CVE-2021-27501
 CVE-2021-33018
