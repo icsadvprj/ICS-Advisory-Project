@@ -1,4 +1,7 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2386,2/21/2023,No Updates,2023,ICSA-23-052-01,Mitsubishi Electric MELSOFT iQ AppPortal,Mitsubishi Electric,MELSOFT iQ AppPortal,The following Mitsubishi Electric products and versions are affected: MELSOFT iQ AppPortal (SW1DND-IQAPL-M): v1.00A to 1.29F.,"CVE-2022-26377
+CVE-2022-31813",9.8,Critical,"CWE-444
+CWE-345",Critical Manufacturing,Worldwide,Japan
 2385,2/16/2023,No Updates,2023,ICSA-23-047-01,Siemens Solid Edge,Siemens,Solid Edge,Siemens reports these vulnerabilities affect Solid Edge products. See SSA-491245 for more information on which specific vulnerabilities affect each of the following: Solid Edge SE2022: All versions Solid Edge SE2022: All versions prior to V2210 Update12 Solid Edge SE2023: All versions prior to V2023 Update 2.,"CVE-2021-32936
 CVE-2021-32938
 CVE-2021-32948
