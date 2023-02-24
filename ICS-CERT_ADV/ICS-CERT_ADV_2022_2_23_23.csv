@@ -633,17 +633,22 @@ PWC600 Connectivity Package: versions from 1.1 to 1.3.",CVE-2022-2513,7.1,High,C
 2289,11/29/2022,No Updates,2022,ICSA-22-333-03,Hitachi Energy MicroSCADA Pro/X SYS600 Products,Hitachi Energy,"MicroSCADA X SYS600, MicroSCADA Pro","The following versions of Hitachi Energy’s MicroSCADA Pro/X SYS600 products are affected: 
 SYS600 10.4 and earlier 
 SYS600 9.4 FP2 Hotfix 4 and earlier versions.",CVE-2022-3388,8.8,High,CWE-20,Energy,Worldwide,Switzerland
-2288,11/29/2022,No Updates,2022,ICSA-22-333-04,Moxa UC Series,Moxa,UC Series,"The following bootloader versions of Moxa UC Series, industrial internet-of-things (IIoT) gateway devices, are affected: 
-UC-8580 Series: V1.1 
-UC-8540 Series: V1.0 to V1.2 
-UC-8410A Series: V2.2 
-UC-8200 Series: V1.0 to V2.4 
-UC-8100A-ME-T Series: V1.0 to V1.1 
-UC-8100 Series: V1.2 to V1.3 
-UC-5100 Series: V1.2 
-UC-3100 Series: V1.2 to V2.0 
-UC-2100 Series: V1.3 to V1.5 
-UC-2100-W Series: V1.3 to V1.5.",CVE-2022-3086,7.6,High,CWE-1263,Multiple Critical Sectors,Worldwide,Taiwan
+2288,11/29/2022,44980,2022,ICSA-22-333-04,Moxa UC Series (Update A),Moxa,UC Series,"The following bootloader versions of Moxa UC Series, industrial internet-of-things (IIoT) gateway devices, are affected: UC-8580 Series: V1.1 UC-8540 Series: V1.0 to V1.2 UC-8410A Series: V2.2 UC-8200 Series: V1.0 to V2.4 UC-8100A-ME-T Series: V1.0 to V1.1 --------- Begin Update A part 1 of 1 --------- UC-8100 Series: V1.2 --------- End Update A part 1 of 1 --------- UC-5100 Series: V1.2 UC-3100 Series: V1.2 to V2.0 UC-2100 Series: V1.3 to V1.5 UC-2100-W Series: V1.3 to V1.5.",CVE-2022-3086,7.6,High,CWE-1263 ,Multiple Critical Sectors,Worldwide,Taiwan
+2287,11/29/2022,No Updates,2022,ICSA-22-333-05,Mitsubishi Electric FA Engineering Software,Mitsubishi Electric,"GX Works3, MX OPC UA Module Configurator-R","The following versions of Mitsubishi Electric FA Engineering Software are affected: GX Works3:
+1.000A or later and 1.011M and prior (affected by CVE-2022-25164, CVE-2022-29825, CVE-2022-29826, CVE-2022-29827, CVE-2022-29828, CVE-2022-29829, CVE-2022-29830) 1.015R or later and 1.086Q and prior (affected by CVE-2022-25164, CVE-2022-29825, CVE-2022-29826, CVE-2022-29827, CVE-2022-29828, CVE-2022-29829, CVE-2022-29830, CVE-2022-29831, CVE-2022-29832, CVE-2022-29833) 1.087R or later (affected by CVE-2022-25164, CVE-2022-29825, CVE-2022-29827, CVE-2022-29828, CVE-2022-29829, CVE-2022-29830, CVE-2022-29831, CVE-2022-29832, CVE-2022-29833) MX OPC UA Module Configurator-R: All versions (affected by CVE-2022-25164).","CVE-2022-25164
+CVE-2022-29826
+CVE-2022-29825
+CVE-2022-29831
+CVE-2022-29833
+CVE-2022-29827
+CVE-2022-29828
+CVE-2022-29829
+CVE-2022-29830
+CVE-2022-29832",9.1,Critical,"CWE-312
+CWE-259
+CWE-522
+CWE-321
+CWE-316",Critical Manufacturing,Worldwide,Japan
 2286,11/22/2022,No Updates,2022,ICSA-22-326-01,AVEVA Edge,AVEVA,Edge,"The following versions of AVEVA Edge, an HMI/SCADA software, are affected: 
 AVEVA Edge 2020 R2 SP1  
 AVEVA Edge 2020 R2 SP1 w/ HF 2020.2.00.40  
