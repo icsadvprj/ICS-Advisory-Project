@@ -6,7 +6,7 @@ While some of this dataset may seem duplicative of CVE data, CISA ICS Advisories
 Don't hesitate to [contact us](mailto:icsadvisoryproj@icsadvisoryproject.com) if you have questions about the project or suggestions to improve, expand, and protect this data source.
 
 ## ICS Advisory Project | ICS Advisory Dashboard ##
-To view the ICS Advisory Project: ICS-CERT Advisory Dashboard, click [Here](https://www.icsadvisoryproject.com/home).
+To view the ICS Advisory Project: ICS Advisory Dashboard, click [Here](https://www.icsadvisoryproject.com/home).
 
 ## NEW ICS Advisory Project add-on for Splunk
 Check out Efi Kaufman's Splunk Add-On for CISA ICS Advisories: https://github.com/efi-k/ICS_CERT_TA
