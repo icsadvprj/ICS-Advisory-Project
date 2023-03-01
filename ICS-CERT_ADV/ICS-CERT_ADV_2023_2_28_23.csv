@@ -1,4 +1,11 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2389,2/28/2023,No Updates,2023,ICSA-23-059-01,Hitachi Energy Gateway Station,Hitachi Energy,Gateway Station (GWS),Hitachi Energy reports these vulnerabilities affect open-source software (OpenLDAP and OpenSSL) used by the following Gateway Station (GWS) versions: GWS 2.0.0.0 GWS 2.1.0.0 GWS 2.2.0.0 GWS 2.3.0.0 GWS 2.4.0.0 GWS 3.0.0.0 GWS 3.1.0.0 GWS 3.2.0.0 and earlier.,"CVE-2020-25692
+CVE-2022-0778",7.5,High,"CWE-476
+CWE-835",Energy,Worldwide,Switzerland
+2388,2/28/2023,No Updates,2023,ICSA-23-059-02,Hitachi Energy Gateway Station,Hitachi Energy,Gateway Station (GWS),Hitachi Energy reports these vulnerabilities affect the following Gateway Station (GWS) versions: GWS 3.0.0.0 GWS 3.1.0.0 GWS 3.2.0.0.,"CVE-2022-2277
+CVE-2022-29922
+CVE-2022-1778",7.5,High,"CWE-20
+CWE-120",Energy,Worldwide,Switzerland
 2386,2/21/2023,No Updates,2023,ICSA-23-052-01,Mitsubishi Electric MELSOFT iQ AppPortal,Mitsubishi Electric,MELSOFT iQ AppPortal,The following Mitsubishi Electric products and versions are affected: MELSOFT iQ AppPortal (SW1DND-IQAPL-M): v1.00A to 1.29F.,"CVE-2022-26377
 CVE-2022-31813",9.8,Critical,"CWE-444
 CWE-345",Critical Manufacturing,Worldwide,Japan
