@@ -3363,21 +3363,7 @@ Compact GuardLogix 5370 controllers: firmware Versions 33.013 and earlier
 ControlLogix 5570 controllers: firmware Versions 33.013 and earlier
 GuardLogix 5570 controllers: firmware Versions 33.013 and earlier.",CVE-2022-1797,6.8,Medium,CWE-400,Multiple Critical Sectors,Worldwide,United States
 2074,5/24/2022,No Updates,2022,ICSA-22-144-02,Matrikon OPC Server,Matrikon (Subsidiary of Honeywell),Matrikon OPC Server,The following versions of Makitron OPC software are affected: Matrikon OPC Server: All versions.,CVE-2022-1261,5.8,Medium,CWE-284,Multiple Critical Sectors,Worldwide,Canada
-2073,5/19/2022,5/31/2022,2022,ICSA-22-139-01,Mitsubishi Electric MELSEC iQ-F Series (Update A),Mitsubishi Electric,MELSEC iQ-F Series,"The following versions of the MELSEC iQ-F series a CPU module are affected:
---------- Begin Update A Part 1 of 3 ---------
-MELSEC iQ-F FX5U-xMy/z x=32,64,80, y=T,R, z=ES,DS,ESS,DSS with serial number 17X**** or later: All versions prior to 1.270
-MELSEC iQ-F FX5U-xMy/z x=32,64,80, y=T,R, z=ES,DS,ESS,DSS with Serial number 179**** and prior: All versions prior to 1.073
-MELSEC iQ-F FX5UC-xMy/z x=32,64,96, y=T,R, z=D,DSS with serial number 17X**** or later: All versions prior to 1.270
-MELSEC iQ-F FX5UC-xMy/z x=32,64,96, y=T,R, z=D,DSS with Serial number 179**** and prior: All versions prior to 1.073
---------- End Update A Part 1 of 3 ---------
-
-MELSEC iQ-F FX5UC-32MT/DS-TS, FX5UC-32MT/DSS-TS, FX5UC-32MR/DS-TS: All versions prior to 1.270
-MELSEC iQ-F FX5UJ-xMy/z x=24,40,60, y=T,R, z=ES,ESS: All versions prior to 1.030
---------- Begin Update A Part 2 of 3 ---------
-
-MELSEC iQ-F FX5UJ-xMy/ES-A x=24,40,60, y=T.R: All versions prior to 1.031 (These products are sold in limited regions)
-MELSEC iQ-F FX5S-xMy/z x=30,40,60,80, y=T.R, z=ES,ESS: Version 1.000 (These products are sold in limited regions)
---------- End Update A Part 2 of 3 ---------","CVE-2022-25161
+2073,5/19/2022,2/28/2023,2022,ICSA-22-139-01,Mitsubishi Electric MELSEC iQ-F Series (Update B),Mitsubishi Electric,MELSEC iQ-F Series,"The following versions of the MELSEC iQ-F series a CPU module are affected: --------- Begin Update A Part 1 of 3 --------- MELSEC iQ-F FX5U-xMy/z x=32,64,80, y=T,R, z=ES,DS,ESS,DSS with serial number 17X**** or later: All versions prior to 1.270 MELSEC iQ-F FX5U-xMy/z x=32,64,80, y=T,R, z=ES,DS,ESS,DSS with Serial number 179**** and prior: All versions prior to 1.073 MELSEC iQ-F FX5UC-xMy/z x=32,64,96, y=T,R, z=D,DSS with serial number 17X**** or later: All versions prior to 1.270 MELSEC iQ-F FX5UC-xMy/z x=32,64,96, y=T,R, z=D,DSS with Serial number 179**** and prior: All versions prior to 1.073 --------- End Update A Part 1 of 3 --------- MELSEC iQ-F FX5UC-32MT/DS-TS, FX5UC-32MT/DSS-TS, FX5UC-32MR/DS-TS: All versions prior to 1.270 MELSEC iQ-F FX5UJ-xMy/z x=24,40,60, y=T,R, z=ES,ESS: All versions prior to 1.030 --------- Begin Update A Part 2 of 3 --------- MELSEC iQ-F FX5UJ-xMy/ES-A x=24,40,60, y=T.R: All versions prior to 1.031 (These products are sold in limited regions) MELSEC iQ-F FX5S-xMy/z x=30,40,60,80, y=T.R, z=ES,ESS: Version 1.000 (These products are sold in limited regions) --------- End Update A Part 2 of 3 ---------.","CVE-2022-25161
 CVE-2022-25162",8.6,High,CWE-20,Critical Manufacturing,Worldwide,Japan
 2072,5/17/2022,No Updates,2022,ICSA-22-137-01,Circutor COMPACT DC-S BASIC,Circutor,COMPACT DC-S BASIC,"The following versions of Circutor COMPACT DC-S BASIC, a smart metering concentrator, are affected: Circutor COMPACT DC-S BASIC: CIR_CDC_v1.2.17.",CVE-2022-1669,6.8,Medium,CWE-121,Critical Manufacturing,Worldwide,Spain
 2071,5/12/2022,No Updates,2022,ICSA-22-132-01,Delta Electronics CNCSoft,Delta Electronics,CNCSoft,"The following versions of CNCSoft, a software management platform, are affected: CNCSoft: All versions prior to 1.01.32.","CVE-2022-1405
