@@ -4735,59 +4735,7 @@ Setting/Monitoring tools for the C Controller module (SW4PVC-CCPU), Versions 4.1
 SLMP Data Collector, Versions 1.04E and prior.","CVE-2021-20587
 CVE-2021-20588",7.5,High,"CWE-122
 CWE-130",Critical Manufacturing,Worldwide,Japan
-1944,2/8/2022,11/22/2022,2020,ICSA-20-212-04,Mitsubishi Electric Factory Automation Engineering Products (Update I),Mitsubishi Electric,"Mitsubishi Electric, Factory Automation Engineering products","The following products and versions are affected:
---------- Begin Update I Part 1 of 2 ---------
-C Controller Interface Module Utility, version 2.10 or prior
---------- End Update I Part 1 of 2 ---------
-C Controller Interface Module Utility, all versions
-CC-Link IE Control Network Data Collector, Version 1.00A
-CC-Link IE Field Network Data Collector, Version 1.00A
-CC-Link IE TSN Data Collector, Version 1.00A
-CPU Module Logging Configuration Tool, Versions 1.100E and prior
-CW Configurator, Versions 1.010L and prior
-Data Transfer, Versions 3.42U and prior
-EZSocket, version 5.1 and prior
-FR Configurator SW3, all versions
-FR Configurator2: Versions 1.26C and prior
-GT Designer2 Classic, all versions
-GT Designer3 Version1 (GOT1000), Versions 1.241B and prior
-GT Designer3 Version1 (GOT2000), Versions 1.241B and prior
-GT SoftGOT1000 Version3, Versions 3.200J and prior
-GT SoftGOT2000 Version1, Versions 1.241B and prior
-GX Developer, Versions 8.504A and prior
-GX LogViewer, Versions 1.100E and prior
-GX Works2, Versions 1.601B and prior
-GX Works3, Versions 1.063R and prior
-M_CommDTM-IO-Link, Versions 1.03D and prior
-MELFA-Works: Version 4.4 and prior
-MELSEC WinCPU Setting Utility, all versions
-MELSOFT Complete Clean Up Tool, Versions 1.06G and prior
---------- Begin Update I Part 2 of 2 ---------
-MELSOFT EM Software Development Kit, version 1.020W or prior
---------- End Update I Part 2 of 2 ---------
-MELSOFT iQ AppPortal, 1.17T and prior
-MELSOFT Navigator, Versions 2.74C and prior
-MI Configurator, Version 1.004E and prior
-Motion Control Setting, Versions 1.005F and prior
-Motorizer, Versions 1.005F and prior
-MR Configurator2, Version 1.125F and prior
-MT Works2, Version 1.167Z and prior
-MTConnect Data Collector, Version 1.1.4.0 and prior
-MX Component, Version 4.20W and prior
-MX MESInterface, Versions 1.21X and prior
-MX MESInterface-R, Versions 1.12N and prior
-MX Sheet, Version 2.15R and prior
-Network Interface Board CC IE Control Utility, Versions 1.29F and prior
-Network Interface Board CC IE Field Utility, Versions 1.16S and prior
-Network Interface Board CC-Link Ver.2 Utility, Versions 1.23Z and prior
-Network Interface Board MNETH Utility, Versions 34L and prior
-Position Board utility 2, all versions
-PX Developer, version 1.53F and prior
-RT ToolBox2: Version 3.73B and prior
-RT ToolBox3: Version 1.82L and prior
-Setting/Monitoring tools for the C Controller module (SW3PVC-CCPU), Version 3.13P and prior
-Setting/Monitoring tools for the C Controller module (SW4PVC-CCPU), Version 4.12N and prior
-SLMP Data Collector, Version 1.04E and prior.",CVE-2020-14521,8.3,High,CWE-428,Critical Manufacturing,Worldwide,Japan
+1944,2/8/2022,3/2/2023,2020,ICSA-20-212-04,Mitsubishi Electric Factory Automation Engineering Products (Update J),Mitsubishi Electric,"Mitsubishi Electric, Factory Automation Engineering products","The following products and versions are affected: C Controller Interface Module Utility, Versions 2.00 and prior CC-Link IE Control Network Data Collector, Version 1.00A CC-Link IE Field Network Data Collector, Version 1.00A CC-Link IE TSN Data Collector, Version 1.00A CPU Module Logging Configuration Tool, Versions 1.100E and prior CW Configurator, Versions 1.010L and prior Data Transfer, Versions 3.42U and prior EZSocket, version 5.1 and prior FR Configurator SW3, all versions FR Configurator2: Versions 1.26C and prior GT Designer2 Classic, all versions GT Designer3 Version1 (GOT1000), Versions 1.241B and prior GT Designer3 Version1 (GOT2000), Versions 1.241B and prior GT SoftGOT1000 Version3, Versions 3.200J and prior GT SoftGOT2000 Version1, Versions 1.241B and prior GX Developer, Versions 8.504A and prior GX LogViewer, Versions 1.100E and prior GX Works2, Versions 1.601B and prior GX Works3, Versions 1.063R and prior M_CommDTM-IO-Link, Versions 1.03D and prior MELFA-Works: Version 4.4 and prior MELSEC WinCPU Setting Utility, all versions MELSOFT Complete Clean Up Tool, Versions 1.06G and prior MELSOFT EM Software Development Kit, Versions 1.015R and prior MELSOFT iQ AppPortal, 1.17T and prior MELSOFT Navigator, Versions 2.74C and prior MI Configurator, Version 1.004E and prior Motion Control Setting, Versions 1.005F and prior Motorizer, Versions 1.005F and prior MR Configurator2, Version 1.125F and prior MT Works2, Version 1.167Z and prior MTConnect Data Collector, Version 1.1.4.0 and prior MX Component, Version 4.20W and prior MX MESInterface, Versions 1.21X and prior MX MESInterface-R, Versions 1.12N and prior MX Sheet, Version 2.15R and prior Network Interface Board CC IE Control Utility, Versions 1.29F and prior Network Interface Board CC IE Field Utility, Versions 1.16S and prior Network Interface Board CC-Link Ver.2 Utility, Versions 1.23Z and prior Network Interface Board MNETH Utility, Versions 34L and prior --------- Begin Update J Part 1 of 1 --------- Position Board Utility 2: Versions 3.20 and prior --------- End Update J Part 1 of 1 --------- PX Developer, version 1.53F and prior RT ToolBox2: Version 3.73B and prior RT ToolBox3: Version 1.82L and prior Setting/Monitoring tools for the C Controller module (SW3PVC-CCPU), Version 3.13P and prior Setting/Monitoring tools for the C Controller module (SW4PVC-CCPU), Version 4.12N and prior SLMP Data Collector, Version 1.04E and prior.",CVE-2020-14521,8.3,High,CWE-428,Critical Manufacturing,Worldwide,Japan
 1943,2/3/2022,No Updates,2022,ICSA-22-034-01,Sensormatic PowerManage,Sensormatic Electronics LLC (Subsidiary of Johnson Controls),PowerManage,"The following versions of Sensormatic Electronics, LLC PowerManage, an operating platform, are affected: PowerManage Versions 4.0 to 4.8.",CVE-2021-44228,10,Critical,CWE-20,Critical Manufacturing,Worldwide,Ireland
 1942,2/3/2022,No Updates,2022,ICSA-22-034-02,Airspan Networks Mimosa,Airspan Networks,Mimosa by Airspan product line,"The following products of the Mimosa by Airspan product line, a network management software platform, are affected: MMP: All versions prior to v1.0.3 PTP C-series: Device versions prior to v2.8.6.1 PTMP C-series and A5x: Device versions prior to v2.5.4.1.","CVE-2022-0138
 CVE-2022-21141
