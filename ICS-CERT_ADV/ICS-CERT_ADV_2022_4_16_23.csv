@@ -598,7 +598,12 @@ CWE-836
 CWE-79
 CWE-284",Multiple Critical Sectors,Worldwide,Japan
 2297,12/8/2022,No Updates,2022,ICSA-22-342-01,Advantech iView,Advantech,iView,The following versions of Advantech iView management software are affected: Version 5.7.04.6469 and prior.,CVE-2022-3323,7.5,High,CWE-89 ,Multiple Critical Sectors,"East Asia, Europe, United States",Taiwan
-2296,12/8/2022,No Updates,2022,ICSA-22-342-02,AVEVA InTouch Access Anywhere,AVEVA,InTouch Access Anywhere,"The following versions of AVEVA InTouch Access Anywhere, a remote human machine interface (HMI) software, are affected: Versions 2020 R2 and older.",CVE-2022-23854,7.5,High,CWE-23,Critical Manufacturing,Worldwide,United Kingdom
+2296,12/8/2022,3/16/2023,2022,ICSA-22-342-02,AVEVA InTouch Access Anywhere and Plant SCADA Access Anywhere (Update A),AVEVA,"InTouch Access Anywhere, Plant SCADA Access Anywhere
+",Begin Update A Part 4 of 6 --------- The following versions of AVEVA InTouch Access Anywhere and Plant SCADA Access Anywhere—both remote human machine interface (HMI) software—are affected: InTouch Access Anywhere: 2023 and prior Plant SCADA Access Anywhere: 2020 R2 and prior --------- End Update A Part 4 of 6.,"CVE-2022-23854
+CVE-2021-3711
+CVE-2020-11022",9.8,Critical,"CWE-23
+CWE-120
+CWE-79",Critical Manufacturing,Worldwide,United Kingdom
 2295,12/8/2022,No Updates,2022,ICSA-22-342-03,Rockwell Automation Logix controllers,Rockwell Automation,"CompactLogix, Compact GuardLogix, ControlLogix, and GuardLogix controllers","The following Rockwell Automation controllers are affected: 
 CompactLogix 5380 controllers: firmware version 31.011 and later
 Compact GuardLogix 5380 controllers: firmware version 31.011 and later
