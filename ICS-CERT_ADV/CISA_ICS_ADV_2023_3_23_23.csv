@@ -1,4 +1,44 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2422,3/23/2023,No Updates,2023,ICSA-23-082-01,RoboDK,RoboDK,RoboDK,"The following versions of RoboDK, a programming and simulation software, are affected: RoboDK v5.5.3 and prior.",CVE-2023-1516,7.9,High,CWE-732,Critical Manufacturing,Worldwide,Canada
+2421,3/23/2023,No Updates,2023,ICSA-23-082-02,CP-Plus KVMS Pro,CP Plus,KVMS Pro,"The following versions of CP Plus KVMS Pro, a software management platform, are affected: KVMS Pro V2.01.0.T.190521 and prior.",CVE-2023-1518,7.8,High,CWE-522,Commercial Facilities,Worldwide,India
+2420,3/23/2023,No Updates,2023,ICSA-23-082-03,SAUTER EY-modulo 5 Building Automation Stations,SAUTER,EY-modulo 5 Building Automation Stations,SAUTER reports these vulnerabilities affect the following EY-modulo 5 Building Automation Stations: EY-AS525F001 with moduWeb.,"CVE-2023-28650
+CVE-2023-28655
+CVE-2023-22300
+CVE-2023-27927
+CVE-2023-28652",8.8,High,"CWE-79
+CWE-319
+CWE-434",Critical Manufacturing; Energy,Worldwide,Switzerland
+2419,3/23/2023,No Updates,2023,ICSA-23-082-04,Schneider Electric IGSS,Schneider Electric,IGSS (Interactive Graphical SCADA System),"Schneider Electric reports these vulnerabilities affect the following Data Server, Dashboard and Custom Reports modules for the IGSS (Interactive Graphical SCADA System) product: IGSS Data Server (IGSSdataServer.exe): V16.0.0.23040 and prior IGSS Dashboard (DashBoard.exe): V16.0.0.23040 and prior Custom Reports (RMS16.dll): V16.0.0.23040 and prior.","CVE-2023-27980
+CVE-2023-27982
+CVE-2023-27978
+CVE-2023-27981
+CVE-2023-27984
+CVE-2023-27977
+CVE-2023-27979
+CVE-2023-27983",8.8,High,"CWE-306
+CWE-345
+CWE-502
+CWE-22
+CWE-20",Commercial Facilities; Critical Manufacturing; Energy,Worldwide,France
+2418,3/23/2023,No Updates,2023,ICSA-23-082-05,ABB Pulsar Plus Controller,ABB,Pulsar Plus Controller,"The following versions of ABB Pulsar Plus Controller, are affected: ABB Infinity DC Power Plant – H5692448 G104 G842 G224L G630-4 G451C(2) G461(2) – comcode 150047415 ABB Pulsar Plus System Controller – NE843_S – comcode 150042936.","CVE-2022-1607
+CVE-2022-26080",6.3,High,"CWE-352
+CWE-330",Chemical; Critical Manufacturing; Dams; Energy; Food and Agriculture; Water and Wastewater Systems,Worldwide,Switzerland
+2417,3/23/2023,No Updates,2023,ICSA-23-082-06,ProPump and Controls Osprey Pump Controller,"ProPump and Controls, Inc.",Osprey Pump Controller,"The following version of Osprey Pump Controller, pumping systems, and automated controls is affected: Osprey Pump Controller version 1.01.","CVE-2023-28395
+CVE-2023-28375
+CVE-2023-28654
+CVE-2023-27886
+CVE-2023-27394
+CVE-2023-28648
+CVE-2023-28398
+CVE-2023-28718
+CVE-2023-28712",9.8,High,"CWE-331
+CWE-598
+CWE-259
+CWE-78
+CWE-79
+CWE-288
+CWE-352
+CWE-77",Multiple Critical Sectors,Worldwide,United States
 2416,3/21/2023,No Updates,2023,ICSA-23-080-01,Keysight N6854A Geolocation Server and N6841A RF Sensor,Keysight Technologies,N6854A Geolocation Sever,The following Keysight monitoring products are affected: N6854A Geolocation Server versions 2.4.2 and prior.,CVE-2023-1399,7.8,High,CWE-502,Communications; Government Facilities,Worldwide,United States
 2415,3/21/2023,No Updates,2023,ICSA-23-080-02,Delta Electronics InfraSuite Device Master,Delta Electronics,InfraSuite Device Master,"The following versions of InfraSuite Device Master, a real-time device monitoring software, are affected: Versions prior to 1.0.5.","CVE-2023-1133
 CVE-2023-1139
@@ -13,13 +53,13 @@ CVE-2023-1136
 CVE-2023-1141
 CVE-2023-1135
 CVE-2023-1140",9.8,Critical,"CWE-502
- CWE-284
- CWE-749
- CWE-22
- CWE-287
- CWE-77
- CWE-732
- CWE-306",Energy,Worldwide,Taiwan
+CWE-284
+CWE-749
+CWE-22
+CWE-287
+CWE-77
+CWE-732
+CWE-306",Energy,Worldwide,Taiwan
 2414,3/21/2023,No Updates,2023,ICSA-23-080-03,Siemens RUGGEDCOM APE1808 Product Family,Siemens,RUGGEDCOM APE1808 Product Family,The following software from Siemens is affected: RUGGEDCOM APE1808 ADM (6GK6015-0AL20-0GL0) - vers:all/* RUGGEDCOM APE1808 ADM CC (6GK6015-0AL20-0GL1) - vers:all/* RUGGEDCOM APE1808 CKP (6GK6015-0AL20-0GK0) - vers:all/* RUGGEDCOM APE1808 CKP CC (6GK6015-0AL20-0GK1) - vers:all/* RUGGEDCOM APE1808 CLOUDCONNECT (6GK6015-0AL20-0GM0) - vers:all/* RUGGEDCOM APE1808 CLOUDCONNECT CC (6GK6015-0AL20-0GM1) - vers:all/* RUGGEDCOM APE1808 ELAN (6GK6015-0AL20-0GP0) - vers:all/* RUGGEDCOM APE1808 ELAN CC (6GK6015-0AL20-0GP1) - vers:all/* RUGGEDCOM APE1808 SAM-L (6GK6015-0AL20-0GN0) - vers:all/* RUGGEDCOM APE1808 SAM-L CC (6GK6015-0AL20-0GN1) - vers:all/* RUGGEDCOM APE1808CLA-P (6GK6015-0AL20-1AA0) - vers:all/* RUGGEDCOM APE1808CLA-P CC (6GK6015-0AL20-1AA1) - vers:all/* RUGGEDCOM APE1808CLA-S1 (6GK6015-0AL20-1AB0) - vers:all/* RUGGEDCOM APE1808CLA-S1 CC (6GK6015-0AL20-1AB1) - vers:all/* RUGGEDCOM APE1808CLA-S3 (6GK6015-0AL20-1AD0) - vers:all/* RUGGEDCOM APE1808CLA-S3 CC (6GK6015-0AL20-1AD1) - vers:all/* RUGGEDCOM APE1808CLA-S5 (6GK6015-0AL20-1AF0) - vers:all/* RUGGEDCOM APE1808CLA-S5 CC (6GK6015-0AL20-1AF1) - vers:all/* RUGGEDCOM APE1808LNX (6GK6015-0AL20-0GH0) - vers:all/* RUGGEDCOM APE1808LNX CC (6GK6015-0AL20-0GH1) - vers:all/* RUGGEDCOM APE1808W10 (6GK6015-0AL20-0GJ0) - vers:all/* RUGGEDCOM APE1808W10 CC (6GK6015-0AL20-0GJ1) - vers:all/*.,"CVE-2022-32469
 CVE-2022-32470
 CVE-2022-32471
