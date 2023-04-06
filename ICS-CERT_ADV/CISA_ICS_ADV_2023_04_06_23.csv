@@ -1,4 +1,35 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2430,4/6/2023,No Updates,2023,ICSA-23-096-01,Industrial Control Links ScadaFlex II SCADA Controllers,Industrial Control Links,ScadaFlex II SCADA Controllers,"The following versions of Industrial Control Links ScadaFlex II SCADA Controllers are affected: SW: 1.03.07 (build 317), WebLib: 1.24 SW: 1.02.20 (build 286), WebLib: 1.24 SW: 1.02.15 (build 286), WebLib: 1.22 SW: 1.02.01 (build 229), WebLib: 1.16 SW: 1.01.14 (build 172), WebLib: 1.14 SW: 1.01.01 (build 2149), WebLib: 1.13.",CVE-2022-25359,9.1,Critical,CWE-73,Critical Manufacturing,"North America, South America",United States
+2429,4/6/2023,No Updates,2023,ICSA-23-096-02,JTEKT Screen Creator Advance 2,JTEKT ELECTRONICS CORPORATION,Screen Creator Advance 2,"The following versions of JTEKT ELECTRONICS Screen Creator Advance 2, a software program, are affected: JTEKT ELECTRONICS Screen Creator Advance 2: Ver0.1.1.4 Build01.","CVE-2023-22345
+CVE-2023-22346
+CVE-2023-22347
+CVE-2023-22349
+CVE-2023-22350
+CVE-2023-22353
+CVE-2023-22360",7.8,High,"CWE-787
+CWE-125
+CWE-416",Critical Manufacturing,Worldwide,Japan
+2428,4/6/2023,No Updates,2023,ICSA-23-096-03,JTEKT Kostac PLC,JTEKT ELECTRONICS CORPORATION,Kostac PLC Programming Software,The following versions of JTEKT ELECTRONICS Kostac PLC Programming Software are affected: JTEKT ELECTRONICS Kostac PLC Programing Software: Versions 1.6.9.0 and earlier.,"CVE-2023-22419
+CVE-2023-22421
+CVE-2023-22424",7.8,High,"CWE-125
+CWE-416",Critical Manufacturing,Worldwide,Japan
+2427,4/6/2023,No Updates,2023,ICSA-23-096-04,Korenix Jetwave,Korenix,Jetwave,"The following versions of Korenix Jetwave, are affected: Korenix JetWave4221 HP-E versions V1.3.0 and prior Korenix JetWave 3220/3420 V3 versions prior to V1.7 Korenix JetWave 2212G version V1.3.T Korenix JetWave 2212X/2112S version V1.3.0 Korenix JetWave 2211C versions prior to V1.6 Korenix JetWave 2411/2111 versions prior to V1.5 Korenix JetWave 2411L/2111L versions prior to V1.6 Korenix JetWave 2414/2114 versions prior to V1.4 Korenix JetWave 2424 versions prior to V1.3 Korenix JetWave 2460 versions prior to V1.6.","CVE-2023-23294
+CVE-2023-23295
+CVE-2023-23296",8.8,High,"CWE-77
+CWE-400",Communications,Worldwide,Taiwan
+2426,4/6/2023,No Updates,2023,ICSA-23-096-05,Hitachi Energy MicroSCADA System Data Manager SDM600,Hitachi Energy,MicroSCADA System Data Manager SDM600,"The following versions of Hitachi Energy’s MicroSCADA SDM600, a data management tool, are affected: SDM600: Versions prior to v1.2 FP3 HF4 (Build Nr. 1.2.23000.291) SDM600: Versions prior to v1.3.0 (Build Nr. 1.3.0.1339).","CVE-2022-3682
+CVE-2022-3683
+CVE-2022-3684
+CVE-2022-3685
+CVE-2022-3686",9.9,Critical,"CWE-434
+CWE-285
+CWE-404
+CWE-269",Energy,Worldwide,Switzerland
+2425,4/6/2023,No Updates,2023,ICSA-23-096-06,mySCADA myPRO,mySCADA Technologies,mySCADA myPRO,The following versions of myPRO HMI/SCADA systems are affected: myPRO: versions 8.26.0 and prior.,"CVE-2023-28400
+CVE-2023-28716
+CVE-2023-28384
+CVE-2023-29169
+CVE-2023-29150",9.9,Critical,CWE-78,Energy; Food and Agriculture; Transportation Systems; Water and Wastewater Systems,Worldwide,Czech Republic
 2424,4/4/2023,No Updates,2023,ICSA-23-094-01,Nexx Smart Home Device,Nexx,"Garage Door Controller, Smart Plug, Smart Alarm","The following versions of Nexx Smart Home devices are affected: Nexx Garage Door Controller (NXG-100B, NXG-200): Version nxg200v-p3-4-1 and prior Nexx Smart Plug (NXPG-100W): Version nxpg100cv4-0-0 and prior Nexx Smart Alarm (NXAL-100): Version nxal100v-p1-9-1and prior.","CVE-2023-1748
 CVE-2023-1749
 CVE-2023-1750
