@@ -1,4 +1,22 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2461,5/2/2023,No Updates,2023,ICSA-23-122-01,Mitsubishi Electric Factory Automation Products,Mitsubishi Electric,Factory Automation (FA) Products,The following Mitsubishi Electric Factory Automation products are affected: MELIPC Series MI5122-VM: All versions MI1002-W: All versions MI2012-W: All versions MI3321G-W: All versions MI3315G-W: All versions MELSEC iQ-R Series R102WCPU-W: All versions MELSEC Q Series Q24DHCCPU-V: All versions Q24DHCCPU-VG: All versions Q24DHCCPU-LS: All versions Q26DHCCPU-LS: All versions.,"CVE-2020-24489
+CVE-2020-8670
+CVE-2020-24512
+CVE-2021-0146
+CVE-2021-0089
+CVE-2021-0086
+CVE-2021-0127
+CVE-2021-33150
+CVE-2022-0002
+CVE-2020-8670
+CVE-2020-24489
+CVE-2020-24512
+CVE-2021-0127
+CVE-2021-0146
+CVE-2021-0086
+CVE-2021-0089
+CVE-2021-33150
+CVE-2022-0002",8.8,High,CWE-1395,Critical Manufacturing,Worldwide,Japan
 2460,4/27/2023,No Updates,2023,ICSMA-23-117-01,Illumina Universal Copy Service,Illumina,Universal Copy Service (UCS),The following products using Illumina Universal Copy Service are affected: iScan Control Software: v4.0.0 iScan Control Software: v4.0.5 iSeq 100: All versions MiniSeq Control Software: v2.0 and newer MiSeq Control Software: v4.0 (RUO Mode) MiSeqDx Operating Software: v4.0.1 and newer NextSeq 500/550 Control Software: v4.0 NextSeq 550Dx Control Software: v4.0 (RUO Mode) NextSeq 550Dx Operating Software: v1.0.0 to 1.3.1 NextSeq 550Dx Operating Software: v1.3.3 and newer NextSeq 1000/2000 Control Software: v1.7 and prior NovaSeq 6000 Control Software: v1.7 and prior NovaSeq Control Software: v1.8.,"CVE-2023-1968
 CVE-2023-1966",10,Critical,"CWE-1327
 CWE-250",Healthcare and Public Health,Worldwide,United States
