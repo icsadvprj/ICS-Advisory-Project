@@ -1,4 +1,17 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2462,5/9/2023,No Updates,2023,ICSA-23-129-02,Hitachi Energy MSM,Hitachi Energy,Modular Switchgear Monitoring (MSM),The following Hitachi Energy products are affected: MSM: 2.2.5 and earlier,"CVE-2021-43298
+CVE-2020-15688
+CVE-2019-16645
+CVE-2019-12822
+CVE-2018-15504
+CVE-2018-15505
+CVE-2021-41615
+CVE-2023-23916",9.8,Critical,"CWE-307
+CWE-294
+CWE-94
+CWE-119
+CWE-476
+CWE-331",Energy,Worldwide,Switzerland
 2461,5/2/2023,No Updates,2023,ICSA-23-122-01,Mitsubishi Electric Factory Automation Products,Mitsubishi Electric,Factory Automation (FA) Products,The following Mitsubishi Electric Factory Automation products are affected: MELIPC Series MI5122-VM: All versions MI1002-W: All versions MI2012-W: All versions MI3321G-W: All versions MI3315G-W: All versions MELSEC iQ-R Series R102WCPU-W: All versions MELSEC Q Series Q24DHCCPU-V: All versions Q24DHCCPU-VG: All versions Q24DHCCPU-LS: All versions Q26DHCCPU-LS: All versions.,"CVE-2020-24489
 CVE-2020-8670
 CVE-2020-24512
