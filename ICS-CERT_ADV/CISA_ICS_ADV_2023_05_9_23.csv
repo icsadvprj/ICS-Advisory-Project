@@ -1,4 +1,84 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2477,5/11/2023,No Updates,2023,ICSA-23-131-15,Rockwell Automation ThinManager,Rockwell Automation,ThinManager,"The following versions of ThinManager, a software management platform, are affected: ThinManager: Versions 13.0 to 13.0.1.",CVE-2023-2443,7.5,High,CWE-326,Critical Manufacturing,Worldwide,United States
+2476,5/11/2023,No Updates,2023,ICSA-23-131-14,Rockwell Automation PanelView 800,Rockwell Automation,PanelView 800,"The following versions of PanelView 800, a graphics terminal, are affected: PanelView 800-2711R-T4T: Version 5.011 to 8.011 PanelView 800-2711R-T7T: Version 5.011 to 8.011 PanelView 800-2711R-T10T: Version 5.011 to 8.011.","CVE-2020-36177
+CVE-2019-16748",9.8,Critical,"CWE-787
+CWE-125",Energy; Water and Wastewater Systems; Telecommunications,Worldwide,United States
+2475,5/11/2023,No Updates,2023,ICSA-23-131-13,PTC Vuforia Studio,PTC,Vuforia Studio,PTC reports these vulnerabilities affect the following Vuforia Studio products: Vuforia Studio: all versions prior to 9.9.,"CVE-2023-29168
+CVE-2023-24476
+CVE-2023-29152
+CVE-2023-27881
+CVE-2023-29502
+CVE-2023-31200",8,High,"CWE-522
+CWE-285
+CWE-434
+CWE-22
+CWE-352",Multiple Critical Sectors,Worldwide,United States
+2474,5/11/2023,No Updates,2023,ICSA-23-131-12,SDG PnPSCADA,SDG Technologies,PnPSCADA,The following versions of SDG PnPSCADA products are affected: PnPSCADA (cross platforms): v2.*.,CVE-2023-1934,9.8,Critical,CWE-89,Multiple Critical Sectors,Worldwide,South Africa
+2473,5/11/2023,No Updates,2023,ICSA-23-131-11,BirdDog Cameras and Encoders,BirdDog,"STUDIO R3, 4K QUAD, MINI, A300 EYES",The following BirdDog camera and encoder versions are affected: 4K QUAD: Versions 4.5.181 and 4.5.196 MINI: Version 2.6.2 A300 EYES: Version 3.4 STUDIO R3: Version 3.6.4.,"CVE-2023-2505
+CVE-2023-2504",8.4,High,"CWE-352
+CWE-798",Commercial Facilities,Worldwide,Australia
+2472,5/11/2023,No Updates,2023,ICSA-23-131-10,Rockwell Automation Arena Simulation Software,Rockwell Automation,Arena Simulation Software,The following Rockwell Automation product is affected: Arena Simulation Software: v16.20.01.,"CVE-2023-29460
+CVE-2023-29461
+CVE-2023-29462",7.8,High,CWE-119,Critical Manufacturing,Worldwide,United States
+2471,5/11/2023,No Updates,2023,ICSA-23-131-09,Rockwell Automation Kinetix 5500,Rockwell Automation,Kinetix 5500 EtherNet/IP Servo Drive,"The following versions of Kinetix 5500 EtherNet/IP Servo Drive, an industrial control router, are affected: Kinetix 5500 devices manufactured between May 2022 and January 2023: Version 7.13.",CVE-2023-1834,9.4,Critical,CWE-284,Energy; Water and Wastewater Systems; Chemical; Critical Manufacturing,Worldwide,United States
+2470,5/11/2023,No Updates,2023,ICSA-23-131-08,Teltonika Remote Management System and RUT Model Routers,Teltonika,Remote Management System and RUT model routers,"The following Teltonika products are affected: Remote Management System (RMS): Versions prior to 4.10.0 (affected by CVE-2023-32346, CVE-2023-32347, CVE-2023-32348, CVE-2023-2587, CVE-2023-2588) Remote Management System (RMS): Versions prior to 4.14.0 (affected by CVE-2023-2586) RUT model routers: Version 00.07.00 through 00.07.03.4 (affected by CVE-2023-32349) RUT model routers: Version 00.07.00 through 00.07.03 (affected by CVE-2023-32350).","CVE-2023-32346
+CVE-2023-32347
+CVE-2023-32348
+CVE-2023-2586
+CVE-2023-2587
+CVE-2023-2588
+CVE-2023-32349
+CVE-2023-32350",10,Critical,"CWE-204
+CWE-287
+CWE-918
+CWE-79
+CWE-830
+CWE-15
+CWE-78",Water and Wastewater Systems; Energy; Critical Manufacturing,Worldwide,Lithuania
+2469,5/11/2023,No Updates,2023,ICSA-23-131-07,Sierra Wireless AirVantage,Sierra Wireless,AirVantage,"The following versions of Sierra Wireless AirVantage, a cloud management platform, are affected: AirVantage Platform.","CVE-2023-31279
+CVE-2023-31280",8.1,High,"CWE-287
+CWE-200",Multiple Critical Sectors,Worldwide,Canada
+2468,5/11/2023,No Updates,2023,ICSA-23-131-06,Siemens SCALANCE LPE9403,Siemens,SCALANCE LPE9403,The following products from Siemens are affected: SCALANCE LPE9403 (6GK5998-3GS00-2AC2): Versions prior to 2.1.,"CVE-2023-27407
+CVE-2023-27408
+CVE-2023-27409
+CVE-2023-27410",9.9,Critical,"CWE-77
+CWE-378
+CWE-22
+CWE-122",Multiple Critical Sectors,Worldwide,Germany
+2467,5/11/2023,No Updates,2023,ICSA-23-131-05,Siemens SINEC NMS Third-Party,Siemens,Third-party components libexpat and libcurl in SINEC NMS,The following products are affected: Third-Party components used in SINEC NMS: All versions prior to V1.0.3.1.,"CVE-2022-32221
+CVE-2022-35252
+CVE-2022-35260
+CVE-2022-40674
+CVE-2022-43552
+CVE-2022-43680
+CVE-2022-42915
+CVE-2022-42916
+CVE-2022-43551",9.8,Critical,"CWE-440
+CWE-1286
+CWE-121
+CWE-416
+CWE-415
+CWE-319",Multiple Critical Sectors,Worldwide,Germany
+2466,5/11/2023,No Updates,2023,ICSA-23-131-04,Siemens SIMATIC Cloud Connect 7,Siemens,SIMATIC Cloud Connect 7,The following products from Siemens are affected: SIMATIC Cloud Connect 7 CC712 (6GK1411-1AC00): All versions V2.0 to V2.1 SIMATIC Cloud Connect 7 CC712 (6GK1411-1AC00): All versions prior to V2.1 SIMATIC Cloud Connect 7 CC716 (6GK1411-5AC00): All versions V2.0 to V2.1 SIMATIC Cloud Connect 7 CC716 (6GK1411-5AC00): All versions prior to V2.1.,"CVE-2023-28832
+CVE-2023-29103
+CVE-2023-29104
+CVE-2023-29105
+CVE-2023-29106
+CVE-2023-29107
+CVE-2023-29128",7.2,High,"CWE-77
+CWE-259
+CWE-22
+CWE-544
+CWE-200
+CWE-552",Multiple Critical Sectors,Worldwide,Germany
+2465,5/11/2023,No Updates,2023,ICSA-23-131-03,Siemens Siveillance Video Event and Management Servers,Siemens,Siveillance Video,Siemens reports these vulnerabilities affect the following IP video management software: Siveillance Video 2020 R2: all versions prior to V20.2 HotfixRev14 Siveillance Video 2020 R3: all versions prior to V20.3 HotfixRev12 Siveillance Video 2021 R1: all versions prior to V21.1 HotfixRev12 Siveillance Video 2021 R2: all versions prior to V21.2 HotfixRev8 Siveillance Video 2022 R1: all versions prior to V22.1 HotfixRev7 Siveillance Video 2022 R2: all versions prior to V22.2 HotfixRev5 Siveillance Video 2022 R3: all versions prior to V22.3 HotfixRev2 Siveillance Video 2023 R1: all versions prior to V23.1 HotfixRev1.,"CVE-2023-30898
+CVE-2023-30899",9.9,Critical,CWE-502,Communications; Commercial Facilities,Worldwide,Germany
+2464,5/11/2023,No Updates,2023,ICSA-23-131-02,Siemens SCALANCE W1750D,Siemens,SCALANCE W1750D,The following products from Siemens are affected: SCALANCE W1750D (JP) (6GK5750-2HX01-1AD0): All versions SCALANCE W1750D (ROW) (6GK5750-2HX01-1AA0): All versions SCALANCE W1750D (USA) (6GK5750-2HX01-1AB0): All versions.,CVE-2022-47522,8.4,High,CWE-20,Multiple Critical Sectors,Worldwide,Germany
+2463,5/11/2023,No Updates,2023,ICSA-23-131-01,Siemens Solid Edge,Siemens,Solid Edge,The following Siemens products are affected: Solid Edge SE2023: All versions prior to V223.0 Update 3 Solid Edge SE2023: All versions prior to V223.0 Update 2.,"CVE-2023-0973
+CVE-2023-30985
+CVE-2023-30986",7.8,High,"CWE-476
+CWE-125
+CWE-119",Multiple Critical Sectors,Worldwide,Germany
 2462,5/9/2023,No Updates,2023,ICSA-23-129-02,Hitachi Energy MSM,Hitachi Energy,Modular Switchgear Monitoring (MSM),The following Hitachi Energy products are affected: MSM: 2.2.5 and earlier,"CVE-2021-43298
 CVE-2020-15688
 CVE-2019-16645
