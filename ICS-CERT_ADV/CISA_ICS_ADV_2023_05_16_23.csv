@@ -1,4 +1,30 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2480,5/16/2023,No Updates,2023,ICSA-23-136-01,Snap One OvrC Cloud,Snap One,"OvrC Cloud, OvrC Pro Devices",The following Snap One component is affected: OvrC Pro version 7.1.,"CVE-2023-28649
+CVE-2023-28412
+CVE-2023-31241
+CVE-2023-31193
+CVE-2023-28386
+CVE-2023-31245
+CVE-2023-31240
+CVE-2023-25183",8.6,High,"CWE-20
+CWE-204
+CWE-284
+CWE-319
+CWE-345
+CWE-601
+CWE-798
+CWE-912",Communications,Worldwide,United States
+2479,5/16/2023,No Updates,2023,ICSA-23-136-02,Rockwell ArmorStart,Rockwell Automation,ArmorStart,The following versions of Rockwell ArmorStart are affected: ArmorStart ST281E: Version 2.004.06 and later ArmorStart ST284E: All versions ArmorStart ST280E: All versions.,"CVE-2023-29031
+CVE-2023-29030
+CVE-2023-29023
+CVE-2023-29024
+CVE-2023-29025
+CVE-2023-29026
+CVE-2023-29027
+CVE-2023-29028
+CVE-2023-29029
+CVE-2023-29022",7,High,CWE-20,Critical Manufacturing,Worldwide,United States
+2478,5/16/2023,No Updates,2023,ICSA-23-136-03,Rockwell Automation FactoryTalk Vantagepoint,Rockwell Automation,FactoryTalk Vantagepoint,The following versions of Rockwell Automation FactoryTalk Vantagepoint are affected: FactoryTalk Vantagepoint: All versions prior to 8.40.,CVE-2023-2444,7.1,High,CWE-345,Critical Manufacturing,Worldwide,United States
 2477,5/11/2023,No Updates,2023,ICSA-23-131-15,Rockwell Automation ThinManager,Rockwell Automation,ThinManager,"The following versions of ThinManager, a software management platform, are affected: ThinManager: Versions 13.0 to 13.0.1.",CVE-2023-2443,7.5,High,CWE-326,Critical Manufacturing,Worldwide,United States
 2476,5/11/2023,No Updates,2023,ICSA-23-131-14,Rockwell Automation PanelView 800,Rockwell Automation,PanelView 800,"The following versions of PanelView 800, a graphics terminal, are affected: PanelView 800-2711R-T4T: Version 5.011 to 8.011 PanelView 800-2711R-T7T: Version 5.011 to 8.011 PanelView 800-2711R-T10T: Version 5.011 to 8.011.","CVE-2020-36177
 CVE-2019-16748",9.8,Critical,"CWE-787
