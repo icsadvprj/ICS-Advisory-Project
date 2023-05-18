@@ -1,4 +1,10 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2484,5/18/2023,No Updates,2023,ICSA-23-138-01,Carlo Gavazzi Powersoft,Carlo Gavazzi,Powersoft,"The following versions of Carlo Gavazzi Powersoft, an energy management software, are affected: Powersoft: Versions 2.1.1.1 and prior.",CVE-2017-20184,7.5,High,CWE-22,Critical Manufacturing,Worldwide,Switzerland
+2483,5/18/2023,No Updates,2023,ICSA-23-138-02,Mitsubishi Electric MELSEC WS,Mitsubishi Electric,WS0-GETH00200,"The following versions of Mitsubishi Electric MELSEC WS Series, an ethernet interface module, are affected: WS0-GETH00200: All versions.",CVE-2023-1618,7.5,High,CWE-489,Critical Manufacturing,Worldwide,Japan
+2482,5/18/2023,No Updates,2023,ICSA-23-138-03,Hitachi Energy MicroSCADA Pro/X SYS600,Hitachi Energy,MicroSCADA Pro/X SYS600 Products,The following versions of Hitachi Energy’s MicroSCADA Pro/X SYS600 products are affected: SYS600: 9.4 FP2 Hotfix 5 and earlier SYS600: 10.1.1 and earlier.,CVE-2011-1207,6.7,Medium,CWE-264,Energy,Worldwide,Switzerland
+2481,5/18/2023,No Updates,2023,ICSA-23-138-04,Johnson Controls OpenBlue Enterprise Manager Data Collector,Johnson Controls Inc.,OpenBlue Enterprise Manager Data Collector,The following Johnson Controls products are affected: OpenBlue Enterprise Manager Data Collector: Firmware versions prior to 3.2.5.75.,"CVE-2023-2024
+CVE-2023-2025",10,Critical,"CWE-287
+CWE-200",Critical Manufacturing,Worldwide,Ireland
 2480,5/16/2023,No Updates,2023,ICSA-23-136-01,Snap One OvrC Cloud,Snap One,"OvrC Cloud, OvrC Pro Devices",The following Snap One component is affected: OvrC Pro version 7.1.,"CVE-2023-28649
 CVE-2023-28412
 CVE-2023-31241
