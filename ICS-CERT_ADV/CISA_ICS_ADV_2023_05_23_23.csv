@@ -1,4 +1,31 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2488,5/23/2023,No Updates,2023,ICSA-23-143-01,"Hitachi Energy’s AFS65x, AFS67x, AFR67x and AFF66x Products",Hitachi Energy,"AFS65x, AFS67x, AFR67x and AFF66x series products","The following versions of Hitachi Energy’s AFS65x, AFS67x, AFR67x and AFF66x series products, are affected: AFS660/665S, AFS660/665C, AFS670v2: Firmware 7.1.05 and earlier AFS670/675, AFR67x: Firmware 9.1.07 and earlier AFF660/665: Firmware 03.0.02 and earlier AFS65x: All versions","CVE-2022-40674
+CVE-2022-43680",8.1,High,CWE-416,Energy,Worldwide,Switzerland
+2487,5/23/2023,No Updates,2023,ICSA-23-143-02,Hitachi Energy’s RTU500 Series Product,Hitachi Energy,RTU500 Series,"The following versions of Hitachi Energy’s RTU500 Series Product, are affected: For CVE-2023-0286, CVE-2022-4304 RTU500 series CMU Firmware: version 12.0.1 through 12.0.15 RTU500 series CMU Firmware: version 12.2.1 through 12.2.12 RTU500 series CMU Firmware: version 12.4.1 through 12.4.12 RTU500 series CMU Firmware: version 12.6.1 through 12.6.9 RTU500 series CMU Firmware: version 12.7.1 through 12.7.6 RTU500 series CMU Firmware: version 13.2.1 through 13.2.6 RTU500 series CMU Firmware: version 13.3.1 through 13.3.3 RTU500 series CMU Firmware: version 13.4.1 through 13.4.2 For CVE-2022-23937, CVE-2022-0778, CVE-2021-3711, CVE-2021-3712 RTU500 series CMU Firmware: version 12.0.1 through 12.0.14 RTU500 series CMU Firmware: version 12.2.1 through 12.2.11 RTU500 series CMU Firmware: version 12.4.1 through 12.4.11 RTU500 series CMU Firmware: version 12.6.1 through 12.6.8 RTU500 series CMU Firmware: version 12.7.1 through 12.7.5 RTU500 series CMU Firmware: version 13.2.1 through 13.2.5 RTU500 series CMU Firmware: version 13.3.1 through 13.3.3 RTU500 series CMU Firmware: version 13.4.1 through 13.4.1","CVE-2023-0286
+CVE-2022-4304
+CVE-2022-23937
+CVE-2022-0778
+CVE-2021-3711
+CVE-2021-3712",9.8,Critical,"CWE-843
+CWE-208
+CWE-125
+CWE-835
+CWE-120",Energy,Worldwide,Switzerland
+2486,5/23/2023,No Updates,2023,ICSA-23-143-03,Mitsubishi Electric MELSEC Series CPU module,Mitsubishi Electric Corporation,MELSEC Series CPU module,"Mitsubishi Electric reports this vulnerability affects the following MELSEC Series CPU module: MELSEC iQ-F Series FX5U-xMy/z x=32,64,80, y=T,R, z=ES,DS,ESS,DSS: Serial number 17X**** or later, version 1.220 and later MELSEC iQ-F Series FX5UC-xMy/z x=32,64,96, y=T, z=D,DSS: Serial number 17X**** or later, version 1.220 and later MELSEC iQ-F Series FX5UC-32MT/DS-TS, FX5UC-32MT/DSS-TS, FX5UC-32MR/DS-TS: version 1.220 and later",CVE-2023-1424,10,Critical,CWE-120,Critical Manufacturing,Worldwide,Japan
+2485,5/23/2023,No Updates,2023,ICSA-23-143-04,Horner Automation Cscape,Horner Automation,"Cscape, Cscape EnvisionRV",The following versions of Horner Automation’s Cscape are affected: Cscape: v9.90 SP8 Cscape EnvisionRV: v4.70,"CVE-2023-29503
+CVE-2023-32281
+CVE-2023-32289
+CVE-2023-32545
+CVE-2023-27916
+CVE-2023-28653
+CVE-2023-31244
+CVE-2023-32203
+CVE-2023-32539
+CVE-2023-31278",7.8,High,"CWE-121
+CWE-125
+CWE-416
+CWE-824
+CWE-119",Critical Manufacturing,Worldwide,United States
 2484,5/18/2023,No Updates,2023,ICSA-23-138-01,Carlo Gavazzi Powersoft,Carlo Gavazzi,Powersoft,"The following versions of Carlo Gavazzi Powersoft, an energy management software, are affected: Powersoft: Versions 2.1.1.1 and prior.",CVE-2017-20184,7.5,High,CWE-22,Critical Manufacturing,Worldwide,Switzerland
 2483,5/18/2023,No Updates,2023,ICSA-23-138-02,Mitsubishi Electric MELSEC WS,Mitsubishi Electric,WS0-GETH00200,"The following versions of Mitsubishi Electric MELSEC WS Series, an ethernet interface module, are affected: WS0-GETH00200: All versions.",CVE-2023-1618,7.5,High,CWE-489,Critical Manufacturing,Worldwide,Japan
 2482,5/18/2023,No Updates,2023,ICSA-23-138-03,Hitachi Energy MicroSCADA Pro/X SYS600,Hitachi Energy,MicroSCADA Pro/X SYS600 Products,The following versions of Hitachi Energy’s MicroSCADA Pro/X SYS600 products are affected: SYS600: 9.4 FP2 Hotfix 5 and earlier SYS600: 10.1.1 and earlier.,CVE-2011-1207,6.7,Medium,CWE-264,Energy,Worldwide,Switzerland
