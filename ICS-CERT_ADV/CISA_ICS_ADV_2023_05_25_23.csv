@@ -1,6 +1,6 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
-2489,5/28/2023,No Updates,2023,ICSA-23-145-01,Moxa MXsecurity Series,Moxa,MXsecurity Series,Moxa reports these vulnerabilities affect the following MXsecurity Series: MXsecurity Series: Software v1.0,"CVE-2023-33235
-CVE-2023-33236",9.8,High,"CWE-77
+2489,5/25/2023,No Updates,2023,ICSA-23-145-01,Moxa MXsecurity Series,Moxa,MXsecurity Series,Moxa reports these vulnerabilities affect the following MXsecurity Series: MXsecurity Series: Software v1.0,"CVE-2023-33235
+CVE-2023-33236",9.8,Critical,"CWE-77
 CWE-798",Multiple Critical Sectors,Worldwide,Taiwan
 2488,5/23/2023,No Updates,2023,ICSA-23-143-01,"Hitachi Energy’s AFS65x, AFS67x, AFR67x and AFF66x Products",Hitachi Energy,"AFS65x, AFS67x, AFR67x and AFF66x series products","The following versions of Hitachi Energy’s AFS65x, AFS67x, AFR67x and AFF66x series products, are affected: AFS660/665S, AFS660/665C, AFS670v2: Firmware 7.1.05 and earlier AFS670/675, AFR67x: Firmware 9.1.07 and earlier AFF660/665: Firmware 03.0.02 and earlier AFS65x: All versions","CVE-2022-40674
 CVE-2022-43680",8.1,High,CWE-416,Energy,Worldwide,Switzerland
