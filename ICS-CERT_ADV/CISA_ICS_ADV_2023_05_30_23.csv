@@ -1,4 +1,5 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2490,5/30/2023,No Updates,2023,ICSA-23-150-01,Advantech WebAccess/SCADA,Advantech,WebAccess/SCADA,Advantech reports this vulnerability affect the following WebAccess/SCADA product: WebAccess/SCADA: version 8.4.5,CVE-2023-2866,7.3,High,CWE-351,Critical Manufacturing; Energy; Water and Wastewater Systems,East Asia Europe United States,Taiwan
 2489,5/25/2023,No Updates,2023,ICSA-23-145-01,Moxa MXsecurity Series,Moxa,MXsecurity Series,Moxa reports these vulnerabilities affect the following MXsecurity Series: MXsecurity Series: Software v1.0,"CVE-2023-33235
 CVE-2023-33236",9.8,Critical,"CWE-77
 CWE-798",Multiple Critical Sectors,Worldwide,Taiwan
