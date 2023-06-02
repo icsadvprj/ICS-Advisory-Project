@@ -1,4 +1,9 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2492,6/1/2023,No Updates,2023,ICSA-23-152-01,Advantech WebAccess-SCADA,Advantech,WebAccess Node,The following Advantech products are affected: WebAccess/SCADA versions 9.1.3 and prior,"CVE-2023-32540
+CVE-2023-22450
+CVE-2023-32628",7.2,High,"CWE-94
+CWE-434",Critical Manufacturing; Energy; Water and Wastewater Systems,East Asia Europe United States,Tawain
+2491,6/1/2023,No Updates,2023,ICSA-23-152-02,HID Global SAFE,HID Global,SAFE,"The following versions of HID’s SAFE, a personnel and access management software, are affected: HID SAFE using the optional External Visitor Manager portal: Versions 5.8.0 through 5.11.3",CVE-2023-2904,7.3,High,CWE-471,Government Facilities; Transportation Systems; Commercial Facilities; Healthcare and Public Health,Worldwide,United States
 2490,5/30/2023,No Updates,2023,ICSA-23-150-01,Advantech WebAccess/SCADA,Advantech,WebAccess/SCADA,Advantech reports this vulnerability affect the following WebAccess/SCADA product: WebAccess/SCADA: version 8.4.5,CVE-2023-2866,7.3,High,CWE-351,Critical Manufacturing; Energy; Water and Wastewater Systems,East Asia Europe United States,Taiwan
 2489,5/25/2023,No Updates,2023,ICSA-23-145-01,Moxa MXsecurity Series,Moxa,MXsecurity Series,Moxa reports these vulnerabilities affect the following MXsecurity Series: MXsecurity Series: Software v1.0,"CVE-2023-33235
 CVE-2023-33236",9.8,Critical,"CWE-77
