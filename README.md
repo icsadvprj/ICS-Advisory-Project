@@ -8,7 +8,7 @@ Don't hesitate to [contact us](mailto:icsadvisoryproj@icsadvisoryproject.com) if
 ## ICS Advisory Project | ICS Advisory Dashboard ##
 To view the ICS Advisory Project: ICS Advisory Dashboard, click [Here](https://www.icsadvisoryproject.com/home).
 
-## NEW ICS Advisory Project add-on for Splunk
+## ICS Advisory Project add-on for Splunk
 Check out Efi Kaufman's Splunk Add-On for CISA ICS Advisories: https://github.com/efi-k/ICS_CERT_TA
 
 ## Join our Discord channels and associated supporting OT/ICS Communties:
