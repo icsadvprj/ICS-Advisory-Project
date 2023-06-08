@@ -1,4 +1,10 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2496,6/8/2023,No Updates,2023,ICSA-23-159-01 ,Atlas Copco Power Focus 6000,Atlas Copco,Power Focus 6000,"The following versions of Power Focus 6000, a smart connected assembly product, are affected: Power Focus 6000: All versions.","CVE-2023-1897
+CVE-2023-1898
+CVE-2023-1899",6.5,Medium,"CWE-312
+CWE-334
+CWE-319",Critical Manufacturing,Worldwide,Sweden
+2495,6/8/2023,No Updates,2023,ICSA-23-159-02,Sensormatic Electronics Illustra Pro Gen 4,Sensormatic Electronics LLC (Subsidiary of Johnson Controls),Illustra Pro Gen 4,The following versions of Sensormatic Electronics Illustra Pro Gen 4 are affected: Pro Gen 4 Dome: Up to and including Illustra.SS016.05.09.04.0006 Pro Gen 4 PTZ: Up to and including Illustra.SS010.05.09.04.0022.,CVE-2023-0954,8.3,High,CWE-489,Critical Manufacturing,Worldwide,Ireland
 2494,6/6/2023,No Updates,2023,ICSA-23-157-01,Delta Electronics CNCSoft-B DOPSoft,Delta Electronics,CNCSoft-B DOPSoft,"The following versions of CNCSoft-B DOPSoft, a human machine interface (HMI), are affected: CNCSoft-B DOPSoft: versions 1.0.0.4 and prior.","CVE-2023-25177
 CVE-2023-24014",7.8,High,"CWE-121
 CWE-122",Critical Manufacturing,Worldwide,Taiwan
