@@ -1,4 +1,12 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2500,6/13/2023,No Updates,2023,ICSA-23-164-01,Datalogics Library Third-Party,Datalogics,Library APDFL v18.0.4PlusP1e,The following Datalogics library versions are affected: Library APDFL v18.0.4PlusP1e and prior.,CVE-2023-1709 ,5.5,Medium,CWE-121,Multiple Critical Sectors,Worldwide,Italy
+2499,6/13/2023,No Updates,2023,ICSA-23-164-02,Rockwell Automation FactoryTalk Services Platform,Rockwell Automation ​,FactoryTalk Services Platform ​,​The following Rockwell Automation products are affected: ​FactoryTalk Policy Manager: v6.11.0 ​FactoryTalk System Services: v6.11.0.,"CVE-2023-2637
+CVE-2023-2638
+CVE-2023-2639",7.3,High,"CWE-321
+CWE-287
+CWE-346",Chemical; Commercial Facilities; Critical Manufacturing; Energy; Government Facilities; Water and Wastewater Systems ​,Worldwide ​,United States
+2498,6/13/2023,No Updates,2023,ICSA-23-164-03,Rockwell Automation FactoryTalk Edge Gateway,Rockwell Automation,FactoryTalk Edge Gateway,Rockwell Automation reports this vulnerability affects the following FactoryTalk Edge Gateway products: FactoryTalk Edge Gateway: v1.3.,CVE-2021-35940 ,7.1,High,CWE-125,Food and Agriculture; Transportation Systems; Water and Wastewater Systems,Worldwide,United States
+2497,6/13/2023,No Updates,2023,ICSA-23-164-04,Rockwell Automation FactoryTalk Transaction Manager,Rockwell Automation,FactoryTalk Transaction Manager,Rockwell Automation reports this vulnerability affects the following FactoryTalk Transaction Manager products: FactoryTalk Transaction Manager: versions 13.10 and prior.,CVE-2023-2778 ,7.5,High,CWE-400,Food and Agriculture; Transportation Systems; Water and Wastewater Systems,Worldwide,United States
 2496,6/8/2023,No Updates,2023,ICSA-23-159-01 ,Atlas Copco Power Focus 6000,Atlas Copco,Power Focus 6000,"The following versions of Power Focus 6000, a smart connected assembly product, are affected: Power Focus 6000: All versions.","CVE-2023-1897
 CVE-2023-1898
 CVE-2023-1899",6.5,Medium,"CWE-312
