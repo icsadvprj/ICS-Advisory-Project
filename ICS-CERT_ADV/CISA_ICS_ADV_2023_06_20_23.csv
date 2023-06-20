@@ -1,4 +1,6 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2516,6/20/2023,No Updates,2023,ICSA-23-171-01,Enphase Envoy,Enphase,Envoy,"The following version of Enphase Envoy, an energy monitoring device, is affected: Envoy: D7.0.88.",CVE-2023-33869,6.3,Medium,CWE-78,Energy,Worldwide,United States
+2515,6/20/2023,No Updates,2023,ICSA-23-171-02,Enphase Installer Toolkit Android App,Enphase,Enphase Installer Toolkit,"The following version of Enphase Installer Toolkit, a software application, is affected: Installer Toolkit: 3.27.0.",CVE-2023-32274,8.6,High,CWE-798,Energy,Worldwide,United States
 2514,6/15/2023,No Updates,2023,ICSA-23-166-01,SUBNET PowerSYSTEM Center,SUBNET Solutions Inc.,PowerSYSTEM Center,"The following versions of SUBNET PowerSYSTEM Center, a multi-function management platform, are affected: PowerSYSTEM Center: 2020 U10 and prior.","CVE-2023-32659
 CVE-2023-29158",6.5,Medium,"CWE-79
 CWE-294",Critical Manufacturing,Worldwide,Canada
