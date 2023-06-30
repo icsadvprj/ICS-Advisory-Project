@@ -1135,68 +1135,7 @@ CVE-2021-38406",7.8,High,"CWE-122
 CWE-787
 CWE-121",Critical Manufacturing,Worldwide,Taiwan
 1729,9/9/2021,No Updates,2021,ICSA-21-252-03,Mitsubishi Electric Europe B.V. smartRTU and INEA ME-RTU,Mitsubishi Electric Europe B.V.,smartRTU and INEA ME-RTU,The following products are affected: smartRTU and INEA ME-RTU: All firmware versions prior to Version 3.3.,CVE-2019-14925; CVE-2019-14926; CVE-2019-14927; CVE-2019-14928; CVE-2019-14929; CVE-2019-14930; CVE-2019-14931,9.8,Critical,CWE-284; CWE-78; CWE-79; CWE-276; CWE-256; CWE-798,Critical Manufacturing,Worldwide,Japan
-1728,9/9/2021,9/22/2022,2021,ICSA-20-245-01,Mitsubishi Electric Multiple Products (Update E),Mitsubishi Electric,Multiple Products,"QJ71MES96, all versions
-QJ71WS96, all versions
-Q06CCPU-V, all versions
-Q24DHCCPU-V, the first 5 digits of serial number 24031 and prior
-Q24DHCCPU-VG, the first 5 digits of serial number 24031 and prior
-R12CCPU-V, Version 13 and prior
-RD55UP06-V, Version 09 and prior
-RD55UP12-V, Version 01
-RJ71GN11-T2, Version 11 and prior
-RD78Gn(n=4,8,16,32,64), Version 14 and prior
-RD78GHV, Version 14 and prior
-RD78GHW, Version 14 and prior
-NZ2FT-MT, all versions
-NZ2FT-EIP, all versions
-Q03UDECPU, the first 5 digits of serial number 22081 and prior
-QnUDEHCPU(n=04/06/10/13/20/26/50/100), the first 5 digits of serial number 22081 and prior
-QnUDVCPU(n=03/04/06/13/26), the first 5 digits of serial number 22031 and prior
-QnUDPVCPU(n=04/06/13/26), the first 5 digits of serial number 22031 and prior
-LnCPU(-P)(n=02/06/26), the first 5 digits of serial number 22051 and prior
-L26CPU-(P)BT, the first 5 digits of serial number 22051 and prior
-RnCPU(n=00/01/02), Version 18 and prior
-RnCPU(n=04/08/16/32/120), Version 50 and prior
-RnENCPU(n=04/08/16/32/120), Version 50 and prior
-RnSFCPU (n=08/16/32/120), Version 22 and prior
-RnPCPU(n=08/16/32/120), Version 24 and prior
-RnPSFCPU(n=08/16/32/120), Version 05 and prior
-FX5U(C)-**M*/**
-Case1: Serial number 17X**** or later: Version 1.210 and prior
-Case2: Serial number 179**** and prior: Version 1.070 and prior
-FX5UC-32M*/**-TS, Version 1.210 and prior
-FX5UJ-**M*/**, Version 1.000
-FX5-ENET, Version 1.002 and prior
-FX5-ENET/IP, Version 1.002 and prior
-FX3U-ENET-ADP, Version 1.22 and prior
-FX3GE-**M*/**, the first 3 digits of serial number 20X and prior
-FX3U-ENET, Version 1.14 and prior
-FX3U-ENET-L, Version 1.14 and prior
-FX3U-ENET-P502, Version 1.14 and prior
-FX5-CCLGN-MS, Version 1.000
-IU1-1M20-D, all versions
---------- Begin Update E Part 1 of 2 ---------
-LE7-40GU-L, screen package data, version 1.01 and prior
---------- End Update E Part 1 of 2 ---------
-GOT2000 Series GT21 Model, Version 01.44.000 and prior
-GS Series GS21 Model, Version 01.44.000 and prior
-GOT1000 Series GT14 Model, all versions
-FR-A800-E Series, production date December 2020 and prior
-FR-F800-E Series, production date December 2020 and prior
-FR-A8NCG, Production date August 2020 and prior
-FR-E800-EPA Series, Production date July 2020 and prior
-FR-E800-EPB Series, Production date July 2020 and prior
-Conveyor Tracking Application APR-nTR3FH, APR-nTR6FH, APR-nTR12FH, APR-nTR20FH(n=1,2), all versions (Discontinued product)
-MR-JE-C, all versions
-MR-J4-TM, all versions
-RJ71EN71, Version 48 and prior
-QJ71E71-100, the first 5 digits of serial number 21092 and prior
-LJ71E71-100, the first 5 digits of serial number 21092 and prior
-QJ71MT91, the first 5 digits of serial number 20082 and prior
-NZ2GACP620-60, Version 1.03D and prior
-NZ2GACP620-300, Version 1.03D and prior
-GT25-J71GN13-T2, Version 03 and prior.","CVE-2020-1622
-CVE-2020-16226",7.3,High,CWE-342,Critical Manufacturing,Worldwide,Japan
+1728,9/9/2021,6/29/2023,2020,ICSA-20-245-01,Mitsubishi Electric Multiple Products (Update F),Mitsubishi Electric,Multiple Products,"Mitsubishi Electric reports the vulnerability affects the following products: QJ71MES96, all versions QJ71WS96, all versions Q06CCPU-V, all versions Q24DHCCPU-V, the first 5 digits of serial number 24031 and prior Q24DHCCPU-VG, the first 5 digits of serial number 24031 and prior R12CCPU-V, Version 13 and prior RD55UP06-V, Version 09 and prior RD55UP12-V, Version 01 RJ71GN11-T2, Version 11 and prior RD78Gn(n=4,8,16,32,64), Version 14 and prior RD78GHV, Version 14 and prior RD78GHW, Version 14 and prior NZ2FT-MT, all versions NZ2FT-EIP, all versions Q03UDECPU, the first 5 digits of serial number 22081 and prior QnUDEHCPU(n=04/06/10/13/20/26/50/100), the first 5 digits of serial number 22081 and prior QnUDVCPU(n=03/04/06/13/26), the first 5 digits of serial number 22031 and prior QnUDPVCPU(n=04/06/13/26), the first 5 digits of serial number 22031 and prior LnCPU(-P)(n=02/06/26), the first 5 digits of serial number 22051 and prior L26CPU-(P)BT, the first 5 digits of serial number 22051 and prior RnCPU(n=00/01/02), Version 18 and prior RnCPU(n=04/08/16/32/120), Version 50 and prior RnENCPU(n=04/08/16/32/120), Version 50 and prior RnSFCPU (n=08/16/32/120), Version 22 and prior RnPCPU(n=08/16/32/120), Version 24 and prior RnPSFCPU(n=08/16/32/120), Version 05 and prior FX5U(C)-**M*/** Case1: Serial number 17X**** or later: Version 1.210 and prior Case2: Serial number 179**** and prior: Version 1.070 and prior FX5UC-32M*/**-TS, Version 1.210 and prior FX5UJ-**M*/**, Version 1.000 FX5-ENET, Version 1.002 and prior FX5-ENET/IP, Version 1.002 and prior FX3U-ENET-ADP, Version 1.22 and prior FX3GE-**M*/**, the first 3 digits of serial number 20X and prior FX3U-ENET, Version 1.14 and prior FX3U-ENET-L, Version 1.14 and prior FX3U-ENET-P502, Version 1.14 and prior FX5-CCLGN-MS, Version 1.000 IU1-1M20-D, all versions LE7-40GU-L, screen package data, version 1.01 and prior GOT2000 Series GT21 Model, Version 01.44.000 and prior GS Series GS21 Model, Version 01.44.000 and prior GOT1000 Series GT14 Model, all versions FR-A800-E Series, production date December 2020 and prior FR-F800-E Series, production date December 2020 and prior FR-A8NCG, Production date August 2020 and prior FR-E800-EPA Series, Production date July 2020 and prior FR-E800-EPB Series, Production date July 2020 and prior Conveyor Tracking Application APR-nTR3FH, APR-nTR6FH, APR-nTR12FH, APR-nTR20FH(n=1,2), all versions (Discontinued product) MR-JE-C, all versions MR-J4-TM, all versions RJ71EN71, Version 48 and prior QJ71E71-100, the first 5 digits of serial number 21092 and prior LJ71E71-100, the first 5 digits of serial number 21092 and prior QJ71MT91, the first 5 digits of serial number 20082 and prior NZ2GACP620-60, Version 1.03D and prior NZ2GACP620-300, Version 1.03D and prior GT25-J71GN13-T2, Version 03 and prior.",CVE-2020-16226,7.3,High,CWE-342,Critical Manufacturing,Worldwide,Japan
 1727,9/7/2021,10/13/2022,2021,ICSA-21-250-01,Mitsubishi Electric MELSEC iQ-R Series (UpdateA),Mitsubishi Electric,MELSEC iQ-R Series CPU Module,"--------- Begin Update A part 1 of 2 ---------
 Mitsubishi Electric reports these vulnerabilities affect the following MELSEC products:
 MELSEC iQ-R series Safety CPU R08/16/32/120SFCPU: Firmware versions ""26"" and prior (CVE-2021-20594 and CVE-2021-20597)
