@@ -1,4 +1,22 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2526,7/6/2023,No Updates,2023,ICSA-23-187-01,PiiGAB M-Bus,Processinformation i Göteborg Aktiebolag (PiiGAB),M-Bus SoftwarePack 900S,PiiGAB reports these vulnerabilities affect the following wireless meter reading software: M-Bus SoftwarePack 900S.,"CVE-2023-36859
+CVE-2023-33868
+CVE-2023-31277
+CVE-2023-35987
+CVE-2023-35765
+CVE-2023-32652
+CVE-2023-34995
+CVE-2023-34433
+CVE-2023-35120",9.8,Critical,"CWE-94
+CWE-307
+CWE-523
+CWE-798
+CWE-256
+CWE-79
+CWE-521
+CWE-916
+CWE-352",Energy,Worldwide,Sweden
+2525,7/6/2023,No Updates,2023,ICSA-23-187-02,ABUS TVIP,ABUS,ABUS Security Camera,"The following versions of ABUS TVIP, an indoor security camera, are affected: ABUS TVIP: 20000-21150.",CVE-2023-26609,7.2,High,CWE-77,Comercial Facilities,Worldwide,Germany
 2524,6/29/2023,No Updates,2023,ICSMA-23-180-01,Medtronic Paceart Optima System,Medtronic,Paceart Optima System,The following Medtronic products are affected: Paceart Optima: Versions 1.11 and prior.,CVE-2023-31222,9.8,Critical,CWE-502,Healthcare and Public Health,Worldwide,Ireland
 2523,6/29/2023,No Updates,2023,ICSA-23-180-01,Delta Electronics InfraSuite Device Master,Delta Electronics,InfraSuite Device Master,​The following Delta Electronics products are affected: ​InfraSuite Device Master: Versions prior to 1.0.7.,"CVE-2023-34316
 CVE-2023-30765
@@ -346,7 +364,7 @@ CWE-208
 CWE-125
 CWE-835
 CWE-120",Energy,Worldwide,Switzerland
-2486,5/23/2023,No Updates,2023,ICSA-23-143-03,Mitsubishi Electric MELSEC Series CPU module,Mitsubishi Electric Corporation,MELSEC Series CPU module,"Mitsubishi Electric reports this vulnerability affects the following MELSEC Series CPU module: MELSEC iQ-F Series FX5U-xMy/z x=32,64,80, y=T,R, z=ES,DS,ESS,DSS: Serial number 17X**** or later, version 1.220 and later MELSEC iQ-F Series FX5UC-xMy/z x=32,64,96, y=T, z=D,DSS: Serial number 17X**** or later, version 1.220 and later MELSEC iQ-F Series FX5UC-32MT/DS-TS, FX5UC-32MT/DSS-TS, FX5UC-32MR/DS-TS: version 1.220 and later",CVE-2023-1424,10,Critical,CWE-120,Critical Manufacturing,Worldwide,Japan
+2486,5/23/2023,7/6/2023,2023,ICSA-23-143-03,Mitsubishi Electric MELSEC Series CPU module (Update A),Mitsubishi Electric Corporation,MELSEC Series CPU module,"--------- Begin Update A Part 1 of 2 ---------Mitsubishi Electric reports this vulnerability affects the following MELSEC Series CPU module components:MELSEC iQ-F Series FX5U-xMy/z x=32,64,80, y=T,R, z=ES,DS,ESS,DSS: Serial number 17X**** or later, version 1.220 up to and including 1.281MELSEC iQ-F Series FX5UC-xMy/z x=32,64,96, y=T, z=D,DSS: Serial number 17X**** or later, version 1.220 up to and including 1.281MELSEC iQ-F Series FX5UC-32MT/DS-TS, FX5UC-32MT/DSS-TS, FX5UC-32MR/DS-TS: version 1.220 up to and including 1.281MELSEC iQ-R Series R00/01/02CPU: Versions 35 and priorMELSEC iQ-R Series R04/08/16/32/120(EN)CPU: version 12 up to and including 68MELSEC iQ-R Series R08/16/32/120SFCPU: version 26 and laterMELSEC iQ-R Series R08/16/32/120PCPU: version 3 and laterMitsubishi Electric recommends consulting the following manuals to learn how to check the firmware version:""15.3 Troubleshooting Using the Engineering Tool""—""Module diagnostics"" in the MELSEC iQ-F FX5S/FX5UJ/FX5U/FX5UC User's Manual (Hardware)""Appendix 1: Checking Production Information and Firmware Version"" in the MELSEC iQ-R Module Configuration Manual--------- End Update A Part 1 of 2 ---------.",CVE-2023-1424,10,Critical,CWE-120,Critical Manufacturing,Worldwide,Japan
 2485,5/23/2023,No Updates,2023,ICSA-23-143-04,Horner Automation Cscape,Horner Automation,"Cscape, Cscape EnvisionRV",The following versions of Horner Automation’s Cscape are affected: Cscape: v9.90 SP8 Cscape EnvisionRV: v4.70,"CVE-2023-29503
 CVE-2023-32281
 CVE-2023-32289
