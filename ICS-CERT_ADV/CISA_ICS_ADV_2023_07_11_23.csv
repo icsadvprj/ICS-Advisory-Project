@@ -1,4 +1,11 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2529,7/11/2023,No Updates,2023,ICSA-23-192-01,Rockwell Automation Enhanced HIM,Rockwell Automation,Enhanced HIM,"The following versions of Rockwell Automation’s Enhanced HIM, a communication interface, are affected: Enhanced HIM: Version 1.001.",CVE-2023-2746,9.6,Critical,CWE-352,Multiple Critical Sectors,Worldwide,United States
+2528,7/11/2023,No Updates,2023,ICSA-23-192-02,Sensormatic Electronics iSTAR,Sensormatic Electronics LLC (Subsidiary of Johnson Controls),iSTAR,Johnson Controls reports this vulnerability affects the following versions of Sensormatic Electronics iSTAR products: iSTAR Ultra and iSTAR Ultra LT: Firmware after version 6.8.6 and prior to 6.9.2 CU01 iSTAR Ultra G2 and iSTAR Edge G2: Firmware versions prior to 6.9.2 CU01.,CVE-2023-3127,7.5,High,CWE-287,Critical Manufacturing ,Worldwide,Ireland
+2527,7/11/2023,No Updates,2023,ICSA-23-192-03,Panasonic Control FPWin Pro7,Panasonic,Control FPWIN Pro7,"The following versions of Panasonic Control FPWIN, are affected: Control FPWIN: version 7.6.0.3 and all previous versions.","CVE-2023-28728
+CVE-2023-28729
+CVE-2023-28730",7.8,High,"CWE-121
+CWE-843
+CWE-119",Commercial Facilities; Critical Manufacturing: Food and Agriculture,Worldwide,Japan
 2526,7/6/2023,No Updates,2023,ICSA-23-187-01,PiiGAB M-Bus,Processinformation i Göteborg Aktiebolag (PiiGAB),M-Bus SoftwarePack 900S,PiiGAB reports these vulnerabilities affect the following wireless meter reading software: M-Bus SoftwarePack 900S.,"CVE-2023-36859
 CVE-2023-33868
 CVE-2023-31277
