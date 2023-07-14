@@ -1,4 +1,94 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2537,7/13/2023,No Updates,2023,ICSA-23-194-01,Siemens RUGGEDCOM ROX,Siemens,RUGGEDCOM ROX,The following products from Siemens are affected: ​RUGGEDCOM ROX MX5000: All versions prior to V2.16.0 ​RUGGEDCOM ROX MX5000RE: All versions prior to V2.16.0 ​RUGGEDCOM ROX RX1400: All versions prior to V2.16.0 ​RUGGEDCOM ROX RX1500: All versions prior to V2.16.0 ​RUGGEDCOM ROX RX1501: All versions prior to V2.16.0 ​RUGGEDCOM ROX RX1510: All versions prior to V2.16.0 ​RUGGEDCOM ROX RX1511: All versions prior to V2.16.0 ​RUGGEDCOM ROX RX1512: All versions prior to V2.16.0 ​RUGGEDCOM ROX RX1524: All versions prior to V2.16.0 ​RUGGEDCOM ROX RX1536: All versions prior to V2.16.0 ​RUGGEDCOM ROX RX5000: All versions prior to V2.16.0.,"CVE-2021-22946
+CVE-2022-1292
+CVE-2022-2068
+CVE-2022-22576
+CVE-2022-24903
+CVE-2022-27781
+CVE-2022-27782
+CVE-2022-29561
+CVE-2022-29562
+CVE-2022-32207
+CVE-2023-36386
+CVE-2023-36389
+CVE-2023-36390
+CVE-2023-36748
+CVE-2023-36749
+CVE-2023-36750
+CVE-2023-36751
+CVE-2023-36752
+CVE-2023-36753
+CVE-2023-36754
+CVE-2023-36755",9.8,Critical,"CWE-319
+CWE-78
+CWE-287
+CWE-120
+CWE-400
+CWE-295
+CWE-352
+CWE-20
+CWE-276
+CWE-79
+CWE-326
+CWE-327
+CWE-77",Multiple Critical Sectors,Worldwide,Germany
+2536,7/13/2023,No Updates,2023,ICSA-23-194-02,Siemens SiPass Integrated,Siemens,SiPass Integrated,Siemens reports this vulnerability affects the following SiPass integrated products: ​SiPass integrated: all versions prior to V2.90.3.8.,CVE-2022-31810,7.5,High,CWE-20,Multiple Critical Sectors,Worldwide,Germany
+2535,7/13/2023,No Updates,2023,ICSA-23-194-03,Siemens SIMATIC CN 4100,Siemens,SIMATIC CN 4100,"The following versions of Siemens SIMATIC CN 4100, a communication node, are affected: SIMATIC CN 4100: all versions prior to V2.5.","CVE-2023-29130
+CVE-2023-29131",9.9,Critical,"CWE-284
+CWE-276",Multiple Critical Sectors,Worldwide,Germany
+2534,7/13/2023,No Updates,2023,ICSA-23-194-04,Siemens SIMATIC MV500 Devices,Siemens,SIMATIC MV500 series devices,The following products from Siemens are affected: ​SIMATIC MV540 H (6GF3540-0GE10): All versions prior to v3.3.4 ​SIMATIC MV540 S (6GF3540-0CD10): All versions prior to v 3.3.4 ​SIMATIC MV550 H (6GF3550-0GE10): All versions prior to v 3.3.4 ​SIMATIC MV550 S (6GF3550-0CD10): All versions prior to v 3.3.4 ​SIMATIC MV560 U (6GF3560-0LE10): All versions prior to v 3.3.4 ​SIMATIC MV560 X (6GF3560-0HE10): All versions prior to v 3.3.4.,"CVE-2022-0812
+CVE-2022-1012
+CVE-2022-3643
+CVE-2022-4304
+CVE-2022-4450
+CVE-2022-21123
+CVE-2022-21125
+CVE-2022-21166
+CVE-2022-32296
+CVE-2022-42328
+CVE-2022-42329
+CVE-2023-0215
+CVE-2023-0286",8.2,High,"CWE-200
+CWE-401
+CWE-74
+CWE-326
+CWE-415
+CWE-459
+CWE-203
+CWE-667
+CWE-416
+CWE-20",Multiple Critical Sectors,Worldwide,Germany
+2533,7/13/2023,No Updates,2023,ICSA-23-194-05,Rockwell Automation PowerMonitor 1000,Rockwell Automation,PowerMonitor 1000,The following versions of Rockwell Automation PowerMonitor 1000 are affected: PowerMonitor 1000: V4.011.,CVE-2023-2072,8.8,High,CWE-79,Critical Manufacturing,Worldwide,United States
+2532,7/13/2023,No Updates,2023,ICSA-23-194-06,"Honeywell Experion PKS, LX and PlantCruise",Honeywell,"Experion PKS, LX, and PlantCruise","Honeywell reports these vulnerabilities affect the following versions of Experion PKS, LX, and PlantCruise: Experion PKS: versions prior to R520.2 Experion LX: versions prior to R520.2 Experion PlantCruise: versions prior to R520.2.","CVE-2023-23585
+CVE-2023-25078
+CVE-2023-25948
+CVE-2023-26597
+CVE-2023-24480
+CVE-2023-25770
+CVE-2023-25178
+CVE-2023-22435
+CVE-2023-24474",9.8,Critical,"CWE-122
+CWE-121
+CWE-394
+CWE-400
+CWE-116
+CWE-502
+CWE-345
+CWE-697",Multiple Critical Sectors,Worldwide,United States
+2531,7/13/2023,No Updates,2023,ICSMA-23-194-01,BD Alaris System with Guardrails Suite MX,"Becton, Dickinson and Company (BD)","Alaris PCU, Guardrails Editor, Systems Manager, Calculation Services, CQI Reporter",The following versions of BD Alaris system products are affected: BD Alaris Point-of-Care Unit (PCU) Model 8015: Versions 12.1.3 and prior BD Alaris Guardrails Editor: Versions 12.1.2 and prior BD Alaris Systems Manager: Versions 12.3 and prior CQI Reporter: v10.17 and prior Calculation Services: Versions 1.0 and prior.,"CVE-2023-30559
+CVE-2023-30560
+CVE-2023-30561
+CVE-2023-30562
+CVE-2023-30563
+CVE-2023-30564
+CVE-2023-30565
+CVE-2018-1285",8.2,High,"CWE-20
+CWE-287
+CWE-311
+CWE-345
+CWE-79
+CWE-319
+CWE-611",Healthcare and Public Health,Worldwide,United States
 2530,7/12/2023,No Updates,2023,ICSA-23-193-01,Rockwell Automation Select Communication Modules,Rockwell Automation,"1756-EN2T, 1756-EN2TK, 1756-EN2TXT, 1756-EN2TP, 1756-EN2TPK, 1756-EN2TPXT, 1756-EN2TR, 1756-EN2TRK, 1756-EN2TRXT, 1756-EN2F, 1756-EN2FK, 1756-EN3TR, 1756-EN3TRK, 1756-EN4TR, 1756-EN4TRK, 1756-EN4TRXT","The following Rockwell Automation products are affected: 1756-EN2T Series A, B, and C: Versions 5.008 and 5.028 and prior 1756-EN2T Series D: Versions 11.003 and prior 1756-EN2TK Series A, B, and C: Versions 5.008 and 5.028 and prior 1756-EN2TK Series D: Versions 11.003 and prior 1756-EN2TXT Series A, B, and C: Versions 5.008 and 5.028 and prior 1756-EN2TXT Series D: Versions 11.003 and prior 1756-EN2TP Series A: Versions 11.003 and prior 1756-EN2TPK Series A: Versions 11.003 and prior 1756-EN2TPXT Series A: Versions 11.003 and prior 1756-EN2TR Series A and B: Versions 5.008 and 5.028 and prior 1756-EN2TR Series C: Versions 11.003 and prior 1756-EN2TRK Series A and B: Versions 5.008 and 5.028 and prior 1756-EN2TRK Series C: Versions 11.003 and prior 1756-EN2TRXT Series A and B: Versions 5.008 and 5.028 and prior 1756-EN2TRXT Series C: Versions 11.003 and prior 1756-EN2F Series A and B: Versions 5.008 and 5.028 and prior 1756-EN2F Series C: Versions 11.003 and prior 1756-EN2FK Series A and B: Versions 5.008 and 5.028 and prior 1756-EN2FK Series C: Versions 11.003 and prior 1756-EN3TR Series A: Versions 5.008 and 5.028 and prior 1756-EN3TR Series B: Versions 11.003 and prior 1756-EN3TRK Series A: Versions 5.008 and 5.028 and prior 1756-EN3TRK Series B: Versions 11.003 and prior 1756-EN4TR Series A: Versions 5.001 and prior 1756-EN4TRK Series A: Versions 5.001 and prior 1756-EN4TRXT Series A: Versions 5.001 and prior.","CVE-2023-3595
 CVE-2023-3596",9.8,Critical,CWE-787,Critical Manufacturing,Worldwide,United States
 2529,7/11/2023,No Updates,2023,ICSA-23-192-01,Rockwell Automation Enhanced HIM,Rockwell Automation,Enhanced HIM,"The following versions of Rockwell Automation’s Enhanced HIM, a communication interface, are affected: Enhanced HIM: Version 1.001.",CVE-2023-2746,9.6,Critical,CWE-352,Multiple Critical Sectors,Worldwide,United States
@@ -49,7 +139,7 @@ CWE-256",Water and Wastewater Systems; Energy; Transportation Systems: Communica
 CVE-2023-3256",9.8,Critical,"CWE-798
 CWE-73",Critical Manufacturing; Energy; Water and Wastewater Systems,Worldwide,Taiwan
 2517,6/22/2023,No Updates,2023,ICSA-23-173-03,SpiderControl SCADAWebServer,SpiderControl,SCADA WebServer,The following versions of SCADAWebServer are affected: SCADAWebServer: Versions 2.08 and prior.,CVE-2023-3329,4.9,Medium,CWE-22,Critical Manufacturing; Commercial Facilities,Europe Worldwide,Switzerland
-2516,6/20/2023,No Updates,2023,ICSA-23-171-01,Enphase Envoy,Enphase,Envoy,"The following version of Enphase Envoy, an energy monitoring device, is affected: Envoy: D7.0.88.",CVE-2023-33869,6.3,Medium,CWE-78,Energy,Worldwide,United States
+2516,6/20/2023,7/13/2023,2023,ICSA-23-171-01,Enphase Envoy (Update A),Enphase,Envoy,"The following version of Enphase Envoy, an energy monitoring device, is affected: Envoy: D7.0.88.",CVE-2023-33869,6.3,Medium,CWE-78,Energy,Worldwide,United States
 2515,6/20/2023,6/29/2023,2023,ICSA-23-171-02,Enphase Installer Toolkit Android App (Update A),Enphase,Enphase Installer Toolkit,"The following version of Enphase Installer Toolkit, a software application, is affected: Installer Toolkit: 3.27.0.",CVE-2023-32274,8.6,High,CWE-798,Energy,Worldwide,United States
 2514,6/15/2023,No Updates,2023,ICSA-23-166-01,SUBNET PowerSYSTEM Center,SUBNET Solutions Inc.,PowerSYSTEM Center,"The following versions of SUBNET PowerSYSTEM Center, a multi-function management platform, are affected: PowerSYSTEM Center: 2020 U10 and prior.","CVE-2023-32659
 CVE-2023-29158",6.5,Medium,"CWE-79
