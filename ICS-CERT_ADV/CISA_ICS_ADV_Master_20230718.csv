@@ -1,27 +1,26 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
 2544,7/18/2023,No Updates,2023,ICSA-23-199-01,Rockwell Automation Kinetix 5700 DC Bus Power Supply Series A,Rockwell Automation,Kinetix 5700,The following version of Rockwell Automation Kinetix 5700 DC Bus Power Supply is affected: Kinetix 5700: V13.001.,CVE-2023-2263,7.5,High,CWE-400,Critical Manufacturing,Worldwide,United States
 2543,7/18/2023,No Updates,2023,ICSA-23-199-02,Keysight N6845A Geolocation Server,Keysight Technologies ,N6854A Geolocation Server,The following Keysight monitoring products are affected: N6854A Geolocation Server versions 2.4.2 and prior.,"CVE-2023-36853
- CVE-2023-34394",7.8,High,"CWE-749
- CWE-23",Communications; Government Facilities,Worldwide,United States
+CVE-2023-34394",7.8,High,"CWE-749CWE-23",Communications; Government Facilities,Worldwide,United States
 2542,7/18/2023,No Updates,2023,ICSA-23-199-03,Iagona ScrutisWeb,Iagona,ScrutisWeb,"The following versions of Iagona ScrutisWeb, a web application, are affected: ScrutisWeb: Version 2.1.37 and prior.","CVE-2023-33871
- CVE-2023-38257
- CVE-2023-35763
- CVE-2023-35189",10,Critical,"CWE-36
- CWE-639
- CWE-321
- CWE-434",Multiple Critical Sectors,Worldwide,France
+CVE-2023-38257
+CVE-2023-35763
+CVE-2023-35189",10,Critical,"CWE-36
+CWE-639
+CWE-321
+CWE-434",Multiple Critical Sectors,Worldwide,France
 2541,7/18/2023,No Updates,2023,ICSA-23-199-04,Weintek Weincloud,Weintek,Weincloud,The following Weintek Weincloud versions are affected: Account API: Versions 0.13.6 and prior.,"CVE-2023-35134
- CVE-2023-37362
- CVE-2023-32657
- CVE-2023-34429",9.8,Critical,"CWE-640
- CWE-287
- CWE-307
- CWE-237",Critical Manufacturing,Worldwide,Taiwan
+CVE-2023-37362
+CVE-2023-32657
+CVE-2023-34429",9.8,Critical,"CWE-640
+CWE-287
+CWE-307
+CWE-237",Critical Manufacturing,Worldwide,Taiwan
 2540,7/18/2023,No Updates,2023,ICSA-23-199-05,GeoVision GV-ADR2701,GeoVision,GV-ADR2701,GeoVision reports this vulnerability affects the following GV-ADR2701 cameras: GV-ADR2701: Version V1.00_2017_12_15.,CVE-2023-3638,9.8,Critical,CWE-287,Commercial Facilities,Worldwide,Taiwan
 2539,7/18/2023,No Updates,2023,ICSA-23-199-06,GE Cimplicity,GE Digital,CIMPLICITY,The following GE Digital products are affected: CIMPLICITY: All versions.,CVE-2023-3463,6.6,Medium,CWE-122,Multiple Critical Sectors,Worldwide,United States
 2538,7/18/2023,No Updates,2023,ICSA-23-199-07,WellinTech KingHistorian,WellinTech,KingHistorian,"The following versions of WellinTech KingHistorian, a time-series database, are affected: KingHistorian: version 35.01.00.05.","CVE-2022-45124
- CVE-2022-43663",8.1,High,"CWE-200
- CWE-195",Critical Manufacturing,Worldwide,China
+CVE-2022-43663",8.1,High,"CWE-200
+CWE-195",Critical Manufacturing,Worldwide,China
 2537,7/13/2023,No Updates,2023,ICSA-23-194-01,Siemens RUGGEDCOM ROX,Siemens,RUGGEDCOM ROX,The following products from Siemens are affected: RUGGEDCOM ROX MX5000: All versions prior to V2.16.0 RUGGEDCOM ROX MX5000RE: All versions prior to V2.16.0 RUGGEDCOM ROX RX1400: All versions prior to V2.16.0 RUGGEDCOM ROX RX1500: All versions prior to V2.16.0 RUGGEDCOM ROX RX1501: All versions prior to V2.16.0 RUGGEDCOM ROX RX1510: All versions prior to V2.16.0 RUGGEDCOM ROX RX1511: All versions prior to V2.16.0 RUGGEDCOM ROX RX1512: All versions prior to V2.16.0 RUGGEDCOM ROX RX1524: All versions prior to V2.16.0 RUGGEDCOM ROX RX1536: All versions prior to V2.16.0 RUGGEDCOM ROX RX5000: All versions prior to V2.16.0.,"CVE-2021-22946
 CVE-2022-1292
 CVE-2022-2068
