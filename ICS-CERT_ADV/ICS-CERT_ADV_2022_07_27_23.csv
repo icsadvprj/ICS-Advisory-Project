@@ -861,9 +861,9 @@ CVE-2022-43439
 CVE-2022-43545
 CVE-2022-43546",9.9,Critical,"CWE-384
 CWE-20",Multiple Critical Sectors,Worldwide,Germany
-2267,11/3/2022,No Updates,2022,ICSA-22-307-01,ETIC Telecom Remote Access Server (RAS),ETIC Telecom,Remote Access Server (RAS),The following versions of ETIC Telecom Remote Access Server (RAS) are affected: ETIC Telecom RAS: All versions 4.5.0 and prior.,"CVE-2022-3703
+2267,11/3/2022,7/27/2023,2022,ICSA-22-307-01,ETIC RAS (Update A),ETIC Telecom,Remote Access Server (RAS),The following versions of ETIC Telecom Remote Access Server (RAS) are affected: ETIC Telecom RAS: All versions 4.5.0 and prior,"CVE-2022-3703
 CVE-2022-41607
-CVE-2022-40981",9,Critical,"CWE-345
+CVE-2022-40981",7.6,High,"CWE-345
 CWE-22
 CWE-434",Multiple Critical Sectors,Worldwide,France
 2266,11/3/2022,No Updates,2022,ICSA-22-307-02,Nokia ASIK AirScale System Module,Nokia,ASIK AirScale 5G Common System Module,"The following versions of Nokia ASIK AirScale, a baseband unit, are affected:
@@ -2482,25 +2482,7 @@ CVE-2022-2106
 CVE-2022-2088",8.8,High,"CWE-79
 CWE-23
 CWE-284",Communications; Commercial Facilities; Energy; Water and Wastewater Systems,Worldwide,Russia
-2111,6/21/2022,8/18/2022,2022,ICSA-22-172-01,"Mitsubishi Electric MELSEC iQ-R, Q, L Series and MELIPC Series (Update A)",Mitsubishi Electric,"MELSEC iQ-R, Q, and L Series CPU Module, as well as the MELIPC Series","The following products are affected: 
-MELSEC CPU Models
---------- Begin Update A Part 2 of 7 ---------
-iQ-R Series
-R12CCPU-V: Firmware Version 16 and prior
---------- End Update A Part 2 of 7 ---------
-Q Series
-Q03UDECPU, Q04/06/10/13/20/26/50/100UDEHCPU: Versions with the first 5 digits of serial No. 24061 and prior
-Q03/04/06/13/26UDVCPU: Versions with the first 5 digits of serial No. 24051 and prior
-Q04/06/13/26UDPVCPU: Versions with the first 5 digits of serial No. 24051 and prior
---------- Begin Update A Part 3 of 7 ---------
-Q12DCCPU-V, Q24DHCCPU-V(G), Q24/26DHCCPU-LS: All versions
---------- End Update A Part 3 of 7 ---------
-L Series
-L02/06/26CPU(-P), L26CPU-(P)BT: Versions with the first 5 digits of serial No. 24051 and prior
---------- Begin Update A Part 4 of 7 ---------
-MELIPC Series
-MI5122-VW: Firmware Version 05 and prior
---------- End Update A Part 4 of 7 ---------.",CVE-2022-24946,7.5,High,CWE-413,Critical Manufacturing,Worldwide,Japan
+2111,6/21/2022,7/27/2023,2022,ICSA-22-172-01,"Mitsubishi Electric MELSEC iQ-R, Q, L Series and MELIPC Series (Update B)",Mitsubishi Electric,"MELSEC iQ-R, Q, and L Series CPU Module, as well as the MELIPC Series","The following products are affected: MELSEC CPU models iQ-R Series R12CCPU-V: Firmware Version 16 and prior Q Series Q03UDECPU, Q04/06/10/13/20/26/50/100UDEHCPU: Versions with the first 5 digits of serial No. 24061 and prior Q03/04/06/13/26UDVCPU: Versions with the first 5 digits of serial No. 24051 and prior Q04/06/13/26UDPVCPU: Versions with the first 5 digits of serial No. 24051 and prior --------- Begin Update B part 1 of 2 --------- Q12DCCPU-V, Q24DHCCPU-V(G), Q24/26DHCCPU-LS: Versions with the first 5 digits of serial No. 25061 and prior --------- Begin Update B part 1 of 2 --------- L Series L02/06/26CPU(-P), L26CPU-(P)BT: Versions with the first 5 digits of serial No. 24051 and prior MELIPC Series MI5122-VW: Firmware Version 05 and prior",CVE-2022-24946,7.5,High,CWE-413,Critical Manufacturing,Worldwide,Japan
 2110,6/21/2022,No Updates,2022,ICSA-22-172-02,JTEKT TOYOPUC,JTEKT Corporation,TOYOPUC Products,"The following versions of TOYOPUC products, a programmable logic controller, are affected: 
  PC10G-CPU Type=TCC-6353: All versions 
  PC10GE Type=TCC-6464: All versions 
