@@ -1,4 +1,18 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2576,8/17/2023,No Updates,2023,ICSA-23-229-01,ICONICS and Mitsubishi Electric Products,"ICONICS, Mitsubishi Electric",ICONICS Product Suite,"ICONICS reports these vulnerabilities affect the following products using OpenSSL:ICONICS Suite including GENESIS64, Hyper Historian, AnalytiX, and MobileHMI: Version 10.97.2","CVE-2022-3602
+CVE-2022-3786
+CVE-2022-4203
+CVE-2022-4304
+CVE-2022-4450
+CVE-2023-0401",5.9,Medium,"CWE-120
+CWE-125
+CWE-208
+CWE-415
+CWE-476",Critical Manufacturing,Worldwide,United States; Japan
+2575,8/17/2023,No Updates,2023,ICSA-23-229-03,Schnieder Electric PowerLogic ION7400 PM8000 ION9000 Power Meters,Schneider Electric,PowerLogic ION7400 / PM8000 / ION8650 / ION8800 / ION9000,"The following components of Schneider Electric PowerLogic, a power meter, are affected: PowerLogic ION9000: All versions prior to 4.0.0 PowerLogic ION7400: All versions prior to 4.0.0 PowerLogic PM8000: All versions prior to 4.0.0 PowerLogic ION8650: All versions PowerLogic ION8800: All versions Legacy ION products: All versions",CVE-2022-46680,8.8,High,CWE-319,Commercial Facilities; Critical Manufacturing; Energy,Worldwide,France
+2574,8/17/2023,No Updates,2023,ICSA-23-229-04,Walchem Intuition 9,Walchem,Intuition 9,"The following versions of Intuition 9, a water treatment controller, are affected: Intuition 9: versions prior to v4.21","CVE-2023-38422
+CVE-2023-32202",7.5,High,"CWE-306
+CWE-287",Water and Wastewater Systems,Worldwide,United States
 2573,8/15/2023,No Updates,2023,ICSA-23-227-01,"Schneider Electric EcoStruxure Control Expert, Process Expert, Modicon",Schneider Electric,"EcoStruxure Control Expert, EcoStruxure Process Expert, Modicon M340 CPU, Modicon M580 CPU, Modicon Momentum Unity M1E Processor, Modicon MC80",The following components of Schneider Electric EcoStruxure and Modicon are affected: EcoStruxure Control Expert: All versions EcoStruxure Process Expert: Version V2020 & prior Modicon M340 CPU (part numbers BMXP34*): All versions Modicon M580 CPU (part numbers BMEP* and BMEH*): All versions Modicon M580 CPU Safety (part numbers BMEP58*S and BMEH58*S): All versions Modicon Momentum Unity M1E Processor (171CBU*): All versions Modicon MC80 (BMKC80): All versions.,CVE-2022-45789,8.1,High,CWE-294,Critical Manufacturing; Energy; Commercial Facilities,Worldwide,France
 2572,8/15/2023,No Updates,2023,ICSA-23-227-02,Rockwell Automation Armor PowerFlex,Rockwell Automation,Armor PowerFlex,The following Rockwell Automation products are affected:Armor PowerFlex: v1.003.,CVE-2023-2423,7.5,High,CWE-682,Critical Manufacturing,Worldwide,United States
 2571,8/10/2023,No Updates,2023,ICSA-23-222-01,"Siemens Solid Edge, JT2Go and Teamcenter Visualization",Siemens,"Solid Edge, JT2Go, and Teamcenter Visualization",The following products from Siemens are affected: JT2Go: All versions prior to v14.2.0.5 Solid Edge SE2022: All versions prior to v222.0 Update 13 Solid Edge SE2023: All versions prior to v223.0 Update 4 Teamcenter Visualization V13.2: All versions prior to v13.2.0.15 Teamcenter Visualization V13.2: All versions prior to v13.2.0.14 Teamcenter Visualization V13.3: All versions prior to v13.3.0.11 Teamcenter Visualization V14.1: All versions prior to v14.1.0.11 Teamcenter Visualization V14.1: All versions prior to v14.1.0.10 Teamcenter Visualization V14.2: All versions prior to v14.2.0.5.,"CVE-2023-28830
