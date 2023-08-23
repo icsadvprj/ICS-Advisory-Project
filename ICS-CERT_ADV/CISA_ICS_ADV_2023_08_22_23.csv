@@ -1,4 +1,19 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2579,8/22/2023,No Updates,2023,ICSA-23-234-01,Hitachi Energy AFF66x,Hitachi Energy,AFF66x,Hitachi Energy reports these vulnerabilities affect the following AFF660/665 products:AFF660/665: Firmware 03.0.02 and prior,"CVE-2021-43523
+CVE-2020-13817
+CVE-2020-11868
+CVE-2019-11477
+CVE-2022-3204
+CVE-2018-18066",9.6,Critical,"CWE-79
+CWE-330
+CWE-346
+CWE-190
+CWE-400
+CWE-476",Energy,Worldwide,Switzerland
+2578,8/22/2023,No Updates,2023,ICSA-23-234-02,Trane Thermostats,Trane,"XL824, XL850, XL1050, and Pivot thermostats",Trane reports this vulnerability affects the following thermostats:Trane Technologies XL824 Thermostat: Firmware versions 5.9.8 and earlierTrane Technologies XL850 Thermostat: Firmware versions 5.9.8 and earlierTrane Technologies XL1050 Thermostat: Firmware versions 5.9.8 and earlierTrane Technologies Pivot Thermostat: Firmware versions 1.8 and earlier,CVE-2023-4212,6.8,Medium,CWE-74,Critical Manufacturing,Worldwide,Ireland
+2577,8/22/2023,No Updates,2023,ICSA-23-234-03,Rockwell Automation ThinManager ThinServer,Rockwell Automation,ThinManager ThinServer,"Rockwell Automation reports this vulnerability affects the following versions of ThinManager ThinServer, a thin client and remote desktop protocol (RDP) server management software: ThinManager ThinServer: Versions 11.0.0-11.0.6 ThinManager ThinServer: Versions 11.1.0-11.1.6 ThinManager ThinServer: Versions 11.2.0-11.2.6 ThinManager ThinServer: Versions 12.1.0-12.1.6 ThinManager ThinServer: Versions 12.0.0-12.0.5 ThinManager ThinServer: Versions 13.0.0-13.0.2 ThinManager ThinServer: Version 13.1.0","CVE-2023-2914
+CVE-2023-2915
+CVE-2023-2917",9.8,Critical,CWE-20,Critical Manufacturing,Worldwide,United States
 2576,8/17/2023,No Updates,2023,ICSA-23-229-01,ICONICS and Mitsubishi Electric Products,"ICONICS, Mitsubishi Electric",ICONICS Product Suite,"ICONICS reports these vulnerabilities affect the following products using OpenSSL:ICONICS Suite including GENESIS64, Hyper Historian, AnalytiX, and MobileHMI: Version 10.97.2","CVE-2022-3602
 CVE-2022-3786
 CVE-2022-4203
@@ -917,7 +932,7 @@ CWE-416
 CWE-824
 CWE-119",Critical Manufacturing,Worldwide,United States
 2484,5/18/2023,No Updates,2023,ICSA-23-138-01,Carlo Gavazzi Powersoft,Carlo Gavazzi,Powersoft,"The following versions of Carlo Gavazzi Powersoft, an energy management software, are affected: Powersoft: Versions 2.1.1.1 and prior.",CVE-2017-20184,7.5,High,CWE-22,Critical Manufacturing,Worldwide,Switzerland
-2483,5/18/2023,No Updates,2023,ICSA-23-138-02,Mitsubishi Electric MELSEC WS,Mitsubishi Electric,WS0-GETH00200,"The following versions of Mitsubishi Electric MELSEC WS Series, an ethernet interface module, are affected: WS0-GETH00200: All versions.",CVE-2023-1618,7.5,High,CWE-489,Critical Manufacturing,Worldwide,Japan
+2483,5/18/2023,8/22/2023,2023,ICSA-23-138-02,Mitsubishi Electric MELSEC WS Series (Update A),Mitsubishi Electric,WS0-GETH00200,"--------- Begin Update A Part 1 of 2 -------- The following versions of Mitsubishi Electric MELSEC WS Series, an ethernet interface module, are affected: WS0-GETH00200: Serial numbers 2310**** and prior --------- End Update A Part 1 of 2 ---------",CVE-2023-1618,7.5,High,CWE-489,Critical Manufacturing,Worldwide,Japan
 2482,5/18/2023,No Updates,2023,ICSA-23-138-03,Hitachi Energy MicroSCADA Pro/X SYS600,Hitachi Energy,MicroSCADA Pro/X SYS600 Products,The following versions of Hitachi Energy’s MicroSCADA Pro/X SYS600 products are affected: SYS600: 9.4 FP2 Hotfix 5 and earlier SYS600: 10.1.1 and earlier.,CVE-2011-1207,6.7,Medium,CWE-264,Energy,Worldwide,Switzerland
 2481,5/18/2023,No Updates,2023,ICSA-23-138-04,Johnson Controls OpenBlue Enterprise Manager Data Collector,Johnson Controls Inc.,OpenBlue Enterprise Manager Data Collector,The following Johnson Controls products are affected: OpenBlue Enterprise Manager Data Collector: Firmware versions prior to 3.2.5.75.,"CVE-2023-2024
 CVE-2023-2025",10,Critical,"CWE-287
