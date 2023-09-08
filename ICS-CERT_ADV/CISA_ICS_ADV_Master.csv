@@ -1,4 +1,24 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2595,9/7/2023,No Updates,2023,ICSA-23-250-01,Dover Fueling Solutions MAGLINK LX Console,Dover Fueling Solutions,MAGLINK LX - Web Console Configuration,The following versions of MAGLINK LX Web Console Configuration are affected: MAGLINK LX Web Console Configuration: version 2.5.1 MAGLINK LX Web Console Configuration: version 2.5.2 MAGLINK LX Web Console Configuration: version 2.5.3 MAGLINK LX Web Console Configuration: version 2.6.1 MAGLINK LX Web Console Configuration: version 2.11 MAGLINK LX Web Console Configuration: version 3.0 MAGLINK LX Web Console Configuration: version 3.2 MAGLINK LX Web Console Configuration: version 3.3.,"CVE-2023-41256
+CVE-2023-36497
+CVE-2023-38256",9.1,Critical,"CWE-288
+CWE-284
+CWE-22",Multiple Critical Sectors,"Europe, United Kingdom, Worldwide",United States
+2594,9/7/2023,No Updates,2023,ICSA-23-250-02,Phoenix Contact TC ROUTER and TC CLOUD CLIENT,Phoenix Contact,TC ROUTER and TC CLOUD CLIENT,Phoenix contact reports that the following products are affected: TC ROUTER 3002T-4G: versions prior to 2.07.2 TC ROUTER 3002T-4G ATT: versions prior to 2.07.2 TC ROUTER 3002T-4G VZW: versions prior to 2.07.2 TC CLOUD CLIENT 1002-4G: versions prior to 2.07.2 TC CLOUD CLIENT 1002-4G ATT: versions prior to 2.07.2 TC CLOUD CLIENT 1002-4G VZW: versions prior to 2.07.2 CLOUD CLIENT 1101T-TX/TX: versions prior to 2.06.10.,"CVE-2023-3526
+CVE-2023-3569",9.6,Critical,"CWE-79
+CWE-776",Critical Manufacturing,Worldwide,Germany
+2593,9/7/2023,No Updates,2023,ICSA-23-250-03,Socomec MOD3GP-SY-120K,Socomec,MOD3GP-SY-120K,The following Socomec products are affected: MODULYS GP (MOD3GP-SY-120K): Web firmware v01.12.10.,"CVE-2023-38582
+CVE-2023-39446
+CVE-2023-41965
+CVE-2023-41084
+CVE-2023-40221
+CVE-2023-39452
+CVE-2023-38255",10,Critical,"CWE-79
+CWE-352
+CWE-922
+CWE-565
+CWE-94
+CWE-256",Multiple Critical Sectors,Worldwide,France
 2592,9/5/2023,No Updates,2023,ICSA-23-248-01,Fujitsu Limited Real-time Video Transmission Gear IP series,Fujitsu Limited,"Real-time Video Transmission Gear ""IP series""","The following versions of Real-time Video Transmission Gear ""IP series"", a hosted web application, are affected: Real-time Video Transmission Gear ""IP series"" IP-HE950E: firmware versions V01L001 to V01L053 Real-time Video Transmission Gear ""IP series"" IP-HE950D: firmware versions V01L001 to V01L053 Real-time Video Transmission Gear ""IP series"" IP-HE900E: firmware versions V01L001 to V01L010 Real-time Video Transmission Gear ""IP series"" IP-HE900D: firmware versions V01L001 to V01L004 Real-time Video Transmission Gear ""IP series"" IP-900E / IP-920E: firmware versions V01L001 to V02L061 Real-time Video Transmission Gear ""IP series"" IP-900D / IP-900ⅡD / IP-920D: firmware versions V01L001 to V02L061 Real-time Video Transmission Gear ""IP series"" IP-90: firmware versions V01L001 to V01L013 Real-time Video Transmission Gear ""IP series"" IP-9610: firmware versions V01L001 to V02L007.",CVE-2023-38433,5.9,Medium,CWE-798,Commercial Facilities; Government Facilities,Worldwide,Japan
 2591,9/5/2023,No Updates,2023,ICSMA-23-248-01,Softneta MedDream PACS Premium,Softneta,MedDream PACS,The following Softneta products are affected: MedDream PACS: v7.2.8.810 and prior.,"CVE-2023-40150
 CVE-2023-39227",9.8,Critical,"CWE-749
@@ -913,8 +933,9 @@ CVE-2023-1899",6.5,Medium,"CWE-312
 CWE-334
 CWE-319",Critical Manufacturing,Worldwide,Sweden
 2495,6/8/2023,No Updates,2023,ICSA-23-159-02,Sensormatic Electronics Illustra Pro Gen 4,Sensormatic Electronics LLC (Subsidiary of Johnson Controls),Illustra Pro Gen 4,The following versions of Sensormatic Electronics Illustra Pro Gen 4 are affected: Pro Gen 4 Dome: Up to and including Illustra.SS016.05.09.04.0006 Pro Gen 4 PTZ: Up to and including Illustra.SS010.05.09.04.0022.,CVE-2023-0954,8.3,High,CWE-489,Critical Manufacturing,Worldwide,Ireland
-2494,6/6/2023,No Updates,2023,ICSA-23-157-01,Delta Electronics CNCSoft-B DOPSoft,Delta Electronics,CNCSoft-B DOPSoft,"The following versions of CNCSoft-B DOPSoft, a human machine interface (HMI), are affected: CNCSoft-B DOPSoft: versions 1.0.0.4 and prior.","CVE-2023-25177
-CVE-2023-24014",7.8,High,"CWE-121
+2494,6/6/2023,9/7/2023,2023,ICSA-23-157-01,Delta Electronics CNCSoft-B DOPSoft (Update),Delta Electronics,CNCSoft-B DOPSoft,"The following versions of CNCSoft-B DOPSoft, a human machine interface (HMI), and component of CNCSoft-B 1.0.0.4, are affected are affected: CNCSoft-B DOPSoft: versions prior to v4.0.0.82.","CVE-2023-25177
+CVE-2023-24014
+CVE-2023-4685",7.8,High,"CWE-121
 CWE-122",Critical Manufacturing,Worldwide,Taiwan
 2493,6/6/2023,No Updates,2023,ICSA-23-157-02,Mitsubishi Electric MELSEC iQ-R Series/iQ-F Series,Mitsubishi Electric,MELSEC iQ-R Series/iQ-F Series EtherNet/IP Modules and EtherNet/IP Configuration tool,Mitsubishi Electric reports these vulnerabilities affect the following MELSEC iQ-R Series/iQ-F Series EtherNet/IP Modules and EtherNet/IP Configuration tool: RJ71EIP91: All versions SW1DNN-EIPCT-BD: All versions FX5-ENET/IP: All versions SW1DNN-EIPCTFX5-BD: All versions.,"CVE-2023-2060
 CVE-2023-2061
