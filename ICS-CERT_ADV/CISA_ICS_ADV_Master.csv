@@ -1,4 +1,20 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2609,9/19/2023,No Updates,2023,ICSA-23-262-01,Siemens SIMATIC PCS neo Administration Console,Siemens,SIMATIC PCS neo Administration Console,"Siemens reports that the following products are affected:
+SIMATIC PCS neo (Administration Console): V4.0
+SIMATIC PCS neo (Administration Console): V4.0 Update 1.",CVE-2023-38558,5.5,Medium,CWE-538,Multiple Critical Sectors,Worldwide,Germany
+2608,9/19/2023,No Updates,2023,ICSA-23-262-03,Omron Engineering Software Zip-Slip,Omron,"Sysmac Studio, NX-IO Configurator","The following versions of Omron engineering software are affected:
+Sysmac Studio: version 1.54 and prior
+NX-IO Configurator: version 1.22 and prior.",CVE-2018-1002205,5.5,Medium,CWE-22,Critical Manufacturing,Worldwide,Japan
+2607,9/19/2023,No Updates,2023,ICSA-23-262-04,Omron Engineering Software,Omron,Sysmac Studio,The following versions of Omron engineering software are affected: Sysmac Studio: version 1.54 and prior.,CVE-2022-45793,5.5,Medium,CWE-285,Critical Manufacturing,Worldwide,Japan
+2606,9/19/2023,No Updates,2023,ICSA-23-262-05,Omron CJ/CS/CP Series,Omron,Sysmac CJ/CS/CP Series,"The following versions of Omron CJ/CS/CP series, programmable logic controllers, are affected:
+Smart Security Manager: Versions 1.4 and prior to 1.31
+Smart Security Manager: Versions 1.5 and prior
+CJ2H-CPU ** (-EIP): version 1.4 and prior
+CJ2M-CPU ** : version 2.0 and prior
+CS1H/G-CPU ** H、CJ1G-CPU ** P: version 4.0 and prior
+CS1D-CPU ** H / -CPU ** P: version 1.3 and prior
+CS1D-CPU ** S: version 2.0 and prior
+CP1E-E / -N: version 1.2 and prior.",CVE-2022-45790,7.5,High,CWE-799,Critical Manufacturing,Worldwide,Japan
 2604,9/14/2023,No Updates,2023,ICSA-23-257-01,"Siemens SIMATIC, SIPLUS Products",Siemens,"SIMATIC, SIPLUS Products","The following Siemens products are affected:
 SIMATIC Cloud Connect 7 CC712 (6GK1411-1AC00): All versions prior to v2.2
 SIMATIC Cloud Connect 7 CC716 (6GK1411-5AC00): All versions prior to v2.2
