@@ -1,4 +1,25 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2624,10/5/2023,No Updates,2023,ICSA-23-278-01,"Hitachi Energy AFS65x, AFF66x, AFS67x, and AFR67x Series Products",Hitachi Energy,"AFS65x, AFF66x, AFS67x, AFR67x Series",The following Hitachi Energy products and versions are affected: AFF66X FW: 03.0.02 and prior AFS66X-S: All versions AFS660-C: All versions AFS66X-B: All versions AFS670-V20: All versions AFS65X: All versions AFS67X: All versions AFR677: All versions,"CVE-2021-45960
+CVE-2021-46143
+CVE-2022-22822
+CVE-2022-22823
+CVE-2022-22824
+CVE-2022-22825
+CVE-2022-22826
+CVE-2022-22827
+CVE-2022-25314
+CVE-2022-25315
+CVE-2022-25235
+CVE-2022-25236
+CVE-2022-23852
+CVE-2022-23990",9.8,Critical,"CWE-682
+CWE-190
+CWE-116
+CWE-668",Energy,Worldwide,Switzerland
+2623,10/5/2023,No Updates,2023,ICSA-23-278-02,Qognify NiceVision,Qognify,NiceVision,"The following versions of Qoginfy NiceVision, an IP-video surveillance system, are affected: NiceVision: v3.1 and prior",CVE-2023-2306,10,Critical,CWE-798,Commercial Facilities,Worldwide,United States
+2622,10/5/2023,No Updates,2023,ICSA-23-278-03,Mitsubishi Electric CC-Link IE TSN Industrial Managed Switch,Mitsubishi Electric,CC-Link IE TSN Industrial Managed Switch,"The following versions of Mitsubishi Electric products are affected: CC-Link IE TSN Industrial Managed Switch, model NZ2MHG-TSNT8F2 NZ2MHG-TSNT4: All versions","CVE-2022-4304
+CVE-2022-4450",6.5,Medium,"CWE-208
+CWE-415",Critical Manufacturing,Worldwide,Japan
 2621,9/28/2023,No Updates,2023,ICSA-23-271-01,Rockwell Automation PanelView 800,Rockwell Automation,PanelView 800,"The following versions of Rockwell Automation PanelView 800, a graphics terminal, are affected: PanelView 800 2711R-T10T: V3.011 PanelView 800 2711R-T7T: V3.011 PanelView 800 2711R-T4T: V3.011",CVE-2017-12652,9.8,Critical,CWE-20,Energy; Water and Wastewater System; Telecommunications,Worldwide,United States
 2620,9/28/2023,No Updates,2023,ICSA-23-271-02,DEXMA DexGate,DEXMA,DEXGate,The following version of DEXGate is affected: DEXGate: Version 20130114,"CVE-2023-40153
 CVE-2023-42435
