@@ -1,4 +1,65 @@
 icsad_ID,Original_Release_Date,Last_Updated,Year,ICS-CERT_Number,ICS-CERT_Advisory_Title,Vendor,Product,Products_Affected,CVE_Number,Cumulative_CVSS,CVSS_Severity,CWE_Number,Critical_Infrastructure_Sector,Product_Distribution,Company_Headquarters
+2642,10/12/2023,No Updates,2023,ICSA-23-285-01,Siemens SIMATIC CP products,Siemens,SIMATIC CP products,"The following products of Siemens, are affected: SIMATIC CP 1604 (6GK1160-4AA01): all versions SIMATIC CP 1616 (6GK1161-6AA02): all versions SIMATIC CP 1623 (6GK1162-3AA00): all versions SIMATIC CP 1626 (6GK1162-6AA01): all versions SIMATIC CP 1628 (6GK1162-8AA00): all versions","CVE-2023-37194
+CVE-2023-37195",7.8,High,"CWE-284
+CWE-400",Multiple Critical Sectors,Worldwide,Germany
+2641,10/12/2023,No Updates,2023,ICSA-23-285-02,Siemens SCALANCE W1750D,Siemens,SCALANCE W1750D,"The following products of Siemens, are affected: SCALANCE W1750D (JP) (6GK5750-2HX01-1AD0): versions prior to V8.10.0.6 SCALANCE W1750D (ROW) (6GK5750-2HX01-1AA0): versions prior to V8.10.0.6 SCALANCE W1750D (USA) (6GK5750-2HX01-1AB0): versions prior to V8.10.0.6","CVE-2023-22779
+CVE-2023-22780
+CVE-2023-22781
+CVE-2023-22782
+CVE-2023-22783
+CVE-2023-22784
+CVE-2023-22785
+CVE-2023-22786
+CVE-2023-22787
+CVE-2023-22788
+CVE-2023-22789
+CVE-2023-22790
+CVE-2023-22791",9.8,Critical,"CWE-120
+CWE-20
+CWE-77
+CWE-200",Multiple Critical Sectors,Worldwide,Germany
+2640,10/12/2023,No Updates,2023,ICSA-23-285-03,Siemens SICAM A8000 Devices,Siemens,SICAM A8000,"The following versions of Siemens SICAM A8000, a remote terminal unit, are affected: CP-8031 MASTER MODULE (6MF2803-1AA00): All versions prior to CPCI85 V05.11 CP-8050 MASTER MODULE (6MF2805-0AA00): All versions prior to CPCI85 V05.11",CVE-2023-42796,7.5,High,CWE-22,Multiple Critical Sectors,Worldwide,Germany
+2639,10/12/2023,No Updates,2023,ICSA-23-285-04,Siemens Xpedition Layout Browser,Siemens,Xpedition Layout Browser,The following versions of Siemens Xpedition Layout Browser are affected: Xpedition Layout Browser: All versions prior to VX.2.14,CVE-2023-30900,7.8,High,CWE-121,Multiple Critical Sectors,Worldwide,Germany
+2638,10/12/2023,No Updates,2023,ICSA-23-285-05,Siemens Simcenter Amesim,Siemens,Simcenter Amesim,The following versions of Siemens Simcenter Amesim are affected: Simcenter Amesim: All versions prior to V2021.1,CVE-2023-43625,8,High,CWE-94,Multiple Critical Sectors,Worldwide,Germany
+2637,10/12/2023,No Updates,2023,ICSA-23-285-06,Siemens SICAM PAS/PQS,Siemens,SICAM PAS/PQS,The following versions of Siemens SICAM PAS/PQS are affected: SICAM PAS/PQS: Version 8.00 up to but not including 8.22.,CVE-2023-38640,6.6,Medium,CWE-732,Multiple Critical Sectors,Worldwide,Germany
+2636,10/12/2023,No Updates,2023,ICSA-23-285-07,Siemens RUGGEDCOM APE180,Siemens,RUGGEDCOM APE1808,"The following products of Siemens, are affected: RUGGEDCOM APE1808 with Nozomi Guardian / CMC: versions prior to V22.6.2","CVE-2023-22378
+CVE-2023-22843
+CVE-2023-23574
+CVE-2023-23903
+CVE-2023-24015
+CVE-2023-24471
+CVE-2023-24477",7.1,High,"CWE-89
+CWE-79
+CWE-20
+CWE-863
+CWE-384",Multiple Critical Sectors,Worldwide,Germany
+2635,10/12/2023,No Updates,2023,ICSA-23-285-08,Siemens SINEC NMS,Siemens,SINEC NMS,"The following products of Siemens, are affected: SINEC NMS: All versions prior to V2.0","CVE-2022-30527
+CVE-2023-44315",7.8,High,"CWE-732
+CWE-79",Critical Manufacturing,Worldwide,Germany
+2634,10/12/2023,No Updates,2023,ICSA-23-285-09,Siemens CPCI85 Firmware of SICAM A8000 Devices,Siemens,"CP-8050, CP-8031","The following products of Siemens, are affected if activated with debug support: CP-8031 MASTER MODULE (6MF2803-1AA00): All versions prior to CPCI85 V05.11 CP-8050 MASTER MODULE (6MF2805-0AA00): All versions prior to CPCI85 V05.11",CVE-2023-36380,9.8,Critical,CWE-798,Critical Manufacturing,Worldwide,Germany
+2633,10/12/2023,No Updates,2023,ICSA-23-285-10,Siemens Tecnomatix Plant Simulation,Siemens,Tecnomatix Plant Simulation,"The following products of Siemens, are affected: Tecnomatix Plant Simulation V2201: All versions prior to V2201.0009 Tecnomatix Plant Simulation V2302: All versions prior to V2302.0003","CVE-2023-44081
+CVE-2023-44082
+CVE-2023-44083
+CVE-2023-44084
+CVE-2023-44085
+CVE-2023-44086
+CVE-2023-44087",7.8,High,"CWE-787
+CWE-125",Critical Manufacturing,Worldwide,Germany
+26332,10/12/2023,No Updates,2023,ICSA-23-285-11,Siemens Mendix Forgot Password Module,Siemens,Mendix Forgot Password Module,"The following products of Siemens, are affected: Mendix Forgot Password (Mendix 7 compatible): All versions prior to V3.7.3. Mendix Forgot Password (Mendix 8 compatible): All versions prior to V4.1.3. Mendix Forgot Password (Mendix 9 compatible): All versions prior to V5.4.0. Mendix Forgot Password (Mendix 10 compatible): All versions prior to V5.4.0.",CVE-2023-43623,5.3,Medium,CWE-203,Critical Manufacturing,Worldwide,Germany
+2631,10/12/2023,No Updates,2023,ICSA-23-285-12,Weintek cMT3000 HMI Web CGI,Weintek,cMT3000 CMI Web CGI,The following Weintek products are affected: cMT-FHD: OS version 20210210 or prior. cMT-HDM: OS version 20210204 or prior. cMT3071: OS version 20210218 or prior. cMT3072: OS version 20210218 or prior. cMT3103: OS version 20210218 or prior. cMT3090: OS version 20210218 or prior. cMT3151: OS version 20210218 or prior.,"CVE-2023-38584
+CVE-2023-40145
+CVE-2023-43492",9.8,Critical,"CWE-121
+CWE-78",Critical Manufacturing,Worldwide,Taiwan
+2630,10/12/2023,No Updates,2023,ICSA-23-285-13,Mitsubishi Electric MELSEC-F Series,Mitsubishi Electric,MELSEC-F Series,"Mitsubishi Electric reports that the following versions of MELSEC-F series programmable controllers are affected if they are used with ethernet communication special adapter FX3U-ENET-ADP or ethernet communication block FX3U-ENET(-L). Some of these products are sold in limited regions, see the Mitsubishi Electric advisory for details: MELSEC-F series FX3U-xMy/z x=16,32,48,64,80,128, y=T,R, z=ES,ESS,DS,DSS: All versions. MELSEC-F series FX3U-32MR/UA1, FX3U-64MR/UA1: All versions. MELSEC-F FX3U-32MS/ES, FX3U-64MS/ES: All versions. MELSEC-F FX3U-xMy/ES-A x=16,32,48,64,80,128, y=T,R: All versions. MELSEC-F FX3UC-xMT/z x=16,32,64,96, z=D,DSS: All versions. MELSEC-F FX3UC-16MR/D-T, FX3UC-16MR/DS-T: All versions. MELSEC-F FX3UC-32MT-LT, FX3UC-32MT-LT-2: All versions. MELSEC-F FX3UC-16MT/D-P4, FX3UC-16MT/DSS-P4: All versions. MELSEC-F FX3G-xMy/z x=14,24,40,60, y=T,R, z=ES,ESS,DS,DSS: All versions. MELSEC-F FX3G-xMy/ES-A x=14,24,40,60, y=T,R: All versions. MELSEC-F FX3GC-32MT/D, FX3GC-32MT/DSS: All versions. MELSEC-F FX3GE-xMy/z x=24,40, y=T,R, z=ES,ESS,DS,DSS: All versions. MELSEC-F FX3GA-xMy-CM x=24,40,60, y=T,R: All versions. MELSEC-F FX3S-xMy/z x=10,14,20,30, y=T,R, z=ES,ESS,DS,DSS: All versions. MELSEC-F FX3S-30My/z-2AD y=T,R, z=ES,ESS: All versions. MELSEC-F FX3SA-xMy-CM x=10,14,20,30, y=T,R: All versions.",CVE-2023-4562,9.1,Critical,CWE-287,Critical Manufacturing,Worldwide,Japan
+2629,10/12/2023,No Updates,2023,ICSA-23-285-14,Hikvision Access Control and Intercom Products,Hikvision,Access Control and Intercom Products,The following Access Control and Intercom Products are affected: DS-K1T804AXX: V1.4.0_build221212 and prior. DS-K1T341AXX: V3.2.30_build221223 and prior. DS-K1T671XXX: V3.2.30_build221223 and prior. DS-K1T343XXX: V3.14.0_build230117 and prior. DS-K1T341C: V3.3.8_build230112 and prior. DS-K1T320XXX: V3.5.0_build220706 and prior. DS-KH63 Series: V2.2.8_build230219 and prior. DS-KH85 Series: V2.2.8_build230219 and prior. DS-KH62 Series: V1.4.62_build220414 and prior. DS-KH9310-WTE1(B): V2.1.76_build230204 and prior. DS-KH9510-WTE1(B): V2.1.76_build230204 and prior.,"CVE-2023-28809
+CVE-2023-28810",7.5,High,"CWE-384
+CWE-284",Commercial Facilities; Government Facilities,Worldwide,China
+2628,10/12/2023,No Updates,2023,ICSA-23-285-15,Advantech WebAccess,Advantech,WebAccess,"The following versions of Advantech WebAccess, are affected: Advantech WebAccess: Version 9.1.3.",CVE-2023-4215,6.5,Medium,CWE-200,Critical Manufacturing; Energy; Water and Wastewater Systems,Worldwide,Taiwan
+2627,10/12/2023,No Updates,2023,ICSA-23-285-16,Schneider Electric IGSS,Schneider Electric,IGSS (Interactive Graphical SCADA System),Schneider Electric reports these vulnerabilities affect the following IGSS (Interactive Graphical SCADA System) products: IGSS Update Service (IGSSupdateservice.exe): v16.0.0.23211 and prior.,CVE-2023-4516,7.8,High,CWE-306,Commercial Facilities; Critical Manufacturing; Energy,Worldwide,France
+2626,10/12/2023,No Updates,2023,ICSMA-23-285-01,Santesoft Sante DICOM Viewer Pro,Santesoft,Sante DICOM Viewer Pro,The following Santesoft products are affected: Sante DICOM Viewer Pro: v12.2.4 and prior,"CVE-2023-39431
+CVE-2023-35986",7.8,High,"CWE-787
+CWE-121",Healthcare and Public Health,Worldwide,Cyprus
+2625,10/12/2023,No Updates,2023,ICSMA-23-285-02,Santesoft Sante FFT Imaging,Santesoft,Sante FFT Imaging,The following Santesof products are affected: Sante FFT Imaging: Versions v1.4.0 and prior,CVE-2023-5059,7.8,High,CWE-125,Healthcare and Public Health,Worldwide,Cyprus
 2624,10/5/2023,No Updates,2023,ICSA-23-278-01,"Hitachi Energy AFS65x, AFF66x, AFS67x, and AFR67x Series Products",Hitachi Energy,"AFS65x, AFF66x, AFS67x, AFR67x Series",The following Hitachi Energy products and versions are affected: AFF66X FW: 03.0.02 and prior AFS66X-S: All versions AFS660-C: All versions AFS66X-B: All versions AFS670-V20: All versions AFS65X: All versions AFS67X: All versions AFR677: All versions,"CVE-2021-45960
 CVE-2021-46143
 CVE-2022-22822
@@ -316,10 +377,10 @@ CWE-256",Multiple Critical Sectors,Worldwide,France
 CVE-2023-39227",9.8,Critical,"CWE-749
 CWE-256",Healthcare and Public Health,Worldwide,Lithuania
 2590,8/31/2023,No Updates,2023,ICSA-23-243-04,Digi RealPort Protocol,"Digi International, Inc.",Digi RealPort Protocol,Digi International reports that the following products using Digi RealPort Protocol are affected: Digi RealPort for Windows: version 4.8.488.0 and earlier Digi RealPort for Linux: version 1.9-40 and earlier Digi ConnectPort TS 8/16: versions prior to 2.26.2.4 Digi Passport Console Server: all versions Digi ConnectPort LTS 8/16/32: versions prior to 1.4.9 Digi CM Console Server: all versions Digi PortServer TS: all versions Digi PortServer TS MEI: all versions Digi PortServer TS MEI Hardened: all versions Digi PortServer TS M MEI: all versions Digi PortServer TS P MEI: all versions Digi One IAP Family: all versions Digi One IA: all versions Digi One SP IA: all versions Digi One SP: all versions Digi WR31: all versions Digi WR11 XT: all versions Digi WR44 R: all versions Digi WR21: all versions Digi Connect ES: versions prior to 2.26.2.4 Digi Connect SP: all versions Digi International reports that the following products do NOT use Digi RealPort Protocol are NOT affected: Digi 6350-SR: all versions Digi ConnectCore 8X products: all versions,CVE-2023-4299,9,Critical,CWE-836,Multiple Critical Sectors,Worldwide,United States
-2589,8/31/2023,No Updates,2023,ICSA-23-243-03,PTC Kepware KepServerEX,PTC,Kepware KepServerEX,"The following versions of Kepware KepServerEX, an industrial automation control platform, are affected: Kepware KepServerEX: version 6.14.263.0 and prior ThingWorx Kepware Server: version 6.14.263.0 and prior","CVE-2023-29444
+2589,8/31/2023,10/12/2023,2023,ICSA-23-243-03,PTC Kepware KepServerEX (Update A),PTC,Kepware KepServerEX,"The following versions of Kepware KepServerEX, an industrial automation control platform, are affected: Kepware KepServerEX: version 6.14.263.0 and prior ThingWorx Kepware Server: version 6.14.263.0 and prior ThingWorx Industrial Connectivity: version 8.0 to 8.5","CVE-2023-29444
 CVE-2023-29445
 CVE-2023-29446
-CVE-2023-29447",7.8,High,"CWE-427
+CVE-2023-29447",6.3,Medium,"CWE-427
 CWE-20
 CWE-522",Critical Manufacturing,Worldwide,United States
 2588,8/31/2023,No Updates,2023,ICSA-23-243-02,GE Digital CIMPLICITY,GE Digital,CIMPLICITY,The following GE products are affected: GE Digital CIMPLICITY: v2023,CVE-2023-4487,7.8,High,CWE-114,Multiple Critical Sectors,Worldwide,United States
