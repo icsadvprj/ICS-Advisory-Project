@@ -1,1 +1,0 @@
-This folder contains previously released ICS-CERT_ADV CSV files that have been replaced by updated ICS-CERT_ADV CSV files.
