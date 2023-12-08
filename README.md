@@ -22,3 +22,6 @@ Check out Efi Kaufman's Splunk Add-On for CISA ICS Advisories: https://github.co
 
 ## Legal Disclaimer ##
 This Open-source project is available and contributed to under licenses that include terms that, for the protection of contributors, the ICS Advisory projects datasets are offered "as-is," without warranty, and is not liable for damages resulting from using data from this project.
+
+## License Update ##
+ICS Advisory Project has updated its license for the ICS Advisory repository and is now an Open Database License (ODbL) v1.0. This database, "ICS Advisory Project", is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
