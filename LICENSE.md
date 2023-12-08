@@ -18,7 +18,8 @@ As long as you:
     Attribute: You must attribute any public use of the database "ICS Advisory Project",
     or works produced from the database, in the manner specified by the Licensor.
     For any use or redistribution of the database, or works produced from it,
-    you must make clear to others the license terms of this database and include a link to [ICS Advisory Project](https://github.com/icsadvprj/ICS-Advisory-Project/tree/main/ICS-CERT_ADV).
+    you must make clear to others the license terms of this database and include a link to 
+    [ICS Advisory Project](https://github.com/icsadvprj/ICS-Advisory-Project/tree/main/ICS-CERT_ADV).
 
     Share-Alike: If you publicly use any adapted version of this database "ICS Advisory Project",
     or works produced from an adapted database, you must also offer that
