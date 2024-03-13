@@ -11,7 +11,7 @@ To view the ICS Advisory Project: ICS Advisory Dashboard, click [Here](https://w
 ## ICS Advisory Project add-on for Splunk
 Check out Efi Kaufman's Splunk Add-On for CISA ICS Advisories: https://github.com/efi-k/ICS_CERT_TA
 
-## Join our Discord channels and associated supporting OT/ICS Communties:
+## Join our Discord channels and associated supporting OT/ICS Communities:
 - ICS Advisory Project: https://discord.gg/qJ8QMmxw9M
 - OT | ICS | SCADA: https://discord.gg/ZqVChAUTE3
 
